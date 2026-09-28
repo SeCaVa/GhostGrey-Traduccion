@@ -15,7 +15,7 @@ tipo Fantasma y cada entrenador sobrevive como puede.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](GhostGrey_ES.bps) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `05D862F7`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `3B031CB7`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
@@ -122,6 +122,7 @@ usa solo copias de juegos que poseas legalmente.
 ### Requisitos
 - Python 3.11 con `numpy` y `Pillow` (`pip install -r requirements.txt`).
 - `keystone-engine`, solo si quieres regenerar los parches de código (`tools/parches_asm.py`).
+- `arm-none-eabi-gcc` en WSL, solo si quieres recompilar las pantallas de la traducción (`tools/intro_traduccion.py`).
 - En la **carpeta raíz del repositorio**, las ROMs y el parche original (no se incluyen):
 
 | Archivo | CRC32 | Para qué |
@@ -141,7 +142,7 @@ Este comando:
    del hack. Los volcados que genera (`data/inventory.json`, `data/vanilla_pairs*.json`) no se suben al
    repositorio porque contienen el texto de los juegos; se regeneran solos. Usa `--rehacer` para forzarlo.
 3. Escribe la traducción (`tools/build.py`) y genera `traduccion/build/GhostGrey_ES.bps`.
-4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `05D862F7`).
+4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `3B031CB7`).
 
 ### Estructura
 ```
@@ -156,6 +157,8 @@ traduccion/
     parches_datos.json      cambios de datos (orden de carteles, letras del suelo…), de tools/edit_carteles.py
     pares_ajustes.json      correcciones a los emparejamientos automáticos USA/ES
     extra_inv.json          textos que el inventario automático no detecta
+    intro.bin, intro.json   pantallas de la traducción ya compiladas, y dónde se enganchan
+  intro/                    código C, gráficos y jingle de las pantallas de la traducción
   tools/
     compilar.py             todo el proceso en un paso
     build.py                escribe textos, nombres, gráficos y parches, y genera el .bps
@@ -163,6 +166,7 @@ traduccion/
     lote.py                 exporta lotes de textos pendientes para traducir
     check.py                comprueba el ancho de una línea con la fuente del hack
     edit_*.py, gotica.py    generan los gráficos traducidos (data/gfx)
+    intro_traduccion.py     extrae y compila las pantallas de la traducción (intro/ -> data/intro.bin)
     mapinfo.py, ver_*.py    utilidades para inspeccionar mapas y gráficos
 ```
 

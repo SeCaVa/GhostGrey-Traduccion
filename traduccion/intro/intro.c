@@ -27,6 +27,9 @@ extern u8 BeginNormalPaletteFade(u32 selectedPalettes, signed char delay, u8 sta
 extern void CpuSet(const void *src, void *dest, u32 control);
 extern void MPlayStart(void *mplayInfo, const void *songHeader);
 extern void FadeOutBGM(u8 speed);
+extern void m4aSoundMode(u32 mode);
+extern void Task_CallIntroCallback(u8 taskId);
+extern void (*volatile gTasks_func[])(u8);   // gTasks[i].func; cada tarea ocupa 0x28 bytes
 extern u8 gMPlayInfo_BGM[];
 extern volatile u8 gPaletteFade[];
 extern volatile u16 gMain_newKeys;
@@ -38,11 +41,19 @@ extern const u8 mus_traduccion[];
 #define REG_OFFSET_BG0HOFS 0x10
 #define REG_OFFSET_BG0VOFS 0x12
 #define DISPCNT_BGS        0x0F00
+#define DISPCNT_WINDOWS    0xE000  // la escena del logo deja WIN0 activa: recortaría la pantalla
 #define DISPCNT_BG0_ON     0x0100
 #define PALETTES_ALL       0xFFFFFFFF
 #define RGB_BLACK          0
 #define B_BUTTON           2
+#define SKIP_INTRO_KEYS    (1 | 4 | 8)   // A, SELECT y START: Task_CallIntroCallback salta al título
+#define TASK_WORDS         (0x28 / 4)
 #define VRAM               0x06000000
+
+// Mezclador de sonido: Emerald Rogue usa 18157 Hz y 12 canales; FireRed (y Ghost Grey), 13379 Hz y 5, que cortan
+// los acordes del jingle. Se cambia solo mientras suena y luego se vuelve al del juego (m4aSoundInit de FireRed).
+#define SOUND_MODE_JINGLE  (0x00900000 | 0x00060000 | (12 << 12) | (12 << 8))
+#define SOUND_MODE_JUEGO   (0x00900000 | 0x00040000 | (12 << 12) | (5 << 8))
 
 #define SWAP_FRAME 270       // mientras se apaga el 5.º golpe, antes de la 2.ª frase (90 BPM = 40 fotogramas por tiempo)
 #define END_FRAME  560       // el jingle acaba hacia el fotograma 580
@@ -65,6 +76,15 @@ static void CargarPantalla(const u32 *gfx, const u32 *gfxEnd, const u32 *pal, co
     SetGpuReg(REG_OFFSET_BG0CNT, (2 << 2) | (7 << 8));    // prioridad 0, teselas en 0x8000, mapa en 0x3800
     SetGpuReg(REG_OFFSET_BG0HOFS, 0);
     SetGpuReg(REG_OFFSET_BG0VOFS, 0);
+}
+
+// Mientras suenan las pantallas, la tarea de la intro pasa por aquí: si el juego va a saltar al título, el sonido
+// vuelve antes a su configuración, porque IntroCB_Traduccion ya no se llamará.
+static void Task_IntroTraduccion(u8 taskId)
+{
+    if (gMain_newKeys & SKIP_INTRO_KEYS)
+        m4aSoundMode(SOUND_MODE_JUEGO);
+    Task_CallIntroCallback(taskId);
 }
 
 __attribute__((section(".text.entry")))
@@ -93,7 +113,9 @@ void IntroCB_Traduccion(struct IntroSequenceData *this)
         this->data[1] = GetGpuReg(REG_OFFSET_DISPCNT);
         this->data[2] = GetGpuReg(REG_OFFSET_BG0CNT);
         CargarPantalla(sPantalla1_Gfx, sPantalla1_Gfx_End, sPantalla1_Pal, sPantalla1_Map);
-        SetGpuReg(REG_OFFSET_DISPCNT, (this->data[1] & ~DISPCNT_BGS) | DISPCNT_BG0_ON);
+        SetGpuReg(REG_OFFSET_DISPCNT, (this->data[1] & ~(DISPCNT_BGS | DISPCNT_WINDOWS)) | DISPCNT_BG0_ON);
+        m4aSoundMode(SOUND_MODE_JINGLE);
+        gTasks_func[this->taskId * TASK_WORDS] = Task_IntroTraduccion;
         MPlayStart(gMPlayInfo_BGM, mus_traduccion);
         BeginNormalPaletteFade(PALETTES_ALL, 1, 16, 0, RGB_BLACK);
         this->data[0] = 0;
@@ -127,6 +149,8 @@ void IntroCB_Traduccion(struct IntroSequenceData *this)
             break;
         SetGpuReg(REG_OFFSET_BG0CNT, this->data[2]);
         SetGpuReg(REG_OFFSET_DISPCNT, this->data[1]);
+        m4aSoundMode(SOUND_MODE_JUEGO);
+        gTasks_func[this->taskId * TASK_WORDS] = Task_CallIntroCallback;
         SetIntroCB(this, IntroCB_Scene1);
         break;
     }

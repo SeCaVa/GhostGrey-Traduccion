@@ -2,6 +2,8 @@
 /* Funciones y variables de Pokémon FireRed USA 1.0 (pokefirered / CFRU bpre.ld). */
 SetIntroCB = 0x080ECAA8 | 1;
 IntroCB_Scene1 = 0x080ECEA4 | 1;
+Task_CallIntroCallback = 0x080ECAB0 | 1;
+gTasks_func = 0x03005090;
 SetGpuReg = 0x08000A38 | 1;
 GetGpuReg = 0x08000AC4 | 1;
 LoadPalette = 0x080703EC | 1;
@@ -10,6 +12,7 @@ BeginNormalPaletteFade = 0x08070588 | 1;
 CpuSet = 0x081E3B64 | 1;
 MPlayStart = 0x081DD858 | 1;
 FadeOutBGM = 0x08071DBC | 1;
+m4aSoundMode = 0x081DD63C | 1;
 gMPlayInfo_BGM = 0x03007300;
 gPaletteFade = 0x02037AB8;
 gMain_newKeys = 0x030030F0 + 0x2E;

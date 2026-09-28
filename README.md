@@ -15,7 +15,7 @@ tipo Fantasma y cada entrenador sobrevive como puede.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](GhostGrey_ES.bps) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `D3902751`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `5C275DD3`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
@@ -142,7 +142,7 @@ Este comando:
    del hack. Los volcados que genera (`data/inventory.json`, `data/vanilla_pairs*.json`) no se suben al
    repositorio porque contienen el texto de los juegos; se regeneran solos. Usa `--rehacer` para forzarlo.
 3. Escribe la traducción (`tools/build.py`) y genera `traduccion/build/GhostGrey_ES.bps`.
-4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `D3902751`).
+4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `5C275DD3`).
 
 ### Estructura
 ```

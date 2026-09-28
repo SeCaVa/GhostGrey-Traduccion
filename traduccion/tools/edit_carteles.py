@@ -339,9 +339,10 @@ PEORES = {
 }
 
 
-def tira_peores(txt, col, fondo, hueco=1, espacio=5):
-    """Tira de 15 filas con `txt` en la letra PEORES; devuelve (filas, ancho)."""
+def tira_peores(txt, col, fondo, hueco=1, espacio=5, total=None):
+    """Tira de 15 filas con `txt` en la letra PEORES, rellena hasta `total` px; devuelve (filas, ancho)."""
     ancho = sum(espacio if c == ' ' else len(PEORES[c][0]) + hueco for c in txt)
+    ancho = max(ancho, total or 0)
     t = [[fondo] * ancho for _ in range(15)]
     x = 0
     for c in txt:
@@ -363,7 +364,9 @@ def fondo_peores(h):
     ga, ta = 0x862940, 0x863500
     g, tm = lz77(h, ga), lz77(h, ta)
     img = pantalla(g, tm, 32)
-    tira, P = tira_peores('Hay cosas peores...', 1, 6)
+    # el fondo se desplaza en horizontal y da la vuelta a los 256 px: la frase tiene que medir 128, como la original
+    tira, P = tira_peores('Hay cosas peores...', 1, 6, total=128)
+    assert 256 % P == 0
     ink = lambda y, x: img[y][x % 256] == 1
 
     def there(y0):  # x donde empieza "There": barra de la T seguida de h, sin el punto de la i de "Things"

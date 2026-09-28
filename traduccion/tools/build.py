@@ -13,7 +13,7 @@ from bps import make_bps
 HERE = os.path.dirname(__file__)
 ROOT = os.path.join(HERE, '..')
 FREE_START = 0x1700000
-FREE_END = 0x1FF0000
+FREE_END = 0x1F00000   # desde aquí, las pantallas de la traducción (data/intro.bin)
 
 
 def parse_txt(path):
@@ -281,6 +281,16 @@ def main(make_patch=True, only_official=False):
         a, o, n = int(pch['addr'], 16), bytes.fromhex(pch['orig']), bytes.fromhex(pch['new'])
         assert rom[a:a + len(o)] == o, 'parche de código: bytes distintos en %X' % a
         rom[a:a + len(n)] = n
+    # pantallas de crédito de la traducción tras el logo del creador del hack (tools/intro_traduccion.py)
+    ij = os.path.join(ROOT, 'data/intro.json')
+    if os.path.exists(ij):
+        info = json.load(open(ij))
+        blob = open(os.path.join(ROOT, 'data/intro.bin'), 'rb').read()
+        a, g = int(info['dir'], 16), int(info['gancho'], 16)
+        assert FREE_END <= a and rom[a:a + len(blob)] == bytes([0xFF]) * len(blob), 'intro: la zona no está libre'
+        assert rom[g:g + 4] == struct.pack('<I', int(info['orig'], 16)), 'intro: gancho distinto'
+        rom[a:a + len(blob)] = blob
+        rom[g:g + 4] = struct.pack('<I', int(info['func'], 16))
 
     # tablas de nombres de longitud fija (data/tablas)
     for tname, ((ha, st, nl, _), names) in tablas.items():

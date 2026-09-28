@@ -1,0 +1,802 @@
+#! Lote 03: Ciudad Plateada (3.2, 6.x) y Ruta 3 (3.21)
+
+### 017E748
+Base Lunar Paraíso\n¡Todo el mundo es bienvenido!
+
+### 017E7DE
+Gimnasio Pokémon de Ciudad Plateada\nLíder: Aston\l¡El prodigio firme como una roca!
+
+### 01836B3
+¡Hay que ver, qué zapatos más HECHOS POLVO!\nDa igual.
+
+### 01836D9
+No me puedo creer que me hayas dado la vuelta al atraco. Piérdete.
+
+### 01837CF
+Vete de aquí.
+
+### 01906B4
+Echan un combate de boxeo en la tele.\p…O eso creo. Casi todo son anuncios de apuestas.
+
+### 01908CD
+¡Este sitio es genial!\pVenimos de visita desde Azafrán. Está bien descansar de la monotonía de vez en cuando.
+
+### 0190B30
+Urp…\pPuaj…\pDemasiado…
+
+### 0190B80
+Oye, ¿tengo buena pinta? Estos espejos están tan sucios que apenas me veo.
+
+### 0190C60
+¡Me siento genial! ¡Tan guapo como siempre!
+
+### 019146E
+Gimnasio Pokémon de Plateada\nLíder: Aston
+
+### 01914DE
+Chocosongi…\pAy, cómo me gusta consumir…
+
+### 0191541 r
+El azúcar es una comida excelente para que crezcan los tallos. Excelente, sin duda…
+
+### 01915DB
+¿Eh? No, yo no vivo aquí. ¿Se te ha ido la cabeza? Ojalá tuviera dinero para comprarme una casa en Plateada. Solo la alquilo para el fin de semana.
+
+### 0193B66
+Crítico de Internet: {B02}…\p¡Creo que es perfecto! ¡Voy a poner a {B02} en el nivel S de los motes!
+
+### 01C14F3
+Quieto ahí.
+
+### 01C1521
+Dame todo lo que tengas, zapatos incluidos.
+
+### 01C1588
+¡No me molestes!
+
+### 01C15C5
+Eh, peque, ¿has oído hablar del Polvoenergía? ¡Es muy divertido!
+
+### 07AE7C9
+Ojalá pudiera ir a ver la Ruta 3… Pero está llena de borrachos y colgados. Y también está ese Culto Luna tan raro. ¡Esa gente me da escalofríos!
+
+### 07AE949
+Ay, madre, ¿qué voy a hacer? ¿Qué voy a hacer?\pHe perdido todo mi dinero en el casino y todavía le debo como 40.000 $ a Aston…\p¡Aaaj! ¡Geno, idiota! ¿Cómo has podido apostarlo todo así? Estoy acabado.
+
+### 07E8C09
+Aston’s\n¡El bar más caliente de Kanto!
+
+### 08B2A4E
+¡¡¡QUÍTATE DE LA CALLE!!! ¡Aparta, crí{o} tont{o}! ¿Te has criado en Pueblo Paleta o qué? ¡APARTA!
+
+### 08B73CE
+¡¡¡QUÍTATE DE LA PUTA CALLE!!!
+
+### 08B74CE
+¿¿¡QUÉ HACES EN MITAD DE LA CALLE!?? ¿¿¿HOLA??? ¡¡¡APARTA!!!
+
+### 08B768E
+¿¿¿QUIERES QUE TE ATROPELLE UN COCHE??? ¡¡¡QUÍTATE DE LA CALLE!!!
+
+### 08B770E
+¡¡¡APARTA ANTES DE QUE TE ATROPELLE, CRÍO!!! ¡HE DICHO QUE APARTES!
+
+### 08B778E
+¡SANTO MILTANK! ¡CASI TE ATROPELLO! ¿¡QUÉ HACES EN MITAD DE LA CARRETERA!?¿!?¡?!
+
+### 08B7E09
+¡Holaaa! ¿Buscas diversión esta noche, peque? ¡En el Aston’s hay noche de alcohol para todas las edades! ¡Pasa, pasa!
+
+### 08B7E80
+Casino Plateada\n¡Donde las tragaperras son generosas y los bolsillos, tacaños!
+
+### 08CF949
+¿Qué haces en nuestra casa de alquiler? Eeeh… ¿La casa es tuya?
+
+### 08CF9C9
+¡Uuuh! ¡Sí! ¡Fin de semana de Halloween en Plateada, vamos allá!
+
+### 08CFA4B
+Puaaaj… No hay nada de comer en esta casa de alquiler, vámonos al baaar…
+
+### 08CFBC9
+En la tele echan un reality. Es basura… pero basura divertida.
+
+### 08D16DA
+¡Bienvenidos al Aston’s!\n¡Hora feliz: la cerveza, a mitad de precio!
+
+### 08D299A
+¡La próxima vez tráete a tus padres! ¡Hasta luego!
+
+### 08D2A1A
+¡Holaaa! Oooh… ¿pero qué peque más mon{o} eres? ¿Qué te pongo?
+
+### 08D2A5A
+Vuelve a verme cuando seas mayor, ¿vale?
+
+### 08D2B0B
+¡Esta noche me ha tocado un pastón en las tragaperras, nena! ¡Que no paren de servir copas! ¡Jajajaja!
+
+### 08D2B89
+Esto antes era un pueblo tranquilo.\pEstudié aquí en la universidad. Durante 55 años fui arqueólogo…\pHoy en día me siento como un fósil. Lo único que puedo hacer es beber y recordar.
+
+### 08D2C8B
+No puedo más… El ruido, los cultos, los fantasmas… ¡LOS FANTASMAS! Necesito olvidar… olvidarlo todo y simplemente…
+
+### 08D2E89
+Oye, tú, que eres mayor, ¿tienes dinero? ¡Quiero beber más zumo de manzana!
+
+### 08D2F89
+¡Uooooaaaa, cuidado! Estoy bien, solo… Oye, ¿dónde está el baño?
+
+### 08D3109
+¡Está ocupado! ¿Puedes esperar un momento?
+
+### 08D318B
+¡Te lo digo yo, Plateada es el sitio donde hay que estar! Vengo de Azafrán y, déjame decirte, ¡aquí sabéis montar una fiesta! En casa siempre tenemos que confinarnos y preocuparnos por los ataques de fantasmas. Me alegro de poder relajarme y pasar de todo ese jaleo.
+
+### 08E20C9
+He venido a luchar, ¿quién quiere luchar? A lo mejor debería echar un vistazo a algunos de estos edificios tan grandes…
+
+### 08E2149
+Snif… Snif…\pVete a jugar a las tragaperras o algo, peque. No te conviene hablar conmigo.
+
+### 0BD277C
+…¿Qué quieres?\p…\p¿Es que no sabes hablar? Di algo, bicho raro.
+
+### 0BD27CD
+¿Sí? Al menos eres un{a} rarit{o} obediente. Ahora piérdete. Compra algo. O róbalo, me da igual.
+
+### 0BD2838
+¿No?\nPues acabas de decir algo, pedazo de burro.\pNo eres el Tadbulb más brillante del charco, ¿eh? Ahora piérdete.
+
+### 0C2D940
+Joder, ¿qué clase de crí{o} eres tú?
+
+### 0C2D9C0
+Los ataques por sorpresa suelen funcionar. No me restriegues el fracaso. Hablas igual que el puñetero de mi padre. Déjame en paz.
+
+### 0C2DAB4
+Urhhh…\pCreo que he bebido demasiado… Buagh, toma, quédatelo. No quiero más.
+
+### 0C2DB03
+No quiero volver a ver el alcohol en mi vida… Esta es la última vez que bebo.
+
+### 0C2DB50
+¡Hip!\nOdio aguantar tan poco la bebida…
+
+### 0CFE380
+Crítico de Internet: Motes. Nunca se insistirá lo suficiente en el vínculo entre un entrenador y su Pokémon, y un mote es una forma genial de demostrarlo.\p¡Pero no todos los motes son iguales!\pHoy voy a echar un vistazo a los motes de tus Pokémon y a clasificarlos. ¿Qué te parece?
+
+### 0CFE500
+Crítico de Internet: Gracias por vernos.\lDale a me gusta y suscríbete para más.
+
+### 0CFE580
+Crítico de Internet: ¿El mote de qué Pokémon vamos a clasificar?
+
+### 0CFE600
+Crítico de Internet: ¿{B02}? Mmm… Creo que este mote está bien.\pPero, sinceramente, no lo pondría por encima del nivel C.\p¿Tú qué opinas? ¿Buscamos un nombre mejor?
+
+### 0CFE840
+Crítico de Internet: ¿Qué nombre crees que sería mejor?
+
+### 0CFEEC9
+En la tele echan unos dibujos animados antiquísimos. Un niño corretea con sus amigos coleccionando monstruos.\p¿Quién ve este tipo de cosas?
+
+### 0CFF049
+Una placa polvorienta que conmemora un logro conseguido en una web antigua que ya no usa nadie.
+
+### 0F34D40
+¡Urp!\n¿Y tú qué, peque? ¿Buscas pelea?
+
+### 0F34DC0
+Tú no eres un{a} crí{o}… ¡Tú eres de la pasma!
+
+### 0F34E40
+¡Yo no sé nada de nada! ¡Urp!
+
+### 0F34EC0
+¿No compras, eh? Tú te lo pierdes.
+
+### 0F34F40
+¡Oh! ¿Así que has cambiado de opinión sobre lo del Polvoenergía?\p¿No?
+
+### 0F34FC0
+¿Qué prisa tienes? ¿Adónde vas, peque? ¿Por qué no te sientas a charlar un rato conmigo?
+
+### 0F35080
+Ay, qué poca gracia tienes.
+
+### 0F35100
+Odio a la gente callada como tú. Anímate un poco, que das pena.
+
+### 0F35180
+Eeey… Ah, tú debes de ser a quien manda Edwin.\pEeeh… bueno, primero dime la palabra secreta de la entrega.
+
+### 0F352A2
+Eeeh… Esa no es la palabra secreta de la entrega.\pOlvida que me has visto.
+
+### 0F352DE
+Dale recuerdos a Edwin.
+
+### 0F352F5
+Sí, esa es… Toma.
+
+### 0F35311
+¡Gracias, ha sido fácil!\p…\p¡Venga, y ahora largo!
+
+### 0F35340
+¡Tú y esos bichos raros sonrientes solo queréis molestarme y hacerme leer!\p¡Me da igual el zumo!
+
+### 101B849
+En la tele echan vídeos de chicas guapas bailando.
+
+### 101B8C9
+En la pared cuelga una foto. Tres chavales caminando por un camino de tierra.\pUna chica pelirroja y dos chicos, uno con el pelo negro de punta y otro con gorra.\pParecen felices.
+
+### 101BAC9
+En la tele echan un documental.\p¡Anda! Este ya lo he visto. Va sobre el asesino en serie Vorelli.\pMenos mal que atraparon a ese tipo. Sigue encerrado en la Prisión de Azafrán.
+
+### 101BBC9
+Una especie de foto de una playa generada por IA.\pQueda fatal.
+
+### 1066D80
+¡Vete a la mierda, que está ocupado!
+
+### 1066E55
+Uf…\pSiento que se me va la cabeza.\p¿Estaré enfermo? No me siento yo mismo.\p¿Mirarse en el espejo?
+
+### 1066EB0
+…\p…Pues sí. Sigo siendo yo.\pTodavía lo tengo.
+
+### 1066ED7
+¿Para qué voy a mirar?\p¿Quién iba a ser, sino yo?
+
+### 1067000
+¿Usar el váter?
+
+### 1067010
+Ni de broma. Este baño está asqueroso.
+
+### 1067039
+Sí…\pDe verdad que tengo que ir. Será solo un segundo.
+
+### 106706A
+Uf…\pQué alivio.
+
+### 1067200
+Solo estoy aquí para el fin de semana.\pMi padre dice que antes había un museo muy grande aquí. Creo que en algún momento lo trasladaron a Canela.
+
+### 1067300
+La casa de alquiler tiene colgada una foto.\pEs una foto del dueño de la empresa de alquiler, Aston, y su abuelo.\pLos dos han salido con los ojos cerrados en esta foto, o algo así.\p“¡Dos generaciones de Líderes de Gimnasio y patrimonio de Plateada! Aston y Brock”
+
+### 106F249
+Tutores de Plateada
+
+### 106F3C0
+Perdonar al rival no es pecado. ¿Quieres aprender el arte de la Clemencia?
+
+### 106F4C0
+¿Quién va a aprender?
+
+### 106F540
+Cuídate.
+
+### 106F5C0
+Vuelve cuando quieras.
+
+### 106FA80
+A veces, atormentar al rival es una forma de sacar ventaja.\p¿Quieres aprender Tormento?
+
+### 106FB80
+¿Qué Pokémon quiere aprender el movimiento?
+
+### 106FC00
+¡Eh, vuelve aquí o me vas a cabrear!
+
+### 106FC80
+Supongo que no.
+
+### 106FD80
+¿Alguna vez has querido tocar a un fantasma? ¿Qué tal si aprendes Profecía?
+
+### 106FE80
+¿Quién tocará lo que no tiene forma?
+
+### 106FF00
+Vuelve a aprender cuando quieras.
+
+### 106FF80
+Qué se le va a hacer.
+
+### 1070080
+¿Alguna vez has querido tomarte un descanso y dar alivio a tu mente y a tu cuerpo?\p¿Qué tal si aprendes Alivio?
+
+### 1070200
+Tómatelo con calma.
+
+### 1070280
+Ah, vale.
+
+### 1070480
+¡Ji, ji, ji! ¡Todo lo que me lances rebota y se te queda pegado!\p¿Quieres aprender Manto Espejo?
+
+### 1070600
+¡Ahora puedes divertirte como yo!
+
+### 1070680
+¡Qué aburrimiento!
+
+### 1070780
+¿Alguna vez has visto llover en un Día Soleado? ¿Por qué no aprendes Danza Lluvia?
+
+### 1070880
+¿Quién quiere aprender?
+
+### 1070900
+¡Que lo disfrutes!
+
+### 1070980
+Supongo que no.
+
+### 1070A80
+¿Vas hacia el este? Tendrás que ir con todo preparado. Deberías aprender Tormenta Arena.
+
+### 1070C00
+Mantente preparado.
+
+### 1070C80
+Tú verás.
+
+### 1070D80
+¡Que se vaya la lluvia, que se vaya! Es lo que digo siempre. ¿Quieres aprender Día Soleado?
+
+### 1070F00
+¡Disfruta del sol!
+
+### 1070F80
+¡Pues vete!
+
+### 1071080
+¿Qué tiempo hace ahí fuera? ¿Ah, sí? Pues ¿por qué no pruebas Meteorobola?
+
+### 1071200
+Que no te mojes ahí fuera.
+
+### 1071480
+Todo pájaro necesita descansar las alas. ¿Qué tal si aprendes Respiro?
+
+### 1071600
+¡Descansa un poco!
+
+### 1071680
+Pues echa a volar.
+
+### 1071780
+A veces hay que devolver la cordura, no solo a uno mismo, sino a los demás. ¿Quieres aprender Campana Cura?
+
+### 1071900
+Que tu cascabel suene para que todos lo oigan.
+
+### 1071A80
+¡Te enseñaré a nadar más rápido que nadie! ¡Venga, aprende Acua Jet!
+
+### 1071C00
+¡Ahora ve a darte un chapuzón!
+
+### 1071C80
+Muy bien, tortuga, tú decides.
+
+### 1071D80
+Te odio. Siempre te odiaré… Siente mi energía, carga con esta Rabia.
+
+### 1071F00
+Tsk, lárgate de aquí.
+
+### 1072080
+¡Uy! ¡Te he robado la nariz! ¡Jajaja! ¿Quieres aprender Intercambio?
+
+### 1072200
+¡Lo mismo te digo!
+
+### 1072280
+¡No, tú!
+
+### 1072480
+¿A que esta planta es preciosa? ¿Qué tal si aprendes Rayo Solar?
+
+### 1072600
+¡Brilla con fuerza!
+
+### 1072680
+Qué triste.
+
+### 1072780
+¡Ay! ¡Este enchufe me ha dado calambre! ¿Quieres aprender Colmillo Rayo?
+
+### 1072900
+¡Ay!
+
+### 1072980
+¡Aaay!
+
+### 1072A80
+Veo algo… Aprenderás Premonición de mí.
+
+### 1072C00
+Veo… Tu éxito.
+
+### 1072C80
+Veo… Tu ruina.
+
+### 1072D80
+¡Ay! ¡Este congelador está helado! ¿Quieres aprender Colmillo Hielo?
+
+### 1072F00
+¡Uy!
+
+### 1072F80
+¡Ayayay!
+
+### 1073080
+¡Ay! ¡Este fogón quema! ¿Quieres aprender Colmillo Ígneo?
+
+### 1073480
+¡HAIYAH! ¡Manda a tu rival a los cielos! ¿Aprender Gancho Alto?
+
+### 1073600
+¡DRAGÓN ASCENDENTE!
+
+### 1073680
+¡Retírate!
+
+### 1073780
+¡No te acerques! ¡Te voy a dejar K.O.! ¿Quieres aprender A Bocajarro?
+
+### 1073900
+¡Ahora, atrás!
+
+### 1073980
+¡No puedo dejar que te acerques!
+
+### 1073A80
+¡Absorbe la vida del rival con un solo puñetazo! ¿Quieres aprender mi técnica de Puño Drenaje?
+
+### 1073C00
+¡Que la vida corra siempre por tus venas!
+
+### 1073C80
+Qué idea tan sin vida…
+
+### 1073D80
+¡Purga la maldición de un fantasma con tu propio cuerpo! ¿Quieres aprender Purificación?
+
+### 1073F00
+¡Lucha por una buena causa!
+
+### 1073F80
+Sin remedio…
+
+### 1074180
+¡Ay! ¡Qué frío está este congelador! ¿Quieres aprender Puño Hielo?
+
+### 1074300
+¡Qué frío! ¡Ay!
+
+### 1074380
+¡Aaay!
+
+### 1074480
+¡Ay! ¡Este fogón quema! ¿Quieres aprender Puño Fuego?
+
+### 1074600
+¡Quema! ¡Quema!
+
+### 1074780
+¡Ay! ¡Este enchufe me acaba de dar calambre! ¿Quieres aprender Puño Trueno?
+
+### 1074980
+¡Ay!
+
+### 1074A80
+Una Maldición nunca podrá conmigo… ¿si uso un Sustituto? ¿Quieres aprender mi técnica?
+
+### 1074C00
+¡No soy real!
+
+### 1074C80
+¡Tu negativa no me afecta!
+
+### 1074D80
+¡Una Maldición! ¡Echa una Maldición a tus rivales!
+
+### 1074F00
+¡Ahora sal ahí y maldícelos a todos!
+
+### 1074F80
+¡Maldición!
+
+### 1075480
+Jejeje… Se me acaba de ocurrir una buena idea… ¿Quieres aprender Maquinación?
+
+### 1075600
+Jeje…
+
+### 1075680
+Jejejeje…
+
+### 1075900
+Mira tú por dónde…
+
+### 1075980
+Lo sabía.
+
+### 1075A80
+¡Tralará! ¡Canta, canta, canta una canciooón! ¿Quieres aprender mi Canto Mortal?
+
+### 1075C00
+Tralaráaa…
+
+### 1075C80
+Bah…
+
+### 1075D80
+No puedo dejarte pasar más allá… Pero ¿qué tal si aprendes Cometa Draco?
+
+### 1075F00
+Sal ahí y siembra un poco de caos. Je…
+
+### 1075F80
+Tú eliges.
+
+### 1076080
+¿Qué es eso de ahí? ¡Jaja! Qué fácil es engañarte… ¿Quieres aprender Desarme?
+
+### 1076200
+¡Ahora largo de aquí!
+
+### 1076280
+Lo que tú digas.
+
+### 1076480
+Uf, estoy muy acelerado. ¡Tengo que salir de aquí! ¿Qué tal si te enseño Voltiocambio?
+
+### 1076600
+¡Menuda descarga!
+
+### 1076680
+¡Uf!
+
+### 1076780
+No sabes nada de este mundo. Seguro que ni siquiera conoces Tierra Viva. ¿De verdad querrías aprender algo así?
+
+### 1076A09
+Lo siento, vuelve más tarde. La planta de arriba está en obras.
+
+### 12976C0
+Ah, la juventud de esta ciudad…\pMe recuerdan mucho a mi nieto.\p¡Es el Líder de Gimnasio de esta ciudad, firme como una roca!\pIgual que yo a su edad, jejeje…\pAlgún día volverá a casa. Pronto, me dijo.
+
+### 12AAD80
+Oye, ¿qué es esa mirada tan rara y vacía?\pNo serás un bicho raro, ¿no? Espera…\p¿Eres de esos doblacucharas?\pNah… No puede ser.
+
+### 12AAE40
+¡Venimos de Azafrán!\p¡Madre mía, qué bien sienta desconectar de todo!\pAzafrán está genial, ¡pero en Plateada hay muchísimo que hacer! ¡Me encanta jugar a las tragaperras!
+
+### 12AB049
+En la tele echan algo.\pEl Aston’s tiene hora feliz la semana que viene. Dos cervezas por el precio de 1,207 cervezas.\pNo está nada mal.
+
+### 12AB2CA
+¡SÍÍÍ! ¡VAMOS, VAMOS, VAMOS!\p¡VENGA, QUE TENGO 10.000 $ APOSTADOS A QUE GANAS ESTE COMBATE!
+
+### 12AB340
+¡NO! ¡¡¡NOOOO!!!\p¡VENGA, USA UN MOVIMIENTO DE TIPO FUEGO! ¡QUE ES UN BICHO, POR EL AMOR DE BRUNO!\p¡AAAJ! ¡ESTOY A PUNTO DE PERDER 20.000 $ EN ESTE COMBATE!
+
+### 12AB509
+En la tele echan algo.\pEs un combate entre dos entrenadores Pokémon.\pEstá claro que uno es más débil que el otro…\pEs como si estuviera amañado desde el principio.
+
+### 12BB900
+Marshadow: …
+
+### 12BB9D5
+El {B02} se desvaneció en las sombras…
+
+### 12DDD80
+Mi vida es una mierda.
+
+### 12DDE00
+¿No pasas calor con todo eso? ¿No tienes pantalones cortos?
+
+### 12DDE80
+Antes me encantaba llevar estos pantalones cortos. ¡Eran fáciles de poner y cómodos!\pY ahora ni siquiera me caben, joder…
+
+### 1313564
+???: Hola.\p¿Hace buen día, verdad? Frío, para esta época del año.\pEstaba pensando en qué comer.\p¿Se te ocurre algo?
+
+### 13135E5
+???: Hola otra vez.\p¡Ya he decidido lo que quería comer!\pAl final fue fácil, ¿verdad?
+
+### 14E0200
+¡Puedo ser quien yo quiera! ¡La piedra del desierto ha despertado!\p¡Ya casi llega el final de todo!
+
+### 14E0280
+¡Está llamando! ¡Aaah! ¡No puedo esperar!
+
+### 14E0400
+¿Lo notas? El suelo se alza desde abajo…\p¡El cielo se nos cae encima! ¡El pantano nos va a llevar a todos!\p¡Ji, ji, ji! ¡No puedo esperar!
+
+### 14E0509
+¡Llévate mi sombra! ¡Llévate mi alma!\p¡Llévatelo todo! ¡No puedo quedarme con nada en el fin del mundo! ¡Ji, ji!
+
+### 14E0709
+¡Ji, ji! ¡Qué suerte!\p¡Quiero ser el siguiente! ¡Átame a mí!
+
+### 14E0789
+¡Ooh, no puedo esperar más! Ya casi llega el final, ¿no lo sabías?\p¡La piedra ha despertado! ¡El fin está cerca!\pOhh… ¡Tengo unas ganas de ser un fantasma!\p¿No te hace ilusión?
+
+### 14E0880
+¡Ji, ji! ¡Yo te conozcooo! ¡Eres {B01}!\p¡Tú mataste a esa gente de BrunoCorp!
+
+### 14E0900
+¡Yo el siguiente! ¡Yo el siguiente!
+
+### 14E0980
+¡Quiero sentir la lluvia en la piel cuando pase!\pOhh, ¡y quiero que el pantano se lleve mi alma y mi sombra!
+
+### 14E0B89
+Un chico cuelga de este árbol por una cuerda.\pLleva muerto unas horas. La lluvia ya le ha arrugado la piel…
+
+### 14E448B
+No…\pEs mi niña…\pEs mi niñita…
+
+### 14E4509
+Una chica cuelga de las ramas de este árbol.\pSu cadáver gira mientras sopla la tormenta.
+
+### 14E4589
+¡No puedo esperar!\p¡Quiero ser un fantasma! ¡Quiero rondar por el mundo, libre y sin ataduras!
+
+### 14E4600
+¡Te estás empapando!
+
+### 14E4680
+¡Estoy empapado! ¡Estoy tan tierno!
+
+### 14E4700
+¡Las gotas de lluvia me besan la piel! Al principio es un chirimiri, pero cuanto más tiempo me quedo, ¡más fuerte cae!\p¡Ji, ji, ji!
+
+### 14E4800
+¡BUM! ¿No te encanta el sonido de los truenos?
+
+### 14E4880
+¡Ji, ji, ji!\n¡BUM!
+
+### 14E4900
+¡Tengo que saltar más alto! ¡Si subo lo suficiente, el rayo me elegirá a mí!\p¡BUM! ¡Ji, ji, ji!
+
+### 14E4B80
+¿Has visto tu sombra por aquí? ¡Es buena señal!
+
+### 14E4C00
+¡Déjame ver, déjame ver!
+
+### 14E4C80
+Si dejas que la sombra te lleve, ¡puedes convertirte en un fantasma y hacer lo que te dé la gana!
+
+### 14E4D80
+¡Doblacucharas! ¡Doblacucharas! ¡Tienes poderes de doblacucharas!
+
+### 14E4E00
+¡Ji, ji, ji! ¡Lo sabía! ¡Tienes poderes de doblacucharas de los raros!
+
+### 14E4E80
+¿Puedes estrangularme con la mente? ¡Ji, ji, ji!\p¡No puedo esperar! ¡Ya casi está aquí!
+
+### 14E4FD0
+¡Colgadme de los árboles! ¡Que el cielo me ahogue!\p¡No puedo esperar más! ¡Llevadme, llevadme!\p¡Eh, eres tú, el terror doblacucharas! ¿Puedes convertirme en un fantasma?\p¿Porfaaa?\p¡Ji, ji, ji!
+
+### 14E507C
+¿Matar a este chico?
+
+### 14E508B
+{B01} apoyó el cañón de la pistola en la sien del chico.
+
+### 14E50C0
+Está muerto.
+
+### 14E5240
+Oooh, ¿estás buscando tu sombra? ¡Yo también quiero que se lleven mi alma!
+
+### 14E52C0
+¡Ji, ji, ji!
+
+### 14E5340
+¡Con tanta lluvia no veo nada en el cielo!\p¡Tengo los ojos mojados!
+
+### 14E5440
+¡Oooh, no llevas ni una gota encima! Tranquilidad, ¡la lluvia te ablandará!
+
+### 14E54C0
+¡Ji, ji, ji! ¡Canta, canta, canta una canción!\p¡El fin está cerca, no tardará un montón!
+
+### 14E5540
+¡Qué feliz soy! ¡Estoy listísimo para ser un fantasma!\p¡El fin está cerca!
+
+### 14E56A5
+Ohh… ¡qué miedo das! …¡¡¡!!!\p¡Oh! Tú eres la sombra del pantano, ¿verdad?\p¡Ji, ji, ji! ¡Sabía que sería pronto! ¡Llévame! ¡Llévame!\p¡Estoy lista para ser un fantasma!
+
+### 14E573D
+¿Matar a esta chica?
+
+### 14E574D
+{B01} apoyó el cañón de la pistola en la sien de la chica.
+
+### 14E5783
+Está muerta.
+
+### 14E578F
+¡Ooooh! No eres la sombra del pantano, ¡no eres más que la mayor gallina del mundo!\p¡Nyeeeh! ¡Qué muermo!
+
+### 14E5889
+¡No puedo esperar!\p¡Sé que la sombra del pantano se llevará pronto mi alma!\p¡Que se lleve mi cuerpo de este mundo, no quiero seguir aquí!\p¡Ji, ji, ji!
+
+### 14E5989
+¿Has venido aquí a convertirte en fantasma?\p¡Ji, ji! ¡Yo también! ¡A lo mejor podemos hacérnoslo el uno al otro!
+
+### 14E5B89
+Bueno, ya lo he hecho.\pAhora será un fantasma… Espero haberle ayudado de verdad.\p…
+
+### 14E5C09
+Una chica joven tiembla mientras la lluvia y el viento sacuden su cadáver sin vida.
+
+### 14E5D09
+El cadáver de un joven cuelga de este árbol.\pTiene el pelo enredado y apelmazado por la lluvia.
+
+### 14E5E09
+¡Uno, dos, tres!\p¡Quedan tres más! ¡Ya casi lo tienes, ji, ji, ji!
+
+### 14E5E80
+¿Has visto a la bestia? ¡La gran bestia del rayo, la que trae las tormentas y el fin de los tiempos!\p¡Raikou, fulmíname! ¡Por favor, por favor!
+
+### 14E5F89
+¡Tienes poderes de doblacucharas!\p¡Tranquilidad, no se lo diré a nadie, ji, ji! ¡Guardaré tu secreto hasta mi último aliento!\p¡Ji, ji, ji, ji!
+
+### 14E6100
+¡La sombra del pantano nos perseguirá a todos algún día!\p¡Mi día está cerca! Se llevarán mi alma, ¡y podré ser un fantasma y flotar por donde quiera!
+
+### 14E6200
+¡Olvida tus preocupaciones, siente la lluvia! ¡Siente la tormenta!\p¡El fin está cerca! ¡Las preocupaciones no te acompañan cuando mueres!\p¡Ji, ji, ji!
+
+### 14E6309
+¡Cógela! ¡Cógela!\p¡A lo mejor tú también puedes usarla! ¡Átate y aguanta la respiración!
+
+### 14E6389
+Un chico cuelga de una rama alta de este árbol.\pTiene la ropa pesada y empapada tras semanas de lluvia.
+
+### 14E6489
+Una chica cuelga de una cuerda envuelta en alambre metálico.\pDe algún modo, su cuerpo ha sufrido quemaduras.
+
+### 14E6789
+¡No te olvides de sonreír cuando la sombra se lleve tu alma!\p¡Recuerda que pronto te toca a ti!\p¡Ji, ji, ji!
+
+### 14E6809
+Quizá debería…\pQuizá debería hacerlo. Total, mi vida no va a ninguna parte…
+
+### 14E6889
+¡La bestia de las tormentas! ¡La heraldo del fin de los tiempos!\p¡Raikou ha vuelto! ¡Ji, ji, ji!\p¡Fulmíname, electrocútame! ¡Achicharráme y deja que mi espíritu resurja de las cenizas!\p¡Por favor! ¡Ji, ji, ji!
+
+### 14E69E5
+¡Quiero que la sombra me lleve!\p¡Pero no lo hace… Ay, qué impaciencia!\p¡Tú, llévame! ¡Llévame tú!\p¡Porfaaa!\p¡Quiero ser un fantasma! ¡Ya he terminado con este mundo!
+
+### 14E6AD7
+¡Ooooh! Das miedo por fuera, ¡pero no eres más que una gallina cobarde!\p¡Buuuuh!
+
+### 158FA89
+Un chico cuelga del árbol.\pMurió con los ojos abiertos de par en par. La lluvia le golpea los globos oculares al caer.
+
+### 158FB89
+Una chica cuelga del árbol.\pParece que metió los dedos bajo la soga mientras moría, intentando deshacer el nudo.
+
+### 159CEA4
+Pista de Entrenador 439:\p¡El Mt. Moon contiene todo tipo de minerales raros y especies únicas!\p¡Los poderes de la Piedra Lunar están provocando incontables tipos de nuevas evoluciones en todo tipo de Pokémon!\p¡Bill, el chico genio de Kanto, lleva a cabo una ivnestigación fenomenall sobre este extraño fenómeno!\p¡La Liga Añil recomienda llevar al menos 5 repelentes o 2 SUPERREPELENTES antesdeentrar en la cueva del Mt. Moon.\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 15A4D09
+Le di a mi Houndstone unos cuantos Caramelos Raros, ¡y madre mía, cómo se hizo de fuerte!\p¡Pelusa se volvió superpoderoso superrápido! ¡Todos los combates que habría perdido, ahora los gano!\ppero…\pPelusa ya no es el mismo. Ya ni siquiera responde a su nombre, solo a las órdenes de combate…\pEcho de menos cuando me miraba y sonreía, incluso cuando perdíamos…\pEcho de menos a mi amigo…

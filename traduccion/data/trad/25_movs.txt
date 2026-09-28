@@ -1,0 +1,55 @@
+#! Lote 25: descripciones de movimientos modificadas por el hack (máx. ~18 caracteres por línea)
+
+### 0482946
+Con toda mi rabia\ny mi pena, este\ngolpe siempre\nsube el Ataque.
+
+### 0482AA0
+Bordes afilados\ny siniestros\narañan al rival.
+
+### 0482B00
+Un ataque brutal\ncon dos filos.\nSi acierta, el\nrival muere.
+
+### 0482B46
+Cuchillas de viento\ngolpean en el 2.º\nturno. Suele dar\ngolpes críticos.
+
+### 0482CD3
+Cambia al usuario\npor otro aliado.\nSirve para ir a\ncualquier ciudad.
+
+### 0483534
+Rocía un ácido que\nderrite la piel.\nPuede bajar la\nDef. Esp.
+
+### 0483BDA
+Ataque en 2 turnos\nque dispara la\nenergía absorbida\nen el 2.º turno.
+
+### 0483FC7
+Ataque que golpea\nen el 2.º turno.\nTambién sirve para\nsalir de cuevas.
+
+### 04841A8
+Un ataque casi\ninvisible y tan\nrápido que siempre\nasusta primero.
+
+### 04847A2
+El usuario estalla\ny causa gran daño,\naunque sacrifique\nsu alma.
+
+### 0484A57
+Sube la Defensa en\nel 1.er turno y\nataca en el 2.º.
+
+### 0486187
+ABSORBE PS.
+
+### 04868B8
+Tritura al rival\ncon finos colmillos.\nPuede bajar su\nDefensa.
+
+### 04875E5
+Se sumerge en el\nprimer turno y\nataca en el\nsiguiente.
+
+### 0488041
+El usuario se\ndebilita tras\nusarlo.
+
+### 04882FB
+Bota sobre el rival\nen el 2.º turno.\nPuede paralizarlo.
+
+### 0488C70
+¡Has conseguido una Baya {B03}!\nPapá la tiene en el Gimnasio de Petalia.
+
+### 0489583
+Parece que sirve para el puerto\nde Ciudad Carmín.\p¿Por qué no lo pruebas y ves\nde qué va?

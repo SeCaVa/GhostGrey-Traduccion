@@ -1,0 +1,362 @@
+#! Correcciones tras la primera prueba del usuario (2026-09-26)
+#! Nombres de lugares (tabla de nombres de mapa 0x3F1CAC y cartel al entrar en cada zona)
+
+### 03EECFC
+Pueblo Paleta
+
+### 03EED4D
+Ciudad Celidon
+
+### 03EED77
+Meseta Añil
+
+### 09E4B40
+Ruta 8
+
+### 03EEE8C
+Base Lunar Paraíso
+
+### 03EEE9F
+Los Túneles
+
+### 03EEEB0
+Bosque Ardiente
+
+### 03EEEC1
+Cueva Diglett
+
+### 03EEEF6
+Cueva del Norte
+
+### 03EEF2D
+Islas Espuma
+
+### 03EEF59
+Palacio del Desierto
+
+### 03EEFAD
+El Abismo
+
+### 03EEFC4
+Ruinas de la Mansión
+
+### 03EEFEA
+Castillo de la Codicia
+
+### 03EEFFA
+Monte Plateado
+
+### 03EF007
+Ruta 26
+
+### 03EF014
+Ruta 27
+
+### 03EF021
+Antigua Ruta 28
+
+### 03EF02E
+Lugar de Recreo
+
+### 03EF04E
+Prado Isla Inta
+
+### 03EF05F
+Pilar Recuerdo
+
+### 03EF089
+Valle Memoria
+
+### 03EF0AE
+Salón de la Fama
+
+### 03EF0BE
+Pueblo Primavera
+
+### 03EF0F6
+Antigua Ruta 49
+
+### 03EF133
+Almacén Rocket
+
+### 03EF183
+Cámaras Sete
+
+### 03EF193
+Fuerte Sanguino
+
+### 03EF1BB
+Cámara Arexvy
+
+#! Medallas (segunda tabla, la que usan los mensajes)
+
+### 0417FD9
+Med. Inundación
+
+### 0417FE6
+Med. Roca
+
+### 0417FF3
+Med. Descarga
+
+### 0418000
+Med. Plaga
+
+### 0418022
+Med. Volcán
+
+### 041802F
+Med. Esperanza
+
+### 0BC9780
+Med. Hambruna
+
+### 0BC9800
+Med. Hambruna
+
+### 01B0DF0
+Gimnasio Celidon
+
+### 01B0DFC
+Gimnasio Celidon
+
+### 01B0E08
+Gimnasio Celidon
+
+### 0417D90
+Cable Game Link
+
+### 0417DA0
+Inalámbrico
+
+### 0419D89
+Esperando a que el otro Entrenador\nacabe de leer tu Ficha de Entrenador.
+
+### 041E5FD
+Se importarán diversos eventos mediante\nla comunicación inalámbrica.
+
+### 041E685
+Volver a la pantalla de título.
+
+### 0488D7C
+¡{B02} ha llegado!
+
+### 0488D8E
+Tu equipo está completo.\n{B02} no ha podido llegar.
+
+#! Scripts que se llaman desde el código (no están en los mapas)
+
+### 017CC56
+{B02} min {B03},{B04} s
+
+### 01A5075
+{B01} encendió el PC.
+
+### 01A50A7
+Accediste al PC de Alguien.
+
+### 01A50DD
+Accediste al PC de {B01}.
+
+### 01A50EF
+Accediste al PC de Bill.
+
+### 01A5294
+¡Vaya!\n¡Tienes el Monedero lleno!…
+
+### 01A52DD
+{B01} encontró estas unidades\nde {B03}: ¡{B02}!
+
+### 01A52F0
+¡Obtuviste {B03}!
+
+### 01A532F
+{B03} se ha enviado\nal PC.
+
+### 01A5375
+Puedes registrar un objeto de la Mochila\nen el botón Select para usarlo rápido.
+
+### 01A556E
+El agua sube y baja, fría y hambrienta.\n¿Quieres nadar?
+
+### 01A55A5
+¡{B02} usó Surf!
+
+### 01A5667
+Se ve que están dándole\nlos últimos retoques…
+
+### 01A5700
+¡{B01} desenterró {B03}\ndel fondo de la tierra!
+
+### 01A5E89
+Ay, dulce criatura del verano…
+
+### 01A5F9B
+Rezo por que estés a salvo.
+
+### 01A6197
+¡{B01} no tiene más Pokémon\nque puedan luchar!\p¡{B01} se asustó y perdió ${B02}!…\p… … … …\p¡{B01} se desmayó!
+
+### 01A622C
+Hay un cuestionario.\n¿Quieres rellenarlo?
+
+### 01A6359
+Una vez guardes la partida, podrás\nacceder al Regalo Misterioso.
+
+### 01A63E8
+¡{B01} encontró {B03}!\nContiene {B02}.
+
+### 01A6CA3
+Tu progreso con la Pokédex\nes el siguiente:\pHas visto {B02} Pokémon\ny has capturado {B03}.\pValoración del Prof. Oak:
+
+### 01A71AA
+Y tu Pokédex Nacional:\pHas visto {B02} Pokémon\ny has capturado {B03}.
+
+### 01A71EE
+¡Estoy deseando ver cómo\ncompletas la Pokédex Nacional!
+
+### 01A722F
+Por fin…\p¡Por fin has completado\nla Pokédex!\p¡Es magnífica!\n¡Es toda una hazaña!
+
+### 01BC7E2
+Finalizando conexión…\nTe acompañarán a la salida.\lEspera, por favor.
+
+### 01BC827
+Este Entrenador no te hace\nni caso…
+
+### 01BC84B
+¡Bingo! ¡Puedes mirar la Ficha\nde Entrenador de {B02}!
+
+### 01BC874
+¡Bingo! ¡Puedes mirar la Ficha\nde Entrenador de {B02}!\p¡Es una ficha {B03}!
+
+### 01BCA43
+Los participantes deben pasar\npor el mostrador de recepción.
+
+### 01BE30A
+Un muro de agua cae con un\nestruendo estremecedor…
+
+### 01BE33F
+Es una gran catarata.\n¿Quieres usar Cascada?
+
+### 01BE378
+{B02} usó Cascada.
+
+### 01BE56D
+Parece que aquí no hay nada…
+
+### 01BFB5A
+¿Eh?
+
+### 01BFBE9
+¿Quieres salir de la Zona Safari\nahora mismo?
+
+### 01BFC1B
+Megafonía: ¡Din, don!\p¡Se acabó el tiempo!\pMegafonía: ¡Ha terminado tu partida en el Safari!
+
+### 01BFC53
+Megafonía: ¡Din, don!\p¡No te quedan Safari Balls!\pMegafonía: ¡Ha terminado tu partida en el Safari!
+
+### 01C0DF1
+Un mapa.
+
+### 01C0DFD
+¡Uau!\n¡Cantidad de artículos de Pokémon!
+
+### 01C0E19
+Hay un montón de platos y bandejas\nmuy bien colocados.
+
+### 01C0E40
+¡Mmm, qué bien huele!\nAquí han debido de cocinar algo…
+
+### 01C0E73
+Qué mueble más estupendo…\nAquí caben un montón de cosas.
+
+### 01C0EF7
+¡Cura a tus Pokémon!\nCentro Pokémon
+
+### 01C0F19
+Meseta Añil\p¡La meta de todo Entrenador!\nSede de la Liga Pokémon
+
+### 01C0F59
+MESETA AÑIL\p¡La máxima autoridad Pokémon!\nSede de la Liga Pokémon
+
+### 01C0F99
+Seguramente está lleno de cosas\nde lo más apetecibles.
+
+### 01C0FD8
+Parece una especie de plano.\nEstá lleno de diagramas y anotaciones.
+
+### 01C101B
+Qué foto más bonita de un Pokémon.\nParece estar encantado.
+
+### 01C1060
+¿Qué habrá aquí dentro…?\nNada que le sirva a un pisatierras.
+
+### 01C109C
+Anda, un teléfono.\nMejor no usarlo.
+
+### 01C1134
+¿Esto es una verdura?\n¿Quién se comería algo así?
+
+### 01C116E
+A ver…\n… …\p¡Pero si no hay nada!
+
+### 01C1194
+¡Una taza con la marca\nde un Pokémon!
+
+### 01C11DC
+Da gusto mirar por la ventana…\p¡El cielo está impresionante!
+
+### 01C1217
+Cuántas lucecitas de colores\nque se encienden y se apagan…
+
+### 01C124B
+Hay un montón de herramientas\nmuy bien ordenadas.
+
+### 01C1273
+No sé qué será esta máquina,\npero es impresionante.
+
+### 01C12A7
+¡Lo último en videojuegos!\n¡Qué pinta tan divertida!
+
+### 01C12D6
+Salta a la vista que han entrado\na robar…
+
+### 0770738
+¡El efecto del repelente se ha acabado!
+
+### 077075B
+¡El efecto del repelente se ha acabado!\n¿Quieres usar otro?
+
+### 08B8200
+Papá: ¡{B01}!\n¿Estás bien?\pParece que hubieras visto\nun fantasma.\p¿Por qué no pasas la noche\nen tu antiguo cuarto?\pDescansa, peque.
+
+#! Pantalla de datos del Pokémon: "Sig. nivel" se cortaba por abajo (la g); mayúsculas como el RF español
+
+### 0419C59
+SIG. NIVEL
+
+### 0419C4D
+Puntos Exp.
+
+#! Naturalezas que faltaban en la tabla original (resumen del Pokémon)
+
+### 0463DBC
+Fuerte
+
+### 0463E18
+Ingenua
+
+#! Menú de naturalezas del hack: botón de página
+
+### 159F100
+Siguiente
+
+### 159F180
+Siguiente
+
+#! Cofre vacío (script del hack)
+
+### 12EEC07
+Ya no queda nada en este cofre.

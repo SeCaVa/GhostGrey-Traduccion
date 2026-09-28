@@ -1,0 +1,440 @@
+#! Lote 19: grupos 20-26 (Pueblo Árbol, castillo de la Condesa, Mansión de Marionetas, casa de Spruce)
+#! Kareena alarga las vocales y escribe en minúscula; Sunshine alterna mayúsculas; la Condesa sisea (ss).
+
+### 08EE91E
+No era nada. Este sitio se está cayendo a pedazos.
+
+### 08FB89D
+La extraña criatura perdió el conocimiento. Has sobrevivido.\pPor los pelos.
+
+### 08FB8DA
+Murkrow: AUCK… Murgllck…
+
+### 091D789
+Da la vuelta.
+
+### 098D9C9
+El anciano respira, pero ahí arriba no pasa nada.\pTiene muerte cerebral.
+
+### 098DA40
+Unos tubos gruesos y unas agujas están casi fusionados con el cuello y las muñecas de la anciana.\pDe algún modo, sigue viva y produciendo sangre.
+
+### 09926C9
+Estás a salvo, por orden de su majestad.
+
+### 0993B52
+Condesa: Venga, márchate, bolsita de sangre, antes de que cambie de opinión.
+
+### 0993D72
+¡Se ha escapado una bolsa de sangre! ¿Cómo ha llegado hasta la sala del trono de su majestad?\p¡Te ejecutarán antes de que vuelvas a escaparte, bolsa de sangre!
+
+### 0993DF5
+???: ¡No toquéis a esa bolsa de sangre! Traédmela.
+
+### 0993E28
+¡S-sí, majestad!\p¡Ven aquí, bolsa de sangre! Grr…
+
+### 0993E6E
+Condesa: Vaya, vaya… Una bolsita de sangre que viene paseando por sssu cuenta.\pUjujuju… Hace bassstante tiempo que no bebo una remesa tan frescaaa. ¡Qué deliciosssa sssorpresssa!\pDime, bolsita de sangre, ¿en qué pensabasss al entrar aquí tú sssol{o}? Qué valentía, para ssser una bolsita de sssangre tan pequeña.\p¿Mmm?{C0B9001}\p¿Echas mano al cinturón? Qué desfachatez. Has venido a por mi técnica Garra Umbría, ¿verdad?\pAy, qué fastidio, las bolsasss de sangre de hoy en día siempre quieren algo, nunca una sssimple ofrenda. Tsss, tsss.\pUjujuju… Que asssí sssea.
+
+### 0994070
+Ay, madre… Parece que no eres ninguna presa. Qué lástima.
+
+### 09940AA
+Has criado un equipo formidable. ¿Adónde piensas ir desde aquí, bolsita de sangre?\pMmm, ya veo, ya veo… El desafío de los Gimnasios, ¿eh? Curiossso.\pPor sssupuesssto, soy una dama de palabra. Ssserá intrigante ver cómo ssse desarrolla tu hissstoria, bolsita de sangre.
+
+### 09941B2
+Mi técnica oculta enssseña Garra Umbría.\pEs un temible tajo de un tremendo poder sssobrenatural. Ssseguro que alguien con tu habilidad puede sacarle partido.\pVenga, márchate, bolsita de sangre. Te concederé paso ssseguro por mi cassstillo…\p…de momento. Ujujuju…
+
+### 0AF5D89
+¡Ji, ji, ji! ¡Fuera del bosque, qué horrores verás! ¡Busca consuelo en chocolates, que los dulces alegría te darán!
+
+### 0AF5F09
+¿Te has perdido? No te preocupes, no tendrás que crecer, peque.
+
+### 0AF5F89
+¡Kejeje! ¿Has salido a pedir caramelos, crí{o}?\p¡Llénate bien la tripa!
+
+### 0AF6127
+{B01} llamó a la puerta.
+
+### 0AF613F
+¿Oh? ¡Pero si es alguien pidiendo caramelos!\p¿Me cuentas un chiste?\p…\p¡Jajaja, qué bueno! ¡Toma!
+
+### 0AF6549
+¡BU! ¿Te he asustado?
+
+### 0AF65C9
+¡BuuuuUUuuuUuu! ¡Soy un fantaaaaAaaAsmaaa!
+
+### 0AF6649
+¡uuuUUuuUUuuUUU!
+
+### 0AF6749
+¡AH! ¡Es una persona! ¡Es broma, no me das miedo! ¡Soy un FANTASMA! ¡UUUuuUUuUU!
+
+### 0AF67D5
+¡Bienvenidos a Pueblo Árbol de la Senda Amatista!
+
+### 0AF6B3F
+¡Oh, alguien nuevo pidiendo caramelos!\p¿Qué truco me vas a enseñar?\p…\p¡Oooh, qué buen truco! ¡Feliz Halloween!
+
+### 0AF7AFF
+¡Eh, feliz Halloween!\p¿De qué te has disfrazado?\p…\p¡Jajaja! Eso… da miedo. ¡Que lo pases bien!
+
+### 0AF7BFF
+¡Eh!\p¡Oooooh! ¡Eso sí que es una máscara que da miedo!\p…\pAh. Bueno, feliz Halloween…
+
+### 0AF7CFF
+¡Tú no eres de los que suelen venir a pedir caramelos!\p¿Te sabes un buen chiste?\p…\p¡Jaja, qué bueno! ¡Feliz Halloween!
+
+### 0AF7E34
+En la puerta hay un cartel: “Coge uno”\p¿Coger más de uno?
+
+### 0AF7E6F
+???: ¡NO HAS DICHO TRUCO O TRATO!
+
+### 0AF7E93
+¡UuuuUuuUU! ¡Feliz Halloweeeeen!
+
+### 0AF7F7F
+¡Hola, feliz Halloween! Oh, qué… crí{o} tan terrorífic{o} pidiendo caramelos…\p…\pToma, llévate esto.
+
+### 0AF807F
+¡Oh, qué tarde andas por ahí! ¿Pidiendo caramelos, eh?\p…\p¡Ten cuidado esta noche!
+
+### 0AF89FF
+¡Oh, pero mírate! ¡Llegas bastante tarde a pedir caramelos!\pDéjame ver si me queda algo que darte.\p…\pSolo me quedan estos, ¡feliz Halloween!
+
+### 0AF8C3F
+Creía que ya os había dicho a los niños perdidos que no me quedaba nada de…\pAh, tú no eres uno de esos gamberros. Eres un{a} crí{o} normal.\p…\p…ten cuidado ahí fuera.
+
+### 0AF8E3F
+¡Bu! ¡Feliz Halloween!\p¿Tienes un truco a cambio de este trato?\p…\p¡Me vale, que pases buena noche!
+
+### 0AF8F3F
+Ay, qué poca creatividad, ¿no? Casi no te has esforzado con el disfraz…\p…\pBueno, toma.
+
+### 0AFBDC9
+¿Tú también te has escapado?\pNos gusta marcar los caminos para encontrar el camino de vuelta a Pueblo Árbol. ¡Fíjate en los árboles!
+
+### 0AFBF40
+¡Truco o trato!
+
+### 0AFBFC0
+¡Ay, porras! ¡No me vas a dar tus caramelos!
+
+### 0AFC040
+¿Te has perdido? ¡Nosotros también! ¿Por qué no compartes tus caramelos con nosotros?
+
+### 0AFC140
+Mmm... ¡Me encantan los caramelos! ¡Como caramelos para desayunar, comer y cenar! Ahora me duele morder los caramelos duros, así que lo que más me gusta es el chocolate.
+
+### 0AFC240
+¿Quieres ser un{a} niñ{o} perdid{o} como nosotros? ¡Nunca tienes que crecer, nunca tienes que volver a casa y puedes comer caramelos todo el día, todos los días, y pedir caramelos para siempre!
+
+### 0AFCC80
+¡Truco o trato! ¡Huéleme los pies! ¡Dame algo rico, que es lo que se debe!
+
+### 0AFCD00
+¡Si no quieres, me da igual! ¡Te bajaré los calzoncillos y ya está!
+
+### 0AFCD80
+Estar perdido no está tan mal. ¡Puedo comer todos los caramelos que quiera! ¡Mi madre nunca me deja comer caramelos!
+
+### 0AFCE89
+¡Estoy intentando abrir un camino nuevo para esconder nuestro alijo de chocolate! ¡Los demás niños perdidos intentan robárnoslo!
+
+### 0AFD000
+¡Eh, tienes todos los dientes!\pAcabarás de llegar. ¡Nosotros nunca tenemos que crecer! Si no comes caramelos todo el día, ¿qué comes?
+
+### 0AFDA89
+Echo de menos a mi mamá y a mi papá…
+
+### 0AFDB09
+¡Tienes un montón de Pokémon! ¿Dónde los guardas todos?\p¿Un pe-cé? ¿Qué es eso?
+
+### 0AFDB89
+¡Hoy he ido a pedir caramelos! ¡Mañana volveré a ir!\p¿Quieres venir con nosotros?
+
+### 0AFDD80
+¿Quieres ver mi truco?
+
+### 0AFDE00
+¡Maldita sea! Tengo que replantearme cuál va a ser mi truco…
+
+### 0AFDE80
+¡En Pueblo Árbol tienes que enseñar un truco antes de que te den un trato!
+
+### 0AFF840
+¿Buscas Pueblo Árbol para ir a pedir caramelos? ¡Tienes que fijarte en los árboles!\pSi falta uno, ¡vas por buen camino!
+
+### 0B00280
+¿De qué se supone que es tu disfraz?
+
+### 0B00300
+¡Hala! ¡Qué miedo das!
+
+### 0B00380
+¡Todavía estoy haciendo una máscara terrorífica para mi disfraz! ¡Mañana voy a ir de Sableye!
+
+### 0B00489
+Hay un Pokémon raro y fuerte en algún lugar del bosque. Si lo encuentras, no lo molestes.
+
+### 0B00509
+Desde aquí estás bastante cerca de Pueblo Árbol. ¿Tienes algo donde meter todos los caramelos? Yo uso mi sombrero.
+
+### 0B14AC0
+¡Bu! ¡Qué miedo!
+
+### 0B14C40
+¡Bu! ¡Pues vamos a luchar!
+
+### 0B14D56
+¡Feliz Halloween!\p¡Aquí tienes tu trato!
+
+### 0F26EA5
+Una presencia aterradora ha entrado en la sala…
+
+### 0F3D485
+Jejeje… Eh. ¿Quieres ir a ver qué hay en ese agujero?
+
+### 0F3D4C0
+Oooh. ¿Seguro? No te irás a acobardar como un Wimpod, ¿no?
+
+### 0F3D4FC
+Jejeje… Ahí abajo podría ser muuuy peligroso, ¿de verdad lo tienes claro?
+
+### 0F3D54B
+Puede que este sitio ni siquiera tenga fondo; ¿eso no te da miedo?\pSi mueres, todo tu progreso, todo lo que has guardado, se perdería. Da miedo pensarlo, ¿eh?\p…\pJejeje… Estaría guay que saltaras ahí abajo… pero solo si lo tienes MUY claro…
+
+### 0F3D64D
+Jejeje… Adelante…
+
+### 0F3D66C
+Quién sabe lo que habría en el fondo de ese agujero.\pNo viviste para verlo.
+
+### 0F3D6B6
+Ooooh… ¿Tienes miedo?
+
+### 0F5F14B
+En el suelo pegajoso de la mazmorra hay un trozo de metal desconchado.\p…\pA pesar del frío glacial de este lugar, está caliente cuando lo agarro con la palma de la mano.\p¡{B01} encontró la Medalla Volcán!
+
+### 0F5F1F9
+El Profesor Oak me está llamando…
+
+### 0F5F216
+Oak: ¡¡{B01}!!\pÉl…\pa…\pasí que ven…\pSu…\p¿{B01}?\p¿¿¿Hola???\pAh, ¿ahora me oyes? ¿Dónde demonios estás, peque?\pBueno, vuelve a casa, ¿vale? ¡Tengo algo que enseñarte!\p¡Es una sorpresa enorme, ENORME, para Summer y para ti! Estoy muy orgulloso de los dos, y sé que no debería llamarte porque el Estado te busca, pero…\p¡Tengo que verte y darte esto antes de que te vayas! No estoy en mi laboratorio, así que ven al viejo Gimnasio de Ciudad Verde. ¡Te estaré esperando!\pJaja, bueno, ¡nos olemos luego, {B01}! Ten cuidado, ¿vale?\p¡Te quiero muchísimo!
+
+### 0F68BC6
+Kareena: hoolaa…\p¿seraás tuú quieen vieene a reeparaar, eel quee mandoó llamaar eel maeestro marcel?\pah…\pbueeno, coomo puedes veer… estoy suuspendida.\peel maeestro see enfadaraá muuchísimo coonmigo si la manseeón no estaá ordeenada cuaando lleegue.\p¿noo poodrías sooltarme?\psi noo es moolestia, claaro.
+
+### 0F6958F
+Kareena: prime ro, deebemos puulsar eestos inteerruptores paara accedeer al piso de arriiba.\peel maeestro marcel noo quiere quee loos extraaños toqueen sus obraas de arte, noo, noo.
+
+### 0F69A5C
+Kareena: exceleente, erees tod{o} un{a} reeparaador{a}…\ppor desgraacia, hay maás puertaas quee arreglaar y muuchas marioneetas quee correegir…\ppoor favoor, síguemee.
+
+### 0F69AF7
+Kareena: queeriido reeparaador… deebemos pisaar cadaa inteerruptor al mismoo tieempo…\psoolo así poodremos seguiir…
+
+### 0F69D86
+¿Cortar los hilos que sostienen a esta mujer?
+
+### 0F69DB0
+{B01} cortó los hilos…
+
+### 0F69DD9
+Kareena: ah… graacias. disculpaa, eso pasa muy a menuudo…\pah… quée malee ducación la mía… soy kareena, la guardiaana de las marioneetas y los juguetes del maeestro marcel.\py tuú erees eel reeparaador… un poco jooven… quée taleento deebes teener.\pnoo importaa… poor favoor, veen coonmigo, hay muucho quee reeparaar…
+
+### 0F6C65C
+Kareena: ah… quée gran aayuda erees…\pgraacias poor ayudaarme. a eeste ritmoo, poodreé ordenar toodo muucho aantes de quee vuelva eel maeestro marcel, sísí…\p¿puedo preguuntarte tuu noombre, mi cieelo?\p…\p{B01}. quée noombre maás gracioosoo… mi cieelo {B01}, sigaamos.
+
+### 0F6D5A9
+Kareena: ah, quée deesorden… eel maeestro marcel suele seer muuy deesordenado coon su arte… poor favoor, mi cieelo {B01}, deéjame un moomento paara limpiaar eesto, sísí…
+
+### 0F6D644
+Kareena: graacias poor eesperar… sigaamos, ya casi eestamos.
+
+### 0F6D713
+Kareena: muuchísimas graacias poor tuu aayuda… a muuchos reeparaadores los asuustan las marioneetas maás… reebeldes, sísí…
+
+### 0F6D8AB
+Kareena: ah… de veerdad vaaloro muucho eesta aayuda, mi cieelo {B01}…\ptieenes un aalma taan amaable… y mee duele muuchísimo meentir. mee has aayudado muuchísimo, sísí.\p{B01}, noo soopoorto seguiir guiaando a un aalma taan amaable…\pveerás, aadeemás de mantener la manseeón limpia y la obra del maeestro marcel bajo coontrol, tambieén deebo guiar a las aalmas eerrantes haacia su fiin…\pla obra del maeestro marcel neecesita quee un aalma viva see una a un nuuevo recipieente, sísí…\psu úultima obra de arte see aalimeenta, ¡sísí!\ppeero neecesita maás de uun aalma…\pnoo puedo deejar quee te lleeven a la guaarida de sunshine, noo, noo…\ptieenes un aalma taan amaable. mi cieelo {B01}, poor favoor, veete de eesta manseeón…
+
+### 0F6DB84
+Kareena: quée gran aayuda erees. mee aalegra haber coonocido un aalma taan amaable coomo la tuuya, {B01}.\pmee haace… feliz eestar viiva.\paadióos.
+
+### 0F6DC0C
+Kareena: mi cieelo {B01}…\peesta puerta es bastaante coomplicada, sísí…\pguuíame, coonfío en tuu meente fueerte y tuus moovimieentos ingeeniosos, sísí…
+
+### 10578A1
+Sunshine: h-HoLa…\p¿HaS vEnIdO a CeNaR cOnMiGo?\p¡oH! ¡sErEmOs Los MeJoReS aMiGoS!
+
+### 10580A9
+Sunshine: oOh…\pBuAaA bUaA… ¡NaDiE sErÁ mI aMiGo!\pBuAaA bUaA…
+
+### 10580E9
+Sunshine: OuUuHhHh…\pBuAaA bUaA… EsToY tAn TrIsTe…\pMe HaS mAtAdO…
+
+### 105813D
+Kareena: {B01}…\phas mataado a sunshine… ¡y has reestaurado mi aalma, sísí!\psoy taan feliz… de veerdad erees un espíritu amaable…
+
+### 10581B2
+Kareena: por desgraacia…\peel maeestro see pondraá muuy triiste… ¡sunshine es eel proyeecto actuual del maeestro marcel!\pes muuy apasionaado coon su obra… ¡un veerdadero artiista!\ppeero al veer la manseeón taan ordenaada y toodas sus marioneetas en su sitio…
+
+### 1058281
+Kareena: ¡seguuro quee see pondraá eufoórico!\pmuuchísimas graacias, mi cieelo {B01}.\pmee encantaría veerte… si te apeetece…\p¡estaré aquí! poor favoor, veen a contaarme tuus viajes y eesas coosas, ¡sísí!\p¡quizá incluuso quieeras baailar!\p¡quée suerte heé teenido de coonoocerte, mi cieelo {B01}!\peel maeestro estaaba buscaando eesto, sísí… ¡peero tuú mereeces una gran reecompensa, {B01}, quee eres taan vaaliente!\pnoo sé paara quée sirve, peero… ¡eel maeestro marcel dice quee es muuy importaante!
+
+### 1065B26
+¡Yupi! ¡Hora de jugar! ¡Hora de jugar!
+
+### 1065B44
+¡Ja, ja, ja! ¡Qué divertido! ¡Divertido! ¡Divertido!
+
+### 1065B69
+¡Uy! ¡Ya es hora de irme a la cama!
+
+### 1065C21
+¿Has venido a jugar conmigo?
+
+### 1065C40
+¡Qué tonta! ¡Se me ha olvidado decir por favor!
+
+### 1065C62
+¡Hasta lueguito!\p¡Me tienen que guardar!
+
+### 1065CC9
+¡El maestro Marcel dice que hasta las marionetas tienen que trabajar!\p¡A trabajar, a trabajar, ji, ji, ji!
+
+### 1065D49
+¡Hola!\p¿Eres {el} reparador{a}?\p¡Qué gran reparador{a}!\p¡Jo, jo, jo!
+
+### 1065DC9
+¡El maestro Marcel dice que no puedo jugar contigo porque no estoy terminado!\p¡Qué fastidio!
+
+### 1065E99
+¡Iiih!\p¡Reparador! ¡Tengo los zapatos desconchados! ¡¿Cómo voy a bailar con los zapatos desconchados?!
+
+### 1065EE5
+¡Casi no puedo dar un paso con ellos!\p¡¿Qué vas a hacer al respecto?!
+
+### 1065F1D
+¡Ay, madre, ay, madre!\p¡El maestro Marcel quería que mi número de baile estuviera listo para mañana!\p¡De vuelta a la caja!
+
+### 1066026
+¡Feliz! ¡Qué feliz estoy!\p¡Sunshine! ¡Sunshine! ¡Hora de comer!
+
+### 106605C
+¡Ñam, ñam!\p¡Hora de comer!
+
+### 106607F
+¡Tengo tanta hambre que me comería un Ponyta!
+
+### 1077689
+¡Eh! ¡No me pises! ¡Vivo aquí!\p¡Solo estoy dando un paseo! ¿Qué tal estás?
+
+### 1077727
+{B01} llamó a la puerta…
+
+### 107773F
+¡Oh, feliz Halloween!\p¿Qué mustiedad la tuya, eh? ¡A lo mejor esto te anima!
+
+### 107783F
+¡Pero bueno, hola, calabacita!\p¿Tienes hambre? ¿Qué tal una Baya Calabaza recién cogida?\p¡Feliz Halloween!
+
+### 107793F
+¿Me cuentas un chiste?\p… Eso no es un chiste. ¿Sabes lo que es un chiste?\p…da igual. Llévate esto.
+
+### 1077A46
+Mongo: Grrr, grrr…\pToma.\pY ahora déjame en paz…
+
+### 1077ABF
+Oooh… ¿Pero qué cosita más mona? De una forma un poco… terrorífica.\p¡Toma, llévate unos caramelos! ¡Estos son de mis favoritos!
+
+### 1077BB4
+¡No hay nadie en casa! ¡Deja de aporrear mi maldita puerta!
+
+### 12AF24F
+Kareena: ¡ah! hoola, mi cieelo {B01}…\p¿quée tal va tuu gran aventuura?\p…\p¡quée maravilla! ¡sísí! ¿una quiinta medalla?\pquizá deberías buscaar en lo maás profuundo de las seelvas de fuucsia…\p¡peero ten cuidaado, sísí! allí hay muucha geente cruuel… ¡aalgunos apeenas see poodrían consideerar peersonas!
+
+### 12AF368
+Kareena: ¡ah! mi cieelo {B01}…\p¿así quee lo has coonseguido? ¿tieenes eel tíítulo de campe{on}?\p…\peel alto maando y eel campeón. hmph…\ptaantos obstaáculos paara ti, mi cieelo {B01}…\p¡peero noo temaas! ¡tieenes maás fuerza quee eel muundo eentero!\phas sopoortado taanto, sísí… ¡y naada te deetendraá!\pseguuro quee ya has viisto lo peor quee estaá por veenir…\pji, ji…\psupoongo quee, la proóxima vez quee me veas… ¡seraás {el} campe{on} {B01}! ¡quée emocioón, sísí!
+
+### 12AF890
+Kareena: ¡ah! ¡mi cieelo {B01}!\p¡uuna, doos, trees, cuaatro, ciinco, seeis, sieete! ¡quée maravilla! ¡has lleegado al fiinal!\p¿oh?\p¿oocho?\pquée raaro… un nuúmero taan extraaño, sísí… sieete tieene muucho maás seentido, ¡sísí!\pnoo importaa… ¡vas a ganaar!\psieempre has ganaado, mi cieelo {B01}…
+
+### 12AFA79
+Kareena: mi cieelo {B01}. aantes de quee vuelvas al muundo de aahí fueera…\p¿te gustaaría baailar coonmigo?
+
+### 12AFAE6
+Kareena: ¡ah! sísí, ¡tieenes muucho quee haceer!\pnoo te entreteengo, mi cieelo {B01}. ¡buena suuerte!\ppoor favoor, veen a contaarme toodo sobre tuus viajes, ¡sísí!\ptengo quee ocupaarme de la manseeón.
+
+### 12AFB8B
+Kareena: ¡ah! ¿lo diices en seerio, mi cieelo {B01}?\p¡un baile… coontigo! ¡quée maravilla, sísí!\p¡baailemos! ¡baailemos!
+
+### 12AFC9C
+Kareena: ¡graacias! ¡quée bieen baailas!
+
+### 12AFD51
+Kareena: ¡ah! ¡mi cieelo {B01}!\pjusto estaba peensando en ti, sísí… eempezaba a preocuuparme…\ppeero al veerte saan{o} y saalv{o}… soy taan feliz.\p¿hay maás medallas? oh, quée miiedo…\p¿saabes doónde podría estaar la uúltima?\pheé oído cosas de las islas espuuma, sísí…\p¡peero soon cosas horribles, espantoosas, cosas quee daan miiedo!\psi vas a iir, poor favoor, ten cuidaado… mee pondría muuy melancoólica quee te hicieeran daaño, mi cieelo {B01}.\p¡peero tieenes taanta fuerza! la encontraraás, ¡sísí!
+
+### 12AFFD1
+Kareena: ¡ah! mi cieelo {B01}…\p¿quée tal va tuu gran aventuura? ¿ya tieenes eel tíítulo de campe{on}?\p¡Ciinco! Taantas… Abruma, ¡sísí!\py aun así, maás medallas… quizá deberías proobar en eel lluvioso lago ceeleste.\pquizá encuentres aalgo entre los restoos del naufraagio, ¡sísí!
+
+### 12B284E
+Spruce: ¡Madre mía! ¡Reconocería esa cara de amargura en cualquier parte! ¡{B01}! ¿Qué tal estás?\p¡Hace muchísimo tiempo! ¿Te acuerdas de mí?\p¡Soy la hija del Profesor Oak, Spruce! ¿No te acuerdas?\p…Ah, supongo que eras muy peque la última vez que fui a Pueblo Paleta. ¡Summer pasó por aquí hace poco!\pPapá está muy ilusionado, ¿sabes? ¡Siempre está hablando de Summer y de ti! Creo que siempre le decepcionó un poco que yo nunca quisiera ser entrenadora ni enfrentarme a la Liga, ¡jajaja!\pEn fin, ¿qué te cuentas? ¿Qué tal va tu viaje?\p…\p¡Genial! Bueno, no te entretengo. Aunque puedes quedarte por aquí todo lo que quieras.\pEso sí, ten cuidado si sigues más allá de aquí por el Puente del Silencio; es bastante traicionero.\p¡Hasta luego!
+
+### 12B2B8B
+Spruce: ¡Eh, {B01}! ¿Ya has visto Carmín?\pEn el Snack Sneasel hay comida bastante buena. ¡Pero no comas demasiado, que te sentará mal!\pTambién puedes echar un vistazo a los muelles, pero allí son todos unos cabezas huecas. Seguramente intenten luchar contigo.\p¡Summer me contó que consiguió la medalla antes que tú! Siempre va a mil por hora, ¡jajaja!\pAunque ese Líder de Gimnasio es todo un personaje. Recuerdo que, cuando empezó como líder de Carmín, era un tipo bastante normal.\pTodo lo normal que puede ser alguien tan neurótico.\pPor lo visto, fue veterano de una guerra en el extranjero. El Líder de Carmín siempre ha sido extranjero, pero ese tipo, desde luego, es de lo más turbio.
+
+### 12B2E4B
+Spruce: ¡Oh, hola, {B01}! Acabas de estar en Celidon, ¿eh?\pSe nota, ¡hueles a hierba revivir, jajaja! Me recuerda a cuando estaba en la universidad…\p¡Me alegro de ver que Celidon sigue oliendo igual!\p¡Summer me ha dicho que va hacia el Túnel Roca!\pMe encantaba ese sitio; papá me llevaba cuando le tocaba pasar el fin de semana conmigo.\p¡Tenían la mejor limonada! Había torneos de combates Pokémon todas las semanas y la juguetería más grande fuera de Azafrán.\pMe trae muchos recuerdos…\pEn fin, ¡gracias por pasarte a saludar!\p¡Y ahora largo de aquí antes de que me dejes la casa apestando! ¡Jajaja!\p¡Hasta luego!
+
+### 12B310B
+Spruce: ¡{B01}! Puaj, ¿por qué me has llenado la casa de arena y barro?\p¿Tienes algo que decir en tu defensa?\p…\p¡Jajaja! ¡Muy de {B01}! Oye, Summer me enseñó ese truco con el patinete que hiciste. ¡Fue bastante guay, eh!\pAsí que al final sí había una medalla en Jaspar, ¿eh? Me pregunto dónde estarán las demás…\p¿Sabes que mi padre fue Líder de Gimnasio? ¡Cuando Ciudad Verde tenía… gente, él fue el líder durante bastantes años!\pDe pequeña, siempre iba a verlo mientras trabajaba.\pCuando luchaba, siempre parecía más grande que la vida misma, como si lo llevara en la sangre o algo. Nunca lo vi fruncir el ceño en ninguno de sus combates.\p¡Supongo que esa parte de los genes se acabó conmigo, jajaja!
+
+### 12B33D0
+Spruce: ¡Oh! Así que has conocido a mi hermanito, ¿eh? Bueno, supongo que es mi medio hermano.\p¡El pequeño Tealín! ¡Jajaja!\pEs tan serio… No se parece nada a papá. Aunque papá todavía no ha podido conocer a Teal como es debido.\pLa madre de Teal oooodia a papá. No es que papá sea mala persona, pero es que…\pBueno, ya conoces a mi padre, es un desastre. Yo tampoco me imagino queriendo aguantarlo como marido.\pAun así, creo que tuve suerte de tener un padre tan paciente como él.\pOjalá mi hermanito tenga a alguien así a quien admirar, pero yo tampoco lo veo mucho.\pNasha y yo nos llevamos bien, pero ella está muy centrada en sus estudios.\pEn fin, seguramente todo esto te da igual, ¡jajaja!\p¡Hasta luego!
+
+### 12B370B
+Spruce: ¡Hola, {B01}! ¿Qué tal va la aventura?\p¡Parece que sigues de una pieza! Me alegro. Por lo visto también has pasado por Fucsia. Puaj.\p¿Qué tal ESE sitio? ¡Ahora entiendes por qué me quedo en el norte! ¿Has visto a Summer últimamente? Hace tiempo que no sé nada de ella.
+
+### 12B384B
+Spruce: ¡¿{B01}?! ¿Pero qué…? ¡¿Qué haces aquí?!\pLo vi todo en las noticias, y luego papá me contó…\pNo te preocupes, no voy a entregarte. Puedes quedarte aquí todo el tiempo que quieras. Solo…\pAy, {B01}… Pobrecit{o}…\pBueno, aquí vivo al margen de todo, así que… vuelve de vez en cuando a dormir bien aquí, ¿vale?\pY si hay algo que pueda hacer para ayudarte… ¡por favor! No te pierdas.\pBueno…\pHasta luego…
+
+### 12B3A8C
+Spruce: ¡{B01}! ¿Qué tal? ¡Papá me ha dicho que tienes todas las medallas! ¡Genial!\p…\p…\p…¿eh?\p…\p…Papá…\p…\p…gracias por contármelo, {B01}.\p…\p…¿lo sabe Summer?\p…Ya veo. ¿Por qué no descansas aquí? Seguro que tienes muchas cosas en la cabeza. Toma, busca algo que ver. Yo prepararé algo de comer.
+
+### 12B3BA7
+Spruce: Cuídate, ¿vale?\pHasta luego.
+
+### 12B3BCD
+Spruce: Hola, {B01}. ¿Estás bien?\p…\pTú puedes. La última vez que hablé con papá, me dijo que sabía que conseguirías el título de Campe{on}.\p¡Lo vas a hacer genial! Quizá los demás también acaben viéndolo…\pHasta luego.
+
+### 12B3D0B
+Spruce: ¡Pero bueno, si es {el} CAMPE{ON} {B01}!\p¿Qué tal te sientes, Campe{on}?\p…\pSí, lo entiendo. ¿Por qué no vuelves a casa y te recompones un poco?\pQuizá puedas echar un vistazo a la casa de papá. Creo que te dejó algo allí.\pLe hice una pequeña tumba en el Cabo Paleta, justo al lado de la de mi bisabuelo. Deberías ir a saludarle antes de irte a cumplir con tus obligaciones de Campe{on} y demás.\p¡Y oye, enhorabuena! Sé que mi padre siempre estuvo muy orgulloso de Summer y de ti.\pHasta luego.
+
+### 12B3F09
+En la pantalla de la tele está abierto el menú de un servicio de streaming.\pParece que ha estado viendo un montón de cosas.
+
+### 131BC80
+¡Fuijejeje! ¡Ñam, ñam! ¡Llénate la barriga!\p¡Ve a rebuscar por el bosque y vuelve a por más dulces, como debe ser!
+
+### 1326075
+Vorelli: ¿Buscas a alguien?\pMmm… qué triste. Has manipulado mi arte y has estropeado mi visión.\pEl Espejo de las Almas. Mi gran obra. Mi obra maestra.\pEs tan hermoso, ¿verdad? ¡Mira cómo brillan!\pLas bestias, los Tepig y los Wooloo, no lo ven.\p¡No pueden! Temen el dolor y la sangre, como todos los simples animales. No entienden el precio que hay que pagar para elevarse por encima del fango.\p¿Sabes qué separa a un hombre de una bestia?\pEl arte. Oh, el arte.\pY yo soy un artista, quizá el mayor artista de esta época.\pPorque tengo visión. Los demás no pueden ver, no como yo.\pBruno sí puede. Ah, es un gran hombre. Ve y comprende.\pNecesito espacio, necesito materiales, necesito libertad para crear lo que sé que debe existir, para cumplir mi visión.\pÉl me da lo que necesito, y yo le doy lo que me pide a cambio.\pEs sabio y justo. No es de extrañar que la gente acuda a él, el gran pastor de la chusma.\pLo admiro mucho, admiro su fuerza.\pTú también tienes fuerza, pero tú no me gustas. No te admiro.\pEstás fuera de lugar. No perteneces a este sitio. Eso lo entiendo.\pPero no miras, no ves; desentonas con lo que te rodea con fealdad, brutalidad y aspereza, y ni siquiera pareces saberlo.\pNo; en lugar de eso, irrumpes con tanta grosería, tan sin pensar, con tanta tosquedad.\pConoces tu fuerza, y eso es lo único que te interesa aprender.\pPero bueno. Tolero a las bestias y a los filisteos.\pNo odio a quienes simplemente son ciegos y no tienen gusto.\pPero ahora te has entrometido en mi arte. Has matado a mi Sunshine antes de que pudiera alzarse para traer luz a este mundo.\pDe algún modo, has borrado de este mundo a la marioneta hecha con mi propia semilla y mi propia carne, mon petit Grey.\p¡Qué triste! ¡Qué triste!\pSomos espejos, tú y yo: poder y gracia, tosquedad y refinamiento.\pOpuestos y, aun así, conectados. Lo supe desde que nos conocimos.\pSerás mi mayor obra. Haré de ti algo bello.\pQué triste que hayamos llegado a esto.
+
+### 132680F
+Vorelli: Mmm…\pPor desgracia, he fracasado. Pero era solo mi proyecto personal, no el de Bruno.\pBruno QUERÍA que tuvieras el título de Campeón, ¿sabes? ¡Oui! ¡Es la verdad!\pCree en ti. Cree en tu poder. La gente adora a Bruno, pero siempre tiene que haber un reflejo. La gente necesita a alguien a quien odiar.\pTú, mon petit, paria, persona marginada, monstruo de una fuerza aterradora.\p¡Eres un objetivo fácil contra el que unirse! Qué caos traes a este mundo…\pMmm… qué triste. Eres demasiado diferente a los demás. Nadie te entiende, mon chérie.\pSolo yo.\pUna vez tuve grandes esperanzas puestas en ti, mon chérie, en ti y en la bella Summer…\pSu madre no debía darme otro hijo… Y su hermano ya me había enfadado bastante…\pAsí que le di a elegir. La Ball…\pO la cuchilla…\pUn niño jugará; lo dejaré vagar y jugar en el mundo solitario y cruel.\p…y el otro será tallado por la cuchilla. Por mis manos. Se convertiría en mi arte.\p…pero ninguno de los dos seguiría siendo hijo mío.\pQué triste elección hizo para acabar en este mundo tan cruel, tan cruel.\pTodos debemos elegir tras el velo, los artistas, las almas torturadas y encarceladas.\pNuestras decisiones nos han traído hasta aquí.\pQué triste…
+
+### 1574AA5
+¡Bu! ¿No te encanta pedir caramelos, los caramelos y los fantasmas monos? ¿Te gusta mi calabaza de Halloween?\pPues, ¿qué me dices de mis fantasmas monos? ¡Te los voy a enseñar!
+
+### 1574B35
+Bueno, ¡avísame si quieres ver a mis fantasmas!
+
+### 1574B68
+Ghosty: ¡Feliz Halloween!\p¡Bu!
+
+### 15B27C9
+En la pared cuelga una foto. Es de Spruce con su madre y su padre. En esta foto era más pequeña que yo. Y el Profesor Oak también parece muy joven…\pMenos mal que se quitó el bigote, no le quedaba nada bien.

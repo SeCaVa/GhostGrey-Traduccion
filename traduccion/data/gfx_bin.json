@@ -1,0 +1,205 @@
+[
+ {
+  "file": "data/gfx/resumen_gfx.bin",
+  "orig": "728940"
+ },
+ {
+  "file": "data/gfx/resumen_tm1.bin",
+  "orig": "728740"
+ },
+ {
+  "file": "data/gfx/resumen_tm3.bin",
+  "orig": "729C00"
+ },
+ {
+  "file": "data/gfx/pc_gfx.bin",
+  "orig": "8B1480"
+ },
+ {
+  "file": "data/gfx/tileset_gfx.bin",
+  "orig": "14E9AC0"
+ },
+ {
+  "file": "data/gfx/casino_gfx.bin",
+  "orig": "7B1000"
+ },
+ {
+  "file": "data/gfx/titulo_gfx.bin",
+  "orig": "26D3C0"
+ },
+ {
+  "file": "data/gfx/titulo_tm.bin",
+  "orig": "275300"
+ },
+ {
+  "file": "data/gfx/casino_tm.bin",
+  "orig": "7B1980"
+ },
+ {
+  "file": "data/gfx/tipos_gfx.bin",
+  "orig": "961C00",
+  "sin_comprimir": true,
+  "nota": "iconos de tipo (tools/edit_tipos.py)"
+ },
+ {
+  "file": "data/gfx/estados_gfx.bin",
+  "orig": "D11BC4",
+  "sin_comprimir": true,
+  "nota": "PS y estados en combate (tools/edit_estados.py)"
+ },
+ {
+  "file": "data/gfx/ficha_gfx.bin",
+  "orig": "1067740",
+  "nota": "ficha de entrenador (tools/edit_ficha.py)"
+ },
+ {
+  "file": "data/gfx/ficha_tm.bin",
+  "orig": "945DC0",
+  "nota": "mapa de la ficha"
+ },
+ {
+  "file": "data/gfx/slotinfo_gfx.bin",
+  "orig": "F5DB00",
+  "nota": "info de la tragaperras (tools/edit_tragaperras.py)"
+ },
+ {
+  "file": "data/gfx/slotinfo_tm.bin",
+  "orig": "F3B2C0",
+  "nota": "mapa de la info de la tragaperras"
+ },
+ {
+  "file": "data/gfx/vallas_gfx.bin",
+  "orig": "BE0D40",
+  "nota": "vallas PLAY/DRINK de Plateada (tools/edit_vallas.py)"
+ },
+ {
+  "file": "data/gfx/preview_diglett_gfx.bin",
+  "orig": "917C80",
+  "nota": "pantalla de carga de la Cueva Diglett (tools/edit_preview.py)"
+ },
+ {
+  "file": "data/gfx/preview_diglett_tm.bin",
+  "orig": "437F80",
+  "nota": "mapa de la pantalla de carga de la Cueva Diglett"
+ },
+ {
+  "file": "data/gfx/meme_392.bin",
+  "orig": "90A9C0",
+  "nota": "meme de Oak \"COMPARTE\" (tools/edit_memes.py)"
+ },
+ {
+  "file": "data/gfx/meme_268.bin",
+  "orig": "F60000",
+  "nota": "foto de la madre \"tuya siempre\" (tools/edit_memes.py)"
+ },
+ {
+  "file": "data/gfx/muere1_gfx.bin",
+  "orig": "85ED80",
+  "nota": "fondo \"MUERE en BATALLA\" (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/muere1_tm.bin",
+  "orig": "850D00",
+  "nota": "mapa del fondo muere1"
+ },
+ {
+  "file": "data/gfx/muere2_gfx.bin",
+  "orig": "84EC00",
+  "nota": "fondo \"MUERE en BATALLA\" (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/muere2_tm.bin",
+  "orig": "84E100",
+  "nota": "mapa del fondo muere2"
+ },
+ {
+  "file": "data/gfx/muere3_gfx.bin",
+  "orig": "BC8300",
+  "nota": "fondo pixelado \"MUERE EN BATALLA\" (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/muere3_tm.bin",
+  "orig": "BC7F80",
+  "nota": "mapa del fondo pixelado"
+ },
+ {
+  "file": "data/gfx/peores_gfx.bin",
+  "orig": "862940",
+  "nota": "fondo \"Hay cosas peores...\" (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/peores_tm.bin",
+  "orig": "863500",
+  "nota": "mapa del fondo \"Hay cosas peores...\""
+ },
+ {
+  "file": "data/gfx/tileset_gruta.bin",
+  "orig": "8ECE40",
+  "nota": "carteles SER\u00c1S DEVORADO / TEME LA GRUTA (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/tileset_azafran.bin",
+  "orig": "C61080",
+  "nota": "carteles de Ciudad Azafr\u00e1n (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/tileset_poster.bin",
+  "orig": "810040",
+  "nota": "p\u00f3ster POLICIA (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/tileset_reembolso.bin",
+  "orig": "12C7FC0",
+  "nota": "cartel SIN CAMBIOS (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/tileset_luna.bin",
+  "orig": "12ADCC0",
+  "nota": "r\u00f3tulo FAMILIA LUNA (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/tileset_anuncio.bin",
+  "orig": "1264080",
+  "nota": "anuncio GUAY / BEBE (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/tileset_ventana.bin",
+  "orig": "123BC40",
+  "nota": "bot\u00f3n Cancelar (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/tileset_pintada.bin",
+  "orig": "91A400",
+  "nota": "pintada SOY (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/tileset_letras.bin",
+  "orig": "F78F00",
+  "nota": "letras del suelo U P C \u00c1 (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/gb_collage.bin",
+  "orig": "FFAD80",
+  "nota": "fondo de combate collage GB: GIM, SHOP (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/carta_nota_gfx.bin",
+  "orig": "3D1FD4",
+  "nota": "carta de la nota (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/carta_nota_tm.bin",
+  "orig": "B766C0",
+  "nota": "mapa de la carta de la nota"
+ },
+ {
+  "file": "data/gfx/carta_halloween_gfx.bin",
+  "orig": "B19380",
+  "nota": "carta de Halloween (tools/edit_carteles.py)"
+ },
+ {
+  "file": "data/gfx/carta_halloween_tm.bin",
+  "orig": "B19AC0",
+  "nota": "mapa de la carta de Halloween"
+ }
+]

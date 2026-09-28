@@ -1,0 +1,547 @@
+#! Lote 05: Ciudad Carmín (3.5, 9.x), Rutas 5, 6, 24, 25 (3.23, 3.24, 3.43, 3.44)
+
+### 017F928
+¡Aviso!\pNo entréis en la Cueva Diglett. Solicitad un pase de viaje en la comisaría de Ciudad Azafrán.\p-POLICÍA DE AZAFRÁN
+
+### 017FCC1
+Adéntrate en la Pesadilla.
+
+### 0188DDC
+¡Arrr! ¡Qué bien se te da!
+
+### 0194A4F
+Ah, el señor Charlie…\pLe has hecho más feliz. Eso me produce… alegría…
+
+### 0194B65
+¡Métete en tus asuntos!
+
+### 07F4140
+Gimnasio Pokémon de CIUDAD CARMÍN\nLíder: Cmdte. Voltage\lNO ENTRAR\lNO ENTRAR\lNO ENTRAR
+
+### 07F4E4B
+Cuidado con el guarda del astillero. No es quien parece ser.
+
+### 082C32A
+INICIANDO SISTEMA DE CONTRASEÑAS…\nRESPONDA A LA PREGUNTA DE SEGURIDAD:\pSÍ O NO: ¿EL MECANISMO DE ACCIÓN DEL LISINOPRIL ES LA INHIBICIÓN DE LA ENZIMA ACETILCOLINESTERASA?
+
+### 082C3C7
+RESPUESTA DE SEGURIDAD INCORRECTA.\nINICIANDO PROTOCOLO DE DEFENSA.
+
+### 082C401
+RESPUESTA DE SEGURIDAD CORRECTA.\nDESACTIVANDO PUERTA DE SEGURIDAD.
+
+### 082C435
+PUERTA DE SEGURIDAD ABIERTA.\n¿REACTIVAR PUERTA DE SEGURIDAD?
+
+### 082C45F
+PUERTA DE SEGURIDAD REACTIVADA.
+
+### 082C489
+En esta papelera hay algo. Es una hoja de papel hecha una bola…\pLos inhibidores de la ECA se usan generalmente para bajar la tensión arterial y proteger los riñones en pacientes con insuficiencia renal. Entre los inhibidores de la ECA están la mayoría de fármacos con el sufijo “-pril”.
+
+### 082CD7E
+PREGUNTA DE SEGURIDAD:\n¿QUÉ DÍA SE CELEBRA EL DÍA INTERNACIONAL DE LA PIÑA?\pA: 9 DE JULIO\nB: 27 DE JUNIO\lC: 14 DE MAYO\pSITÚESE ANTE LA VENTANILLA CORRECTA Y CONFIRME SU RESPUESTA.
+
+### 082CE31
+PUERTA DE SEGURIDAD ABIERTA.\n¿REACTIVAR PUERTA DE SEGURIDAD?
+
+### 082CF32
+{B01} pulsó un interruptor bajo la ventanilla con la letra C.\p…
+
+### 082CF63
+RESPUESTA DE SEGURIDAD INCORRECTA.\nINICIANDO PROTOCOLO DE SEGURIDAD.
+
+### 082CF9E
+La puerta ya está desactivada. No puedes volver a pulsar este interruptor.
+
+### 082D055
+{B01} pulsó un interruptor bajo la ventanilla con la letra B.\p…
+
+### 082D132
+{B01} pulsó un interruptor bajo la ventanilla con la letra A.\p…
+
+### 082E73F
+PREGUNTA DE SEGURIDAD:\nLAS PAREDES TIENEN IMPLANTADOS EXPLOSIVOS SENSIBLES AL TACTO. LOS NÚMEROS DEL SUELO INDICAN CUÁNTAS BOMBAS HAY JUNTO A ESA POSICIÓN.\pPARA CONTINUAR, SELECCIONE LA PARED QUE NO TIENE EXPLOSIVOS.
+
+### 082E822
+PUERTA DE SEGURIDAD DESACTIVADA.\n¿REACTIVAR PUERTA DE SEGURIDAD?
+
+### 082E8F8
+{B01} apretó los dientes y empujó la pared…\p…
+
+### 082E92F
+RESPUESTA DE SEGURIDAD CORRECTA.\nPUERTA DE SEGURIDAD DESACTIVADA.
+
+### 082E962
+El acertijo está resuelto. Mejor seguir adelante antes de que algo explote.
+
+### 082EA60
+El acertijo está resuelto. Mejor no tocar esta pared, porque seguro que explota.
+
+### 08AA9B1
+¿Oh? Tú eres…\nTienes pinta de entrenar Pokémon, ¿verdad?\p…\n¿{B01}? Qué nombre tan bonito. Encantada de conocerte, {B01}.\pPuedes llamarme Lylia.\p…¿Cómo has llegado hasta aquí? ¿De verdad has cruzado esas aguas por tu cuenta?\pNo, claro que no. Te han ayudado tus amigos, ¿verdad?\pSupongo que ni siquiera buscabas nada en concreto, solo estabas explorando.\pMe alegra saber que, a pesar de todo lo que está pasando, todavía hay gente como tú.\pQuiero que tengas esto, {B01}.
+
+### 08AAB7C
+Pásate cuando quieras, {B01}. ¿Vale?\pNo recibo muchas visitas, aquí llueve bastante.
+
+### 08DADF3
+Es un teletransportador para salir del Gimnasio. ¿Usarlo?
+
+### 08DAE1D
+Aquí ya no queda nada que hacer. Pero quizá no esté mal sentarse un rato.
+
+### 08DBD80
+Torre Carmín\n¡PROPIEDAD PRIVADA!\lPROHIBIDO EL PASO
+
+### 08DBE00
+Este edificio ya estaba aquí antes de que yo naciera. El dueño del terreno entró cuando lo terminaron y nunca volvió a salir.\pLa gente dice que está encantado.
+
+### 08DC300
+¡Eh! ¡Eh! ¿Tienes algún caramelo chulo de fuera?\p¡De mayor voy a ser marinero y comeré caramelos de todo el mundo!
+
+### 08DC480
+¡El astillero no es para críos! ¡Un viaje de verdad por el océano te daría PESADILLAS, peque!
+
+### 08DC680
+Aloja la Piedra del Alma Gris en tu cráneo. Acepta su llamada.\pAdéntrate en la Pesadilla.
+
+### 08DC880
+Antes venían por aquí transatlánticos de lujo de todas partes.\pHoy en día, Carmín es más bien una ciudad de importación y exportación. No es que los marineros nos quejemos. Un trabajo es un trabajo.
+
+### 08DCDC9
+Una foto antigua de un grupo de soldados teselianos. Parecen inseparables, aunque ninguno sonríe.\l“Unidad de Infantería 24A de Teselia, 2039”
+
+### 08DD4C9
+Ojo con dónde pisas en esta ciudad. No te fíes de nadie, ¡ni siquiera de mí! ¡Ni siquiera de mi mujer!
+
+### 08DD549
+El Comandante se encerró en su Gimnasio. Antes intentaba ayudar a regular el comercio en los muelles de Carmín, pero supongo que algo se le rompió por dentro.
+
+### 08DDCC0
+Ciudad Carmín\n“El puerto de los atardeceres exquisitos”
+
+### 08DDD40
+Antes había muchísimos tipos de Pokémon. Cuando tenía tu edad, mi mejor amiga era mi Arcanine. Viajábamos, luchábamos e incluso comíamos juntos.\pAhora descansa en paz. Murió antes de que los fantasmas empezaran a corromper esta tierra. Me alegro de que no viviera para verlo.\pCuida de tus Pokémon, de tus amigos, ahora que puedes. Los Pokémon fantasma siguen siendo Pokémon, y sus almas acaban marchándose.
+
+### 08DE7C9
+Trabajo en el astillero. Solo me estoy tomando un descanso para tomar el aire y echarme un pitillo. ¿Y tú?
+
+### 08DEC8F
+Esta puerta está cerrada con llave… Puaj, el pomo y la cerradura están blandos y húmedos… ¿Qué es esto?
+
+### 08DECE2
+La puerta ya está abierta, lumbrera.
+
+### 08DED80
+Oh, hola, criatura. Me temo que aquí no hay gran cosa para ti. Mi marido falleció hace unos meses, y el pequeño James desapareció cuando tenía más o menos tu edad…\pParece que el señor Charlie y yo estamos solos.\pCriatura, siento que me queda poco tiempo. ¿Te llevarías al señor Charlie contigo? Está solo en este mundo. Su pareja murió hace muchos años; es el último de su especie.\pNo pido mucho. Quizá un Scarly a cambio, para que esparza mis cenizas sobre el mar.
+
+### 08DEF80
+Supongo que te estoy pidiendo demasiado. Perdona las molestias.
+
+### 08DF080
+Un Scarly, por favor.\pEs lo único que te pido.
+
+### 08DF100
+Adiós, señor Charlie. Espero que encuentres amor para dar reposo a tus alas cansadas…
+
+### 08DF1C0
+Metiste la Llave Seta en la puerta…\pLa llave se deslizó reptando en la cerradura. Con un sonido suave y orgánico, la puerta se abre.
+
+### 08DF280
+Aquí se acaba tu camino, peque. No te queda adónde ir.\pNo te dejarán entrar en Azafrán, al norte, a menos que tengas un permiso. Y de cualquier sitio al este de aquí no puede salir nada bueno. Siento decepcionarte, ¡pero el túnel a Ciudad Celeste está invadido por la Gente Seta!\pTampoco es que allí hubiera nada que ver…
+
+### 0AFA249
+En la pared hay una fotografía antigua enmarcada.\pUna pareja mayor sonríe con un Chatot en el hombro de cada uno. Delante de ellos sonríe un adolescente; parece que parpadeó justo cuando sacaron la foto.
+
+### 0B2C080
+Cabaña de la Playa\n¡Llamad a la puerta, por favor!
+
+### 0B80349
+Serví con el Comandante durante la guerra. Se suponía que solo íbamos a ser sanitarios, pero nos pusieron las armas en las manos. Nosotros o ellos, nos dijeron…\pEl Comandante sabía manejar un arma. Muy bien, el condenado. La forma en que le cambiaba la cara cuando llegaba la hora de la guerra… Me daba más miedo él que el enemigo.\pHubo un día en que acabaron con la mitad de nuestra unidad. El Comandante nos salvó a todos y nos sacó de allí con vida. Le debo la vida.\pPero desde ese día, nunca lo he visto dormir.
+
+### 0BC9D40 r
+ENTRADA SOLO PARA ZÁNGANOS DE LA HERMANDAD.\pACCESO AL TÚNEL DESDE CARMÍN HASTA LA GRAN COLMENA DE CELIDON
+
+### 0BC9E09
+Ciudad Azafrán\nEntrada Sur\p¡Se necesita un pase de policía para entrar!
+
+### 0BC9F98
+Pista de Entrenador 102:\p¡Conseguir un pase de la policía de Azafrán es fácil y sencillo!\p¡Con él puedes entrar y salir de Ciudad Azafrán, la moderna metrópolis y hogar del Gran Bruno III y de su exitosísima y famosísima empresa BrunoCorp!\p¡Disfruta de una ciudad a salvo de fantasmas y espectros, y relájate!\p¡Pregunta por el pase de policía a cualquier miembro de la policía de Azafrán!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 0BCBB49 r
+Mi deber es estar alerta y dar la bienvenida a los zánganos hermanos en los túneles.
+
+### 0BCBC40
+¿Pero qué…? ¿No ves que estamos hablando, pedazo de idiota?
+
+### 0BCBCC0
+¿Y tú quién demonios eres?
+
+### 0BCBD40
+¿Un pase de policía? ¡Quítate de mi vista!
+
+### 0BCBE40
+¿Eh? ¿Qué quieres, peque? ¡Estoy ocupado!
+
+### 0BCBEC0
+Me has fastidiado el día, ¡eres lo peor, peque!
+
+### 0BCBF40
+¿Y encima tienes el valor de preguntarme por un pase de policía? ¡Piérdete!
+
+### 0BCC040
+¡Jo, jo, jo! ¿Te vas de Carmín? ¿Qué pasa, te da miedo el océano?
+
+### 0BCC0C0
+¡Ay! ¡Qué miedo das, criatura!
+
+### 0BCC140
+No solo tu forma de luchar da miedo, ¡es que tu cara también! ¡Juajuajua!
+
+### 0BCC340
+¿Has encontrado algún pez bueno? ¿Tienes algo de comer?
+
+### 0BCC3C0
+Qué pena… Otra vez nada.
+
+### 0BCC440
+Los peces de este arroyo no tienen chicha. No puedo comer el azúcar que venden. Acabaré muriéndome de hambre.
+
+### 0BCC540
+Oh, hola. ¿Están creciendo tus monstruos? Veamos.
+
+### 0BCC5C0
+¡Qué pintoresco!
+
+### 0BCC640
+¿Vas camino de Celidon? ¡Allí están creciendo todo tipo de plantas y organismos nuevos! ¡Es una delicia!
+
+### 0BCC940
+Me apeteceeee muchísimo visitar Azafrán y hacer turismo por todo lo de la gran ciudad, pero no consigo un pase de policía.\p¡Todos los agentes con los que hablo son unos inútiles, uf! Odio muchísimo estar aquí en Carmín…
+
+### 0BCD5C0
+¿Eh?\pEstoy echando un vistazo. Los agentes de Azafrán, los hombres seta y aspirantes a entrenador como tú van dejando cosas por todas partes. Algunas son bastante valiosas.\pMira debajo de las rocas, de los arbustos, de lo que sea.
+
+### 0BDF3C7
+¡Hola! ¡Hala, qué pinta más guay tienes! ¿Te apetece que te haga una foto? ¿Un recuerdo del principio de tu viaje? ¡Si no te gusta, no te cobro ni un céntimo! ¿Qué me dices?
+
+### 0BDF48C
+Toma, ponte ahí y… ¡listo! ¿Por qué no le echas un vistazo?
+
+### 0BDF4CD
+¡Sin problema, tranquilidad!
+
+### 0BDF4E5
+¡¡Hala!! Qué foto más incre…\p…Puaj. En realidad das bastante miedo.\pQué asco.
+
+### 0BDF533
+¡¡Hala!! Qué foto más gen…\p…Puaj. La verdad es que das bastante miedo.\pQué asco.
+
+### 0BDF705
+Hola.\pQué cara más triste traes, ¿no? ¿Qué te pasa, crí{o}?\p… Tranquilidad, no hace falta que digas nada. ¿Alguna vez has ido a pescar?\p¿No? Bueno, creo que deberías quedarte esto. Puedes usarla para pescar en cualquier masa de agua.\pEso sí, no te garantizo que encuentres nada vivo…
+
+### 0BDF821
+Pesca un pez bien grande, ¿vale? Y, si te apetece, vuelve a contármelo.
+
+### 0BDF872
+Ah, hola. ¿Qué tal va la pesca?
+
+### 0BDF894
+Ah, has ido un poco más lejos. Se nota que has visto peces más grandes. Qué maravilla.
+
+### 0BDF8EF
+Ah, se nota que has estado en sitios muy lejanos.\p¿Qué tal los peces por allí?\p…\pHe oído que algunos de los peces más grandes suelen esconderse bajo el agua.\pGracias por dedicarme un rato.
+
+### 0BDF9AF
+Ah, llevas los zapatos empapados, jujuju. ¡Seguro que te has sumergido para buscar peces enormes!\p¿Qué clase de peces viste allí abajo?\p…\pEs increíble. Gracias, crí{o}.
+
+### 0BDFA56
+Ah…\pParece que has encontrado algo más que unos cuantos peces grandes.\pNo puedo evitar sentir algo de orgullo sabiendo que has vuelto hasta aquí para hablar conmigo.\pHas llegado muy lejos. Gracias por tu tiempo.
+
+### 0FC9F00 r
+TÚNEL DE LA HERMANDAD\pVOLVED AL SUR, A CARMÍN. EL AGUACERO ES DEMASIADO FUERTE PARA UN CRECIMIENTO ADECUADO.
+
+### 101BFC9
+En la tele echan un programa de naturaleza.\pBrunoCruise sortea unas vacaciones en Sinnoh, justo a tiempo para la floración de las Gracídeas.
+
+### 101C1C9
+En la tele echan un programa de cocina.\pAl parecer, el famoso chef Lirio va a cocinar pronto en un restaurante de Ciudad Azafrán.
+
+### 101C2C9
+En la tele echan un vídeo ASMR de meditación con respiraciones profundas.\pCierra los ojos… Ahora inspira hondo y aguanta el aire.\p3…\p2…\p1…\p…y suéltalo.
+
+### 10655C9
+¡Por favor, pisad con cuidado por el camino de flores!\p¡Gracias!\p- L
+
+### 106B103
+Entrando ahora, en la esquina gris… Procedente de Pueblo Paleta, Kanto…\p¡Es {B01}!
+
+### 106B15C
+Y ahora…\pEntrando por la esquina gris…\p¡El eslabón más débil de Carmín! ¡Ephraim!
+
+### 106B1B7
+Ephraim: ¡No te lo voy a poner fácil!\p¡Esta vez voy en serio!
+
+### 106B1F6
+Ay, madre…\pNo sé ni por qué sigo intentándolo.
+
+### 106B218
+Bueno…\pBuen trabajo, Wobbuffet. Lo has hecho lo mejor que has podido.
+
+### 106B249
+¡Jo, tío!\pEsta vez me he quedado cerca, creo.
+
+### 106B274
+¡Uy!\pCreo que me he equivocado. Tengo que replantearme la estrategia.
+
+### 106B2AF
+¡Porras!\p¡He mejorado, pero tengo que seguir entrenando!
+
+### 106B2E2
+¡Hala!\p¡Esta vez lo he hecho bastante bien!
+
+### 106B305
+¡Rayos!\pBueno, solo puedo dar lo mejor de mí.
+
+### 106B328
+¡¿Qué?!\p¡Casi te tenía!
+
+### 106B341
+¡Jo, tío!\p¡Ha estado bastante reñido, creo!
+
+### 106B36A
+¡La victoria es para {B01}!\p¡Muy bien, quien gana decide! ¿Quieres la revancha?
+
+### 106B3B9
+¡{B01} se retira con una victoria!\p¡Enhorabuena, {B01}! ¡Y qué actuación más horrible la de Ephraim!\pMuy bien, se acerca nuestro próximo combate. ¡Largo de aquí, los dos!
+
+### 106B64D
+¡No tienes ni un duro! ¡Vuelve cuando tengas al menos 500 $!
+
+### 106B688
+¡Hola!\p¿Pierdes combates? ¿Quizá solo quieres inflar un poco tu récord de victorias?\p¡Has venido al sitio adecuado!\p¡Este es el Club de la Lucha de Carmín!\pPor solo 500 $, te buscamos un “reto”, ¡pero no te preocupes!\p¡Es totalmente legal! ¡Un combate de entrenadores de verdad, oficial!\pSi ganas algo de experiencia de combate aquí… ¡les sacarás mucha ventaja a los demás entrenadores!\p¿Qué me dices?
+
+### 106B815
+¡Pues entonces lárgate de aquí!\p¡Venga, fuera!
+
+### 106B84B
+¡Muy bien!\p¡No te arrepentirás! ¡Venga, te metemos en el próximo combate!
+
+### 106BAC9
+Antes era un entrenador malísimo…\p¡Perdía tanto que nadie me tomaba en serio! ¿Y ahora?\p¡Llevo una racha de 55 victorias seguidas! ¡Juajuajua!
+
+### 106BCCB
+Luchando aquí puedes hacerte mucho más fuerte.\pSegún tu nivel, te emparejan con un rival más… “capaz”.\pTodo el mundo gana.
+
+### 106C580
+Oye, creo que me he perdido un poco. ¿Me puedes ayudar?
+
+### 106C600
+¡No me sirves para nada!
+
+### 106C680
+Estoy buscando mi casa, ¿sabes por dónde se va a Ciudad Celeste?\p¡Juraría que era por aquí…!
+
+### 106C780
+¡Lluvia, lluvia, ven a jugar! ¡Cae y cae sin parar!
+
+### 106C800
+¡Kejijiji! ¡Dolor, dolor, vete ya! ¡Que este no tiene tiempo pa’ jugar!
+
+### 106C880
+¡Qué frío, qué frío, ponte el abrigo! ¡Qué tonto, qué tonto! ¿Flotarás conmigo?
+
+### 106C980
+¿Te sabes el de la criatura que entrena Pokémon y se va a pasear por ahí sola?
+
+### 106CA00
+¡Nunca pasa de moda! ¡Ji, ji, ji!
+
+### 106CA80
+¿Por qué no me sonríes?\p¡Qué cascarrabias! ¡Qué poca gracia tienes!
+
+### 106CB80
+¿Buscas medallas aquí? No digas tonterías.\pAquí no ha habido un Gimnasio, ni mucho menos una ciudad, desde hace años.
+
+### 106CC00
+¿Qué? Tsk…
+
+### 106CE80
+¡Has interrumpido nuestro ritual del mar!\p¡Sufre las consecuencias!
+
+### 106CF00
+¡Contempla las consecuencias de tus actos! ¡Cargarás con este maleficio de mi sangre!\p¡¡Aaaah!! ¡¡Aaaah!! ¡¡Aaaah!! ¡¡Aaaah!!
+
+### 106D280
+Eres una vergüenza para los entrenadores de todo el mundo.\pTu forma de luchar es chapucera. Tuve que dejarte ganar porque no soportaba seguir viéndote.
+
+### 106D389
+Mar…\nEl mar…\pAlzaos…
+
+### 106D409
+Lluvia…\nLa lluvia…\pCaed…
+
+### 1297809
+En este mundo no hay nada “legendario”.\pSi se le puede golpear, se puede debilitar. Si vive, puede morir.
+
+### 129C609
+¡Mi padre trabaja en los muelles!\pAyuda a revisar los paquetes y cobra a la gente por enviarlos y esas cosas.
+
+### 129C689
+Mucha gente tiene mucho de lo que quejarse, pero a mí me va bien.\pAntes había muchos canalizadores de fantasmas y otros tipos de doblacucharas.\pMenos mal que ya no están, me daban escalofríos.
+
+### 129C8C9
+En la tele hay algo…\pAlguien se ha dejado un videojuego en pantalla.\pParece que el objetivo es cazar fantasmas con una especie de aspiradora.\pOjalá fuera tan fácil…
+
+### 129C9C9
+En la pared cuelga una vitrina con 2 medallas de la Liga Añil.
+
+### 12AB809
+En la pared cuelga un póster de una famosa estrella del pop de la región de Sinnoh.
+
+### 12AB889
+En la tele hay algo.\pUna estrella del pop da un gran concierto en Ciudad Mayólica, en Teselia.\pLa canción es malísima, pero hay que reconocer que es una gran artista.
+
+### 12ABA09
+¡De mayor quiero ser estrella del pop! ¡He estado practicando mis pasos!
+
+### 12ABA80
+¡Trabajo en los muelles desde que nació la pequeña! Ahora solo estoy yo para cuidar de ella.\pEspero poder darle algún día la vida que sueña.\pEn algún lugar lejos de aquí…
+
+### 12ABB8C
+Hola, ¿qué tal?\p¿Tú también entrenas Pokémon? ¡Yo estoy entrenando la resistencia con mi Wobbuffet!\p¡Vamos a por el desafío de la Liga Pokémon! ¡De momento tenemos 1 medalla! ¡Quedan 6!
+
+### 12AC009
+Es un marco de fotos digital. Un pase de diapositivas de fotos de un hombre posando con varios famosos.
+
+### 12AC189
+En la tele echan algo.\pUn programa de cotilleos de famosos.\pAl parecer, han visto a Aston por el Casino Plateada con una nueva pareja, una famosa Líder de Gimnasio de Galar.\pPero esa Líder de Gimnasio ya sale con otro Líder de Gimnasio de esa región.\pAunque quizá tenga motivos, porque al parecer el chico con el que salía la engañaba con una especie de programa de IA que él creía que era una persona real.\pPero ese programa de IA no era una IA de verdad; en realidad había una persona real detrás de la pantalla…\p…Este drama está jugoso, pero tengo cosas mejores que hacer.
+
+### 12AC409
+Viajo muchísimo.\pAunque mi base está aquí. Por suerte, el coste de vida en Kanto es bastante bajo comparado con otras regiones.\p¡Así que pago menos impuestos por esta casa mientras viajo por el mundo!\p¡A mí me funciona!
+
+### 12C44C9
+Desde aquí hay unas vistas geniales de Ciudad Azafrán.\p¿Nunca te has preguntado cómo será vivir en una ciudad tan grande? Seguro que está bien…
+
+### 12C4A89
+Ñam, ñam, ñam… ¡Tío, estos Coffee Crisp entran de maravilla!\pSiempre me siento diferente cuando me como uno.
+
+### 12C5BB9
+¿Eh?\pNo, tú no eres nadie. Olvida que estoy aquí.
+
+### 12C5BEC
+Gracias, peque. Ahora olvida que me has visto.
+
+### 12C5C16
+¿Buscas a un tal Edwin?\p¿Quién lo pregunta?\p…\pAh, eres a quien mandé llamar. Gracias por hacer la recogida.\pAhora dame ese Riñón.
+
+### 12C5CA0
+{B01} le dio el Riñón a Edwin.
+
+### 12C5CBD
+Muy bien, ahora solo tienes que hacer la próxima entrega al tipo del que hablamos por teléfono.\pYa tienes la ubicación, así que debería ser fácil.\pVa a querer esto.
+
+### 12C5D61
+Vales más de lo que aparentabas.\pBuen trabajo. Ahora olvida que he estado aquí.
+
+### 12C5DB8
+¿Buscas a un tal Edwin?\p…\pMuy bien, ¿y dónde está el “artículo”?\p…\pNo me hagas perder el tiempo. Olvida que he estado aquí.
+
+### 12CEC6B
+Pista de Entrenador 951:\p¡Hola, Entrenadores! ¿Sabíais que…?\p¡La Liga Pokémon se fundó hace casi 90 años!\p¡Sí, allá por 1960 se coronó al primer Campeón de la Liga Añil!\p¡Desde entonces, se ha coronado a otros 26 Campeones de la Liga Añil!\pEntre ellos están vuestros faovroitos, como “El Maestro de los Dragonesc Lance, “El Poder Definitivoc Bruno y (CENSURADO) (CENSURADO).\p¡Si entrenas lo suficiente, quizá tú, NOMBRE DEL ENTRENADOR, puedas ser {el} próxim{o} Campe{on} de la Liga Añil!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 130D811
+L-l-lo siento, estoy ocupado. Solo es-estoy intentando s-sacar el trabajo del día.
+
+### 130D85E
+¡M-me da igual, me da igual! ¡No me hables de los fantasmas! ¡No me hables de las medallas! ¡No me hables de m-m-mis órdenes! ¡M-me da igual! ¡Medaigualmedaigual!\p…\p…por favor. No quiero lidiar con esto, solo qui-quiero centrarme en lo que tengo delante hoy.\p… {C0B5601}\p¡No me estás escuchando! ¡Nadie me escucha nunca!\p¡M-me da igual el mañana! ¡No es m-m-m-m-mi problema!\p¡D-déjame en p-paz! ¡¡¡Déjameenpazdéjameenpaz!!!
+
+### 130DA1B
+Uf… Uf… ¿Tú… solo quieres hablar conmigo? Oh… Eeeh…\pD-dame un segundo… Tengo que c-c-c-c-calmarme.
+
+### 130DC25
+Es Onda T-trueno. D-descarga y p-p-p-paraliza a tus enemigos, y te hace g-ganar algo de tiempo.\pPuedes usar el teletransportador que hay a mi izquierda para s-s-salir de aquí…\pOye, gracias por v-venir a luchar conmigo. Y por escucharme.\pÚ-ú-últimamente he estado m-m-muy metido en mi cabeza, y me c-cuesta concentrarme.\pEres buena gente. Ojalá más p-personas fueran como tú.\pOye, ¿q-qué vas a h-hacer ahora?\p…\pTienes unos objetivos muy amb-b-biciosos, {B01}. Yo siempre q-quise viajar y ver m-m-mundo, pero ni siquiera he salido de C-c-carmín desde que me destinaron a K-kanto…\p¿S-sabes? C-creo que yo también me voy a ir de aquí. Esta región da b-b-bastante miedo, pero…\pQ-quizá me guste. Espero verte pronto.\pGracias, {B01}. Por cierto, mi n-nombre real es M-m-m-maximus.
+
+### 130F809
+En la tele echan un tutorial sobre cómo fabricar una bomba.
+
+### 130F89B
+El agua de aquí está tan asquerosa que tengo que comprar agua embotellada en el Snack Sneasel, y siempre está agotada, así que ahora tengo caries de los cojones de tanto beber refrescos.\pEs por culpa de ese maldito Centro de Datos que construyeron en la Ruta 12.\pDesde que lo levantaron, el agua no se puede beber. Alguien debería volar ese sitio por los aires.
+
+### 130F9DB
+Mmm…\pUn buen…\prefrescante…\pvaso de agua del grifo.\pmmm…\pAhhh…\pQué rico.
+
+### 130FB49
+En la pared hay enmarcada una foto del océano. Quien la haya sacado tiene mucho talento.
+
+### 1312E8F
+Eeey, ¡te damos la bienvenida a Snack Sneasel! Eeeh…\p¿Te puedo ayudar en algo, o algo? Perdona, soy nuevo.
+
+### 1312EE3
+Oh, eh… ¿Con qué necesitas ayuda?\p…\pOh. Eh, perdona. Seguramente seas de esas… personas que no hablan, ¿no?\pLo siento. Bueno, las estanterías son de autoservicio. Eso sí, no robes, o tendré que llamar a la policía.\pA mí me gusta mucho el helado que tenemos. Las Mars tampoco están mal, supongo.
+
+### 1313002
+Oh, eh… Perdona. Siento haber preguntado.
+
+### 1313020
+suspiro…\pT-te damos la bienvenida a Snack Sneasel…\p¿Q-qui…eres… p-probar nuestro…?\p…Ay, Dios. Lo siento.\pNo quería volver a meter la pata… suspiro…
+
+### 13131C5
+¡Eso es!\p¡No paro de recibir quejas sobre ti de todas partes!\p¡VAGO! ¿Acaso les recomiendas a nuestros clientes las deliciosas selecciones de Snack Sneasel?\p¡Has conseguido CERO clientes para el programa SnackyBucks…\p¡¿y por qué llevas la chapa torcida?!\pMe decepcionas… En Snack Sneasel somos una familia, ¡pero también una máquina bien engrasada!\p¡¡¡Las normas para los empleados existen por algo!!!
+
+### 1313381
+Por favor, señor…\pMe gusta este trabajo y me esfuerzo al máximo…\pHe estado haciendo recomendaciones, y…
+
+### 13133DE
+¡No quiero oírlo, VAGO! ¡Este mes has vuelto a terminar tarde los módulos de formación para empleados!\pAsí que, desde este mismo momento… estás…\pDES…\p¡¡¡PEDIDO!!!\p…ahora estás obligado por contrato a hacer tus próximos 30 turnos…\p¡¡¡SIN COBRAR!!!\p…Ahora ficha la salida y termina tu turno.
+
+### 13134EA
+S-sí, señor…
+
+### 13134F7
+Disculpa.
+
+### 14DFA80
+¡Deja que la lluvia te bese la piel! ¡El fin está cerca!
+
+### 14DFB00
+¿Lo sabías?
+
+### 14DFB80
+¡Espero que el pantano se lleve pronto mi alma! ¡No puedo esperar!
+
+### 14DFC80
+¡Uno, dos, tres!
+
+### 14DFD00
+¡Cuatro, cinco, seis!
+
+### 14DFD80
+¡Siete! ¡Siete! ¡Siete!\p¡Siete caminos al fin del mundo!
+
+### 14DFE89
+¿Quién iba a ser, sino yo?\p¡Puedo ser quien tú quieras que sea!\p¿Quién quieres que sea?
+
+### 1595B49
+¡Sufre mi maleficio! ¡Clavo la aguja y saco la vida sangrante de mis venas!\p¡Con este, mi cuchillo… que la herida abierta sienta el roce de este mundo!\p¡Vientos fríos! ¡Cielos nublados!\p¡Volveos dulzura en estos ojos…! ¡FANTASÍAS! ¡CUMPLIDAS!\p¡COBRAD VIDA, PARA MI SORPRESA!
+
+### 1595C47
+¡Sufre, SUFRE!
+
+### 1595C57
+¡Brilla fuerte, luna de octubre!\p¡Que Farrowe pronto me descubra…! ¡Corre veloz, arroyo de plata!\p¡Encuentra mi maleficio o deja que sueñe!\p¡Sufre, SUFRE!
+
+### 1597649
+Esta puerta no solo está cerrada con llave, sino que las rendijas están selladas con cemento.
+
+### 1597C7C
+…¿eh?\pHay una especie de trampilla en el lateral de este sitio.\p¿Intento meterme por aquí?
+
+### 1597CD9
+No me chupo el dedo.\pHay piedras que es mejor no levantar.
+
+### 1597D0F
+{B01} se tumbó en el suelo y metió el cuerpo por la diminuta puerta…
+
+### 159B389
+Quienquiera que fuese, hace mucho que se fue.\pAunque estos huesos están limpios… sin rastro de putrefacción ni desgaste.

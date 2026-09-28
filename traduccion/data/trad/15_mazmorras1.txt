@@ -1,0 +1,658 @@
+#! Lote 15: mazmorras 1.4-1.50 (astillero, barco pirata, túneles de la colmena, Cueva Diglett, sede de BrunoCorp)
+
+### 0172EE7
+¡Bonjour! ¡Soy le pirata francés!\p¡Navego le barco!\p… … …\n¡Jo, jo, jo, jo!
+
+### 0172FC3
+¡Compañero, el capitán está echando la siesta!\p¡Dijo que no lo molestáramos en su camarote, arrr!
+
+### 0173AC5
+¡Jo, jo, abróchame bien! ¡La vida pirata es la vida mejor!
+
+### 0173C52
+¡Arrr! ¡No te voy a dejar bajar cerca del camarote del capitán!
+
+### 0173CC4
+Silencio cerca del capitán… ¡Está echándose una buena siesta! Lleva unos 20 años ya, ¡pero pronto se despertará! ¡Arrr!
+
+### 0173D92
+¡Ay! ¡¿Pero qué demonios, por el orificio del océano?!
+
+### 0173DB6
+Si tuviera 200 años menos… ¡No habrías tenido nada que hacer, grumete!
+
+### 0173E7B r
+Uggehhhh… Zángano hermano, me temo que esta zona no es adecuada para un crecimiento como es debido. Demasiado salada…
+
+### 0174272
+¡Necesito mi cerveza, chaval{a}! ¡Tráemela de la taberna!
+
+### 0174444
+¡Arrr!
+
+### 0174F2C r
+NO TIENES PERMISO PARA ESTAR EN ESTOS TÚNELES.
+
+### 0174F94
+Jejejeje…
+
+### 0174FB3 r
+Crece. Más lejos de lo que puedas imaginar. Ningún humano puede ver lo que vemos nosotros.
+
+### 01750CC
+Uhhehhhehggghhhh…\pAuuu… AAUUUUGHHHHH…
+
+### 017519E r
+La colmena nos avisó de que estabas aquí.
+
+### 01751E0 r
+Pase lo que pase, cualquier contratiempo es temporal.
+
+### 0175437 r
+NO PUEDO DEJAR QUE TE ACERQUES.
+
+### 017564A
+Je…
+
+### 01756AD
+¡Mal movimiento! ¡Te vienes conmigo!
+
+### 017591C
+¡Tienes mucha fuerza, peque! ¿Cómo dejaste que Zigzag te robara el patinete?
+
+### 0175A2F
+Hasta aquí has llegado, mierdecilla.
+
+### 0175AB0
+¡Iiih! ¡No me hagas daño!
+
+### 0175AC8
+¡Eres de los adolescentes más desagradables que he conocido en toda mi vida!
+
+### 07BA380
+¡COMECARNE! ¡FUERA!
+
+### 07BA400
+Urrrhhh... ¡AUUUUUUUU!
+
+### 07BA480
+¡Vete! ¡Comecarne! ¡Fuera cuevas!
+
+### 07BA580
+Peque, la Cueva Diglett es peligrosa. Más te vale no entrar.\p…\pNo voy a hacerte cambiar de opinión, ¿eh? Bueno, pues mejor llévate esto.
+
+### 07D0C4E
+Ten cuidado, ¿vale? No hables con ninguno de los cavernícolas, tú sigue avanzando.\pSolo puedo rezar por que lo consigas. No pierdas la esperanza, peque.
+
+### 07D0CDB
+No hables con ninguno de los cavernícolas, tú sigue avanzando.\pSolo puedo rezar por que lo consigas. No pierdas la esperanza, peque.
+
+### 07D2240
+¡Augh! ¡Forastero! ¡Forastero!
+
+### 07D22C0
+Wurrhhh… Foraster{o} fuerte. Fuerte como roca.
+
+### 07D2340
+Forastero, ¿tú de verdad comer carne y raíz? ¡Carne blanda, raíz amarga! Roca mucho mejor para comer.
+
+### 07D25C9
+¿Foraster{o}? ¿Por qué venir a cuevas?\p…\lA Kungarr no importar, buscar roca. Dejar Kungarr en paz.
+
+### 07D2649
+¡Vuhlja correr! Piernas fuertes para cazar Rockruff, fuertes para trepar cueva, fuertes para cavar agujero.
+
+### 07D2740
+¡Fuera de cuevas YA! ¡Tierra de cueva para gente de cueva! ¡Todo forastero fuera de cueva!
+
+### 07D27C0
+Urh urh… Essungk perder otra vez…
+
+### 07D2940
+¡Foraster{o} no respetar cuevas! Sol veneno para gente de cueva… forastero siempre querer tierra de veneno.\pJur jur jur…
+
+### 07D2B40
+¡Aaah! ¡Nonononono! ¡¡¡No me comas!!!
+
+### 07D2BC0
+¡¡¡NOOO!!! Ah… no eres más que una persona normal.
+
+### 07D2D40
+Perdona, pensaba que eras uno de esos bichos raros de las cuevas. Se comen a la gente, ¿sabes? Solo intento volver con mi tía en Carmín… Hace tiempo que me fui; mi tío y ella deben de estar preocupados…
+
+### 07D38C0
+¡Forastero! ¡Dar Roca Solar o fuera de cuevas!
+
+### 07D3940
+… ¿Roca Solar?
+
+### 07D39C0
+¡MATAR FORASTERO! ¡MATAR!
+
+### 07D3CF2
+Urghh... tú apestar. Usa roca de oler, ten vergüenza.
+
+### 07D3D22
+Ahora ir charco de cueva y lavar.
+
+### 07D3D40
+Forastero tonto seguro ni usar roca de oler, je je.\pSeguro usar roca de oler en Pokémon, je je… ¿de dónde venir forastero?
+
+### 07D3E49
+¡Forastero, esconder ya! ¡Gabna cazar Rockruff, forastero hacer mucho ruido!
+
+### 07D3EC0
+¡¡¡AUUUUUUUUUUU!!! ¡Forastero! ¡Forastero!
+
+### 07D3F40
+Uf uf… No hacer daño Urrhwl, por favor…
+
+### 07D3FC0
+Foraster{o}, tú bueno. Urrhwul sentir luchar. Forastero hacer daño Urrhwul antes. No querer hacer daño nadie, solo querer comer roca.
+
+### 07D4249
+Ah, qué alegría ver a alguien. Soy un científico de Azafrán y he venido a estudiar a los cavernícolas.\pLlevo aquí 2 semanas y todavía no me han comido ni mutilado; sospecho que me consideran uno de los suyos…\pNo pierdas la cabeza, ¿eh?
+
+### 07D6380
+¿Forastero perdido? Jujujuh…
+
+### 07D6400
+Argha hambre… necesitar roca.
+
+### 07D6480
+¿Cómo forastero ver fuera de cueva? ¿Sol veneno no hacer daño? ¿Cómo comer sin roca?
+
+### 07D6589
+Uf…\pEste es el lado de Ciudad Carmín de la Cueva Diglett. Aquí estás a salvo de los salvajes de las cuevas.
+
+### 07D6609
+¡Ay! ¡Anda, una persona! ¿Vas al otro lado? Pues ten cuidado. Yo me estoy escondiendo aquí. He oído historias de locos sobre estos cavernícolas. No quiero arriesgarme a comprobar si alguna es verdad.
+
+### 0830C00 r
+Eh, ¿formas parte de la mente colmena?\l¿Sí? Vale, genial, entonces no tengo que explicarte el sistema de túneles.
+
+### 08AB409 r
+¿Eh? ¿Saltar el hueco? ¿Acabas de llegar?\p¡Tírate sin más! Podrás llegar a los túneles más profundos.
+
+### 08AF7B5
+Espera un momento… ¿hay algo debajo de esta camioneta?\p…
+
+### 08AF7EB
+No sé muy bien qué esperaba…
+
+### 08AF80A
+Esta camioneta no tiene ningún secreto, ya lo he comprobado.
+
+### 08D4840
+Summer: ¡Caramba! ¿¡De verdad eres tú, {B01}!?\p¿¡Qué haces aquí, por los pantalones de un Scraggy!?\p¿¿Sabes cómo salir de este sitio?? ¡Una señora seta me ha perseguido hasta aquí abajo! ¡Intenta matarme!
+
+### 08D4B80
+Jo… ¡Es que no hay quien te prediga, {B01}! ¡Eres lo más!
+
+### 08D4C00
+Summer: Te iba a preguntar si querías que te acompañara para echarte una mano, ¡pero la que necesita protección soy yo!\pAcabo de salir de Celidon, al otro lado de este túnel. ¡Es una pesadilla! No me puedo creer que la Líder de Gimnasio haya dejado que las cosas se descontrolen así… ¡Es un poco triste! ¡Pero siempre me pongo contenta cuando te veo!\p¡Oh! ¡Eh, deberías quedarte esto!
+
+### 08D5200 r
+Jejeje… Debes de ser recluta reciente. Oh, las cosas que vas a ver…\pMe alegro por ti, recluta. La colmena provee… La colmena siempre provee…
+
+### 08D9340
+¿Qué haces en el astillero, peque? ¿Buscas pelea?
+
+### 08D93C0
+¡Que me tiren por la borda! ¡Qué aguante tienes, peque!
+
+### 08D9740
+¡Serías buena mercancía! ¡Jajaja!
+
+### 08D97C0
+Urk… ¿Qué les dan de comer a los críos hoy en día?
+
+### 08D9840
+¡Lo de convertirte en mercancía era broma! ¡Solo construyo barcos!
+
+### 08D9B49
+¡El astillero no es para críos! ¡Largo! ¡Ve a jugar al Huerto de Calabazas!
+
+### 08D9C6C
+Peque, no tengas miedo a cambiar. Da igual cuánto tiempo haya pasado. Si sientes que algo tiene que cambiar, cámbialo.\pSi dejas que el miedo controle tu vida…\p¡Entonces no eres un marinero de verdad! ¡Tienes que vivir la vida a tu manera! Si hay alguien que te hace dudar, ¡sácalo de tu vida!\pEn fin…
+
+### 08D9E00
+Estás de aventura, ¿eh? Pues mira bien en algunas de estas cajas y barriles; puede que haya alguna porquería útil que puedas llevarte.
+
+### 08D9F00
+¿Buscas tesoros en el astillero? No somos piratas, peque. Lo más que te puedo dar son unos tablones de madera.
+
+### 08DA112
+¿Buscas algo? No será esta llave seta, ¿no?\pEsta cosa parece maldita… Intento deshacerme de ella, pero…
+
+### 08DA18E
+Esos cabezas de seta son fuertes, ¡muy fuertes! Te comerán en vida, peque. No parece que tengas fuerza suficiente para enfrentarte a un túnel entero lleno de hombres seta.\pNo te la daría a menos que consiguieras la Medalla Descarga. Si puedes plantarle cara a ese chalado del Comandante, no me sentiría tan mal por mandarte a la muerte. Hasta entonces, ¡piérdete!
+
+### 08DA2ED
+¡Oh, tienes la Medalla Descarga! ¿De verdad sobreviviste a esa trampa mortal? ¡Te juzgué mal!\p¡Quien tenga agallas para acercarse a ese tipo es tan valiente como un marinero de verdad! ¡Jajaja!\pToma, peque… ¡no te me mueras!
+
+### 08DA3B6
+¡Si alguna vez te cansas de la vida estresante, vuelve a verme! Harías un papel estupendo como aprendiz de marinero. ¡Necesitamos más gente con Agallas!
+
+### 08DA445
+¡Eh, peque! ¡Se te ve más fuerte! Cuando no estés de aventuras, ¡ven a contarnos historias de tu viaje! ¡A los marineros nos encantan las historias exageradas!
+
+### 08DAEC0
+¿Estás haciendo el desafío de los Gimnasios? Pues hazte un favor y déjalo. ¡El Comandante se encerró en su Gimnasio y llenó todo el sitio de explosivos!\pNo he visto salir a nadie que haya entrado. ¡Vete a casa!
+
+### 08DB11A
+Tengo aquí material de primera. Un cargamento ilegal de Caramelos Raros, recién traído de Porcelana. ¿Compras? ¿O vendes?
+
+### 08DB196
+Tengo un montón de esto; mi contacto es de fiar. No soy como los otros camellos aficionados de por aquí.\pDíselo a tus amigos.
+
+### 08EB2C9 r
+Espera ahí, seta joven.\pQuizá te convenga volver a los túneles. Fuera no hay más que lluvia. No es bueno para que crezcan las esporas.
+
+### 094C9C0 r
+No deberías estar aquí. Te llevaré para que formes parte de la mente colmena.
+
+### 094CA80 r
+Puede que me castiguen después de esto.
+
+### 094CB00 r
+¿CÓMO HAS LLEGADO AQUÍ? ¿VIENES DE AZAFRÁN A SABOTEARNOS?
+
+### 094CB80
+Auuuuurghhh…
+
+### 094CC00 r
+Hemos caído, pero toda la colmena sabe que estás aquí.
+
+### 094CC80 r
+Esta experiencia se compartirá con el colectivo.
+
+### 094CD00 r
+Tu cuerpo será un buen huésped. Tu muerte traerá vida a la colmena.
+
+### 094CDC0 r
+¿No sabías que este sitio no era seguro para ti?
+
+### 094CE40 r
+La sangre de tus criaturas se ha derramado sobre las setas que tienes debajo. La colmena nunca olvida.
+
+### 094CF00 r
+Puedo saborear tu sangre en mis neuronas. Pronto mis amos la beberán.
+
+### 094CFC0 r
+Nadie es más fuerte que la colmena.
+
+### 094F419
+Amn: ¿No te dije que no volvieras aquí? ¿Qué problema tienes?
+
+### 094F45C
+Amn: Urrghhhhh…\p…\pUghhhhh…
+
+### 094F47E
+Amn: Muy bien.\pHas hecho daño a muchos de nuestros zánganos y también has pisado a algunos de nosotros.\pLa mente colmena dice que ahora tengo que matarte.{C0B9001}\pAdiós.
+
+### 094F500
+Eeeh… Espera un segundo.
+
+### 094F6C0 r
+He fallado a la colmena…
+
+### 094F740 r
+A mi hermano y a mí nos convertirán en zánganos por esto…\pTodo forma parte del proceso.
+
+### 094F800 r
+Mi hermano y yo nos encargamos de vigilar los túneles centrales.\pTambién nos han ordenado capturarte aquí.
+
+### 094F8C0 r
+Nos fusionarán y nos convertirán en zánganos…
+
+### 094F940 r
+Ni siquiera las setas de mayor rango pueden ir al núcleo interior.
+
+### 094FA00 r
+Encontré unas gafas en los túneles. No pienso compartirlas.
+
+### 094FA80
+Ureghhhehhhhhedddegg…
+
+### 094FB00 r
+Auhhhhh… No pienso comparrrrtirlas…
+
+### 094FB80 r
+No hay ninguna diferencia.
+
+### 094FC00 r
+He fallado demasiadas veces. Esta es mi última oportunidad.
+
+### 094FC80 r
+No me preocupa mi destino. Los zánganos son vitales para la colmena.
+
+### 0A5DA00
+Tú… ¡Te has escapado de los fosos de carne!\p¡El Dr. Hexagon te está buscando!
+
+### 0A5DAC0
+¡Ay! Ya veo cómo te escapaste…
+
+### 0A5DB40
+¡No te muevas! ¡Me ascenderán si te atrapo!
+
+### 0A5DBC0
+Por el amor de…
+
+### 0A5DC40
+Eh, ¿qué te crees que estás haciendo? ¡Vas a alterar la productividad de BrunoCorp!
+
+### 0A5DD00
+Espero de verdad que fracases en lo que sea que intentas hacer.\pUn{a} crí{o} fuerte como tú sería un gran recipiente…
+
+### 0A5DDC0
+Jue… Tengo unas ganas de meterte en una cápsula y empalmarte…
+
+### 0A5DE40
+He venido a repartir algunas sustancias, pero parece que este sitio está en plena crisis.
+
+### 0A5DF00
+¡NO!
+
+### 0A5DF80
+Cada vez que luchas contra nosotros, los sistemas de cámaras envían tus datos a la base de datos de vigilancia de BrunoCorp.
+
+### 0A5E040
+¡Ríndete!
+
+### 0A5E0C0
+¡Maldita sea! Tengo unas ganas de que acaben contigo…
+
+### 0A5E140
+¡Estás librando una batalla cuesta arriba! ¡Y por esa cuesta baja una roca gigante!\p¡Y es una cuesta estrecha! ¡Y llevas cemento en los zapatos! ¡Y tienes la clavícula rota! ¡Y además te están lanzando rocas con catapultas! ¡Nunca podrás ganar!
+
+### 0A5E680
+Da igual. Ningún enemigo de BrunoCorp ha sobrevivido mucho tiempo.
+
+### 0A5E740
+Llega tan lejos como puedas, pero nunca lo conseguirás. ¡Ja, ja, ja!
+
+### 0A5E7C0
+¡Eh! ¡Eh! ¡He encontrado al otro!
+
+### 0A5E840
+Alguien en este edificio te detendrá. Tarde o temprano…
+
+### 0A5E8C0
+¿Qué te crees que vas a conseguir entrometiéndote en los asuntos de BrunoCorp?
+
+### 0A5E980
+El Doctor Hexagon dice que quiere trabajar contigo en persona.
+
+### 0A5EA00
+Lo siento, Doctor…
+
+### 0A5EA80
+¡Vas a ser uno de los mejores especímenes del Doctor! Un recipiente fuerte significa un espécimen fuerte.
+
+### 0A5EB40
+Eh, eh, eh, ¿a qué viene tanta prisa? Vas a pasar aquí muuucho tiempo.
+
+### 0A5EC00
+Aquí está toda la Policía de Azafrán. Lo siento, pero si sigues, vas a morir. ¡JA!
+
+### 0A5FD80
+¡Bingo! ¡El Microchip ha abierto la puerta!
+
+### 0A5FE00
+No se abre. Necesita algún tipo de chip.
+
+### 0B2E280
+¿De verdad quieres aprender el arte del Sustituto?
+
+### 0B80717
+¿Eh? ¿Dices que acaba de pasar por aquí?\p¡Uf! Supongo que no quería meterse con alguien con una pinta tan temible y chunga como tú, {B01}.\pSé que este sitio es raro, ¡pero tenía muchísimas ganas de volver a luchar contigo! ¡Te lo advierto, {B01}, ahora soy todavía más fuerte que tú!
+
+### 0B80818
+¡Con Cambio Alma puedes viajar rápidamente a lugares donde ya has estado, más rápido que un Garchomp de naturaleza Alegre después de 5 Danzas Dragón! ¡Deberías volver y saludar a tu padre y al Profesor Oak de mi parte! ¡Yo también lo haré cuando salga de este sitio!\p¡Tómatelo con calma, {B01}! La próxima vez… ¡no tendrás escapatoria!\p¡Chao, pescao!
+
+### 0C5C500
+¡Arrr! ¡Déjame en paz, pisatierras! ¡Estoy revisando el botín de guerra! ¡No vayas husmeando en los asuntos de un pirata! ¡Arrr!
+
+### 0C5CD87
+¡Dentro de este cofre hay algo!\pPesa muchísimo…
+
+### 0C5CDBF
+Aquí ya no queda nada…
+
+### 0C5CDDD
+¡Dentro de este cofre hay algo!\p…pero no puedo cargar con otra de estas.
+
+### 0C5D01A
+Un cañón viejo y robusto. Está bastante maltrecho, pero parece que funciona.
+
+### 0C5D05D
+Ya reventé la puerta de un cañonazo. Ojalá pudiera volver a hacerlo, fue una pasada.
+
+### 0C5D0AA
+Podría cargar esta Bala de Cañón y ver qué pasa.\p¿Sería buena idea?
+
+### 0C5D100
+Seguramente no.
+
+### 0C5D10E
+Seguramente no…\p…pero podría tener gracia.\p…\p{B01} cargó la Bala de Cañón en el viejo cañón.\p…
+
+### 0C5D489
+Un cañón viejo y maltrecho. Está muy desgastado. Seguramente no funcione.
+
+### 0C5E2C0
+¡Arrr! ¿Por qué los piratas no se saben el abecedario?
+
+### 0C5E380
+¡Porque siempre se quedan atascados en la erre! ¡ARRRR! ¡Ja, ja, ja, ja!
+
+### 0C5E440
+No estarás rebuscando en mis cajas y cajones buscando mi tesoro, ¿verdad? No son míos… ¡Pero un pirata coge lo que quiere!
+
+### 0C5E900
+¡Jo, jo, jo! ¿Llevas algo de cerveza encima, chaval{a}?
+
+### 0C5E980
+Urp… ¿Cómo que no tengo estómago? ¡Si tú ni siquiera eres pirata!
+
+### 0C5EE93
+Ya reventé esta pared. Tío, qué buenos tiempos.
+
+### 0C5EF1B
+Nah, seguramente no.
+
+### 0C5EF2E
+Nunca en mi vida he tenido nada tan claro.\p…\p{B01} cargó la Bala de Cañón en el viejo cañón.\p…
+
+### 0C5F35D
+¡Ya arranqué esta puerta de sus puñeteras BISAGRAS! ¡PUM! Fue una pasada, tendrías que haber estado aquí.
+
+### 0C5F426
+¿A estas alturas todavía hace falta preguntarlo?\p…\p{B01} cargó la Bala de Cañón en el viejo cañón.\p…
+
+### 0C5F6F8
+Eh, ¿te acuerdas de cuando REVENTÉ esa pared? Sí, yo también.
+
+### 0C5F797
+Seguramente no…\p…pero podría ser la leche.\p…\p{B01} cargó la Bala de Cañón en el viejo cañón.\p…
+
+### 0C8D449
+¡Holaaaa! ¡Bienvenid{o} a la sede de Bruno Enterprises! ¿Vienes a hacer una visita guiada?\p¡Ooooh, lo sientoooo! ¡Hoy no hay visitas!\p¡Quizá la próxima vez!
+
+### 0C8D4C9
+Piérdete.
+
+### 0C8D609
+Ni de broma vas a subir. Busca otra cosa que hacer.
+
+### 0C8D6B7
+Summer me acaba de mandar un mensaje.\p…\pSummer: Oye, {B01}. Creo que tenemos que hablar. ¿Puedes quedar conmigo en el Huerto de Calabazas, al este de Ciudad Carmín?\pHasta pronto.
+
+### 0EAD8C0
+¡Tú no eres de esta tripulación pirata, arrr! ¡Ni siquiera tienes edad para beberte una jarra de cerveza!
+
+### 0EAD940
+¡Arrr! ¡Más cerveza para mí, ja, ja, ja!
+
+### 0EAD9C0
+¡Los piratas nos tomamos muy en serio lo de beber siendo menor!
+
+### 0EADAC0
+¡Arrr! ¡Tú, sabandija! ¿Qué buscas en estas aguas traicioneras?
+
+### 0EADB40
+¡Si lo que quieres es tesoro, no te daré nada!
+
+### 0EADBC0
+¡Escondí parte de mi botín en ese barril de mi derecha! ¡Ja, ja, ja!
+
+### 0EADD40
+¿Crees que verás el día de mañana? ¡Caminarás por la plancha y verás tu último sueño! ¡Ja, ja, ja!
+
+### 0EADDC0
+¡Maldición!
+
+### 0EAE000
+¡Arrr! ¡Estoy en la casa, perro sarnoso!
+
+### 0EAE100
+¡Arrr! ¡Lo estás consiguiendo, pisatierras!
+
+### 0EAE180
+¿Dónde está mi espía volador, Zumbi? ¡Arrr!
+
+### 0EAE289
+Aquí no hay más que huesos y burbujas.
+
+### 0F198D4
+En este barril no hay nada…\p¡Anda, espera!\p¡Aquí dentro hay un pirata!
+
+### 0F19917
+¡Arrr! ¡Que te sirva de lección para no husmear en nuestros barriles, grumete!
+
+### 0F1A580
+¿Dónde he dejado mi grog, chaval{a}? ¿Dónde lo has escondido, perro?
+
+### 0F1A600
+¡Arrr! ¡Qué porquería!
+
+### 0F1A680
+Rata de sentina… Sé que has dejado mi grog por aquí…
+
+### 0F1A780
+¡Arrr!\p¡Ni se te ocurra respirar! ¡Si no te acuerdas, no tendrás que hacerlo! ¡Ja, ja, ja!
+
+### 0F1A84C
+Arrr… ¡Más te vale no ir fisgando por nuestras cajas, barriles y demás dispositivos de almacenamiento de botín, arrr! ¡O caminarás por la plancha, bribón!
+
+### 0F1AB40
+¡Ven aquí, hij{o} de un comegalletas! ¡¡Acabo de fregar el suelo!!
+
+### 0F1AC00
+¡Quita esas botas sucias del suelo!
+
+### 0F1AC80
+¡Vas por ahí con tus puñeteras botas sucias y dejas un rastro de barro tan espeso que se hundiría hasta el fondo del mar!
+
+### 0F1AEC0
+Esta embarcación solo está descansando hasta la próxima travesía, ¡arrr!\pLlevamos un tiempo esperando… Esperando a que el rey Neptuno deje de llorar y de llover sobre la vieja Celeste.
+
+### 0F1AFC0
+Escúchame bien, zopenco… Si sigues jugando entre barcos y marineros sin cuidado, ¡te espera una auténtica PESADILLA! Así que ojo, ¡arrr!
+
+### 0F1B2C0
+¡Arrr! ¡Estoy furioso! ¿¡Qué demonios es un puñetero ordenador!?¿!?¡?!¿!?¡?!¿!¿!?
+
+### 0F1B380
+¡Este resultado no es el que yo quería! ¡¡¡Estoy todavía más furioso!!! ¡¡ARRR!!
+
+### 0F1B440
+¡Asquerosa rata de sentina! ¡Bellaco! ¡Truhán! ¡Mequetrefe! ¡Zascandil! ¡¡¡ARRGHHH!!!
+
+### 0F1B780
+¡Tenemos que vigilar estos tesoros, arrr! ¡Mantén esa nariz que respira aire bien lejos de ahí!
+
+### 0F1B940
+¡Maldita sabandija!
+
+### 0F1B9C0
+Puede que me hayas ganado en el fragor del combate, ¡pero te gano bebiendo cualquier día de la semana!
+
+### 0F1BA80
+¿Has pasado alguna vez dos semanas en el calabozo? ¿No? ¡Pues vas a descubrir cómo es, canalla! ¡En guardia!
+
+### 0F1BC40
+Chaval{a}, llevo navegando desde que era un crío con carne en los huesos.\p¡Pero solo una vez vi una criatura que no supe cómo interpretar!\pLa vi en una cueva de la lejana tierra de Johto… ¡Una caverna atronadora, con cascadas y una perdición segura! ¡Arrr!\p¡¡¡Era ASÍ!!! ¡Arrr!
+
+### 0F1BF40
+¡Eh! ¡No andes enredando cerca del camarote del capitán!\pEstá echándose una siesta. Una siesta larga…\p¡Pero cualquier año de estos nos llevará al próximo saqueo! ¡Ja, ja, ja!
+
+### 0F1C040
+¡Arrr! ¡En este camarote no hay nada para una sabandija como tú! ¡Vuelve con tu madre!
+
+### 0F1C280
+¡No interrumpas mi rutina, grumete! Cuando el gran capitán despierte de su siesta, ¡le voy a enseñar lo que llevo 15 años practicando! ¡Arrr!
+
+### 0F1C380
+¡Maldición! ¡Me tocará fregar la cubierta de popa por esto!
+
+### 0F1D800
+Hoopa: ¡Nyajajaja!
+
+### 0F3BE00
+Amn: Espera un segundo.\p…\p…\pLa mente colmena dice que no intentas destruir nada. ¿Solo estás mirando? ¿Dando vueltas? ¿Explorando?\pQué tontería. Pero bueno. Eres un peligro mayor si nos ponemos hostiles contigo, así que…\pSí. Tú no te metas con nosotros. Haz lo que quieras. Te he plantado una espora de vigilancia en el oído mientras luchábamos.\pAdiós.
+
+### 0F8BE96
+No. Lo siento, {B01}. No hay combate al final, ni salida. Esto es lo que hay.\pNadie consigue cruzar la Calle Victoria. Ni yo, ni tú.\pHazme lo que quieras, pero el resultado será el mismo.\pAunque, ¿qué se siente? ¿Llegar tan lejos para no encontrar nada?\pJo, jo, jo…\pSi no dieras tanto miedo, ¡a lo mejor podría ver cómo se te rompe el corazón!\p¿Y ahora qué?
+
+### 0F8BFF1
+Maximus: ¿E-estás bien, {B01}?
+
+### 0F8C00D
+¡¿Pero qué demonios?! ¡Tengo que avisar a los mandamases!\p¡Han abierto una brecha en la Calle Victoria!
+
+### 0F8C07C
+Maximus: ¡E-eh, {B01}! N-no te preocupes… ¡T-te cubro las espaldas! Voy a ayudarte a c-conseguir el t-título de C-cam-campe{on}… Cuando m-me c-contaste tu objetivo en C-Carmín, supe que liderarías m-muy bien…\pY-ya eres un{a} g-g-g-gran amig{o}. ¡Vamos, L-l-lylia también está aquí!
+
+### 1053DE3
+¿Eh? Me está sonando una alarma en el móvil.
+
+### 1053E0B
+Bruno: ¡Hola a todos! ¡Aquí el Gran Bruno III! Y, amigos, me temo que traigo malas noticias…\pVeréis, nuestra gran sede de BrunoCorp ha sido… sentaos, que esto es fuerte…\p¡ATACADA POR TERRORISTAS!\pSí, amigos, así es… ¡Dos criminales horribles y retorcidos se habían escapado de la Prisión de Azafrán e intentaron matar sin piedad a varias personas inocentes e incluso a empleados de BrunoCorp!\pPor suerte, yo, el mismísimo Gran Bruno III, ¡derroté sin ayuda a los terroristas!\pPor desgracia, uno de ellos murió en la refriega y escapó así de la justicia, pero…\p¡El otro!\p¡¡¡Consiguió escapar!!!\pLa identidad de est{e} agente del mal no es otra que…
+
+### 105407A
+Bruno: ¡{B01}!\pSí, resulta que todas esas victorias en combate no eran más que una TAPADERA RETORCIDA para un plan malévolo: ¡DAR DE COMER A TODO EL MUNDO A LOS FANTASMAS!\p¡Mirad qué rostro tan horripilante! Pero no os dejéis engañar: aunque sea un{a} crí{o} horrible y malvad{o}, y la peor peor peor persona de la historia, en realidad no es más que un{a} crí{o}, y podéis vencerl{o} fácilmente si os l{o} encontráis por la calle.\pHabrá una GRAN RECOMPENSA para quien capture a este monstruo o aporte información útil a nuestro gran personal de Seguridad de BrunoCorp.\p{B01} sigue siendo un{a} entrenador{a} un poco por encima de la media, con un equipo razonablemente bueno, así que tened cuidado…\pTened en cuenta…
+
+### 10542DA
+Bruno: ¡Que además lleva una PISTOLA MORTAL que no dudará en usar contra nadie, joven o mayor!\pLo más seguro será avisar al empleado de BRUNOCORP leal y simpático que tengáis más cerca.\p¡Me harán llegar la noticia directamente a MÍ para que pueda asegurarme de que mi gente esté A SALVO Y FELIZ, como TODO EL MUNDO DEBERÍA ESTAR!
+
+### 105440E
+Bruno: Así que os pido a vosotros, la animada y maravillosa gente de la región de Kanto:\p¡No os enfrentéis a {B01} si no podéis! ¡Hacedle fotos, grabadle y, por supuesto, informad inmediatamente de su paradero a la línea de emergencias de la Policía de Azafrán!\pEstaremos vigilando de cerca y toda esta pesadilla habrá quedado atrás antes de que podáis decir: “¡Te quiero, Gran Bruno III!”\pHasta entonces, amigos, ¡cuidaos!\p¡Relajaos, mantened la calma, sed felices y confiad en mí, Bruno III!\p¡Con vuestra ayuda, todo es posible!\p¡Bruno III, cambio y corto!
+
+### 106C20C
+Eh, tú.\p¿Quieres hacerte más fuerte, más rápido? Baja por las escaleras.\pTe garantizo que merecerá la pena lo que pagues.
+
+### 12A72C0
+¡Bru-aviso de empresa!\p¡En BrunoCorp Enterprises hay una política de TOLERANCIA CERO con el acoso!\pSi algún empleado te acosa dentro o fuera del trabajo, abre una incidencia en el servicio de ayuda y espera a que la dirección decida quién tiene razón y quién no en esta situación.
+
+### 12A7649
+¡Bru-aviso de empresa!\p¡No olvides sonreír siempre durante tu turno!\pLas cámaras BrunoVision vigilan tus patrones faciales: ¡se impondrá una multa de 1000 $ si la sonrisa de un empleado baja de un ángulo de 120 grados!
+
+### 12A7780
+¡Bru-aviso de empresa!\p¡Siempre se fomentan las disputas personales entre empleados! Tras cada incidente, se DEBE informar al superior de quién ganó y quién perdió la disputa, y también habrá que asistir a una reunión virtual sobre el incidente.
+
+### 12A78C0
+¡Bru-aviso de empresa!\pAntes de empezar tu turno, piensa siempre:\p“¿Qué haría Bruno III?”\p¡Tendrás que expresar tus reflexiones sobre esta pregunta en tu reunión virtual diaria!\p¡Nada de repetir!
+
+### 14DDA95
+¡Eh!\p¡Atrás, peque! ¡Este tesoro lo he encontrado yo primero!\p¿Qué pasa, quieres pelear por él?\p¡Prepárate para acabar espachurrad{o}!
+
+### 14DDAFF
+¡Pero qué demoñooos!
+
+### 14DDB0F
+¿Tantas ganas tienes? ¡Muy bien!\pLlévatelo, pero cuídate las espaldas… En plena noche, te estaré vigilando…\pCuando abras los ojos y veas la primera luz del alba, te estaré vigilando.\pCuando bajes la guardia para comerte tu comida favorita, te estaré vigilando.\pCuando uses esas gafas que me robaste, oh…\p¡Te estaré vigilando!\p…
+
+### 14DDC51
+A ese BICHO RARO se le ha caído algo…

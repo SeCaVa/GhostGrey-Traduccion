@@ -1,0 +1,387 @@
+0	UNKNOWN	Descon.
+1	Grass Quill	
+2	Blade Quill	
+3	Arrow Quill	
+4	Candle	
+5	Lantern	
+6	Luring	
+7	Reanimated	
+8	HollowShell	
+9	ZombieShell	
+10	Braindead	
+11	Fungal Host	
+12	FungalBeing	
+13	Mushroom	Hongo
+14	Swarm Host	
+15	Sea Siren	
+16	Tiny Bird	Pajarito
+17	Farsight	
+18	Predator	
+19	Dog	
+20	Loyal Hound	
+21	Pup	
+22	Wolf	
+23	Key	
+24	Scary Mouse	
+25	Oni Mouse	
+26	Mouse Man	
+27	Flash	
+28	Spark	
+29	Gleam Eyes	
+30	Puppet	Títere
+31	Marionette	Marioneta
+32	Darkness	Oscuridad
+33	Requiem	Réquiem
+34	Beckon	Atrayente
+35	Gripper	
+36	Coin Hunter	
+37	Coin Entity	
+38	Bat	Murciélago
+39	Vampire Bat	
+40	Balloon	Globo
+41	Blimp	
+42	Sweet Eater	
+43	Sugar Rush	
+44	Halloween	
+45	Weed	Hierbajo
+46	Pollen	
+47	Weed	Hierbajo
+48	Temptation	
+49	SkullDragon	
+50	Automaton	
+51	Automaton	
+52	Illusion	
+53	Illusion	
+54	Silence	
+55	Humanshape	F. Humana
+56	Body Bag	
+57	Corpse Rot	
+58	Ghost Whale	
+59	Leviathan	
+60	Grudge	
+61	Sword	
+62	Twin Sword	
+63	Royal Sword	
+64	Barrier	Barrera
+65	Scavenger	
+66	Vulture	
+67	Spider	
+68	Scary Spide	
+69	Teddy Bear	
+70	Animatronic	
+71	Stump	
+72	Elder Tree	
+73	Pumpkin	
+74	Gourd	
+75	Plasma	
+76	Ice Cream	
+77	Ice Soup	
+78	Cream Vapor	
+79	Fire Horse	Caballo F.
+80	Fire Horse	Caballo F.
+81	Death Cap	
+82	Death Cap	
+83	Snow Hat	Gorro Nieve
+84	Ice Face	
+85	Snow Maiden	
+86	DancingBird	
+87	Drone	
+88	Factory	
+89	Shed	Muda
+90	Mask	
+91	Sarcophagus	
+92	AncientSeal	
+93	Coral	Coral
+94	Dead Reef	
+95	Gas	Gas
+96	Gas	Gas
+97	Shadow	Sombra
+98	Devourer	
+99	Coal	Carbón
+100	Heated Fist	
+101	Mind	
+102	All-Knowing	
+103	Black Tea	
+104	Black Tea	
+105	Joker	
+106	Juggler	
+107	Lonely	Solitario
+108	Bone Keeper	Apilahueso
+109	Screech	Chirrido
+110	Magical	
+111	Paradox	
+112	Angler	Rape
+113	Angler	Rape
+114	Mummy	
+115	Curse	
+116	Forbidden	
+117	Bramble	
+118	Tumbleweed	
+119	Bomb	
+120	Worry	
+121	Aggressive	
+122	Great Fish	
+123	Floating	
+124	Floating	
+125	Mimic	
+126	Cloud	
+127	Storm	
+128	Mysterious	Misterioso
+129	Gun	
+130	Sniper	
+131	Headless	
+132	Stalker	
+133	Smoke	
+134	Smog	
+135	Volcano	Volcán
+136	Seaweed	
+137	Bouquet	
+138	Matcha	
+139	Matcha	
+140	Sand	
+141	Sand Castle	
+142	Flame Croc	
+143	Winter Tree	
+144	Winter Ent	
+145	Punching	Puñetazo
+146	Kicking	Patada
+147	LOOK INWARD	
+148	Dead Fish	
+149	FinalAnchor	
+150	Bust	
+151	Sculpture	
+152	Snow Kid	
+153	Snow Hauler	
+154	Protector	
+155	Soft Tissue	
+156	Behemoth	
+157	Toxic Root	
+158	Toxic Dance	
+159	GhostPepper	
+160	GhostPepper	
+161	Antlion	
+162	Luchador	
+163	DrillFossil	
+164	Cactus	Cactus
+165	Scarecrow	Espantajo
+166	Lucky Gnome	
+167	Cat Sage	
+168	Sludge Orb	
+169	SludgeDemon	
+170	Vampire	
+171	Jiangshi	
+172	Star	
+173	Watching	
+174	Cosmic Star	
+175	Smile Skull	
+176	Dance Skull	
+177	Happy Skull	
+178	Greedy	
+179	Indulgence	
+180	Gluttony	
+181	Crafting	
+182	Hoodlum	
+183	Bat	Murciélago
+184	Elecmutant	
+185	Fireworks	
+186	Revival	
+187	Pain	
+188	Dome	
+189	Evolution	Evolución
+190	Lingering	
+191	Caretaker	
+192	Cannibal	
+193	Dragon	Dragón
+194	Dragon	Dragón
+195	Ouroboros	
+196	Sad Rabbit	
+197	Sad Rabbit	
+198	Punished	
+199	Subjugation	
+200	Swift Horse	
+201	Mischief	
+202	Renegade	
+203	Gloomdwell	
+204	Moon	
+205	New Genetic	
+206	Thunder	Trueno
+207	Puppet	Títere
+208	Hibernator	Hibernante
+209	Whisper	Susurro
+210	Dark	Siniestro
+211	Mushroom	Hongo
+212	Mushroom	Hongo
+213	Iron Armor	Cor. Férrea
+214	Jolly	Alegre
+215	Carefree	Optimista
+216	Armor	Coraza
+217	Mud Fish	Pez Lodo
+218	Tinyraccoon	Mapachito
+219	Mold	Moho
+220	Clay Doll	Muñ. Barro
+221	Little Bear	Osito
+222	Lava	Lava
+223	Long Neck	Grancuello
+224	Bagworm	Larva
+225	Bagworm	Larva
+226	Land Snake	Serptierra
+227	Color Swap	Camaleónico
+228	Jet	Reactor
+229	Seagull	Gaviota
+230	Lava	Lava
+231	Fairy	Hada
+232	Fairy	Hada
+233	Balloon	Globo
+234	Scissors	
+235	Delivery	Reparto
+236	Kite	Milano
+237	Armor Bird	Coraza Ave
+238	Dark	Siniestro
+239	Single Horn	Unicornio
+240	Dragon	Dragón
+241	Forest	Monte
+242	Pig	Cerdo
+243	Swine	Puerco
+244	Prim	Cursi
+245	DNA	Adn
+246	Armor	Coraza
+247	Big Horn	Grancuerno
+248	Painter	Pintor
+249	Scuffle	Peleón
+250	Wish	Deseo
+251	Handstand	Boca Abajo
+252	Sea Lion	León Mar.
+253	Scary	
+254	I AM GOD	
+255	Milk Cow	Lechera
+256	Long Nose	Narizotas
+257	Aurora	Aurora
+258	Flyscorpion	Escorpiala
+259	Coral	Coral
+260	Jet	Reactor
+261	Patient	Paciente
+262	Iron Snake	Serpférrea
+263	Symbol	Símbolo
+264	Virtual	Virtual
+265	Volcano	Volcán
+266	Rock Skin	Piel Roca
+267	Hard Shell	Caparazón
+268	Diving	Buceo
+269	Rainbow	Arco Iris
+270	Time Travel	Viajetiempo
+271	Wood Gecko	Geco Bosque
+272	Wood Gecko	Geco Bosque
+273	Chick	Polluelo
+274	Happiness	Felicidad
+275	Electric	Eléctrico
+276	Kiss	Beso
+277	Live Coal	Ascuas
+278	Young Fowl	Ave Corral
+279	Blaze	Llameante
+280	Mud Fish	Pez Lodo
+281	Mud Fish	Pez Lodo
+282	Bite	Mordisco
+283	Bite	Mordisco
+284	Rushing	Lanzado
+285	Cocoon	Capullo
+286	Butterfly	Mariposa
+287	Cocoon	Capullo
+288	Poison Moth	Polilla V.
+289	Acorn	Bellota
+290	Wily	Astuto
+291	Wicked	Malvado
+292	Tinyswallow	Pequebuche
+293	Swallow	Buche
+294	Water Bird	Ave Agua
+295	Feeling	Sensible
+296	Emotion	Sensorio
+297	Embrace	Envolvente
+298	Pond Skater	Zapatero
+299	Eyeball	Globocular
+300	Slacker	Gandul
+301	Wild Monkey	Mono Feroz
+302	Lazy	Holgazán
+303	Trainee	Aprendiz
+304	Ninja	Ninja
+305	Big Voice	Chillón
+306	Loud Noise	Escandaloso
+307	Guts	Valiente
+308	Arm Thrust	Empuje
+309	Polka Dot	A Topos
+310	Compass	Brújula
+311	Darkness	Oscuridad
+312	Deceiver	Tramposo
+313	Iron Armor	Cor. Férrea
+314	Iron Armor	Cor. Férrea
+315	Meditate	Meditador
+316	Meditate	Meditador
+317	Lightning	Relámpago
+318	Discharge	Descarga
+319	Cheering	Ánimo
+320	Cheering	Ánimo
+321	Firefly	Luciérnaga
+322	Firefly	Luciérnaga
+323	Thorn	Espina
+324	Stomach	Estómago
+325	Poison Bag	Bolsa Ven.
+326	Savage	Feroz
+327	Brutal	Voraz
+328	Ball Whale	Ballenabola
+329	Numb	Torpe
+330	Eruption	Erupción
+331	Coal	Carbón
+332	Bounce	Saltarín
+333	Manipulate	Manipulador
+334	Spot Panda	Panda Topos
+335	Ant Pit	Hormigaleón
+336	Vibration	Vibrante
+337	Mystic	Místico
+338	Cactus	Cactus
+339	Scarecrow	Espantajo
+340	Cotton Bird	Ave Algodón
+341	Humming	Cantor
+342	Cat Ferret	Gato Hurón
+343	Fang Snake	Colmillos
+344	Meteorite	Meteorito
+345	Meteorite	Meteorito
+346	Whiskers	Bigotudo
+347	Whiskers	Bigotudo
+348	Ruffian	Rufián
+349	Rogue	Granuja
+350	Clay Doll	Muñ. Barro
+351	Sea Lily	Lila Mar
+352	Barnacle	Percebe
+353	Old Shrimp	Camarón
+354	Plate	Armadura
+355	Fish	Pez
+356	Tender	Tierno
+357	Weather	Clima
+358	Marionette	Marioneta
+359	Requiem	Réquiem
+360	Beckon	Atrayente
+361	Fruit	Fruto
+362	Wind Chime	Sonido Aire
+363	Disaster	Catástrofe
+364	Bright	Radiante
+365	Snow Hat	Gorro Nieve
+366	Face	Cara
+367	Clap	Aplauso
+368	Ball Roll	Rodabola
+369	Ice Break	Rompehielo
+370	Bivalve	Bivalvo
+371	Deep Sea	Abisal
+372	South Sea	Mar del Sur
+373	Longevity	Longevo
+374	Rendezvous	Cita
+375	Rock Head	Cabeza Roca
+376	Endurance	Resistencia
+377	Dragon	Dragón
+378	Iron Ball	Bola Hierro
+379	Rock Peak	Pico Roca
+380	Iceberg	Iceberg
+381	Iron	Hierro
+382	Eon	Eón
+383	Eon	Eón
+384	Sea Basin	Cuenca Mar
+385	Continent	Continente
+386	Sky High	Cielo

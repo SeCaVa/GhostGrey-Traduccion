@@ -1,0 +1,334 @@
+#! Lote 20: grupos 27-32 (casa de Lylia, Morti, desafío final y finales del juego)
+
+### 0F25701
+Lylia: ¡Hola, {B01}!\pGracias por pasarte. ¿Qué te trae por aquí?\p¿Te preguntas por mi pequeña cascada de ahí fuera? Bueno… ¡es una historia bastante larga!\pTe llevaría, pero por desgracia no puedo…\pQuizá lo hayas notado, pero hay una secta muy rara que se ha instalado en el Mt. Moon. Creen en una teoría descabellada sobre la luna, las cascadas y…\pEs un lío. Antes había un sitio llamado Cueva Helada donde los entrenadores podían aprender y practicar Cascada. ¡Pero la Familia Luna destrozó el lugar y se ha quedado la MO para ellos!\pYa intenté detenerlos yo antes, pero…
+
+### 0F25969
+Maximus: ¡E-eh! ¡{B01}! ¿Q-qué haces a-aquí?
+
+### 0F2599D
+Lylia: Perdona, ¿y TÚ qué haces aquí?
+
+### 0F259CF
+Maximus: Oh… p-perdona… Soy Maximus, Maximus Voltage, pero p-puedes l-l-llamarme Max.\pSolo estaba sentado en el j-jardín. T-tienes un terreno precioso, señorita.\pMe r-recuerda a cuando me d-destinaron a Alola.
+
+### 0F25AB6
+Lylia: O-oh… Eeeeh…\p¿Cómo…?\p…Bueno, gracias, Max. La verdad es que soy de Alola. Echo mucho de menos aquello.\p…\pEntonces, ¿{B01} y tú os conocéis?
+
+### 0F25B3B
+Maximus: S-sí… ¡tiene una fuerza de locos entrenando, y s-somos amigos! Aunque d-dé miedo…\p…eeeh. ¡P-perdona! N-no te he preguntado c-cómo te llamas.
+
+### 0F25BD5
+Lylia: Me llamo Lylia. Encantada, Max. Pero ¿cómo…?\pSupongo que ya da igual.
+
+### 0F25C2E
+Lylia: {B01}. Como te decía, intenté recuperar la MO de esa secta, y, por muy fuerte que sea…\p¡Hay demasiada gente allí! No pude hacerlo sola. Pero, si tienes tanta fuerza como dice tu reputación, ¡creo que tú y yo podríamos conseguirlo!\pNos vemos en la entrada de la Base Lunar Paraíso, justo a la izquierda de aquí, al oeste del lago Celeste.\p… si quieres ayudar, claro. Esa secta…\pLa gente de Kanto se merece algo mejor que esto.
+
+### 0F25E03
+Maximus: E-eh, ¿puedo ir con v-vosotros? ¡P-puedo ayudar!\p…y esa señora es guapísima. ¿C-crees que tengo alguna op-portunidad?
+
+### 0F25E88
+Maximus: Vaya…\p…\p¡Y-yo también nos vemos allí, {B01}!
+
+### 0F25EC3
+Lylia: ¡Pero bueno, hola, CAMPE{ON} {B01}!\p¿Estás bien?\p…\pTienes muchas cosas en la cabeza, ¿eh? Bueno, ya que ahora tienes el título de Campe{on}, ¿qué tal un combate?\p¡Yo también fui Campeona, ¿sabes? ¡Y tu forma de luchar…!\pMe recuerda muchísimo a mi hermano, allá en casa. Lo echo mucho de menos. Tú y él tenéis la misma cara de dar miedo, ¡jajaja!\pMe encantaría echar un combate amistoso, para variar.\p¿Qué me dices, {B01}? ¿De Campe{on} a Campeona?
+
+### 0F26073
+Lylia: ¡{B01}! ¡Qué alegría verte!\pOye… de verdad que siento cómo acabó todo en la base lunar…\pPero siempre lo dije en serio. ¡Max, tú y yo hacíamos un gran equipo!
+
+### 0F2611C
+Lylia: Hablando de Max, ¿lo has visto últimamente? Suele traerme la comida a esta hora. Espero que esté bien.\pAunque, por otro lado, le vendría bien ver sitios nuevos.
+
+### 0F261D3
+Lylia: ¡Genial! ¡Enséñame algo que solo pueda hacer un{a} Campe{on}!
+
+### 0F2620E
+Lylia: ¡Hala! ¡Todavía lo tengo!
+
+### 0F26229
+Lylia: Eres absolutamente increíble, {B01}. Me alegro muchísimo de haberte conocido.
+
+### 0F26274
+Lylia: Vuelve si alguna vez quieres luchar otra vez conmigo, ¿vale?\p¡Te estaré esperando!
+
+### 0F262C0
+Lylia: ¡Cuando quieras, aquí estaré!\pSiempre es maravilloso verte, {B01}.
+
+### 0FEA318
+ENCENDIDO…\p…\pINSERTE ROM.\p…\pNO SE HA CARGADO NINGUNA ROM.\p…\pFINALIZANDO PROTOCOLO.
+
+### 0FEA359
+ENCENDIDO…\p…\pINSERTE ROM.\p…
+
+### 0FEA373
+{B01} tiró el Cartucho Viejo al abismo.
+
+### 0FEA39F
+ROM CARGADA CORRECTAMENTE.\p…\pINICIANDO BANCO DE MAPAS 3-12.
+
+### 101C649
+Un cuaderno lleno de notas y dibujos de minerales y piedras raras de otros mundos.
+
+### 101C6C9
+La tele está apagada, pero hay un montón de discos y unidades de datos esparcidos por el mueble.
+
+### 1258FD5
+¡El Regiscream desapareció!
+
+### 125E980
+Pretendes perturbar todo lo que existe.\p¡Pretendes encontrar el corazón de todo!\p¡SUFRE! ¡SUFRE!
+
+### 125EAB9
+¡La gran calamidad! ¡Pretendes maldecirnos a todos!\p¡SUFRE! ¡SUFRE!
+
+### 125F811
+Mucha suerte.
+
+### 125F821
+Tienes todo el tiempo del mundo. Úsalo con cabeza.
+
+### 12605B4
+Aston: ¡Hola, entrenador{a}! Apostando por ti, ¿eh?\pBueno… Si quieres esta Medalla Roca, ¡tendrás que jugártelo todo!\p¡Ya verás por qué me llaman el prodigio “firme como una roca”!
+
+### 1260670
+Ah, porras. ¡Qué chasco!
+
+### 12606FB
+Aston: Así que… ¿Qué crees que pasa a partir de aquí?
+
+### 1261A48
+Erika: Mira cuánto has crecido.\pTus raíces son profundas. Y aun así, veo que empiezan a marchitarse…\p¿Qué decidirás hacer?
+
+### 1261AC5
+Tu crecimiento, tu expansión. Eres simplemente imparable.
+
+### 1261AFC
+Erika: El mundo crece contigo. No lo olvides…\pRecoges lo que siembras.
+
+### 1261D41
+Maximus: E-eh…\pH-han estado diciendo c-c-c-cosas muy malas de ti, {B01}.\pMe p-p-pone muy triste. E-eres mi amig{o}.\p…\p…Me e-encanta este sitio.\pMe preocupo mucho.\p¿T-tú te preocupas alguna vez?
+
+### 1261E1D
+Maximus: S-sí…\pSi le p-p-pasara algo a este sitio, yo…\p…
+
+### 1261E60
+N-no sé qué h-haría…
+
+### 1261E7E
+Maximus: S-s-siempre s-s-seremos a-amigos…\p…¿verdad?
+
+### 1261F00
+¡AVISO!\pLEE CON MUCHA ATENCIÓN EL SIGUIENTE MENSAJE.\pEstás a punto de entrar en el Desafío del Mundo.\pSi decides continuar, te enfrentarás a 7 combates consecutivos, uno tras otro.\pNO HABRÁ DESCANSOS ENTRE LOS COMBATES.\pNO PODRÁS GUARDAR LA PARTIDA ENTRE COMBATES.\pTUS POKÉMON SE CURARÁN POR COMPLETO ANTES DE QUE EMPIECE EL DESAFÍO DEL MUNDO.\p¡MUY IMPORTANTE! ¡LEE CON MUCHA ATENCIÓN EL SIGUIENTE MENSAJE!\pAl entrar, se retirarán todos los objetos consumibles de tu mochila.\pRecibirás los siguientes objetos:\p13 Gansitos (Restaurar Todo)\p13 Besan Laddu (Poción Máxima)\p13 Tartas de Calabaza (Cura Total)\p13 Donuts de Mermelada (Cura Total)\p13 Dream Bar (Éter Máximo)\p13 Pepero (Elixir)\p13 Pasteles de Luna (Revivir Máximo)\pSi pierdes cualquier combate del Desafío, volverás al último lugar donde te curaste y tendrás que empezar el Desafío desde el primer combate.\pSi completas el Desafío y ganas los 7 combates consecutivos, el juego terminará.\pUna vez completado el Desafío, no podrás volver a ninguna parte del juego. Tu partida habrá terminado.\pSi quieres seguir explorando el mundo, elige “No”.\pSi tienes todo listo para descender al Desafío del Mundo, elige “Sí”.\pNOTA: Una vez que elijas “Sí”, no podrás cambiar tu decisión. Tendrás que completar el Desafío o fracasar en el intento.\pSabiendo todo esto…\p¿Entrarás en el Desafío del Mundo?
+
+### 1262A30
+Domino: Tú otra vez…\p¡¿Es que no vas a parar nunca?! Nada es suficiente…\p¡Pues estoy harto!\p¡Estoy harto de ti!\pSe acabó…\p¡SE ACABÓ!
+
+### 1262AB4
+uf…\pNo puedo… respirar…
+
+### 1262ACC
+Domino: snif…\pbuaaa…
+
+### 1262AE3
+Bruno: ¡JUA JUA JUA JUA JUA!\p¡JA JA JA JA JA! ¡JA JA JA JA JA! ¡JA JA JA JA JA! ¡JA JA JA JA JA!
+
+### 12630CC
+Condesa: Asssí que parece que hemosss llegado a esssto…\pPretendes llevar la piedra del alma al corazón de essste mundo, ¿mmm?\p¿Esss esa tu elección?\p¿O tu dessstino?
+
+### 1263167
+Has vencido al mundo. Y aun asssí, no hay nadie aquí contigo.
+
+### 12631AF
+Condesa: En la cima se está muy sssolo. ¿Te queda alguien?\p¿Por qué no desssstruirlo todo? Ya no te queda nada por ver.
+
+### 1265237
+Estás aquí… Me siento sola.\ptan, tan sola… ¿No quieres acompañarme?
+
+### 1265273
+Por fin…\pCarne cruda…
+
+### 126553E
+Fin de la partida.
+
+### 1265B14
+Marcel: snif…\pbuaaa…\pOh, pobre de mí…\pNadie me quiere. A nadie le importo.\pQué triste me pone…
+
+### 1265B6A
+Ohh…\psnif…\pp-pero…
+
+### 1265B7D
+Marcel: Mmm…\pQué triste…
+
+### 1267EDE
+Elisenda: Jejejeje…\pMi corderit{o} ha vuelto a casa.\pMe preocupaba que te quedaras en el extravío para siempre.\pNecesito ver si puedes hacerlo. Necesito saber si eres capaz de clavarle la piedra en el corazón.\pTienes que ser fuerte, corderit{o}.
+
+### 1267FC9
+Jejejejeje… Puedes hacerlo. ¡Qué emoción!
+
+### 1267FF6
+Elisenda: ¡Solo quedan dos!\p¿Lo notas? La piedra nota lo cerca que estás.\pNo dudes, corderit{o}.\p¡Siempre has sido tú!
+
+### 1268620
+Mota: No lo entendía.\pPensaba que la piedra me había elegido.\pPero fue algo temporal.\pLa tuve un tiempo. Eso es todo lo que me toca.\pHay un agujero.\pHay un agujero en el mundo.
+
+### 12686D3
+¡Por fin lo veo! El otro extremo.\pPuro y limpio, gris e inmutable. Un solo mundo, por fin, todo unido.
+
+### 126873D
+Mota: Tu poder…\pSiempre lo supiste. Lo sentiste desde el principio: que eras diferente.\pLa piedra también lo sabe. La piedra lo entiende.\pLa piedra del alma gris.\pTodas estas almas…\pTodos estos años…\pEstaba esperando. A ti.\pTienes que…\p…coger la piedra.\pAgarrarla y clavarla hasta el fondo.\pQue el agujero lo sea todo.\pEste mundo maldito…\pYa no tiene salvación. Lo notas, ¿verdad?\pTodo se escurre, hacia la oscuridad.\pLa felicidad. Es temporal.\pLa tristeza. Temporal…\pTodo en esta vida es temporal. Pero tú tienes el poder de cambiar eso.\p¡Tienes el poder y, por tanto, el deber!\pApuñala el corazón con la piedra.\pAbre un agujero y libéralo; ahoga todo en una pena gris.\pQue el mundo sienta por fin las consecuencias de sus actos.\pCúbrelo todo de asfalto y empieza de nuevo. Que una flor se abra paso a través del hormigón.\pUn nuevo comienzo.
+
+### 1269671
+Gold: …\pQué frío hace…
+
+### 1269687
+Eres tú.
+
+### 1269691
+Gold: No siento las manos.\p…
+
+### 12696B0
+¿Contarle a Gold lo que dijo su madre?
+
+### 12696D0
+{B01} no dijo nada.
+
+### 12696E1
+{B01} le contó a Gold que su madre ha estado ahorrando su dinero para él.
+
+### 1269728
+Gold: Mamá…
+
+### 1269736
+Gold: No pude hacerlo.\pQuería que lo hiciera, pero no tuve fuerza suficiente.\pTú. No sé quién eres, pero…\pAhora está en tus manos. Llévatelo, ese peso frío.\pLa nieve aquí arriba nunca se derrite.
+
+### 126DB32
+Este corazón late…\pLate a contrarritmo. Late a contrarritmo del mundo.
+
+### 126DB8C
+Jonny: …
+
+### 126DB9E
+Junebug: …
+
+### 126F12E
+Summer: {B01}…
+
+### 126F553
+Summer: Hazlo.\pAcaba con esto.\pMe da asco hasta mirarte.
+
+### 12FA9C9
+¡Soy de Plateada!\p…pero no les digas a estos que te lo he contado.
+
+### 12FAAC9
+Quiero irme de Kanto de verdad. Tú también eres de Kanto, ¿no?\pEntonces sabrás por qué quiero irme…\pEs que no hay esperanza.
+
+### 12FABC0
+No puedo hacer gran cosa; son muy estrictos con los kantonianos que se mudan a Johto.\pA menos que seas alguien famoso, seguramente no pase.
+
+### 12FD5C9
+Un altar con una sola vela encendida.
+
+### 12FD649
+En la pared cuelga un pergamino. Está en blanco.
+
+### 12FE25C
+Morti: Ji, ji, ji… Justo lo que esperaba.\p¡Puedes sentir a los espíritus igual que yo!\pEn el futuro que vi para ti, ya te habían capturado y matado.\p¡Qué maravilloso giro del destino que estés aquí, san{o} y salv{o}!\pQué milagro que hayas nacido…\pGracias por entretener a esta vieja alma, {B01}.\pVen, tengo algo que te será muy útil.
+
+### 12FE454
+Morti: ¡{B01}! Por fin te conozco.\pTuve una visión de que quizá vendrías aquí algún día.\pNo me conoces, pero quizá hayas sentido mi alma en el otro plano. La tuya es tan fuerte que la siento desde que eras muy pequeñ{o}.\pBien… Veamos lo fuerte que es tu alma de verdad.
+
+### 12FE567
+Morti: {B01}, veo que todavía tienes algo de confusión.\pTener tanta afinidad con el mundo de los espíritus y las almas… es natural que las cosas te resulten confusas.\pRespira. Cierra los ojos, {B01}.\pInspiiiira…\p…\pY suelta el aire, despaaacio…\pTú y yo compartimos los mismos extraños poderes. Qué don es ser diferentes a nuestra manera.\pY esto… es mi regalo para ti. Lo veo… lo usarás mucho en el futuro.
+
+### 12FE6F3
+Morti: Hace años, tuve una visión de tu muerte.\pQué don es que el destino pueda cambiar y retorcerse.\pLa tragedia que veo ahora para ti… quizá también puedas cambiarla.\pJi, ji, ji. Qué bendición que existas en este mundo, {B01}.
+
+### 131E709
+En la pared cuelga una foto. Un grupo de amigos posando en una playa soleada. Una chica rubia, un chico con camiseta de rayas y otro chico con pantalones cortos naranjas.\pUn chico rubio con cara de pocos amigos mira con mala cara desde el borde de la foto, pero parece que, aun así, está a gusto allí.
+
+### 131EF4F
+Este corazón aún late…\pLa piedra del alma gris palpita. La tienes en las manos.\p¿Cuándo la sacaste? La tienes aquí, en el corazón del mundo.\p¿Por qué?\pLas ondas se anulan entre sí.\pCantan del ruido blanco al negro. No puedes oírlas a la vez.\p…\p…\p¿Apuñalar el corazón del mundo con la Piedra del Alma Gris?
+
+### 131F096
+Este es el final. Este es el fin del mundo.\pPuede que haya algo después. Tú no estarás allí. Ninguno de vosotros estará.\pQuizá sea mejor. Quizá eso lo haga mejor.\p¿Es esto lo que deseas?
+
+### 131F163
+La piedra habla. Dice que ha llegado la hora.\pDice que este mundo ha durado demasiado. Dice que lo viejo debe dejar paso si lo nuevo ha de nacer alguna vez.\p…\p¿Destruirás la piedra del alma gris?
+
+### 131F21B
+{B01}\napretó la piedra con fuerza.\pEste corazón aún late…
+
+### 131F24D
+{B01}\napretó aún más la piedra del alma gris.\pEste corazón aún late…
+
+### 131F292
+Estás dudando.\pNo pasa nada.\pPiensa…\p…\p…\pahora…
+
+### 131F423
+{B01}\ptomó\pla piedra del alma gris\py la hundió\pen\pel corazón del mundo\p\p\p\p\p\p\p\neste corazón…
+
+### 131F47C
+Pokémon: Edición Ghost Grey\nFin.
+
+### 131FBA3
+{B01}\ptomó\pla piedra del alma gris\py la aplastó en su mano\phasta que se hizo añicos\py lo único que quedó\pfue polvo.\p\p\pDespierta.
+
+### 131FD39
+Papá: Eh, {B01}. Espera un momento.\pSé que tienes muchas cosas entre manos, pero…\p¿Quieres quedarte un rato?\pIba a ver “Chopping Mall”. Me encantaría verla contigo.\p¡Solo si te apetece, claro! ¡Seguro que un{a} Campe{on} tiene muchas cosas en la cabeza!
+
+### 131FE41
+Papá: Era la peli favorita de tu madre.\pCuando empezamos a salir, ¡siempre ponía esta peli, cada vez que quedábamos!\p¡La vimos tantas veces que acabé harto de ella!\pLe dije: “¡Theodora, te quiero, pero esta peli es una tortura!\p¡Esas frases tan cutres, la banda sonora, puaj! ¡¿POR FAVOR podemos ver otra cosa?!”\pPero lo gracioso es que…\p¡Ella pensaba que era MI peli favorita, y por eso la ponía una y otra vez!\p…\pLe habría encantado ver “Chopping Mall” contigo.\p…\pTe quiero, {B01}.\pAlgún día harás del mundo un lugar mejor.
+
+### 1320081
+Papá: …\pNo pasa nada. No es para todo el mundo.\p¡Hay que saber disfrutar de las cosas que son un poco malas, ja, ja!\pTe quiero, {B01}. Algún día harás del mundo un lugar mejor.
+
+### 132012B
+\p\p\p\p\p\pPokémon: Edición Ghost Grey\nFin.
+
+### 13208C0
+Lylia: ¡Cuídalo bien, es un viejo amigo!\p…¡y bastante travieso!
+
+### 13209C0
+Lylia: Si alguna vez cambias de opinión…\p¡Aquí estaré!
+
+### 1320A40
+Lylia: Esto… ¡no es un Swablu!\pCreo que puedes atraparlos por el bosque que hay cerca de mi casa, en la Ruta 24.
+
+### 1320E00
+Lylia: ¡Pero bueno, hola, {B01}!\p¡Bienvenid{o} a mi casita de vacaciones! No es gran cosa, pero…\p¡Viene bien alejarse de la lluvia de vez en cuando!\p¡Pero oye, enhorabuena otra vez por la gran victoria! ¡CAMPE{ON} {B01}!\pEstoy muy orgullosa… De hecho, ¡tengo una propuesta para ti!\p¿Quieres intercambiar Pokémon conmigo? ¡Estoy buscando un Swablu! ¿Tienes uno? ¡Te lo cambio por un Pokémon bastante raro que no se encuentra por aquí!
+
+### 1321080
+Lylia: ¡¿{B01}?!\p¿Qué tal está Nebby?\p¡Ooooh… veo que te tiene muchísimo cariño!\p¿Has visto a Max de camino aquí? No sé dónde está, ¡pero salió a dar un paseíto justo antes de que llegaras!\p…pero ya conoces a Max. Aparecerá en algún momento.
+
+### 13212C9
+Un altar con una sola vela encendida.\pCuelga una foto de un joven teniente Maximus Voltage mirando hacia un lado con un grupo de otros tres soldados.\pNo pueden tener más de 18 años en esta foto…\p“Segunda Guerra Psíquica de Teselia, 2038”
+
+### 1321409
+En la pared hay un poema clavado. “El jardín de Lylia”\npor Maximus Voltage\p…\p…No creo que esto estuviera pensado para que lo leyera yo.
+
+### 132150C
+En la tele echan algo.\pUna peli sobre sirenas. Parece bastante triste.
+
+### 14E3DC0
+Summer: ¿Qué haces aquí?\pEsta es mi casa, ¿sabes?\p¿Crees que también es la tuya?\pAquí ya no queda nadie, {B01}. El Profesor Oak, yo, tú…\p¡Todos nos fuimos de Pueblo Paleta!\pDejamos a tu padre solo, y luego tú me dejaste a mí.\p¿Verdad?\pMe lo prometiste. Tú y yo, el mejor equipo de entrenadores del mundo.\pMe lo prometiste.\pPero mentiste, {B01}. Yo lo di todo, y tú te lo llevaste.\pEl Profesor Oak era como el padre que nunca tuve.\pTú me lo quitaste.\pMe robaste mi sueño.\pMataste a mi mejor amig{o}, {el} que tenía en mi cabeza, la persona que creía que eras.\p¿Quién eres ahora, cuando te miras?\pCuando te miro, no veo nada más que un agujero.\pYa no te conozco, {B01}.\pNunca te importó nadie ni nada más que lo que necesitabas.\pNunca te importé yo. Creía que tú me importabas.\p¿Pero sabes qué?
+
+### 14E4140
+No. Ya no me importas.\pYo…\pTE ODIO, {B01}.\pOjalá nunca te hubiera dejado entrar en mi corazón. Ojalá nunca hubieras formado parte de mi sueño.\pOjalá no nos hubiéramos conocido nunca.\pNo has hecho nada en este mundo más que hacer daño.\pEres como un sumidero que traga y traga y nunca se llena.\pLo intenté, me esforcé muchísimo por llenar ese agujero.\pPero estoy cansada, {B01}.\pEstoy cansada de ti. Este mundo está cansado de ti.\pYa hemos tenido bastante.
+
+### 154B0C0
+Zarala: ¡Alo-la!\p¡Me alegro de volver a verte, {B01}!\pKanto da bastante miedo, ¿eh? ¡Pero me encanta! Es muy mi rollo, jejeje…\p¡Deberías venir a ver algunos de los fantasmas que tenemos en Alola algún día!
+
+### 157FD60
+¡Bienvenid{o} a la frontera entre Johto y Kanto! ¿Quieres cruzar?
+
+### 157FDA3
+Muy bien, pues sigue tu camino.
+
+### 157FDBD
+Muy bien. Déjame ver tu documentación.\p…\pMmm…\p…lo siento, parece que no puedes pasar por aquí.
+
+### 157FE1A
+Déjame ver tu documentación.\p…\p¡Oh!\p¡T-tú eres…!\p¡Eres {el} Campe{on} {B01}! Perdona, no te había reconocido. ¡Claro que puedes pasar!
+
+### 157FE8F
+¡Adelante, Campe{on}!

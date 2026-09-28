@@ -1,0 +1,418 @@
+#! Lote 30b: objetos, movimientos y textos sueltos del hack (0xA00000+)
+
+### 0A2B8C0
+La pistola del Dr. Hexágono. Está\ncargada. Theodora dijo que solo la\nusara cuando fuera imprescindible…
+
+### 0A58A80
+Cuando reflexionas, ¿qué te hace\nfeliz?
+
+### 0A605C0
+Un microchip que debería abrir la\nbarrera de cables del 7.º piso de\nEmpresas BrunoCorp.
+
+### 0AAE300
+Un chip cerebral para Pokémon.\nGana algo de Exp. sin tener\nque combatir.
+
+### 0ACA1C0
+Ensarta al rival\ncon un cuerno o un\npico de dos a\ncinco veces.
+
+### 0ACA280
+Un ataque físico\nen el que asusta\nal rival y se\nlanza a por él.
+
+### 0ACA340
+Un martinete\ndemoledor que\npuede paralizar\nal rival.
+
+### 0ACA400
+Ataca con fuerzas\nsiniestras que\natrapan al rival de\n2 a 5 turnos.
+
+### 0ADAD00
+Purga el alma del\nrival y le hace\nperder sus\ninmunidades Fantasma.
+
+### 0AE6C40
+Abofetea al rival\nde 2 a 5 veces con\nbrutalidad y sed\nde sangre.
+
+### 0AE6D00
+Golpea al rival\ncon una lluvia de\nmanos espectrales\nde 2 a 5 veces.
+
+### 0AE6DC0
+Lanza una seta de\nla suerte al rival\nque reparte buena\nfortuna a todos.
+
+### 0AE7E00
+Usa el poder\npsíquico para\nromper muros y\nbarreras invisibles.
+
+### 0AF6340
+Una gominola dulce con forma de\npez. Sube la Velocidad en un apuro.
+
+### 0AF6840
+Un trozo amargo de regaliz que cura\nel envenenamiento al llevarlo o usarlo.
+
+### 0AF6A40
+Una gominola que sube una\ncaracterística en un apuro. Al parecer,\nes shaqaliciosa.
+
+### 0AF6D40
+¡Una bola frita y dulce de masa de\ngarbanzo, azúcar y especias! A los\nPokémon les encanta. Cura los PS.
+
+### 0AF6E80
+Un pastel glaseado con el dibujo\nde Zebstrika. Restaura la mitad de\nlos PS de un Pokémon debilitado.
+
+### 0AF71C0
+Cereales azucarados con algo de\nminerales. Restaura 50 PS de\nun Pokémon.
+
+### 0AF7400
+Una bebida dulcísima hecha con\npolvos de sobre. Restaura 80 PS\nde un Pokémon.
+
+### 0AF78C0
+Un dulce picante con el centro de\ngominola. Descongela en combate.
+
+### 0AF7980
+Una gominola ácida con forma de\ndinosaurio. Restaura PS, pero\npuede causar confusión.
+
+### 0AF8900
+Hay que estar loco para darle esto\na tu Pokémon. Te odiará, pero\nrestaura 200 PS.
+
+### 0AF8D40
+Un dulce de leche condensada y coco\nque sube el At. Esp. ¡Uma delícia!
+
+### 0AF9680
+Casa de Marionetas
+
+### 0B05800
+Isla del Tesoro
+
+### 0B05880
+Zona Restringida
+
+### 0B05900
+Cabaña de la Costa
+
+### 0B2E540
+¡¡¡FELIZIDADES, {B23}!!!
+
+### 0B76D40
+Halloween
+
+### 0B76DC0
+Fantasma
+
+### 0B76E40
+Sanguino
+
+### 0B76EC0
+Mancha
+
+### 0B76F40
+BrunoCorp
+
+### 0B76FC0
+Seta
+
+### 0B77040
+Voltage
+
+### 0B79640
+La ficha de entrenador de un chico\nmuerto llamado Dezo, al que di\nsepultura. Descanse en paz.
+
+### 0B7FFC0
+Ragecandybar{C1350}{C0600}75 fichas
+
+### 0B80040
+Spewkpa{C1355}{C0600} 180 fichas
+
+### 0B800C0
+Shedinja{C134B}{C0600} 2.800 fichas
+
+### 0B80140
+{C0600}1.000 fichas{C1340}$4,999
+
+### 0BC9700
+Med. Caos
+
+### 0BC9780
+Med. Hambruna
+
+### 0C2D380
+Lance: Así que Blanca no ha podido detenerte, ¿eh?\pNo me sorprende. Como siempre, esa mujer es demasiado emocional para estar a la altura de un Campeón. ¡Su propio ego la frena! Al final, todo sigue igual. La gente no cambia. Las cosas siguen igual. Todo vuelve a un estado estable.\p¡{B01}!\pSabiendo esto, ¿para qué te molestas? Has arriesgado tu vida, la de tus amistades y tu orgullo. Muchísimos han intentado cambiar el statu quo, pero siempre vuelve a ser como antes.\pEstancarse está en la naturaleza humana.\p¿Y por qué no? Las cosas están bien como están. Sigues con vida, ¿no? ¿Comes bien? ¿Tienes ropa? ¿Por qué tanta rabia?\pEres demasiado joven para entender cómo funciona el mundo. Deberías haber esperado. Las cosas mejoran con el tiempo.\pY aun así… aquí estás, sin una pizca de gratitud. Quieres derribar algo que ni siquiera entiendes.\pTe ofrecería una salida segura a cambio de tu rendición, pero…\pTú y yo sabemos que has caído demasiado bajo. {C0B5601}\lNo hay camino de vuelta a casa.\pContigo o sin ti, este mundo seguirá igual.\pHay diferencias entre ser peque y ser Campeón. Después de esto, lo entenderás. ¡Deja que Lance, el Maestro de los Dragones, te ponga en tu sitio!
+
+### 0C5EBD6
+Pues claro que sí.\p…\p{B01} metió la Bala de Cañón en el viejo cañón.\p…
+
+### 0C8B440
+¡Una masa frita increíblemente rica\ncon azúcar y canela! Restaura\n10 PP de un movimiento.
+
+### 0C8B640
+Chocolatina cremosa de chocolate\nblanco. ¡Sabe a sueño! Restaura\ntodos los PP de un movimiento.
+
+### 0C8B700
+¡Galletas alargadas bañadas en\nchocolate y virutas! Restaura 10 PP\nde todos los movimientos.
+
+### 0CAD2C4
+Wario: ¡GRRRR! ¡EH, TONTAINA! ¡ME HAS CABREADO DE VERDAD! ¡WAAAAAAHHHH! ¡AHORA VAMOS A PELEAR!
+
+### 0CAD31F
+¡¡¡DIOS MÍO!!!
+
+### 0E9C940
+Aplasta al rival\ncon un arma larga\no un apéndice.
+
+### 0E9C9C0
+Una fuerza siniestra\naplasta al rival.\nPuede hacerlo\nretroceder.
+
+### 0EA40C0
+Un ataque temerario\na plena potencia\nque ignora el\ndolor.
+
+### 0EA4180
+TODOS MORIRÁN\nNI TÚ ERES LA\nEXCEPCIÓN\nSOLO LA MUERTE ES
+
+### 0EA4200
+Desangra al rival\ny le quita la mitad\nde sus PS.
+
+### 0EA4280
+Un ataque codicioso\nque además roba el\nobjeto que lleva\nel rival.
+
+### 0EAC600
+Lanza una llama\narcana al rival.\nPuede bajar su\nAt. Esp.
+
+### 0EAC740
+Una señal espectral\nrapidísima que\nconfunde al rival\nantes de que actúe.
+
+### 0EACB80
+Golpea con un hueso\nenvuelto en llamas\nespectrales. Puede\nbajar la Defensa.
+
+### 0F32AC0
+Piedra peculiar que hace evolucionar\na ciertas especies de Pokémon.\nSu gris brilla como el sol.
+
+### 0F32B80
+Piedra peculiar que hace evolucionar\na ciertas especies de Pokémon.\nAl sostenerla, crece poco a poco.
+
+### 0F32C40
+Piedra peculiar que hace evolucionar\na ciertas especies de Pokémon.\nPero ¿por qué usarla? Es mía…
+
+### 0F33200
+Una bolsa de suero llena de la\nsangre de alguien.\nSe vende barata.
+
+### 0F33400
+La bebida más increíble, fresca y\nGUAY del universo. Cura y reanima\na todo el equipo.
+
+### 0F34100
+Ataca por la\nespalda desde un\nagujero dimensional\ne ignora Protección.
+
+### 0F3D7C0
+Whale\ndibujó.\n¡Whale compuso él solito como el 99 %\nde la música! ¡HALA! Y las sintonías.\nAsí que sube el volumen (si quieres).
+
+### 0F69900
+Oak: ¿Qué tal mi viejo Pokémon, {B01}?\p¡Jaja, te tiene mucho cariño! Cuida de Summer, ¿vale?
+
+### 0F82DC0
+Catacumbas Fuji
+
+### 0F843C0
+Un fragmento del Espejo de las\nAlmas. Dicen que puede separar\nel alma del cuerpo.
+
+### 0F8A180
+Mongo me vendió esta chapa.\nPuede mejorar un IV, sea lo que\nsea eso.
+
+### 0F8A4C0
+Un esteroide anabolizante inyectable\nque sube un nivel el Ataque de un\nPokémon en combate.
+
+### 0F8A680
+Un bloqueador de receptores de\nandrógenos que sube un nivel la\nDefensa de un Pokémon en combate.
+
+### 0F8A740
+Oxicodona con paracetamol. Despeja\nla mente de un Pokémon y sube un\nnivel su At. Esp. en combate.
+
+### 0F8A900
+Una inyección de semaglutida que\nhace adelgazar y sube un nivel la\nVelocidad de un Pokémon en combate.
+
+### 0F8AD00
+Suelta una niebla afrutada que\nevita que bajen las características\ndel equipo durante 5 turnos.
+
+### 0FBBBBB
+¡¡¡Clef-clefairy!!!
+
+### 0FBCEE7
+Padre: ¡Contemplad el poder\nde la gloriosa luna!
+
+### 0FC95C0
+¡Quien se lo encuentra se lo queda!\nY mira lo que he encontrado, jeje…\n¡Un chollo!
+
+### 0FE79C0
+desconocido
+
+### 0FEAB80
+aula de informática
+
+### 0FEAC00
+Tierras Ignotas
+
+### 0FFEF00
+¡Se acerca un {B06} salvaje…!\p
+
+### 0FFEF80
+{C101100}Has escapado con vida.
+
+### 0FFF000
+Uno debe ganar,\nuno debe perder.\lNo se puede huir de un combate contra un entrenador.\p
+
+### 0FFF0C0
+No hay escapatoria.\p
+
+### 0FFFD69
+¡La habilidad de {B02}\ncambió a {B03}!{C09}
+
+### 0FFFE10
+Un dulce canadiense de café y\nchocolate con barquillo.\nCambia la habilidad de un Pokémon.
+
+### 1019200
+Objeto para llevar. Un gorro de\npunto calentito que potencia los\nmovimientos de tipo Normal.
+
+### 1019E80
+Objeto para llevar. Una pluma\nsuelta de un ave extinta. Potencia\nlos movimientos de tipo Volador.
+
+### 101B611
+Halloween.\pSiempre soy más alto.
+
+### 1062440
+Una gema brillante y luminosa de\nla Cueva del Norte. Se vende a\nun precio altísimo.
+
+### 106F900
+¡Disfruta del movimiento!
+
+### 1077140
+¡Es un osito de gominola! ¡Un\nsubidón de gominola al Ataque!
+
+### 1077280
+¡Naranja por fuera y chocolate\npor dentro! Restaura PS.
+
+### 10773C0
+Un dulce de chocolate y crema de\ncacahuete con forma de calabaza.\nRestaura PS, pero puede confundir.
+
+### 1077500
+Caramelo de Teselia con centro de\nZreza, chocolate y cacahuete.\nCura PS, pero puede confundir.
+
+### 10775C0
+Se puede moler hasta hacer polvo\ncomo ingrediente para comida rica.
+
+### 10895B0
+La liga de entrenadores Sneaslers juega esta semana contra los Geodudes de Plateada.\pMal emparejamiento para los Geodudes, pero igual lo sacan en el último momento.
+
+### 108C2D9
+Bruno III en la pared. Sale muy apuesto.
+
+### 1240F40
+docs/mapa1-110.exe
+
+### 12562C0
+Gruta Raíz Profunda
+
+### 126D9C0
+Corazón del Mundo
+
+### 126E138
+Te odio.
+
+### 126E144
+No eres más que un estorbo.
+
+### 1282780
+Lago Lucidus
+
+### 128A940
+Salida
+
+### 1295040
+Plataforma Marina
+
+### 12B01C0
+Un horrible muñeco de plástico del que\nhuiría cualquier persona o Pokémon\nsensato. Debería darte vergüenza.
+
+### 12C5A80
+Un disco duro sospechoso lleno de\narchivos para un tal “Artemis”.\nMe da asco solo con tenerlo.
+
+### 1310780 r
+Objeto para llevar. Proporciona.\nEsta seta potencia los\nmovimientos de tipo Veneno.
+
+### 1311240
+Objeto para llevar. Al clavarlo en\nla piel, los movimientos de tipo\nAcero son más fuertes.
+
+### 1318C80
+Una garra primitiva para clavársela\na un Pokémon. El dolor y la adrenalina\npueden hacer que ataque primero.
+
+### 1318E80
+Hierba fresca para que la fume un\nPokémon. Restaura las características\nbajadas. Solo se puede usar una vez.
+
+### 1319600
+Objeto para llevar. Un bote de\ninsecticida que mata a los bichos y\npotencia los movimientos Planta.
+
+### 131BD40
+Objeto para llevar. Esta venda sube\nel Ataque, pero solo permite usar\nun movimiento.
+
+### 14DEA40
+Un regalo muy querido de un amor\nperdido. El portador recupera algo\nde PS al golpear al rival.
+
+### 14DEB00
+Objeto para llevar. Una calabaza\nsiniestra que potencia los\nmovimientos de tipo Fantasma.
+
+### 151B8C0
+Objeto para llevar. Un chip de\nhackeo cerebral que potencia los\nmovimientos de tipo Eléctrico.
+
+### 1556200
+Una antigua piedra con forma de\nestrella. Emana un aura cósmica\nextraña… Se vende cara.
+
+### 159E300
+Firme
+
+### 159E380
+Osada
+
+### 159E400
+Serena
+
+### 159E480
+Audaz
+
+### 159E580
+Activa
+
+### 159E600
+Agitada
+
+### 159E680
+Alegre
+
+### 159E700
+Modesta
+
+### 159E800
+Mansa
+
+### 159E880
+Rara
+
+### 159E900
+Plácida
+
+### 159E980
+Grosera
+
+### 159EA80
+INDIVIDUAL
+
+### 159EB00
+DOBLE
+
+### 159EB80
+ELIMINATORIA
+
+### 159EC00
+COMBINADO
+
+### 159EC80
+Cauta
+
+### 159ED00
+Ingenua
+
+### 159ED80
+Miedosa
+
+### 159F080
+Siguiente

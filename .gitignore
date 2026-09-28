@@ -1,0 +1,22 @@
+# ROMs, partidas y parche original del hack (no se distribuyen)
+*.gba
+*.gb
+*.sav
+*.ss[0-9]
+GhostGrey.bps
+
+# Capturas sueltas y programas locales
+/*.png
+mgba/
+pokeapi/
+
+# Salida de la compilación
+traduccion/build/
+__pycache__/
+*.pyc
+
+# Volcados con texto de los juegos (se regeneran con tools/compilar.py)
+traduccion/data/inventory*.json
+traduccion/data/vanilla_pairs*.json
+traduccion/data/lotes/
+*.bak.json

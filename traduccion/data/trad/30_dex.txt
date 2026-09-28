@@ -1,0 +1,491 @@
+#! Lote 30: entradas de la Pokédex propias del hack (3 líneas)
+#! ancho 228
+
+### 0A84F80
+Se pasa horas cada noche peinando su\npelo de hojas. Si lo interrumpen, Dartrix\ncoge una rabieta despiadada.
+
+### 0A85040
+Con los sentidos agudizados, reacciona\nmás rápido que un parpadeo. Por eso\nnunca duerme; siempre está alerta.
+
+### 0A85100
+Mewthree es un Mew totalmente sintético,\nhecho con células de Mewtwo. Murió casi\nal instante, pero su poder psíquico vive.
+
+### 0A851C0
+Tras la catástrofe de la central, los\nMagnemite empezaron a repararse entre sí\ny a funcionar por fuerzas desconocidas.
+
+### 0A85280
+Goomy se expande y se marchita con las\nestaciones. Envuelve y devora a criaturas\nmás débiles para sobrevivir.
+
+### 0A85340
+Por el eclipse lunar de hace décadas, los\nmismos rayos X que dieron vida a Grimer\nhicieron que su cría adoptara otra forma.
+
+### 0A85400
+Vanillite evolucionó, pero la temperatura\ntambién cambió. Aunque ya no puede vivir\ncomo antes, Vanillish sonríe.
+
+### 0A854C0
+Tras el colapso de la sociedad de Fucsia,\nlos Pokémon herbívoros que vivían del cebo\nde la Zona Safari murieron de hambre.
+
+### 0A85580
+Las semillas de Capsakid pican tanto que\ncasi todos lloran y se atragantan si están\na menos de un kilómetro de uno.
+
+### 0A85640
+Con el tiempo y la dejadez, todas las\nteteras de la región están ocupadas por\nun Polteageist. Ahora todos toman café.
+
+### 0A85700
+Un ser gaseoso y siniestro que adormece\na sus víctimas y las asfixia envolviendo\na los inocentes con su cuerpo.
+
+### 0A857C0
+Lo que queman las llamas hipnóticas de\nChandelure vagará para siempre entre\nel cielo y el infierno.
+
+### 0BC8D40
+La vida es dura para Shinx. Estuvo al borde\nde la extinción y, gracias a injertos y\nconservación, sobrevive como puede.
+
+### 0BC8E00
+Sableye está de fiesta. Sus antiguas\namenazas ya solo son espíritus. Puede\natiborrarse de gemas a placer. ¡Qué gozo!
+
+### 0BC8EC0
+Ven, peque. Coge la mano de Drifloon.\nDeja que te lleve al lugar donde\nnunca tendrás que hacerte mayor.
+
+### 0BC8F80
+Tinkatweet va cojeando de un sitio a otro\nen busca de los dulces más ricos.\n¡Tiene una energía inagotable!
+
+### 0BC9040
+Mientras el mundo se hunde en la\nincertidumbre, se abrieron cráteres y\ngrietas de los que surgieron monstruos.
+
+### 0BC9100
+Al dar los pasos de su baile hipnótico,\nlos patógenos de Lilligant se dispersan.\nBailarás hasta tu último aliento.
+
+### 0BC91C0
+Repta hacia cualquiera al que ame u odie\ny explota. Sus motivos son ajenos a los\nseres de este mundo.
+
+### 0BC9280
+Sin jinete, pasta en soledad y absorbe\nla vida y el espíritu de todo lo que tiene\ncerca. Solo quiere estar a solas.
+
+### 0C2D880
+No está a salvo ni en las cuevas donde\nnació; una mirada al sol lo deja ciego\npara siempre. Aúlla, pero nadie acude.
+
+### 1300F40
+Un Killtorb que sigue vivo tras explotar.\nRecuerda cada alma que se lleva, cada ser\nque hace estallar, y llora por ellos.
+
+### 1301000
+Un Basculin que ha abatido a mil de los\nsuyos, a mil de sus amigos. Las almas de\nquienes ama envuelven su cuerpo.
+
+### 1301100
+Muy agresiva y territorial, esta especie\ninvasora ha llevado a la extinción a casi\ntodos los demás peces de la región.
+
+### 13011C0
+El cadáver reanimado de una especie de\nPokémon extinta hace tiempo. Sus huesos\nsegregan una humedad extraña.
+
+### 1301280
+A medida que su alma reanimada crece y se\nacostumbra al esqueleto, sus huesos se\nadaptan a su nuevo poder.
+
+### 1301380
+El alma inquieta de este caparazón tiene\nhambre de almas. Sus garras pueden\narrancar el alma de un cuerpo vivo.
+
+### 1301440
+Un hongo parásito le ha destruido la mente.\nSe queda a la vista, vulnerable, para que\nse lo coman y así esparcir sus esporas.
+
+### 1301540
+El hongo que se ha apoderado de este bicho\ncrece y crece… Algún día, el hongo\nalcanzará su verdadera forma.
+
+### 1301600
+Con la muerte, un hongo forjó una vida\nnueva. Una seta parásita viviente; con\ncada aleteo esparce miles de esporas.
+
+### 1301700
+Ven al mar conmigo. Deja que te cante…\nYo… necesito que alguien me quiera…\n¿No quieres que alguien te quiera?
+
+### 1301800
+Este Pokémon prefiere estar solo en vez\nde en bandada. Clava con ganas el pico\nen cualquier presa que ve.
+
+### 13018C0
+Prefiere posarse en lo alto para buscar\npresas fáciles. El alma que descanse\ncerca de Scaravia encontrará su fin.
+
+### 13019C0
+Desde kilómetros de altura, Scaraptor\nve con facilidad sus posibles comidas.\nNadie escapa de sus garras.
+
+### 1301AC0
+Es leal a quien le dio cariño en vida.\nHoundstone sobrevive a todos los que\nlo quieren.
+
+### 1301B80
+Un Pokémon que vivió sin amor renacerá\ncomo Greavard, un Pokémon que ansía\ncompañía y cariño…
+
+### 1301C40
+Es totalmente ciego. Ataca con intención\nde matar a todo olor o sonido que no sea\nde un Rockruff o un Lycanroc.
+
+### 1301D00
+Ronda las zonas pobladas al anochecer\nrecogiendo huesos, tendones y carne de\nlos muertos. Protege mucho sus tesoros…
+
+### 1301E00
+El alma vengativa de Pikaboo se pudre y\nse vuelve un demonio violento. Un golpe\nde su cola puede paralizar para siempre.
+
+### 1301F00
+La volatilidad de las piedras lunares\nestira y deforma a su huésped para imitar\na quienes bailan entre las estrellas.
+
+### 1301FC0
+Quiere dejar atrás su pasado de bestia\ny alzarse sobre dos patas. Lo que antes\nactuaba por instinto ahora razona.
+
+### 1302080
+Ha crecido con carne injertada y huesos\ngrapados. Lo que era una especie amistosa\nes ahora una bestia feroz y voraz.
+
+### 1302140
+La tristeza y el odio hacen que Shuppet\nse alimente de almas. Si alguien sigue\nodiando, acaba convirtiéndose en Shuppet.
+
+### 1302200
+Cuando el odio consume un alma, Shuppet\nse transforma en Banette y el alma de esa\npersona desaparece. Odio. Odio. ODIO.
+
+### 1302300
+Duskull busca a los jóvenes llenos de\nvida y les absorbe el alma poco a poco.\nCuando agota a su víctima, evoluciona.
+
+### 1302400
+El ojo de Dusclops se cruza con el de\nquien lo mire. Sus manos pueden arrancar\nel alma de cualquier criatura viva.
+
+### 13024C0
+Arranca con ganas las almas de los vivos\ny de los condenados y las devora en su\nhorrible cuerpo. Quien cae, deja de ser…
+
+### 13025C0
+Busca cualquier tesoro que encuentra y\nlo acumula en un cofre que esconde. Ni\nsu entrenador puede fiarse de Gimmighoul.
+
+### 13026C0
+Su cuerpo está hecho de tesoros que robó\nsiendo Gimmighoul. Aunque es amistoso,\nno duda en robar a quien confía en él.
+
+### 1307B00
+Woobat nace sin ojos, pero huele la sangre\nde los vivos a kilómetros. Sus mandíbulas\natraviesan hasta el acero más duro.
+
+### 1307BC0
+Tiene una sed de sangre insaciable.\nMientras respire, buscará y devorará a\ntodo ser cuyo corazón siga latiendo.
+
+### 1307CC0
+Vigila a los niños que Drifloon atrae\nlejos de casa. Su gran tamaño asegura\nque ningún niño vuelva jamás.
+
+### 1307DC0
+Al crecer, su ansia de azúcar no tiene\nfin. Come hasta caer en coma un día tras\notro hasta que evoluciona.
+
+### 1307E80
+Su guadaña se forja con el hierro del\nazúcar que consume. En su forma adulta,\n¡se da un festín de almas vivas!
+
+### 1307F80
+Lo han criado para que apenas note el\ndolor. Las cosechas de Oddish se cortan\ny se muelen para hacer alucinógenos.
+
+### 1308080
+Lo han criado para producir sin parar la\nforma líquida del alucinógeno de Oddish.\nNo es seguro acercarse sin máscara.
+
+### 1308180
+Los alucinógenos de la flor de Viralplume\nson tan intensos que la mente nunca vuelve\ndel viaje que experimenta.
+
+### 1308240
+El vaivén rítmico del baile de Bellossom\natrae a los inocentes a un descanso\nplácido… del que no despiertan.
+
+### 1308300
+Sus fauces malditas se alimentan de las\nalmas de vivos y muertos. Sus pasos no\nhacen ruido y su piel no se siente.
+
+### 13083C0
+Se cree que Golett lo creó una antigua\ncivilización y que nació de las mismas\narenas del tiempo.
+
+### 1308480
+Puede transformarse. Casi siempre se\nconvierte en un niño humano. De noche,\nse le oye llorar.
+
+### 1308540
+Se asusta con facilidad, pero no puede\nhablar. Shushum vive con miedo, presa\nfácil de los monstruos que lo rodean.
+
+### 1308600
+Se cree que los humanos y los Jynx\nvienen de la misma especie. Sus gritos\nahogados se oyen en los sueños.
+
+### 13086C0
+Nacido de una reacción química, Trubbish\nse siente más a gusto cuando alberga un\ncadáver en descomposición.
+
+### 1308780
+Montones de cadáveres y huesos podridos\nse funden en un ser pútrido que absorbe\nmás y más…
+
+### 1308840
+Rarísimo y castigado por los conflictos,\nWailord se cobra la vida de todo marinero\nque lo desafíe en el mar.
+
+### 1308900
+Su intensa rabia lo ha mantenido con vida\ndurante décadas. Solo se alimenta del\nodio hirviente que encarna.
+
+### 13089C0
+Aunque es un gran aliado, Honedge absorbe\npoco a poco el alma del entrenador que lo\nusa. No tiene más mente que para devorar.
+
+### 1308A80
+Quien tenga la bendición de un Aegislash\nobediente está destinado a la grandeza…\ny a un final prematuro.
+
+### 1308B40
+Arranca la carne y el cartílago de los\nrecién fallecidos. Si tiene mucha hambre,\nno espera a que su comida muera.
+
+### 1308C00
+Se lanza en picado sobre un rival débil\ny le arranca la carne del hueso mientras\nlo devora vivo poco a poco.
+
+### 1308CC0
+Lo que antes era un peluche comercial\nes ahora un agente del caos y la masacre.\nCausa dolor por puro placer.
+
+### 1308D80
+El alma traviesa de Teddiursa pasó a\nun caparazón mecánico. Sus garras\natacan a más de 800 km/h.
+
+### 1308E40
+Sus hojas curan cualquier enfermedad,\npero se marchitan al arrancarlas. Anhela\ntener amigos, pero todos acaban muriendo…
+
+### 1308F00
+Planta su alma en raíces enterradas\nbajo tierra. Hasta que la tierra deje\nde existir, nadie podrá matarlo.
+
+### 1308FC0
+Según el tamaño de Pumpkaboo, guía a\nniños, adultos o ancianos hacia el\nmás allá.
+
+### 1309080
+Habla con voz de niño y atrae a los\npadres que buscan a sus hijos perdidos.\nLuego, su mano se lleva el alma.
+
+### 1309140
+Una vez se me quedó uno atrapado en mi\nplancha George Foreman. Ojalá siguiera\nahí: desde que se fue, mis paninis dan pena.
+
+### 1309240
+Sonríe de oreja a oreja, aunque se está\nmuriendo. Por la subida de temperaturas,\nlos Vanillite mueren poco después de nacer.
+
+### 1309300
+Al intensificarse sus llamas, su carne\nno aguantó el calor y se derritió.\nVive en una agonía constante.
+
+### 13093C0
+La seta de Shroomick es la mayor\nresponsable de las muertes por\nintoxicación de setas del mundo.
+
+### 1309480
+Ningún ser que respire sobreviviría a\ncomerse una seta de Breloom.\nNi uno solo.
+
+### 1309540
+Se reúne en grupos bajo los árboles\nnevados y ¡se ríe! Dicen que el castañeteo\nde dientes de Snorunt trae la muerte.
+
+### 1309600
+Los dientes de Glalie no paran de\nrechinar. El frío de su aliento basta\npara congelar al instante.
+
+### 13096C0
+Le gusta coleccionar seres vivos como\nesculturas heladas. Froslass vive en\npreciosos palacios de hielo salvajes.
+
+### 1309780
+Los Magnatron se multiplican sin parar.\nSaben construir nuevos Magnemite por\nsu cuenta y repararse a sí mismos.
+
+### 1309840
+El baile de Oricorio devuelve la vida a\nlos muertos. Anima a los espíritus a\nllevarse las almas de los vivos.
+
+### 1309B40
+Lleva la máscara de la cara que tuvo\ncuando era humano. A veces se la pone\ny llora tras ella.
+
+### 1309C00
+Quienes tengan la codicia de abrir el\ncuerpo-sarcófago de Cofagrigus en busca\nde tesoros pronto formarán parte de él.
+
+### 1309CC0
+Un mal antiguo habita en cada fragmento\ndel cuerpo de Runerigus. Su entrenador\nacabará siendo su recipiente.
+
+### 1309D80
+La pena acumulada en el frágil esqueleto\nde Corsola se abre paso… ¡Qué tristeza!\n¿Qué ha sido de nuestros mares?
+
+### 1309E40
+Una sombra viviente que habita en toda\noscuridad. Cuando decide llevarse tu\nalma, solo queda aceptarlo.
+
+### 1309F00
+Le encanta alimentarse de carne humana.\nNo ve, no oye, no siente, pero cuando\nhay carne cerca, la persigue.
+
+### 1309FC0
+Un carbón que arde por siempre con hambre\nde combate. Con cada puñetazo, su carbón\nse endurece y se refina.
+
+### 130A080
+Tras años refinando sus puños, estos se\nhinchan y endurecen como diamantes.\nSus golpes rompen hasta lo irrompible.
+
+### 130A140
+Tras el ascenso de Sabrina, el poder de\nlos psíquicos empezó a crecer… Un poder\ndemasiado grande para casi todos…
+
+### 130A200
+Quien sea tan insensato como para creer\nque es té y bebérselo quedará poseído.\nSkill issue.
+
+### 130A2C0
+¡Le encanta entretener y sacar sonrisas!\n¡Chirría al botar y canta al bailar!
+
+### 130A380
+Muchos se pierden en los malabares\nhipnóticos de Lopunny. Si te pierdes,\n¡tu alma entrará en el espectáculo!
+
+### 130A440
+Hay un fantasma en el viento que busca\nun amigo. La diversión nunca acabará;\nresponde a los gritos que te manda.
+
+### 130A5C0
+Llora y canta muy alto para que todos\nlo oigan. Sus canciones maldicen a quien\nlas oye a no volver a dormir.
+
+### 130A680
+Se esconde bajo la arena y el fango a la\nespera de animales pequeños atraídos\npor sus luces.
+
+### 130A740
+Cuando le crece el hambre, sale a cazar\ny hace brillar su luz para que sus presas\nsepan que viene.
+
+### 130A800
+Cuando está cerca, surge una terrible\ntormenta de viento y arena. Cada grano\nde la tormenta ve y siente su furia.
+
+### 130A8C0
+Nadie lo había visto antes, pero creció\ntan rápido y tan espeso que pronto fue\nlo único que se veía.
+
+### 130A980
+Cuando las malas hierbas crecieron\nverdes y frondosas, por fin vieron lo\nque había dentro y gritaron.
+
+### 130AA80
+Un Pokémon artificial basado en Voltorb.\nEn la guerra se usó como mina y como\nproyectil. Aún quedan muchos.
+
+### 130AB40
+El Mimikyu sin amor llevaba la cara de un\nPokémon querido, pero como este ya no\nexiste, Mimikyu quiere ser útil.
+
+### 130AC40
+Cada paso, un chasquido. Se alza por\nencima de casi todos, y sus ojos\nbrillantes buscan a quién atacar.
+
+### 130AD00
+Un pez modificado genéticamente capaz\nde disparar agua con tanta fuerza que\natraviesa cualquier armadura.
+
+### 130ADC0
+Por la gracia de la luna, persigue.\nPersigue y encuentra. Ningún mortal\npuede detener sus cuchillas.
+
+### 130AE80
+Esta alga fantasmal espera en el agua\npara absorber el espíritu de quien quede\nen su ancla. Cuanto más grande, mejor.
+
+### 130AF80
+Un montón de arena fantasmal que posee\na quien lo amenaza. No le tires de la pala.\nEso está feo. Trata bien a tu Sandygast.
+
+### 130B080
+Un gran castillo fantasmal que se alza de\nla arena para proteger a su entrenador.\nLas amenazas acaban devoradas.
+
+### 130B180
+Una nueva especie de tipo Lucha creada\npor BrunoCorp. Sus puñetazos golpean\nhasta a los fantasmas. Pero su mente…
+
+### 130B240
+Una especie creada por BrunoCorp cuyas\npatadas llegan al mundo de los espíritus.\n¿Cuántos se usaron para crearlo?
+
+### 130B300
+Siguió su olfato hasta los lugares donde\nhabía gente, pero la gente lo odió y\nlo echó.
+
+### 130B3C0
+Dicen que los niños que se pierden en el\nBosque Ardiente se convierten en Timburr\nen su siguiente vida.
+
+### 130B480
+Un gigante chorreante de hambre y baba.\nTodo lo que toca a Goodrome queda\nunido a él para siempre.
+
+### 130B540
+¡Quería evolucionar, volar! Pero no pudo\nser. Solo le creció la boca, y sus alitas\naletean en vano.
+
+### 130B600
+Solo el cactus ve a través de la arena\nde la tormenta del desierto. ¿Cuántas\nvidas ha visto? ¿Cuántas como la tuya?
+
+### 130B6C0
+Las estrellas que acechan en el mar te\nmiran mientras las miras. Igual que\nquieres conocerlas, quieren conocerte…
+
+### 130B780
+Brilla con una belleza inquietante, como\nla estrella de un árbol de Navidad. Te\nvigila siempre. No traiciones su confianza.
+
+### 130B840
+Su vigilancia se volvió tan intensa…\n¡que asciende! Su presencia vigilante es\nes más flexible, y no hay escapatoria.
+
+### 130B940
+Cuando un alma fallece, Lombre baila y\ncanta para celebrarlo. Enseña a todos\nla belleza de la muerte.
+
+### 130BA00
+Su instrumento está hecho de las almas\nde quienes aún no quieren descansar.\nSolo los muertos pueden oírlo cantar.
+
+### 130BAC0
+Un Pokémon descarado que ha cogido\ngusto a la piel humana. Deja un\ncadáver limpio en segundos.
+
+### 130BB80
+Un murciélago vampiro feroz y sin dientes.\nAgarra a su víctima y la estampa contra\nuna superficie hasta poder beber.
+
+### 130BC40
+Electabuzz sobrevivió, no se sabe cómo,\na la explosión nuclear de la central.\nSu aspecto cambia a diario; ya no es él.
+
+### 130C700
+Si guardas una lágrima de Marill en la\noscuridad, te mostrará el mundo perdido.\nSi la iluminas lo bastante, desaparece.
+
+### 130C800
+la CARNE comecome la SANGRE es carne y\nbebe la CARNE para mí todo para mí comer\nla COMIDA come come COMECOMECOME
+
+### 130C8C0
+Cuando la cabeza le pesa demasiado, llama\na sus hijos para que lo lleven a casa y a\nmenudo aplasta a uno o dos.
+
+### 130C980
+Evoluciona tan deprisa que su carne se\nderrite y se rehace cada hora. Ha muerto\ny renacido incontables veces.
+
+### 130CA40
+Tras resucitar, sus células empiezan a\ndeteriorarse rápidamente, su piel se\nderrite y sus neuronas se sobrecargan.
+
+### 130CB00
+Un hombre tuvo uno de mascota. Lo sacaba\na pasear a diario y crecía y engordaba.\nUn día, el hombre no salió de casa.
+
+### 131A640
+108 espíritus. Algunos son… traviesos,\npero que eso no te impida conocerlos.\nA todos.
+
+### 131A700
+Retorcido por los secretos prohibidos de\nEl Nunca, guarda ese saber escondido en\nbosques nevados demasiado fríos.
+
+### 131A7C0
+Cuenta la leyenda que Snever vino de\nEl Nunca. Nunca preguntes por El Nunca.\nNo quiero recordarlo…
+
+### 131A880
+Un pez sediento de sangre que nada pese\na estar podrido y muerto. Su carne llena\nel estómago y vacía la mente.
+
+### 131A940
+La velocidad a la que nada le permite\ncargar con su enorme lastre. Nada con\nfuria contra su propia existencia.
+
+### 131AA00
+Un antiguo superdepredador devuelto a la\nvida. Nada más reintroducirlo, la fauna\nmarina de Kanto quedó erradicada.
+
+### 131AAC0
+Evolucionó y se adaptó enseguida al mundo\nmoderno. Su único depredador es él mismo.\n¿Nos equivocamos al jugar a ser dioses?
+
+### 131AB80
+Es tan rápido que es casi imposible\nencontrarlo, y más aún atraparlo.\nSus madres los miman mucho.
+
+### 131AC40
+Te tentará con sus dulces. Que sepas que,\nsi comes sus maravillas, serás su esclavo\npor toda la eternidad.
+
+### 131AD00
+Una criatura vampírica que va saltando\ny ansía pelear. Si te muerde, poco a poco\nte convertirás en uno de ellos.
+
+### 131ADC0
+Tiene las articulaciones gastadas y rotas.\nNecesita alimentarse de los vivos para\nno endurecerse hasta volverse piedra.
+
+### 131AE80
+Se ha convertido en lo que siempre fue.\nSu madre, la luna, le ha concedido el\ndon de la vista. Ay, la vista…
+
+### 131AF40
+El canto de Skeledirge es señal de muerte.\nTápate los oídos y grita con todas tus\nfuerzas. No debes oír su final.
+
+### 131B000
+Un fantasma que se ha aficionado a las\nelaboradas ceremonias del té de oriente.\nCura aquello que te hace daño.
+
+### 131B0C0
+Donde hay humo, hay fuego. Sus llamas\narden y te guían hasta tu lugar de\ndescanso eterno.
+
+### 131B180
+De vez en cuando, logra sacar una chispa\nde fuego. Sus llamas se apagan enseguida,\ncomo quienes respiran su humo.
+
+### 131B240
+Nació con medio corazón; debería escupir\nllamas por la espalda y, sin embargo…\nsolo consigue formar nubes de humo.
+
+### 131B300
+En su afán por reconstruir su ciudad\nperdida, han hundido barcos y llevado\nalmas de pescadores al fondo del mar.
+
+### 131B3C0
+Rondan las ruinas submarinas de una\nciudad hundida. Quieren llevarte al mar;\nmás espíritus ayudan a reconstruirla…
+
+### 131B480
+¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS!\n¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS!\n¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS! ¡MÁS!
+
+### 131B540
+Se ha arrancado los ojos y roto la\nmandíbula. Devora todo lo que tiene\ncerca, se atiborra sin fin. Se alimenta…
+
+### 131B600
+Dicen que tiene una contrapartida.\nQuizá en otro mundo, en otra\ndimensión… quizá allí haya luz.
+
+### 131B6C0
+Nadie que siga respirando lo ha visto\njamás. No desea que nadie lo vea\nnunca. Se arrepiente de su vida.
+
+### 131B780
+Se teletransporta por el tiempo, el\nespacio y la realidad para gastar bromas\na todo ser capaz de entender la ira.
+
+### 131B840
+Lo desterraron del mundo de los vivos\ny de los muertos por su violencia.\n¿Te crees especial?
+
+### 131EE00
+Recoge flores preciosas para dejarlas\nen las tumbas de los muertos. Encontrarán\nestos ramos en el más allá.
+
+### 1573280
+¡Oh, cuánto prospero! ¡Nunca pasaré\nhambre! Pues mis hijos siempre llenarán\nmi barriga. ¡Qué abundantes son!
+
+### 158FD00
+Se esculpió a sí mismo, quitándose todo\nlo que odiaban, pero por mucho que se\ncortara, nadie llegó a quererlo.

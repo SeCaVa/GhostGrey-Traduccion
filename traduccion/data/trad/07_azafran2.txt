@@ -1,0 +1,745 @@
+#! Lote 07: Azafrán interiores 14.21-14.55 (laboratorio, torre BrunoCorp, estadio, casas) y Monte Plateado
+
+### 09D7B49
+La tele está apagada. Tiene una gruesa capa de polvo.
+
+### 09D7BC9
+En la pared cuelga una foto. La foto de boda de una pareja feliz.\p…Ella se parece a mí, podría ser mi hermana o algo.
+
+### 09E2EE4
+Theodora: Ya te has despertado.\p¿Has dormido bien?\p…\pBien. {B01}, yo… tienes que irte, deprisa. No tardarán nada en darse cuenta de que me he ido, y entonces vendrán a por mí.\p¿Adónde vas a ir desde aquí?\p…\pEl desafío de los Gimnasios…\pMe alegro por ti. Tienes un brillo especial.\pSé que harás grandes cosas. ¡Ve y cambia el mundo!\pNo me preguntes cómo las he conseguido, pero toma. He recuperado tus cosas.
+
+### 09E305A
+Theodora te devolvió tus Pokémon y tu Pokédex.
+
+### 09E308D
+Theodora: Buena suerte, {B01}. Yo tengo asuntos pendientes aquí.\pNo puedo irme de Azafrán, todavía no.\p…Ten cuidado. Estoy de tu parte.
+
+### 09FCF81
+Theodora: ¡{B01}! ¡¡¡No!!!\p¡{B01}!
+
+### 09FCFC5
+Takeshi: Que se calle.
+
+### 09FCFE2
+Theodora: cof, cof…\p…\pg-guh…
+
+### 0A10449
+SALA 2\nDISECCIÓN
+
+### 0A104C9
+SALA 3\nALMACÉN
+
+### 0A10549
+SALA 4\nSALA DE DESCANSO
+
+### 0A105C9
+SALA 1\nANÁLISIS
+
+### 0A10B49
+SALA 5\nCIRUGÍA
+
+### 0A19649
+Eh, creía que te habían echado a los fosos de carne. ¡Se supone que tendrías que haber palmado! Eeeeeh…
+
+### 0A196C9
+Ohh… Hueles a carne podrida.\pNo te habrás escapado de los fosos de carne, ¿no? Eso sería malo para nosotros.
+
+### 0A19D49
+En la tele echan algo…\pEstán viendo un vídeo de alguien quitándole quirúrgicamente la piel a una Baya Uvav.
+
+### 0A19EF1
+Y de paso córtate el pelo. Tienes una pinta horrible.
+
+### 0A19F49
+¿Acabas de llegar? Ah, bueno, no toques el Gansito de la nevera, que lo estoy guardando para luego.
+
+### 0A1A040
+¿Qué? Joder, qué mal hueles. ¿Tienes que ir a la sala de cirugía? Bueno, tiene sentido, necesitas lavarte.\pCoge la llave y avisa al Dr. H.
+
+### 0A1A16D
+¡Anda, comida gratis!
+
+### 0A1A182
+Aquí no hay nada bueno de comer.
+
+### 0A1A1C0
+Sé lo que hiciste. Nada de lo que intentes importará, ¿sabes?\pAunque lo consigas, el sistema está hecho para agotar hasta al fanático más entregado. Acabarás cansándote, y quien te esté ayudando se acomodará y abandonará la lucha.\pAunque será divertido verlo. Je.
+
+### 0A1A340
+Hala. ¡Voy a decirles a los de arriba que te has escapado! ¡Más te vale no usar nuestros sistemas de almacenamiento de PC a mi izquierda y a mi derecha, ni la máquina de curación que tengo delante!
+
+### 0A1A557
+ACTIVANDO PROTOCOLO DE CURACIÓN.\nESCANEANDO.\lANALIZANDO.\lBASE DE DATOS FACIAL ACTUALIZADA. INICIANDO CURACIÓN.
+
+### 0A1B65A
+Metiste la Llave Sala 3 en la cerradura de la Sala 3 y…
+
+### 0A1B6BC
+La puerta está cerrada con llave.
+
+### 0A1B758
+Metiste la Llave Sala 4 en la cerradura de la Sala 4 y…
+
+### 0A1B7BA
+La puerta está cerrada con llave.
+
+### 0A1B862
+Pasaste la Llave de Cirugía por la ranura y…
+
+### 0A1B8BE
+La puerta está cerrada. Hace falta una tarjeta llave.
+
+### 0A1BF3B
+Hexagon: ¡Guh…!\p…\pNo importa.
+
+### 0A2B854
+Theodora: ¡{B01}! ¡La pistola!
+
+### 0A2B980
+Hexagon: ¿Pero qué…? ¡Tú! ¡Ack…!
+
+### 0A54B91
+Takeshi: …
+
+### 0A54C11
+Hexagon: …
+
+### 0A54DC4
+Theodora: {B01}…
+
+### 0A54DD2
+Bruno: ¡BUM! ¡Juajuajua!\p¡Otro necio derrotado y otra victoria para el Gran Bruno III!
+
+### 0A54E36
+Bruno: ¡Hola! ¡Me has estado dando problemas, peque!\p{B01}, ¿no? Pues bien, {B01}, esa zorra del suelo podrías haber sido tú en cualquier momento de tu viajecito si yo hubiera querido…\p¡Pero no quise! ¿Sabes por qué?\p¡Porque me caes bien, {B01}! Has estado dando que hablar en el mundo de los combates, ganando medallas como si las regalaran con las cajas de cereales.\pDe hecho, tengo una propuesta para ti.\pSé que tú y yo hemos tenido nuestras diferencias, pero tienes esa mirada que da miedo y toda esa fama de combate…\p¡Me gustaría que trabajaras conmigo!\pÚnete a mi equipo, toda esta gente poderosa y temible que ayuda a mantener a todo el mundo a salvo y feliz.\pEl sueldo es de primera, y los extras… bueno, no encontrarás mejores ofertas.\p¡Pregúntale a Takeshi! ¡O a Hexagon, ahí mismo!\pApoyo a todos mis empleados en su crecimiento personal, en lo que necesiten.\pContigo en el equipo… ¡el cielo sería el límite!\p¿Qué me dices?
+
+### 0A551A8
+Bruno: ¡Eh! ¡Así me gusta, peque!\p¿Por qué no lo sellamos con un apretón de manos?\pVen aquí y dame un buen apretón, “¡soci{o}!”
+
+### 0A55211
+Bruno: Eh, lo entiendo. Te ha sentado mal que tu amiga haya muerto. ¡A mí también!\pPero era una criminal, {B01}. Una malvada, una manzana podrida. La condenaron a cadena perpetua por algo.\p¿Y sabes qué? Le he echado un vistazo a tu caso y parece que todo fue un malentendido.\p¡Puedo dejarte el expediente limpio!\pNo hace falta que seamos colegas, pero me encantaría ver si podemos arreglarlo hablando.\pVen aquí arriba.\pDe tanto gritar desde esta mesa de madera noble tan enorme e impresionante me estoy quedando sin fuerzas.
+
+### 0FE5D24
+Domino: ¡Porras! ¡Qué rápido has llegado!
+
+### 0FE5FAB
+Takeshi: Domino. Reúne a los hombres que nos quedan y volved al cuartel general de Azafrán.\pHas cumplido tus órdenes de maravilla. Te espera una medalla.\pAhora, vete. Yo tengo mis propias órdenes que cumplir.
+
+### 0FE607B
+Domino: ¡Sí, señor! Gracias… muchísimas gracias, señor.
+
+### 0FE6102
+Takeshi: Cuando el mundo no hace justicia… queda en mis manos. Guh…
+
+### 0FE6262
+¿Matar a Takeshi?
+
+### 0FE6270
+{B01} sacó la Pistola.
+
+### 0FE6287
+Takeshi: Hmph…
+
+### 0FE6296
+Takeshi: Eres una gallina. Te da demasiado miedo hacer nada.\pY ahora, apártate.
+
+### 0FE692A
+Amn: Eeeh… vale. Bien. Tú no te muevas. Seguramente al principio dolerá mucho, pero luego será peor.
+
+### 0FE6991
+¿Matar a Amn?
+
+### 0FE699B
+Amn: ¿No? Eeeh… a la mente colmena no le gusta tu respuesta.\pEeeh… Urgghhhh… Auuughh…
+
+### 0FE6A34
+{B01} cerró los ojos.
+
+### 0FE6BB3
+Amn: Eeeh… ¿pero qué demonios?
+
+### 0FE6BCB
+Amn: Eeeh, qué rollo. Bueno. Este túnel se está viniendo abajo.\pDa igual. Al menos, la mente colmena dice que luego podemos usar tu cuerpo como comida.\pAdiós.
+
+### 1046340
+Takeshi: Qué poca imaginación. Los criminales sois todos iguales.\pDerechitos al agujero del que salisteis.\p¿De verdad creíais que no íbamos a vigilar vuestra madriguera de delincuentes?\p¿Pensabais escabulliros al amparo de la oscuridad? Nuestros Pokémon informaron de vuestro patético intento de fuga en cuanto cruzasteis el perímetro.\pHasta me ha dado tiempo a ducharme y cambiarme antes de venir a deteneros.\p¡Lleváosla! Y en cuanto a {él}, creo que necesita ver al Doctor.
+
+### 1046693
+Takeshi: Voy a hacer de ti un escarmiento, escoria.\pNo sé por qué te has metido en esto, pero es la última vez que me causas problemas.\pTirad a {él} al Foso. Si alguna vez sale, colaborará mucho más.
+
+### 1046929
+Hexagon: ¡Basta! Tus forcejeos no sirven de nada. Solo prolongas tu sufrimiento.\pAhora…\pno…\p¡TE MUEVAS!
+
+### 104698D
+Hexagon: Tu fuerza es impresionante, pero tosca.\pPor desgracia, mis experimentos todavía están en pañales, así que no puedo resolver esto con la solución más elegante.
+
+### 1046A32
+Hexagon: Por suerte, no soy tan necio como para limitarme cuando abundan las opciones.\pPuede que tuvieras la fuerza bruta para superar a mis hermosas creaciones, pero ni todo el entrenamiento del mundo puede salvarte de una bala en la cabeza.\pAdiós.
+
+### 1046B1E
+Hexagon: ¿Cómo…? ¿Tú…?\pYo… no seré derrotado… con unas tácticas tan pueriles…\pYo…\n¡Bruno! ¡BRUNO!\p¡Terroristas!\p¡Fuego!\p¡Inundación!\p¡Alarma, alarma! ¡Bruno! ¡¡Brunoooooo!!
+
+### 1046BC0
+Theodora: Menos mal que estás bien, {B01}.\pTakeshi siempre me subestima, pero cuando te llevaron, yo…\pbueno, tenía que venir. Para asegurarme de que salías de esta.\p…Lo siento.\pNo te mereces acabar en medio de mi lío, pero lo hecho, hecho está.\pHabrán difundido tu cara por toda la ciudad. La policía te estará buscando, y no descansan nunca. Aun así, sé que puedes lograrlo.\p¡Creo en ti!\pCumple tus objetivos, haz grandes cosas. ¿Vale?\pBruno está en algún lugar de este edificio. Voy a matarlo.\p…\pDeberías quedarte esa pistola. Ya no van a jugar con las reglas de antes.\pTienes que protegerte de maneras que antes no creías necesarias.\pPero… úsala solo si tienes que hacerlo, si crees que es absolutamente necesario. No querrás cargar con ese peso, créeme.\pCuídate, {B01}.
+
+### 1046FC0
+Takeshi: Perfecto. Dos pájaros de una tonelada de piedras.\pReduciré a añicos estas impurezas fúngicas y eliminaré a la vez la mayor amenaza para la seguridad pública.
+
+### 10470C0
+Takeshi: Se acabaron las preguntas, escoria.{C0B9001} Nadie está por encima de la ley. Ni siquiera yo; yo solo la hago cumplir.
+
+### 1047180
+Takeshi: No sé qué hará falta para detenerte, seas lo que seas.\pPero ¿qué te parece esto? Las cargas ya están colocadas. Yo saldré antes de la explosión, pero ¿y tú?\pSin máscara de gas, sin luces, sin cuerdas, sin fuego. No vienes nada preparad{o}.\pSolo caos y violencia allá donde vas.\pEntraste como si nada, sin ningún plan, y pensabas que ganarías de todos modos.\pMe das asco. El soldado más raso es mejor que tú, porque al menos sabe cumplir una orden.
+
+### 1047380
+Amn: Guay. O sea, el túnel se va a derrumbar igual, pero la mente colmena está contenta de que hayas matado a ese tipo.\pAsí que… ahora que lo has hecho, ya toca que te conviertas en un zángano como es debido.\pEeeh… La mente colmena dice que dudas. Sí que quieres ser un zángano, ¿verdad?
+
+### 10474C0
+Amn: … ¿Pero qué demonios?\p¿Eres idiota? No puedes matarme, no de verdad.\pTodos seguiremos viviendo en la colmena.
+
+### 1047580
+El dolor es insoportable…\pCada nervio de tu cuerpo dispara señales. No son dolor, no al principio, pero no se detienen.\pNo pueden detenerse.\pNunca se detendrán.\pLa sensación incesante se convierte en algo parecido al dolor, luego en tortura, y luego en una agonía tan clara y brillante que podrías bebértela como agua.\pPe ro… a medida que el dolo r envuelve tus sentidos, tu mente se acla ra.\pTienes un p ropósito mayo r. Hay algo mucho más g rande, mucho más de lo que puedes se r en soledad.\pSob revivi rás. No tienes elección.
+
+### 1053593
+Bruno: Eh…\pOh, mírate. No me lo vas a poner fácil, ¿eh?{C0B5601}\p¿Quieres pelea? ¿Con el Gran Bruno III?\p¿Sabes? Hay gente que no puede evitarlo.\pHay gente que es simplemente mezquina, inútil, rencorosa, envidiosa.\pSe hunden hasta el fondo y se pasan todo el rato quejándose.\p¡Como tu amiga, ahí en el suelo!\pYo soy diferente.\pYo me elevo.\p¡Levanté esta ciudad de la nada! He protegido a todos los ciudadanos durante décadas de los horrores de ahí fuera, e incluso de sus propias ideas absurdas, que podrían arruinarlo todo.\p¿Vas a ser como yo, o como ELLA?\p¡Juajuajua! ¡Acabas de firmar tu sentencia de muerte, peque!
+
+### 105381F
+Bruno: POR EL AMOR DE LA LUCHA.
+
+### 1053838
+Bruno: ¡ARRGHH! YA BASTA.\p¿Sabes? Creo que te GUSTA.\pCreo que QUIERES ver mi preciosa ciudad destruida, solo para sentir un momento de logro.\pLa destrucción es lo único que conoces, lo único que entiendes, ¡igual que los fantasmas de ahí fuera, igual que todo este mundo moribundo!\pPensaba que eras diferente.\pPensaba que podías ser como yo. Pero no.\p¡No mereces vivir! Vete a las tierras salvajes a comer polvo con los fantasmas hambrientos.
+
+### 10539E9
+¿Matar a Bruno?
+
+### 10539F5
+Bruno: …\p¿Sabes qué, peque? Puedes irte.\p¡Sí! ¡He cambiado de opinión! ¿Matar a un{a} crí{o}? ¡Queda fatal!\pBruno el Grande es un gobernante misericordioso, así que…\p¡te perdono, {B01}!\p¡No voy a tocarte ni un pelo! ¡Soy un buen tipo!\p¡En serio! ¡Largo de aquí, pequeñ{o} brib{on}!
+
+### 1053AF9
+¡JUA JUA JUA JUA JUA! ¡JA JA JA JA JA! ¡JA JA JA JA JA! ¡JA JA JA JA JA!\p… Vorelli, acompaña a nuestr{o} amig{o} a la salida, ¿quieres?
+
+### 1053B63
+Vorelli: Mmm… por supuesto.
+
+### 1053B96
+{B01} sacó rápidamente la Pistola de la mochila y apuntó a Bruno.
+
+### 1053BE6
+Vorelli: Mmm… Qué triste.
+
+### 1053BFD
+Bruno: ¡JUA JUA JUA!\p¡Qué gracia tienes, {B01}! ¡Pero yo soy intocable!\pAyyy… ¿todavía te dura el enfado por lo de comosellame? ¿Vas a llorar?\pYa te lo dije: muerto el perro, se acabó la rabia. ¡Tenía que desaparecer, colega!\pQué sensible a esta edad. ¡Es adorable! ¡Me haces sonreír, peque!
+
+### 105594B
+¡La tormenta es demasiado fuerte! ¡¡¡No aguanto más!!!
+
+### 107AE89
+En la tele echan algo…\pCombates Pokémon de todo el mundo. …Mmm.\pLos entrenadores están entusiasmadísimos con el combate. Y los Pokémon, también…\pMe pregunto si será en directo.
+
+### 107B009
+¡Señor Red!\p¡Ah, espera… no eres él! ¿Cómo te llamas? ¡Yo soy Dahlia!\p…\p¿{B01}? ¡Nunca había oído un nombre así! ¡Qué guay!
+
+### 107B089
+¡Estoy ayudando a mamá con la cena!\p¡La ensalada Baibiri es mi favorita!
+
+### 107B200
+Mamá dice que algún día yo también podré entrenar Pokémon.\p¡Me gustan los de tipo Planta! ¿Y a ti?\p…\p¡Qué chulo! No conozco muchos de tipo Fantasma.
+
+### 107B2C0
+¡Hola! ¿Me has traído otro recuerdo?\p…¡!\p¡Oh! Creía que eras el hombre del gorro. Hablas tan poco como él.\p¡Pero no tienes una barba grande y poblada como él!
+
+### 107B3C0
+¡Qué hambre tengo!\p¡No me gusta la ensalada Baibiri! ¡Me gustan más mejor las hamburguesas!\p¿Cuál es tu comida favorita?\p…\p¡Mamá dice que no puedo comer demasiados caramelos!
+
+### 107B4F8
+¡Oh! ¿Y tú quién eres?\p…\pQué nombre tan bonito. {B01}. ¡Qué original!\p¿Si soy su madre? Oh, jo, jo, jo…\p¡No, soy demasiado mayor! Son niños sin madre ni padre, ¡así que me llaman mamá!\p¿A que es enternecedor? Jo, jo, jo…\pYo tengo un hijo, pero desapareció más o menos a tu edad.\p¡Se llama Gold! Quizá hayas oído hablar de él… Fue un entrenador bastante famoso hace muchos años…\p¡Incluso llegó a ser Campeón! Estoy muy orgullosa de él.\pSiempre hablaba de este lugar: “¡Es el último lugar al que puede llegar un Campeón, mamá! ¡Algún día llegaré a la cima!”, decía siempre.\pEl señor Red me dijo que sí que llegó a la cima…\pViene de visita y trae comida y juguetes para los niños de vez en cuando.\pSupongo que…\pya que estás aquí…\ptú también debes de haber llegado a Campe{on}.\pJo, jo, jo, jo… Sí, desde luego tienes ese aura.\pBueno, no te entretengo más.\pTienes esa mirada en los ojos, la misma que mi pequeño Gold.\p…\pEl viento sopla muy fuerte tan arriba en el Monte Plateado, ten cuidado dónde pisas.\p¡Pásate por aquí si alguna vez necesitas descansar o meterte en la tripa una comida caliente!\pCreo en ti, {B01}. Saluda a mi hijo si lo ves. Y… dile que he estado ahorrando el dinero que me mandaba.\pMi pequeño de oro…
+
+### 107B97C
+¡Oh, pero bueno, hola, {B01}!\pHace frío fuera, ven a comer algo.
+
+### 107B9B9
+¡Buena suerte! No te pierdas.\p¡Vuelve cuando quieras!
+
+### 107BA0F
+Es una foto de Gold, excampeón de la Liga Añil.
+
+### 1089289
+¡Bruno es un tío genial!\p¡Llevo unos 8 años trabajando para BrunoCorp y no tengo ni una sola queja!
+
+### 1089300
+¡Estoy preparando una comida congelada de BrunoCorp para mi maridito tan trabajador!\p¡Puré de patatas y un filete ruso tamaño Bruno! ¡Su favorito!
+
+### 1089589
+En la tele echan algo.\pEsta semana, la liga de entrenadores de los Sneaslers de Azafrán se enfrenta a los Geodudes de Plateada.\pMal emparejamiento para los Geodudes, pero quizá consigan remontar.
+
+### 1089909
+¡Mi nieto es tan entusiasta!\p¡Mientras su padre trabaja en la prisión, él se pasa el día viendo combates! Jo, jo, jo.
+
+### 1089989
+¡De mayor quiero ser un gran entrenador! ¡Como Lance, el maestro de los dragones!\p¡Es tan guay…!
+
+### 1089A00
+¡Pero bueno, hola! Se te ve con el ánimo por los suelos, ¿va todo bien?\p¡Quizá deberías comprarte un helado en el gran Snack Sneasel!
+
+### 1089BC9
+En la pared cuelga una foto familiar. Qué tierno.
+
+### 1089C49
+“¡Hola, chicos, bienvenidos de nuevo a ETPN, bienvenidos de nuevo a la tertulia!\p¡Hoy vamos a debatir quién es el mejor Campeón de todos los tiempos! ¡HABLEMOS DEL MEJOR DE LA HISTORIA! Stephen, ¿tú qué opinas?”\pStephen: ¡Pues me parece ridículo! Kenny decía que LYRA era la mejor, ¿pero me estás tomando el pelo?\p¡Ya no estamos en la década de 2010, y solo hay un Campeón que ha resistido el paso del tiempo: LANCE! ¿Hay alguna otra opción?\p…Seguramente seguirán hablando de esto durante horas.\pEstos programas no tienen sentido.
+
+### 108AC09
+¡Eh, quita de en medio! ¡Estoy intentando ver mis programas!
+
+### 108AC89
+¡Hyah! ¡Hooah!\p¡No te pongas en mi camino! ¡Estoy entrenando mis movimientos de lucha definitivos!\p¡Pronto se celebra el torneo de lucha de Azafrán! ¡Tengo que ser fuerte para ahuyentar a los enemigos del Estado! ¡Y a los fantasmas!\p¡Hyah!
+
+### 108AEC9
+En la tele echan una especie de dibujos animados. Unos tíos cachas volando por ahí y pegándose puñetazos.\pEs bastante interesante…\pPero tengo cosas mejores que hacer.
+
+### 108B4C9
+En la tele echan un vídeo tutorial sobre cómo conseguir Pokémon más fuertes.
+
+### 108B549
+En la pared cuelga una foto de Teal de bebé, en brazos de su madre.\pEn la foto también sale un hombre, pero le han tachado la cara.
+
+### 108BA36
+Teal: ¿Eh?\p…\pEntrenas Pokémon, ¿verdad? Creo que vi uno de tus combates en la tele. {B01}, ¿no?\pAlgún día iré a hacer el desafío de la Liga. Mamá dice que soy demasiado pequeño, pero soy bastante fuerte.\pYo también seré Campeón algún día. Me llamo Teal, así que recuérdalo.\pEn fin, perdona, tengo que ver esto. Tengo un combate importante pronto.
+
+### 108BB7E
+Teal: Hola.\pPerdona, ahora mismo no puedo hablar. Tengo un combate importante pronto y tengo que prepararme.
+
+### 108BD49
+¡Tengo que seguir corriendo para ser grande y fuerte y ganar a los fantasmas!
+
+### 108BDC9
+¡Estoy corriendo un montón para ponerme fuerte y ser policía de mayor!
+
+### 108BE49
+¡Venga, chicos, solo 5 minutos más! ¡Vosotros podéis!
+
+### 108BEC9
+¡Mi marido es genial con nuestros hijos! ¡Se juega la vida todos los días como policía!
+
+### 108C049
+En la pared hay una licencia colgada. “Autorizado por la Ciudad de Azafrán para hacer cumplir la ley”\pLa firman Bruno III y Takeshi, el jefe de policía.
+
+### 108C149
+En la tele echan una peli. Va de un medio robot, medio policía.
+
+### 108C2C9
+En la pared hay una foto de Bruno III. Sale muy elegante.
+
+### 108C449
+En la tele echan un vídeo. La reposición de un documental sobre cómo Bruno III capturó y encarceló al asesino en serie Vorelli.\pEse tipo daba mucho miedo. Descubrieron que había asesinado a “El Jefe”, uno de los Campeones que más tiempo reinó en la Liga Añil.\pDa escalofríos.
+
+### 108C5C9
+¡Me encanta ver estos documentales de crímenes reales!\p¡No me puedo creer que los asesinatos de Vorelli pasaran hace tan poco…! ¡Menos mal que Bruno lo detuvo!
+
+### 12A8609
+En la tele echan algo.\pAhora mismo se celebra el Derbi de Porcelana. A ver quién gana.\p¿De verdad la gente ve esto? Es solo una carrera.
+
+### 12A8700
+Tengo que decirlo, tío: Azafrán es lo mejor.\pEs uno de los pocos sitios de Kanto que quedan sin estar invadidos por fantasmas o sectas raras.\pCreo que es porque nos libramos de todos los doblacucharas durante la guerra.
+
+### 12A8949
+En la pared cuelga una foto de una especie de roca enorme.\p“La roca más grande del mundo”
+
+### 12A89C0
+Mi marido y yo nos mudamos aquí desde Hoenn hace mucho tiempo.\p¡Desde entonces, la ciudad no ha parado de desarrollarse y crecer! ¡Supongo que se lo debemos todo a la familia de Bruno!
+
+### 12A8EC9
+Aquí hay una especie de hueso enmarcado y colgado en la pared.\pNo parece humano.\p…ni de Pokémon.
+
+### 12A8F40
+En la tele echan algo. Luces y colores parpadeantes al ritmo de algo que algunos podrían considerar música…\p…pero yo no.
+
+### 12A9078
+¿Qué demonios haces en mi casa?\pNo espero visitas. ¡Piérdete!
+
+### 12A90CA
+Letitia lo necesita ya, así que ten mucho cuidado con esto.\p¡Y ahora, fuera!
+
+### 12A910A
+Ah, eres a quien Edwin dijo que me traería el Hígado que necesitaba.\p¡Gracias!
+
+### 12A915D
+{B01} le dio el Hígado a este tipo.
+
+### 12A917C
+Bien.\pPues Letitia quería su caramelo especial antes de que haga frío. Así que… toma.
+
+### 12A91D0
+Muy bien, ahora fuera. Me voy a comer esto.
+
+### 12A91F6
+¿Eres quien Edwin dijo que me traería el Hígado?\p¿Dónde está?
+
+### 12A9249
+Tío, qué hambre tengo.
+
+### 12A94C9
+Mi compañero de piso es un tío guay, pero a veces no pilla las indirectas.\pPero bueno, qué le vamos a hacer. Es lo que hay.
+
+### 12A95C9
+En la tele echan algo.\pUn anuncio de los nuevos sabores de cecina Moo Moo que pronto llegarán al Snack Sneasel.\pJoder, miel y barbacoa… Eso suena bien.
+
+### 12A9788
+Oye, ¿conoces a esa dependienta del Snack Sneasel?\p¡Qué pibón! Siempre hablo con ella cuando voy. Cuando hablamos, está todo sonrisas y risitas…\pCreo que le gusto un poco.\pMañana voy a…
+
+### 12A985C
+No te quiere, tío.\pEs así con todo el mundo.
+
+### 12A989C
+¿Y tú qué sabrás?\p¡Si ni siquiera sabes hablar con una mujer!\p¡Ni aunque le pagaras para que hablara contigo! Eres un caso perdido, tío.\p¿Yo? Oh, yo sé de mujeres.\pYo…
+
+### 12A993E
+Mira quién habla.\pTío, ¿no te acuerdas de cuando te obligué a hablar con Gabi?\p¡Te pusiste a temblar y la asustaste!\pEres tan despistado como dices que soy yo.\p¡La única diferencia es que yo sí que TUVE novia antes!
+
+### 12A9A38
+Tío, literalmente no sé ni de qué hablas.\p¿Cuánto duró esa relación? ¿2 meses?\p¡Eso ni siquiera cuenta! Yo llevo hablando con la chica del Snack Sneasel muchísimo más tiempo…
+
+### 12A9B00
+Tú deliras, tío.\p¿Crees que hablaría contigo fuera del trabajo?\p¡Es su TRABAJO, tío!
+
+### 12A9B5E
+¿Eso crees? ¡Ya veremos quién delira!\pEsperaré a que salga del trabajo y entonces la abordaré…
+
+### 12A9BD0
+Ni se te ocurra hacer ESO, tío.\pTe van a detener.\pMira que eres cortito, te lo juro. Oye, ¿y si tú y yo nos vamos a Plateada la semana que viene?\pEn el Aston’s siempre hay chicas guapas.\p¡Chicas que están allí por voluntad propia!
+
+### 12A9CBB
+Olvídalo, tío.\pYa lo he superado.
+
+### 12A9CE3
+Vale, tío. Lo que tú digas.
+
+### 12A9D03
+Mi compañero de piso es un listillo.
+
+### 12A9F89
+Uf… Odio el turno de noche.\pSiempre me toca encargarme de la chusma.
+
+### 12AA009
+¿Se dará prisa el abuelo con la comida?\p¡Mi turno empieza en 20 minutos!
+
+### 12AA080
+¡Cocinar para mis nietos tan revoltosos no es tarea fácil!\p¡Últimamente siempre tienen muchísima hambre! Pero estoy orgulloso de ellos por mantener la ciudad a salvo.\pJeje… Recuerdo que hace mucho tiempo un grupo de terroristas se hizo con el antiguo edificio de Silph S.A.\pEse grupo… Nunca llegaron a conseguir gran cosa. Solo eran un puñado de ratas callejeras y estafadores, por lo que recuerdo.
+
+### 12AA240
+En la tele echan algo…\pUn concurso en el que giras una ruleta y ganas un premio fabuloso.\p¡Alguien está a punto de caer en un coche nuevecito!\p…\p…nada. Le ha tocado un saltador pogo.
+
+### 12AA449
+En la pared cuelga una foto de un abuelo y sus dos nietos adolescentes.\pTodos parecen muy felices.
+
+### 1306449
+En la tele echan un vídeo editado. Es Bruno III, sincronizado con una canción pop muy cuqui.\p¿Quién hace este tipo de cosas?
+
+### 1306549
+¡Bruno esto, Bruno lo otro!\pEs de lo único que habla mi mujer…\p¿Y quién puede culparla? ¡Es el mejor!
+
+### 13065C0
+Madre MÍA, ese Bruno… ¡Qué BOMBÓN!\p¡Alto, moreno y guapo como él solo! Esa sonrisa, esa forma de andar, esa risa, ese bigote…\pAy, me vuelve loca… ¡A mí y a todo el mundo!
+
+### 13067C9
+Un póster de un hombre y una mujer llorando junto a Bruno III durante un encuentro con fans.
+
+### 13073C9
+Madre MÍA.\pCreo que nunca había visto un hombre tan sexi y PODEROSO…\pEse carroñero… Su forma de luchar, su forma de dominar el escenario…\p¡Me deja sin aliento!\pMe da demasiada vergüenza acercarme a él. Ningún hombre me hacía sentir así desde que vi a Bruno III hablando en un escenario.
+
+### 1307649
+Mi nivel no está ni de lejos donde yo creía.\pHay niveles, joder…
+
+### 130787A
+¿No lo ves? ¡Aquí hay un partido importantísimo!\pLos Sneaslers de Azafrán contra los Voltorbs de Carmín.\pEs una serie al mejor de 5, así que baja la voz y mira a los maestros en acción.
+
+### 130792A
+Como puedes ver, la entrenadora número 3 de Azafrán, Norah, está usando a su Skeledirge a pesar de la desventaja de tipo ¡para machacar y humillar a ese Starmie!\pAzafrán va 2 partidos arriba, y si ganamos este, ¡nuestra mejor entrenadora podrá desafiar al Alto Mando!
+
+### 1307A1E
+¡Quizá algún día, si te haces lo bastante fuerte, puedas unirte al equipo de tu ciudad!\p… ¡y quizá algún día yo sea el rey de Kanto! ¡Jajajaja!
+
+### 1310052
+Nasha: Hola, ¿y tú quién eres? ¿Siempre te cuelas en las casas ajenas sin invitación?\p¿Dónde te han criado?\p…\p¿En Pueblo Paleta? Puf.\pAlgo debe de haber en el agua de allí.\pMi exmarido, un vago y un inútil, vive en Pueblo Paleta.\pPrefiere trastear con su Pokédex antes que estar presente en una relación.\p¡Prefiere criar a una huérfana antes que a su propio hijo! Puf, perdona…\p¿Entrenas Pokémon? Deberías hablar con mi hijo, Teal. Solo tiene 12 años, pero ya es una gran promesa en la Escuela de Entrenadores de Azafrán.\p¡Los cazatalentos de Hoenn y Alola ya me están friendo el teléfono para que se cambie de escuela!\pEstoy muy orgullosa de él. En fin, perdona por el rollo.\p…Qué poco hablas. Me recuerdas un poco a un chico de Pueblo Paleta que estuvo en mi boda.\p¿Eres pariente de alguien llamado Red?\p¿No? Bueno.\pHa sido un placer hablar contigo. ¿Cómo dijiste que te llamabas?\p{B01}… ¡Me suena haber oído tu nombre antes! Es bonito.
+
+### 13103BB
+Nasha: Oh, hola, {B01}.\pHas tenido mucho lío, ¿eh? Se nota.\pNo te hagas demasiado.
+
+### 131040E
+Nasha: Oh, hola, {B01}.\p¿Qué te trae por aquí?\p…\p… ¿Él está…?\pMmm…\p…\p…gracias por decírmelo. No me habría enterado de otra forma.\p…\p…A Teal le han dado una beca estupenda en Sinnoh.\pYo también me iré allí cuando termine de empaquetarlo todo.\p…\pTen cuidado, ¿vale?
+
+### 1310503
+Nasha: Oh, hola, {B01}.\p¿Qué tal todo?\p…\pYa veo. Bueno, ya casi he terminado de empaquetar.\pOjalá hubiéramos pasado más tiempo juntos, de verdad.\pVen a vernos a Teal y a mí a Sinnoh algún día, ¿vale?
+
+### 131BF40
+Una foto de las vacaciones familiares de esta pareja en una playa de la región de Hoenn.\pEstán disfrutando de una deliciosa bebida con gas.
+
+### 1548B62
+Creo que ya tengo asegurado mi puesto en el Alto Mando.\pDe momento no he perdido ni un solo combate. Tiene sentido…\pClasifiqué todas mis opciones posibles y elegí el equipo más óptimo para este evento.\pAsí que… ¿supongo que eres mi próxim{o} rival?
+
+### 1548C4A
+Vale…\p¿Y entonces qué haces aquí?\pDe verdad que no tengo tiempo para esto. Tengo que hacer unos cálculos.
+
+### 1548CAF
+Genial.\pVeamos qué tal te defiendes.
+
+### 1548CD2
+Vaya.\pNo había tenido eso en cuenta…
+
+### 1548CF3
+Jake: Creo que mi récord de victorias todavía me garantiza un puesto en la Liga, así que no me voy a agobiar mucho.\pPero me has hecho darme cuenta… Creo que mi Marowak no es óptimo.\pTengo que pensarlo.
+
+### 1548DCA
+Jake: He estado pensando.\pCuando consiga un puesto en la Liga, sin duda cambiaré a mi Drifblim por un Krookodile.\pSiento que contra los que pegan más fuerte me vendría mejor tener un buen barredor de revancha.\pEstoy pensando en Pañuelo Elección con Autoestima.
+
+### 1549022
+Ah… La verdad es que en todo esto no he tenido tanta suerte como pensaba.\pMi récord es positivo, pero voy como 7 a 5…\pSi pierdo el próximo, seguramente tendré que retirarme antes de la siguiente fase.\p…¿y tú qué? ¿Quieres luchar?
+
+### 154912B
+Ah, porras.\pY eso que necesitaba otra victoria…
+
+### 1549157
+¡Toma ya!
+
+### 1549162
+Ah, mierda.\pCreo que tengo que llevar este equipo en línea y practicar.
+
+### 15491A3
+Jeffrey: Bueno…\p¡Suerte intentando conseguir un puesto en la Liga! Quizá yo me conforme con un puesto de Líder de Gimnasio.
+
+### 154920A
+Jeffrey: Aquí hay entrenadores muy duros, de todas partes.\pSupongo que la perspectiva de una nueva Liga tiene a todo el mundo con ganas.
+
+### 1549AE2
+Venga, acepto a cualquier aspirante. Hasta ahora, ninguno de vosotros ha volado lo bastante cerca como para ser una amenaza para mí.\p¡Seguiré surcando los cielos y abatiendo a cualquiera que se cruce en mi camino!\p¿Tú quién eres? ¿Eres mi próximo peldaño?
+
+### 1549BB2
+Bah…\pLo típico.\p¿Hay aquí alguien con el valor suficiente para volar conmigo hacia aguas profundas?\p¡Creía que erais unos salvajes, forjados a fuego en este paisaje infernal!\p¡No esperaba que Kanto fuera tan débil…!
+
+### 1549C73
+¡Observad y sed testigos!\p¡Escuchadme todos!\p¡Soy Honoka Pegaso!\p¡Hija de Hayashi Pegaso, Líder del Gimnasio de Ciudad Malva!\p¡Nieta de Hayato Pegaso, antiguo miembro del Alto Mando!\p¡Bisnieta del legendario Hayate Pegaso, dos veces Campeón de la Liga Añil!\p¡Reclamaré el título de Campeona no solo de la Liga Azafrán, sino de todas las ligas del mundo!\p¡Conoceréis mi nombre!
+
+### 1549E0C
+¡Guh…!\p¿Cómo he podido caer desde tan alto?\p…
+
+### 1549E39
+He…\pperdido…\ppero de las cenizas resurgiré…
+
+### 1549E62
+Honoka: Tú…\pIncluso con todo mi poder, has conseguido volar más alto y cortarme las alas.\pNo olvides mi nombre. No olvides mi cara.\pVolverás a verme.
+
+### 154A7E2
+No rechazaré ningún desafío.\pEsta es una oportunidad que no puedo dejar escapar.\p¿Vas a detenerme?
+
+### 154A84C
+Quizá te des cuenta de lo mucho que significa esto…\p…pero lo dudo.
+
+### 154A884
+Tú nunca podrías entender nuestra situación.\pPor eso…\pnadie puede impedir mi éxito. Ni siquiera tú…\p…Campe{on} {B01}.
+
+### 154A8F4
+Esto no me desviará de mi camino. Ni lo más mínimo…
+
+### 154A929
+Sh’sannk: Esta competición…\psi consigo ganarme mi puesto…\ppodría haber un Gimnasio de la Liga Azafrán en Pueblo Jaspar…\pEse dinero, esa oportunidad…\pYa no tendríamos que vivir de la carroña. Las cosas podrían… cambiar para nosotros.\pMoriría por esta oportunidad. ¿Y tú?\p…
+
+### 154AA29
+Sh’sannk: Un Gimnasio en Pueblo Jaspar…\p…
+
+### 154AAD4
+Jejeje…\pEsto es divertido, ¿verdad?\p¡Todo el mundo está entusiasmado y con ganas de demostrar lo que vale!\pLa creación de una nueva Liga… No me digas que…\pVas a ir a ver a mi amiga Lylia más tarde, ¿verdad?\p…\p¡Lo sabía!\pMe ha hablado mucho de ti…\p¡Ji, ji, tranquilidad! No soy una chivata, no le diré a nadie quién eres.\pPeeero…\p¿Quieres luchar contra mí?\pMe da que será divertido… ¡antes de ir a ver a Lylia!
+
+### 154AC5F
+¡Ay, qué seriedad!\pBueno, me quedaré un rato aquí viendo los combates.\pMe gusta esa chica, Honoka… ¡tiene agallas!
+
+### 154ACDE
+¡Genial!\p¡Puede que sea mayor, pero no he perdido la práctica!\p¡Enséñame de qué pasta está hech{o} {el} Campe{on} de Kanto!
+
+### 154AD3C
+¡Hala!\p¡Tienes aún más fuerza de lo que decía Lylia!
+
+### 154AD69
+Zarala: ¡Ha sido muy divertido! ¡Gracias por entretenerme un rato, {B01}!\p¡Voy a pasar un rato con Lylia en su casa de vacaciones en la frontera entre Kanto y Johto, quizá nos volvamos a ver pronto!\p¡Y si no, deberías visitar Alola! Es muy colorida… no sé qué te parecerá eso, ¡pero es muy relajante!\pParece que te vendría bien algo así.\p¡Hasta luego!
+
+### 154B2C9
+¿Vienes a competir?\p¡Puedes entrar en la siguiente fase! Ahora mismo hay combates libres.
+
+### 154B640
+Esto es muy emocionante. ¡Una Liga completamente nueva!\pMe pregunto si alguno de los antiguos Líderes de Gimnasio de la Liga Añil intentará ganarse un puesto en la Liga Azafrán.\pLo último que oí es que a ese tal Voltage, de Carmín, lo vieron a las afueras de la Ruta 5.\pCreo que Aston por fin lo va a dejar, así que me pregunto si Plateada tendrá siquiera Gimnasio.
+
+### 154B7C0
+¡Ay, no me está yendo muy bien! He venido desde Hoenn para intentar hacerme con un puesto de Líder de Gimnasio, pero…\p…aquí hay auténticos asesinos. Con algunos equipos ni siquiera pude hacerles daño.
+
+### 154B8C0
+¡Hay un carroñero aquí que está barriendo a todo el mundo!\pDe momento está invicto… ¿O es ella? Es imposible distinguir a los carroñeros entre sí.\pEsa gente suele ser tan frágil y débil que me sorprende que exista uno tan fuerte.
+
+### 154BA00
+¡Menudo evento!\p¡Me pregunto quién conseguirá los puestos del Alto Mando!\pCreo que ese tal Jake y esa chica de Johto tienen muchas posibilidades. ¡Todavía no los he visto perder!
+
+### 154BC09
+Hay un cuaderno sobre la mesa. Lleva la puntuación de todos los participantes de este torneo.\pDesde luego, hay muchísima gente…
+
+### 154BD09
+uf, uf…\p¡buf, estoy reventado!\p¡Wobbuffet y yo nos hemos esforzado muchísimo en este torneo!\p…pero todavía no hemos ganado.\p¡Pero no pasa nada! ¡La próxima fase será nuestra!\p¡Voy a tener que sacar esa técnica secreta que hemos estado practicando!\p¡Cuando Wobbuffet use Celebración, el combate va a dar un vuelco!
+
+### 154C0C0
+Blanca: ¡Esto, lo siento!\p¡Nada de autógrafos, cielo!\p¡Es que ahora mismo tengo, o sea, un trabajo que hacer!\p¡Tengo que clasificar y evaluar a todos los aspirantes! Son las normas, ¿sabes?\p…\p¡Venga, cielo, a correr!
+
+### 154C212
+Lance: Hmph…\pNinguno de estos necios es digno ni de pulir una escama de la cola de mi Dragonite.\pParece que tendré que entrenar a la chusma que se gane su puesto para convertir el carbón en diamantes.\pSupongo que, cuando un Campeón tan tremendo como yo dura tanto, es natural…\pSi al menos Sinnoh no se hubiera llevado a ese chico de Azafrán…\pEso sí que era talento… Podría haberlo moldeado hasta convertirlo en un verdadero Campeón…
+
+### 154C411
+Erika: Esto es digno de ver.\pUna nueva Liga…\pQuizá me mantenga al margen esta vez y deje que la nueva era crezca de forma natural.\pMmm…
+
+### 154C909
+Son combates libres, así que la mayoría del público se ha ido.\p¡Mañana empieza la siguiente fase del torneo!\pHe oído que Bruno ya ha elegido a uno de los miembros del nuevo Alto Mando…\pPor lo que he oído, creo que es especialista en el tipo Fuego.
+
+### 154CA40
+¡Uf!\pCreía que tenía fuerza… ¡pero esa chica pájaro es otra cosa!\pEs feroz, ¡y es como si viera los huecos de tu juego en cuanto aparecen!\pPor lo visto, viene de un largo linaje de entrenadores poderosos.
+
+### 154CB80
+Zigzag: …\p…\p…eh, espera un momento. A ti te conozco…\p¡JAJAJAJA! ¡TE CONOZCO!\p¿De verdad creías que podías camuflarte aquí, lumbrera? ¡Te veo venir de lejos!\p¡Eres quien se meó encima delante de la cámara en el Snack Sneasel!\p¡JAJAJAJAJA! Eso fue para partirse.\p¡Y ahora, piérdete!
+
+### 154CD09
+Ver combates de un nivel tan alto te hace darte cuenta de lo inmenso que es este mundo.
+
+### 154CE80
+Esa chica…\pSu dominio sobre las bestias es extraordinario. Me la imagino convirtiéndose algún día en una gran Campeona.\pQuizá incluso podría destronar a {B01}, {el} Campe{on} legítim{o}. Esté donde esté…
+
+### 154CF80
+¡Fuu, ji, ji, ji!\p¡La juventud está llena de fuego y determinación!\p¿Quién de ellos se ganará su puesto en la Liga Azafrán?
+
+### 154D500
+De verdad creía que iba a hacer algo grande. ¡Pensaba que bastaba con subir a mi mejor Pokémon al nivel 100 y arrollar a la competencia!\pPero qué va…\pEsta gente viene de todas partes. Están dispuestos a arriesgarlo todo, y yo desde luego no tengo esas ganas.\pSolo era el rey del corral en un corral muy pequeño…
+
+### 154D680
+Esta nueva Liga Azafrán…\ppromete, pero, aunque quieran que lo olvide, yo sé que…\p…{el} verdader{o} Campe{on} legítim{o}, {B01}, sigue ahí fuera, en alguna parte.\pHasta que alguien pueda decir que ha derrotado a {B01}, no tiene derecho real a llamarse Campeón…
+
+### 154D7C9
+Oye, ¿te enteraste de lo que le pasó al Campeón Grey?\pSé que era callado y que solo se quedaba en la Meseta Añil, pero ¿de verdad perdió contra {B01}?\pCuando empezaba a destacar en la Liga, Grey parecía imparable.\pNo me imagino que perdiera de forma legítima.
+
+### 15522E2
+Gwejejeje…\pSi sigo así de bien, conseguiré un puesto de Líder de Gimnasio fijííííísimo.\p10 a 3 es un récord buenííííísimo.\pAunque nos den estos descansos, todavía tengo fuego en todo mi cueeeeeerpooooo…\p¿Quieres acercarte y sentir este calorciiito, bomboooón?
+
+### 15523EE
+Ayyyyy…\pTe prometo que seré suaveeeee… Cuando todo esto acabe seré alguien IMPORTANTE, asííííí que…\ppodrías tener venta-jaaaa…
+
+### 1552476
+¡Oooohhh!\pMmmhh… acércate, vamos a divertirnoooos…\pTe prometo que seré suave contigooooo…\p¡Gwejejejejeee!
+
+### 15524E2
+¿Pero qué queeeeeé?\p…¿quién eres en realidaaaaaad? gwejejeje…
+
+### 155251F
+Gourdina: Mmmhh…\p¿Vas a participar en la competicióoooooon?\pMmmh… tienes muuuuUuuUUuUuUcha fueeeerza…\pPiénsaloooo. ¡Gwejejeje!
+
+### 15525A6
+Gourdina: Ooohh…\pMe has echado de menos, ¿a que síiiii? Gwejejeje…\pMmmhh… yo también te he echado de menoooos… ¿Vendrás a verme cuando tenga mi propio Gimnaaasiooo?
+
+### 1552689
+Tío, esa bruja del pantano está buenísima…\pUsa un montón de distracciones y problemas de estado en sus combates. Supongo que, cuando eres una entrenadora de ese nivel, tienes que usar todas tus bazas.
+
+### 1556CF2
+Soldado: ¿Eh?\p…\p¿Matar a esta persona?
+
+### 1556D14
+Soldado: …¿?
+
+### 1556D27
+{B01} apoyó el cañón de la pistola en el cuello del Soldado.
+
+### 1556D63
+Soldado: ¡NO! ¡ESPERA!\p¡POR FAVOR, NO!
+
+### 1556D84
+Has acabado con su vida.
+
+### 1556EE3
+Soldado: ¡POR FAVOR, ESPERAESPERAESPERA!\p¡NO ME MATES!
+
+### 1557389
+En la pared cuelga un cuadro.\pEs una pieza preciosa: unas manos encadenadas a otro par de manos que se tienden.\pQuien haya pintado esto tiene muchísimo talento.
+
+### 15576CE
+Alyce: ¡Holi!\p¡Mi papiii dice que volverá pronto a casa! ¡Sísí!\pMi papiii está un poco enfadado ahora mismo… ¡Así que no está en casa! Dice que su arte está…\p¡deslustado!\p¡Pero yo soy su obra de arte perfecta! ¡Sísí! ¡Eso es lo que dice!\p…\pOye, ¿te gusta luchar con monstruos? ¡Yo soy muy buena!\p¡Buenííísima! ¡Les gano a los mayores como tú todo el rato! ¡De verdad!\p¿Quieres luchar contra míii?
+
+### 155782F
+Alyce: ¡Qué rollo!\pMmm…\p¡Qué triste!
+
+### 1557851
+Alyce: ¡Yupi!\p¡Ya verás… soy buena, pero buena BUENÍSIMA!
+
+### 1557886
+Alyce: Ooooh… ¡He perdido!
+
+### 155789A
+Alyce: ¡Tienes mucha fuerza! ¡MUCHÍSIMA!\p¿Vas a presentarte para ser Líder de Gimnasio en el Estadio Azafrán?\pMi papiii y el señor Bruno dicen que todavía no tengo edad.\p¡Qué triste!\p¡Yo tengo mucha fuerza! ¡MUCHÍSIMA!
+
+### 1557955
+Alyce: ¡Mi papiii se pondrá triste si ve a un{a} desconocid{o} cuando vuelva a casa!\pPero a ti ya te conozco… ¿verdad?
+
+### 15579C5
+Alyce: ¡Holi!\pHe perdido una cosa, ¿me ayudas a encontrarla?\pCreo que la perdí cerca de esa montaña… ¡sísí!\pSeguro que la perdí allí…
+
+### 1557A4D
+Alyce: ¿Por favor me ayudas a encontrarla?\p¡Mi papiii dice que no puedo salir de casa hasta que vuelva!\pMmm…\p¡Qué triste…!
+
+### 1557AC9
+{B01} le dio a Alyce el Pincel de Hueso.
+
+### 1557AE9
+Alyce: ¡Es este! ¡Graciaaas!\pMe lo hizo mi papiii. Se pondría muy triste si lo perdiera…\p¡Ya puedo terminar mi cuadro! ¡Sísí!
+
+### 1559DC9
+En la pared cuelga un cuadro.\pEs de una niña pequeña y su padre. Los dos parecen muy tristes…\p…pero es una pieza preciosa. Quien haya pintado esto tiene un talento descomunal.
+
+### 1559EC9
+En la pared cuelga un cuadro.\pUna Poké Ball atravesada por un cuchillo, sangrando. Seguramente tenga algún tipo de significado figurado…\p…pero no tengo tiempo para pensar en estas chorradas artísticas.
+
+### 155A009
+En la tele echan algo…\pUn programa infantil de Internet en el que dan clases de pintura y escultura.\pLa verdad es que parece bastante avanzado para ser un programa infantil.
+
+### 155A109
+Aquí, sobre la mesa, hay una hoja de papel.\pParecen garabatos de ceras de un niño.\p…la verdad es que tiene mucho detalle. Mucho mejor de lo que podría hacer yo.
+
+### 1591589
+En la tele echan algo…\pUn combate…\pno entre Pokémon, sino entre dos seres humanos. Parece que están luchando en un gran escenario.\pEmocionante.
+
+### 1591809
+¿Quién coño eres tú?\p¡Fuera de mi casa!
+
+### 1591989
+En la tele echan una especie de programa infantil.\pNo sé muy bien de qué va, pero es muy relajante.
+
+### 1591A89
+¡Mi mami me está enseñando a pintar con pinturas!\pLa gris es la que peor sabe.
+
+### 1591B80
+¡Soy la profesora de arte de la Escuela de Entrenadores de Azafrán!\p¡Ay, qué talento tienen estos jóvenes! ¡Hay una niña en mi clase que va a años luz de lo que le toca por su edad!\p¡La pequeña Alyce, qué prodigio!\p¡Bruno es un gran hombre, sabe que el arte es tan importante como cualquier otra habilidad u oficio!
+
+### 1591D00
+Dibujar no se me da bien…\p¡Se me da mucho mejor luchar! ¡Haiyah!\p¡Yo también voy a ser un entrenador fuerte algún día! ¡Cuando cumpla 10 años podré tener mi propio Pokémon!
+
+### 1591F09
+En la pared cuelga un dibujo infantil.\pEs un pequeño desastre de acuarela y ceras.\pAunque parece que tiene una idea general de cómo aprovechar el lienzo.
+
+### 1592109
+En la pared cuelga una foto de una pareja durante sus vacaciones en un crucero a Ciudad Porcelana.\pHe oído que ese sitio está lleno de bichos y basura.
+
+### 1592200
+¿Sabes? ¡Además de ser un líder increíble, Bruno III también es un luchador muy hábil!\p¡Es cinturón negro de jiu-jitsu, sambo de combate, silat, muay thai, kárate, judo y sumo!\pRevalida muchos de sus títulos cada año en el Clásico de Combate de Azafrán.
+
+### 1592340
+¡En Ciudad Azafrán todo el mundo conoce al menos un estilo de lucha!\p¡Es un poco la moda aquí, pero hasta los niños empiezan un arte marcial desde muy pequeños!\p¡No solo somos los entrenadores más fuertes, sino también los guerreros más fuertes! ¡Jajaja!
+
+### 1592589
+En la pared cuelga una placa de “Agente del mes”.
+
+### 1592600
+En la tele echan algo…\pUn reality de gente guapa y sus problemas personales.\pPor lo visto, la novia de él besó sin querer a su mejor amigo, que además sale con alguien de su clase.\pAhora todos están disgustados y hablan y lloran delante de la cámara.\p¿De verdad la gente vive así?
+
+### 1592780
+¿Cómo dices que te llamabas?\pSabes que estás allanando una propiedad privada, ¿verdad?\pPodría encerrarte por esto, pedazo de mierda.
+
+### 15B2700
+Amn: Vaya. La mente colmena dice que no tienes elección.{C0B9001} Tengo que cosecharte por la fuerza.\p…Pues eso.

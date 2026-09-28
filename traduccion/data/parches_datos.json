@@ -1,0 +1,110 @@
+[
+ {
+  "addr": "15CD492",
+  "orig": "7e077f0786078707",
+  "new": "860787077e077f07",
+  "nota": "carteles de Azafr\u00e1n: orden de las palabras"
+ },
+ {
+  "addr": "15CD4E0",
+  "orig": "7e077f07990786078707",
+  "new": "8607870799077e077f07",
+  "nota": "carteles de Azafr\u00e1n: orden de las palabras"
+ },
+ {
+  "addr": "15CD500",
+  "orig": "7e077f0786078707",
+  "new": "860787077e077f07",
+  "nota": "carteles de Azafr\u00e1n: orden de las palabras"
+ },
+ {
+  "addr": "15CDF4A",
+  "orig": "7e077f07cd07ce07",
+  "new": "cd07ce077e077f07",
+  "nota": "carteles de Azafr\u00e1n: orden de las palabras"
+ },
+ {
+  "addr": "15CE52C",
+  "orig": "7e077f0786078707",
+  "new": "860787077e077f07",
+  "nota": "carteles de Azafr\u00e1n: orden de las palabras"
+ },
+ {
+  "addr": "BE7270",
+  "orig": "00000000000000000000000000000000",
+  "new": "6ab36bb37ab37bb30000000000000000",
+  "nota": "metatile de la P"
+ },
+ {
+  "addr": "BE812C",
+  "orig": "00000000",
+  "new": "00000000",
+  "nota": "P: suelo normal"
+ },
+ {
+  "addr": "BE7250",
+  "orig": "00000000000000000000000000000000",
+  "new": "85b295b288b390b30000000000000000",
+  "nota": "metatile de la C"
+ },
+ {
+  "addr": "BE8124",
+  "orig": "00000000",
+  "new": "00000000",
+  "nota": "C: suelo normal"
+ },
+ {
+  "addr": "BE7200",
+  "orig": "00000000000000000000000000000000",
+  "new": "a0b3a7b3b0b3b6b30000000000000000",
+  "nota": "metatile de la \u00c1"
+ },
+ {
+  "addr": "BE8110",
+  "orig": "00000000",
+  "new": "00000000",
+  "nota": "\u00c1: suelo normal"
+ },
+ {
+  "addr": "1FF4000",
+  "orig": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "new": "a203000500a0030000a208000500a0030000a20b000500a9030000a20e000500a9030000a20f000500a0030000a214000500a0030000a202000700ae030000a204000700a0030000a209000700a9030000a20a000700a0030000a20a000900a9030000a20b000900a0030000a213000900a0030000a21500090044030000a203000b00a9030000a204000b00a0030000a208000b00a9030000a209000b00a0030000a20f000b00a9030000a210000b00a0030000032f190030a205000500a5030000a207000500a5030000a20d000500a4030000a212000500a5030000a208000700a5030000a204000900aa030000a206000900a4030000a20700090049030000a208000900a5030000a209000900aa030000a20f000900aa030000a202000b00a4030000a207000b00a4030000032f190030a204000500a8030000a213000500a1030000a20c000900ab030000a20e0009004b030000a210000900ab030000a2120009004b030000a2140009004b030000a20e000b00ab03000003a202000500a3030000a206000500a6030000a20a000500a2030000a205000700a6030000a207000700a3030000a20b000700a6030000a202000900a2030000a205000900a6030000a206000b00a6030000a20b000b00a2030000a20d000b00a203000003a211000500ad030000a203000900ad030000a20c000b00ac030000a20b0000000e00000003a202000500a3030000a203000500a0030000a204000500a8030000a205000500a5030000a206000500a6030000a207000500a5030000a208000500a0030000a20a000500a2030000a20b000500a9030000a20d000500a4030000a20e000500a9030000a20f000500a0030000a211000500ad030000a212000500a5030000a213000500a1030000a214000500a0030000a202000700ae030000a204000700a0030000a205000700a6030000a207000700a3030000a208000700a5030000a209000700a9030000a20a000700a0030000a20b000700a6030000a202000900a2030000a203000900ad030000a204000900aa030000a205000900a6030000a206000900a4030000a20700090049030000a208000900a5030000a209000900aa030000a20a000900a9030000a20b000900a0030000a20c000900ab030000a20e0009004b030000a20f000900aa030000a210000900ab030000a2120009004b030000a213000900a0030000a2140009004b030000a21500090044030000a202000b00a4030000a203000b00a9030000a204000b00a0030000a206000b00a6030000a207000b00a4030000a208000b00a9030000a209000b00a0030000a20b000b00a2030000a20c000b00ac030000a20d000b00a2030000a20e000b00ab030000a20f000b00a9030000a210000b00a0030000a20b0000000e00000002",
+  "nota": "scripts nuevos de las letras del suelo"
+ },
+ {
+  "addr": "1082C18",
+  "orig": "472c0809",
+  "new": "0040ff09",
+  "nota": "llamada a letras del suelo"
+ },
+ {
+  "addr": "1082C24",
+  "orig": "b42c0809",
+  "new": "b540ff09",
+  "nota": "llamada a letras del suelo"
+ },
+ {
+  "addr": "1082C30",
+  "orig": "312d0809",
+  "new": "2f41ff09",
+  "nota": "llamada a letras del suelo"
+ },
+ {
+  "addr": "1082D9B",
+  "orig": "d72e0809",
+  "new": "7c41ff09",
+  "nota": "llamada a letras del suelo"
+ },
+ {
+  "addr": "1082E5A",
+  "orig": "f244f708",
+  "new": "e041ff09",
+  "nota": "llamada a letras del suelo"
+ },
+ {
+  "addr": "F78785",
+  "orig": "8d87f708",
+  "new": "0542ff09",
+  "nota": "llamada a letras del suelo"
+ }
+]

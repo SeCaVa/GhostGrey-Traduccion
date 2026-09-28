@@ -1,0 +1,400 @@
+#! Lote 17: mazmorras 1.66-1.83 (Zona Safari, Túnel Roca, Calle Victoria, Alto Mando y Campeón)
+
+### 0177A5A
+Guh.
+
+### 0177A82
+Guh… Comer.
+
+### 0177AAE
+¿Sabes?…\pLas personas también somos una especie de Pokémon.
+
+### 0177B38
+Crí{o} ignorante. Hoy la bruja anda suelta. Al entrar en este lugar, has sellado tu destino.\pCorre, crí{o}. Corre por tu vida si le tienes aprecio.
+
+### 0177CEB
+Jejejeje…\pUn{a} crí{o}, ¿eh? Qué cara más gris y apagada traes…\p¿Qué tal si te echo un poco de color?
+
+### 0178B6C
+Grey: Cuando cierras los ojos, ¿qué es lo que ves?\p…\p¿Temes a la muerte?\pHay cosas peores.
+
+### 0178E3F
+El cambio…\pMe pregunto si eres capaz de lograrlo.\pAdiós, {B01}.
+
+### 0178F2F
+Grey: No sé qué pasará ahora.\pTengo miedo.
+
+### 017908F
+Summer: ¿Dónde…? ¿Dónde está {el} Campe{on}?\pNo me digas que…
+
+### 0179366
+Aparta. Lo he visto yo primero.
+
+### 0179388
+Maldita sea…
+
+### 0179396
+Piérdete, no acepto limosnas de nadie. Y menos de críos.
+
+### 017940E
+Lo vas a tener difícil.
+
+### 017947B
+¿Sabes cómo salir de aquí?
+
+### 01794B4
+¿Me puedes ayudar a volver a mi casa en Pueblo Lavanda? Hace tiempo que me fui, y esta cueva ha cambiado mucho…
+
+### 0179577
+Tienes huevos, venir aquí a solas.
+
+### 0179613
+¿Esto te hace feliz?
+
+### 0179777
+Vivo de lo que puedo vender o rapiñar. No es mucho, pero de momento me basta.
+
+### 01797DE
+No tienes nada de especial. Eres como los demás.
+
+### 0179856
+¿Me ayudas a empujar las rocas?
+
+### 01798AD
+Estás en los huesos.
+
+### 017993E
+Los mejores luchadores de la región están en Ciudad Azafrán. ¡Ese Bruno sabe lo fuerte que puede ser el tipo Lucha! Lo admiro.
+
+### 091C692
+Un cofre viejo bien cerrado con un candado oxidado.
+
+### 091C6C0
+Quizá la Llave Ornamentada pueda abrir esta cosa…
+
+### 091C6ED
+¡Genial! ¡Ha funcionado!
+
+### 091C6FF
+La llave se ha roto… Y parece que el cofre ha vuelto a cerrarse solo.
+
+### 091C73E
+Aunque sea viejo, es bastante resistente. No puedo romper el candado sin ayuda.
+
+### 0A6DD36
+Es una vagoneta destartalada. Parece que ahora funciona.\p¿Montarse en la vagoneta?
+
+### 0A6DD8A
+¡Agárrate bien!
+
+### 0A6DDC8
+¡Damos la vuelta! ¡Agárrate bien!
+
+### 0A6DE1B
+Una vagoneta destartalada. Parece que no funciona.
+
+### 0A700FE
+Le han quitado el candado a esta palanca, pero haría falta bastante fuerza para moverla…\p¿Usar Fuerza?
+
+### 0A7016E
+¡Has empujado la palanca! Las ruedas están girando… ¡Parece que la vagoneta funciona!
+
+### 0A701C2
+Esta palanca no se mueve. Parece que algún tipo de bloqueo impide moverla.
+
+### 0A70352
+Parece que algo cercano se acaba de encender.
+
+### 0A704D2
+Parece que algo al otro lado de la sala se acaba de encender.
+
+### 0A70664
+Es una vagoneta destartalada. ¡Funciona!\p¿Montarse en la vagoneta?
+
+### 0A706D9
+¡Damos la vuelta, agárrate bien!
+
+### 0AC1D40
+¡Date prisa, mata o muere!
+
+### 0AC1DC0
+¿A qué esperas?
+
+### 0AC1E40
+Nunca debí vivir tanto tiempo.\pOjalá no lo hubiera hecho.
+
+### 0AE7D00
+Una barrera invisible bloquea el paso. ¿Quieres romperla?
+
+### 0AE7D80
+Una barrera invisible bloquea el paso.
+
+### 0B597C0
+Tengo que consumir. Tengo que consumir algo. Tengo que consumir algo.
+
+### 0B5C080
+¿Qué sabrás tú de domar una bestia salvaje, peque?\pNo son amigas. Son herramientas.
+
+### 0B5C100
+No puedes separar a una bestia de la jungla.
+
+### 0B5C180
+Por mucho que críes y quieras a una bestia, siempre puede volver a ser una bestia.
+
+### 0B5C480
+¡Llegar tan lejos solo para morir aquí! ¡Casi me das pena!
+
+### 0B5C580
+Das mucho miedo, peque. Veo dolor en tus ojos.
+
+### 0B5C680
+Tú no eres de por aquí. Te rajaré el estómago antes de que te dé tiempo a pensar.
+
+### 0B5C700
+Tienes fuerza…
+
+### 0B5C780
+Si no tuvieras tanta fuerza, ni siquiera me habrías visto.
+
+### 0BC88C0
+Summer: ¡{B01}!
+
+### 0C18B80
+Blanca: ¡Holiii, cielo!\p¡Oooh, he oído hablar de ti!\pEres la amenaza terrorista que persigue Bruno.\pOoooh… ¡Pero qué cosita más mona!\pQué mustio todo, ¿no? Deberías sonreír más; ¡das muchísimo miedo y pareces tan amenazante!\p¿Me regalas una sonrisa, cielo?\p…\p…O sea, que esto es un ataque terrorista en toda regla contra la Liga Pokémon, ¿no? ¿Por qué ibas a hacer algo así?\pNo me puedo creer que hayas llegado hasta aquí arriba. Hicimos que esas medallas fueran muy difíciles de conseguir, ¿sabes?\pOoooh, es que no os entiendo a los críos.\pCuando yo tenía tu edad, ya era Líder de Gimnasio, ¡y trabajé años y años para ganarme mi puesto en el Alto Mando!\p¡Tuve que hacer contactos, pagar peaje y aprender de la vieja guardia antes de llegar a lo más alto!\p¡Y nunca me enfadé ni me quejé!\p¡No puedes presentarte aquí por las bravas y esperar convertirte en Campe{on}!{C0B5601}\p¡Seguro que esas medallas son robadas! ¡Hasta puede que sean falsas! Y con tu reputación, cuadra.\p¡No puedes llegar a lo más alto haciendo trampas! ¡Hay que esforzarse y seguir los cauces adecuados!\p¡Así era, así es y así será siempre!\p¡Antes de que mueras, te enseñaré lo que se consigue con esfuerzo y respeto!
+
+### 0C62600
+¿Pero qué…? ¡Tienes unos huevos enormes!
+
+### 0C62680
+Es peligroso que críos como tú anden por el Túnel Roca. ¿Qué podrías querer de ese desierto?
+
+### 0C62740
+¿Qué haces aquí? ¿Buscas tesoros?
+
+### 0C627C0
+En el Túnel Roca no hay tesoros. Los carroñeros se llevan todo lo de valor y lo acaparan en el desierto. Es gente peligrosa y codiciosa.
+
+### 0C62CC0
+No me molestes; ahora has perdido la vida.
+
+### 0C62D40
+Déjame en paz. Me da igual lo que tengas o lo que quieras decir.
+
+### 0C62DC0
+¿Puedes ver aquí dentro? ¿Puedes respirar? Je… a ver.
+
+### 0C62E40
+Yo apenas puedo hacer ninguna de las dos cosas.
+
+### 0C62EC0
+Alguien de aquí abajo rapiñará tu cadáver. Quizá hasta me toque a mí un trozo de carne. Je…
+
+### 0C71B80
+Necesito que me lo pongas fácil. Tengo que comer algo pronto.
+
+### 0C71C40
+¡Maldita sea! Debes de tener muchísima hambre, peque.
+
+### 0C71CC0
+Antes me encantaba beber limonada. La tenían en la Gasolinera del Túnel Roca. Era dulce, fresquita y refrescante. A veces, de crío, bebía tanta limonada que me dolía la tripa y no comía nada más en todo el día. Jajaja…\pNunca supe cómo la hacían.
+
+### 0C71FC0
+cof, cof… No tienes mucha carne, pero tienes fuerza.
+
+### 0C72040
+Si tuviera más fuerza, te habría partido por la mitad como una ramita.
+
+### 0C73180
+¿Quieres subir a MI vagoneta? Eso te va a costar.
+
+### 0C73200
+De todas formas no funciona. No tienes escapatoria.
+
+### 0C73280
+¿Cómo has sobrevivido? No tienes pinta de tener muchas luces.
+
+### 0C73300
+No tengo fuerza suficiente para empujar las rocas. Intenté buscar a alguien que me ayudara, pero me topé con un chalado en una de las tiendas viejas.
+
+### 0C73400
+Vengo de muy lejos para perfeccionar mi lucha cuerpo a cuerpo. Deja que compruebe la tuya.
+
+### 0C73480
+¡Eres más fuerte que estos carroñeros! ¡Nadie puede conmigo en la lucha cuerpo a cuerpo, juajuajua!
+
+### 0C73540
+No te voy a matar, solo dame algo que pueda vender.
+
+### 0C735C0
+¿No te da ninguna pena un pobre carroñero?
+
+### 0C73640
+¿Qué hace un crío como tú en un sitio como este? Je… ¿quieres bailar conmigo?
+
+### 0C73700
+Vas totalmente en serio, ¿eh? ¿Qué es lo que te mueve?
+
+### 0C73780
+¿El desafío de los Gimnasios? ¿Estás bien? ¿No sabes que las medallas están enterradas en esa enorme prisión de arena? Nadie sale de allí con vida.
+
+### 0C73849
+uf…\puf…\pmétete en tus asuntos.
+
+### 0C738C0
+¡Solo te estaba pidiendo ayuda! ¡Hay que ver!
+
+### 0F7C706
+Summer: {B01}, ¿te acuerdas de cuando nos dieron nuestros Pokémon en el laboratorio del Profesor Oak?\p¡Estuve esperando en el laboratorio como tres horas a que te despertaras!\pDije que iría a sacarte de la cama a patadas como hago siempre, pero el Profesor Oak dijo que, como íbamos a salir por nuestra cuenta, debía darte tu espacio y dejar que hicieras las cosas a tu manera.\pCreo que tenía razón. Creo que a los dos nos vendría bien algo de espacio, después de esto, después de todo.\p¿Sabes?\p…\p¿Alguna vez te he molestado?
+
+### 0F7C8DF
+Summer: Ya veo…\p¡ENHORABUENA, {B01}! ¡TIENES MÁS FUERZA QUE NADIE EN EL MUNDO ENTERO!\p¡VAS A CAMBIAR ESTE MUNDO, LO SÉ!\p¡TE QUIERO MUCHÍSIMO…!\pMuchísimo…\pLo siento.
+
+### 0F914A0
+Maximus: uf…\p…vete.\puf…
+
+### 0FA75D4
+En la pared hay un panel de control incrustado. Tubos, cables y circuitos de toda la sala convergen en este único centro. A un lado del panel cuelga una gran palanca metálica; encima, pintado en letras gruesas, pone: “REINICIO DEL SOPORTE VITAL - USAR SOLO EN CASO DE EMERGENCIA”.\p¿Apagar la máquina?
+
+### 0FA76F6
+La máquina se ha apagado.
+
+### 0FA7717
+Mejor no. A saber qué podría desencadenarse.
+
+### 0FA774C
+{B01} bajó la palanca de un tirón.
+
+### 0FA7766
+El zumbido de las señales y los circuitos cesó…
+
+### 0FA779F
+Fredo: jac… fiiiiiuuu…\purhhghh…
+
+### 0FA77C5
+No puede respirar. ¿Volver a encender el sistema?
+
+### 0FA77F0
+Varias luces y botones parpadean, se atenúan y se apagan por completo.
+
+### 0FA783D
+Fredo: aa… ghgh…\p…\p…\p…
+
+### 0FA7854
+Ha muerto.
+
+### 0FA785D
+{B01} reinició el sistema de soporte vital.
+
+### 0FA7883
+Fredo: uuuhhh… haaaaahhh…
+
+### 0FA789D
+Vuelve a respirar.
+
+### 0FB62B3
+Fredo: Kshhh-haah…\pCrí{o} insolente. No lo entiendes…\pKshhh-haah… ¿Cómo ibas a entenderlo? Has visto tan…\lurhhh…\p…poco.\pKshhh-haah…\pLa sabiduría llega en capas. Yo soy un glaciar, y tú una simple cerilla.\pKshhh-haah…\pMi camino es seguro.\purrhhh…\pMi paso es firme.\lKshhh-haah…\pHe visto pasar generaciones llenas de chispas llenas de odio como tú.\lKshhh-haah…\pCorréis, os encendéis y os apagáis en un instante.\pKshhh-haah…\pY ese instante…{C0B5601}\pouuuhhh…\p…¡es AHORA!
+
+### 0FB6462
+Fredo: haaauhhh… si tuviera 90 años menos… haaahhh…
+
+### 0FB6498
+Fredo: haaah… ya no tengo la…\puohhhhh… …energía de antes…\pmaldita sea…
+
+### 0FB64DD
+No está consciente, pero sigue respirando.
+
+### 0FB650B
+Su cadáver está tan marchito y frío… es como si la vida no hubiera pasado por este hombre desde hace bastante tiempo.
+
+### 0FB6A32
+Blanca: Esto, perdona, tienes que esperar en ese lado del estadio, ¿vaaale, cielo?\p…\p¡Venga, vamos! ¡Graciaaaas!
+
+### 0FB8957
+Lance: Como siempre, todo depende de mí. Los demás son inconstantes, frágiles, confusos; yo soy el pilar de esta región.\pAl final, la gente no cambia. Las cosas siguen igual. El mundo es como es por algo.\p¡{B01}!\pSabiendo esto, ¿para qué te molestas? Has arriesgado tu vida, la vida de tus AMIGOS, y todo por orgullo.\pIncontables desagradecidos antes que tú han intentado cambiar el orden establecido, pero han fracasado, y todo volvió a ser como antes. El estancamiento es el camino natural una vez que todo se ha colocado en su posición óptima. ¿Y por qué no debería serlo?\pEstás con vida, ¿no?\p¿Tienes comida? ¿Ropa? ¿Por qué tienes tanta rabia? Tú, en concreto, recibiste todo lo que podrías desear de manos de ese idiota, Blue. Y aun así, aquí estás, sin ninguna gratitud. Quieres derribar algo más grande que tú, algo más inmenso de lo que puedes comprender. Te ofrecería una salida segura si te rindieras, pero…\p…tú y yo sabemos que has subido demasiado lejos.{C0B5601}\pNo hay camino de vuelta a casa.\pTodo lo que has hecho hasta ahora: nada de eso importará. Las cosas seguirán igual. El mundo seguirá siendo el mundo. Naciste siendo nadie, y así es como perecerás.\pHay diferencias entre un{a} crí{o} y un{a} Campe{on}. Después de esto, lo entenderás. ¡Deja que Lance, el Maestro de los Dragones, te ponga en tu sitio!
+
+### 0FB8E98
+Lance: Sin sentido.
+
+### 0FB8EAC
+Lance: El pilar del mundo ha caído; après moi, le déluge.\pEsta es una historia que ya he visto antes, pero para ti será una sorpresa desagradable. Tus decisiones te han traído inexorablemente a este lugar, en este momento, igual que te conducen a tu patético final.\pPor mucho que lo lamente, has vencido al Alto Mando. Eso, por supuesto, te convertiría en Campe{on}…\p¡si alguien no lo hubiera hecho antes que tú! Todavía te queda un desafío por delante, {B01}. ¡El Campeón! Y su nombre…\p…da igual. Pronto lo verás con tus propios ojos. No hay nada más que decir.
+
+### 0FB90F0
+Lance: Nada de esto tiene sentido, {B01}. Y no tiene sentido que te diga nada más.\pVe: el Campeón te espera.
+
+### 0FE77C9
+Da la vuelta, y nadie te lo reprochará. Da la vuelta ahora, y salva lo que queda de ti.
+
+### 1054950
+Moa: Pedazo de mierda. Esperaba, REZABA, que llegaras hasta aquí.\pA la escoria como tú los demás siempre le dejan pasar una.\p¡¿Sabes siquiera lo que estás haciendo?!\pVas por ahí haciendo lo que te da la gana sin ningún respeto por lo que es correcto, por lo que es JUSTO.\p¡¡¡Pero te da igual!!! ¡¡¡Y por eso TE ODIO, JODER!!!\p¡Y NO SOLO ESO, MATASTE A MI PUTO HERMANO, TAKESHI!\p¡LAS NORMAS EXISTEN POR ALGO!\p¡Quiero verte sufrir, quiero verte retorcerte y suplicar! ¡Muéstrame algo, escoria! ¡Muéstrame una emoción!\p¿¡Qué coño te pasa!? ¡Habla! ¡Habla! ¡Di algo para que pueda cerrarte esa boquita asquerosa!\p¡IMPONDRÉ EL ORDEN!{C0B5601}\p¡VAS A APRENDER, ESCORIA! ¡VAS A APRENDER QUE TUS ACTOS…\p¡¡¡TIENEN CONSECUENCIAS!!!!!!!!!!!!!!!!
+
+### 1054C22
+¡JODER! ¡JODER, JODER, JODERJODERJODER! ¡TE ODIO, JODER!
+
+### 1054C54
+Moa: SI QUIERES PASAR POR ESTA PUERTA, TENDRÁS QUE MATARME.\p¡NO, NO, NO! ¡¡¡AQUÍ Y AHORA, EN ESTA SALA, VA A MORIR UNO DE LOS DOS!!!!!!!!!!!!!!\p¡¡¡¡TU VIDA POR LA DE MI HERMANO, O ME DEJAS A MÍ TAMBIÉN DESANGRÁNDOME!!!!\pPUEDE QUE ME HAYA QUEDADO SIN POKÉMON…
+
+### 1054D31
+¡PERO NO SIN OPCIONES!\p¡¡¡¡¡¡TE ARRANCARÉ LOS RIÑONES Y TE HARÉ BEBERTE TU PROPIO PIS!!!!!!
+
+### 1054DA5
+Maximus: ¡{B01}! ¡Q-q-quédate detrás de mí!
+
+### 1054DC7
+Moa: ¿Quién coño…?\p¡Yo no hago preguntas! ¡¡¡¡¡¡¡¡¡¡¡¡MUERE! ¡MUERE! ¡MUERE!!!!!!!!!!!!
+
+### 1054E0A
+Maximus: cof…\pT-tienes una p-p-puntería malísima.\pcof…
+
+### 1054E3C
+Moa: ¡¡¡¡¡¡¡¡¡¡ESTO NI SIQUIERA ERA ASUNTO TUYO, PERO AHORA VAS A MORIR IGUALMENTE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+### 1054EAC
+Maximus: cof…
+
+### 1055009
+Blanca: No… ¡NO! snif… ¡¡¡N-no debería ser así!!!
+
+### 1055040
+Blanca: No. ¡NO! Eres una sabandija cruel y presuntuosa, y no voy a dejar que ganes así.\p¡No sin ganártelo!\p¡Destruiré toda esta meseta antes que dejar que me superes haciendo trampas!\p¡Usaré los protocolos de defensa de emegrencia del sótano para volar las instalaciones!
+
+### 105516B
+Lylia: ¿¡{B01}!?\pAh, menos mal, estás bien… He venido lo más rápido que he podido. ¿Qué ha dicho Blanca antes de salir corriendo?\p…¡Maldita sea!\pDéjamela a mí, {B01}. Yo me encargo.\p¡Tú sigue adelante!\p¡Muy bien, ya basta!\p¡Moveos! ¡Tengo que darme prisa antes de que esa psicópata reduzca este sitio a escombros!
+
+### 12A0497
+Sabrina: …\pCampe{on}.\pPuedo oírte. Sé que tú también me has oído.\p¿Has sentido tu poder? Quiere traer la ruina a este mundo. Has mantenido ocultos tus verdaderos colores, pero ahora te verás en la obligación de sacarlos a la luz.\pSé por qué estás aquí, Campe{on}.\p¿Sabes tú por qué estoy yo?\p…
+
+### 12A06CC
+Tu existencia en este mundo, por breve que haya sido…\pfue una bendición y un honor.\pTodos los psíquicos que murieron en esta tierra antes de tiempo…\pVuestro espíritu sigue vivo.\pTu corazón es mío. Mi corazón es tuyo.\pNo más miedo, no más dolor. Estoy aquí, siempre.
+
+### 12A47D3
+Sabrina: Me esforcé tanto…\pIntenté hacer feliz a todo el mundo… incluso a los fantasmas.\pNo podían descansar; habían derribado la torre funeraria.\pEstaban confusos, asustados y furiosos. Solo los psíquicos como tú y yo podíamos oír sus lamentos.\pLo único que querían era un lugar donde descansar. Lo único que yo quería era hacer feliz a todo el mundo.\pHice todo lo que pude…\pMurieron demasiados inocentes.\pTengo que asegurarme de que descansen en paz.\pNo puedo dejar que vean el mundo exterior.\pNo puedo dejar que veas el final de tu historia.{C0B5601}\pSea lo que sea lo que te impulsa… ni siquiera puedo oírlo.\pAllá donde vas, te sigue el caos. Estás lejos de tener las manos limpias.\pY no puedo dejar que sigas. Adiós, Campe{on}.
+
+### 12A4B37
+Auhhh…\pEsa… piedra…\pEsa piedra del desierto…\pDuele… ¿A ti no te duele también?
+
+### 12A4B8C
+Sabrina: Tú…\p¿Qué vas a hacer?\p¿En el corazón del mundo?\pYa no puedo oírte…\p¿Puedes oírme tú?
+
+### 12D442B
+Pista de Entrenador 227:\p¡La Zona Safari alberga especies raras de Pokémon de todo el mundo!\p¡Entre ellas, importaciones como Basculin, Spiritomb y el codiciado Bruxish, pero también algunos Pokémon rarísimos autóctonos de Kanto!\p¡Echa la caña en nuestras aguas y mira qué leyendas raras pican el anzuelo!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 1325D6B
+Summer: …te me has adelantado.\pMe enfadé y ahora… ¡solo uno de los dos es quien más fuerza tiene del mundo!\pY no soy yo…\pEres tú, {B01}. Siempre lo has sido.
+
+### 1325DFB
+Summer: En cuanto le di la espalda a la idea de hacer esto juntos…\pSupe que…\p…\pEl Profesor Oak estaría muy orgulloso de ti. Yo también estoy orgullosa de ti, aunque…\p{B01}, quería tantas cosas. Todavía las quiero. Quizá quiera demasiadas cosas.\pY van en direcciones distintas.\pDuele. Me duele ver el mundo tal y como es. Me duele perder a gente.\pCada vez que te veo…\p¡ME DUELE TANTÍSIMO EL CORAZÓN!\pSolo…\p…creo que necesito tiempo.\pPero esto no va de mí.
+
+### 1325FCA
+Summer: Va de ti… ¡CAMPE{ON} {B01}!\pY ahora el mundo entero lo va a saber.
+
+### 14DE200
+Aquí cuelga una foto en la pared.\pEs una copia impresa de un artículo antiguo. “¡La Líder del Gimnasio de Fucsia, Sachiko, le cede el testigo a su hijo, Hayato!”\pEn el artículo también hay una foto de Sachiko y su hijo. Se la ve muy orgullosa de él.
+
+### 14DE410
+¡Eres un BICHO RARO!
+
+### 14DE427
+¿Has venido a buscar secretos? ¡Yo también! ¿A que es divertido?\pMe pregunto si podrás encontrarlos todos… jejeje…\pPrueba en la montaña cerca de la entrada de la Liga…\pLa última vez que fui allí, encontré un secreto muy chulo…\p¡Una criatura, igual que tú!\pJejeje… Ya nos veremos.
+
+### 14DE531
+A ese chalado se le ha caído algo.

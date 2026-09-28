@@ -1,0 +1,553 @@
+#! Lote 14: grupo 2 (castillo del Señor de la Codicia/Wario, mazmorra tipo Zelda, Monte Plateado) y mapas 3.11-3.18
+
+### 017CEF5
+¡Se acerca un espíritu hostil!
+
+### 017CF54
+El espíritu hostil se ha calmado.
+
+### 0181726
+Acéptala. Acepta su llamada.
+
+### 01828EB
+¡Trabaja, trabaja, trabaja! ¡Cava, cava, cava! ¡Da, da, da!\pNunca debí venir aquí… Ahora tengo que trabajar para pagar mi deuda con el Señor de la Codicia…\pLlevo aquí 15 años…
+
+### 0182A03
+Un ordenador con la pantalla en blanco.
+
+### 01831EF
+Este es tu destino.
+
+### 01A5483
+Oh, niñ{o}…\pYa has viajado bastante. Por favor, descansa.
+
+### 01A54E1
+Tranquiliza tu mente…
+
+### 01A5511
+Cuídate.
+
+### 01A641B
+Con tu guía.
+
+### 07537C0
+Tienes un alma bondadosa, niñ{o}. Rezo por que vuelvas a salvo…
+
+### 093CD09
+Aquí hay una antigua insignia grabada en la pared. ¿Qué significará?
+
+### 093D461
+YAM: ¡Oh, guay!{C0BA001}
+
+### 093D476
+YAM: He visto tus combates. ¡Un trabajo muy guay!\p¿Quieres luchar contra mí? Creo que sería guay.\p¿Qué me dices, {B01}?
+
+### 093D4E8
+YAM: Ah, bueno, eso también es guay. Ya nos veremos.\p¡Sigue siendo guay!
+
+### 093D527
+YAM: ¡Guay!
+
+### 093D532
+YAM: ¡Yuju! ¡Eso sí que ha sido SUPERGUAY!
+
+### 093D559
+YAM: Bueno, gracias por este rato tan guay, pero me tengo que ir.\pNunca dejes de ser guay, {B01}.\pY juega a Pokémon: SUPER Cool Spot, ¿vale? Si no lo has jugado, seguramente toda esta parte del juego te resulte muy confusa.\p¡Sigue siendo guay!
+
+### 0A6FFD2
+Parece que algo se acaba de encender en el piso de arriba.
+
+### 0BC2AA0
+Pulsaste el botón…
+
+### 0BC2AD2
+¡El agua se vació!
+
+### 0C71F49
+¡Gasolinera del Túnel Roca!\n¡Sácia tu sed y tómate un tentempié!\lAbierto de 7:00 a 3:00
+
+### 0FE8412
+{B01} tomó la Piedra del Alma Gris entre sus manos.\pEl instinto le hundió la corona de la piedra en el cráneo.\pLa agonía y las almas de mil antes que él irrumpieron en su cerebro, infectando la sangre que brotaba de su carne.
+
+### 0FE8552
+{B01} tomó la Piedra del Alma Gris entre sus manos.\pEl instinto le hundió la corona de la piedra en el cráneo.\pLa agonía y las almas de mil antes que ella irrumpieron en su cerebro, infectando la sangre que brotaba de su carne.
+
+### 0FEAE79
+Mongo: Grrr, grrr…\pDéjame en paz. Estoy ocupado.
+
+### 0FEAEAB
+Mongo: Grrr, grrr…\p¿La tienes?
+
+### 0FEAED3
+Mongo: …No, no la tienes.\pDéjame en paz, estoy ocupado.
+
+### 0FEAF04
+{B01} le dio la Chapa Plateada a Mongo.
+
+### 0FEAF27
+Mongo: Grrr, grrr…\pMuy bien.\pMi amigo te estaba esperando.
+
+### 102964F
+Wario: ¡Juajuajua! ¡Me encanta el dinero! ¡Me encantan los tesoros! ¡Juajuajua! ¡Soy tan rico!\p…
+
+### 102969B
+Wario: ¿Y quién demonios eres tú, pringao? ¿Cómo has llegado hasta mi castillo alucinante?\p¡Aparta!
+
+### 10296EE
+Wario: ¡Juajuajua! ¡Seguro que vienes a darme todo tu dinero! ¡Excelente!\p¡Venga, dámelo y piérdete!\p…
+
+### 1029756
+Wario: ¡¿QUÉ?!\p¡¿Me estás diciendo que no le has traído nada al gran Wario?!\p¡¿Quieres luchar con “Pokey-mones” y buscar fantasmas estúpidos?!\p¡Eso no tiene ningún sentido!
+
+### 1029800
+Wario: Grrr… ¡Eh, lumbrera!\p¡Me vas a dar algo! ¡Supongo que tendré que sacártelo a golpes!\p¡Juajuajuajua!
+
+### 1029869
+Wario: ¡¿Qué?! ¡Tontaina!
+
+### 1029979
+Wario: ¿Pero qué…?\p¡Todavía no he acabado contigo, tontaina! ¡Uaaaah!
+
+### 1029C39
+Wario: Jeje… ¡Tontaina! ¡Ese ni siquiera era mi verdadero equipo de monstruos!\p¡Has caído en mi trampa genial!\p¡Juajuajua! ¡Ahora sí que estás acabad{o}! ¡Vamos allá!
+
+### 1029CCE
+Wario: ¡GRRR! ¡¡¡ARGHHBMEMBLMEMBELMBERGHEGHR!!!
+
+### 1029CFA
+Wario: Tontaina… ¿De verdad creías que eso era todo?\p¡¡¡Está claro que no sabes quién soy!!!
+
+### 1029D4D
+Wario: ¡Soy el número uno! ¡El cazatesoros más grande, más rico y más guapo de todo el universo!\p¡Soy yo, Wario! ¡Juajuajua!\p¡Y ahora vas a ver de lo que soy capaz DE VERDAD!\p¡Juajuajuajua!
+
+### 102A0D8
+Wario: ¡Me has llevado al límite!\pMe he quedado sin monstruos con los que luchar…
+
+### 102A12D
+Wario: ¡Pero soy más fuerte que cualquier monstruo que haya existido!\p¡Me comeré a tus fantasmas igual que me comí a todos los demás!\p¡Estarán riquísimos con unos cuantos dientes de ajo!\p¡Juajuajua! ¡Buena suerte, pringao!\p¡Venga, vamos!
+
+### 102A1FD
+Wario: ¡ARRGHHH! ¡¿Qué le pasa a esta tontaina?!
+
+### 102A22E
+Wario: ¡¡¡ARRGHHBMMEREGEHREHGERHHH!!!\p¡Qué rabia! Me recuerdas a aquel crío pringao, estúpido y guay que me ganó y me fastidió los planes hace mucho tiempo…
+
+### 102A2BA
+Wario: ¡Pero eso fue hace mucho tiempo! ¡Ningún crío volverá a reírse el último del increíble Wario!\p¡Ni siquiera tú!\p¡Así que toma esto, pringad{o}!\p¡JUAJUAJUAJUAJUAJUA!
+
+### 102A370
+Wario: ¡Chao, chao!\p¡Que tengas un día asqueroso!
+
+### 102A4DF
+Wario: ¡Wah!\p¿Así que todavía no has tenido bastante, pringao? ¡Toma esto!
+
+### 102A525
+Wario: ¡Largo de aquí!\p¡Juajuajuajua!
+
+### 1033377
+???: ¡Eh! ¡Eh, tú!
+
+### 1033395
+???: No puedes verme…\p…¡pero yo sí te veo a ti! ¡Soy un fantasma y noto que los fantasmas te caemos bien!\p¡Necesitamos tu ayuda! El Señor de la Codicia compró este gran castillo que llevamos siglos encantando, ¡y se está comiendo nuestras almas!\p¡Por favor, captura a tantos de nosotros como puedas! Y quizá… si tienes buen corazón, ¡podrías detener al Señor de la Codicia!\p¡De un fantasma a otro! ¡Ayúdanos! ¡BuuuuUUuUUuUUuUUU!
+
+### 1041594
+¡Un cofre del tesoro! ¿Abrirlo?
+
+### 10415AF
+El interruptor secreto ya está pulsado. ¿No recuerdas haberlo hecho?\pVenga ya. Céntrate un poco.
+
+### 104161E
+{B01} abrió el cofre…
+
+### 1041633
+¡Se ha derrumbado una pared secreta!
+
+### 104164C
+Nah, seguro que es una trampa.
+
+### 10418A4
+UuuUuUUUuuuhhh…\pAyúuuudameeeEEeeE… Captúrameeee…
+
+### 10418D7
+Bogmire: GraaAaaAAciaaas…
+
+### 1041A70
+{B01} pisó un interruptor dorado incrustado en el suelo…
+
+### 1041AA5
+¡Se ha oído un fuerte golpe en algún lugar del piso de abajo!
+
+### 1041AD5
+Este interruptor ya está pulsado. Venga, sigue explorando.
+
+### 104484C
+Summer: No puedo decirte nada que no sepas ya.\pEres increíble, {B01}.
+
+### 1044D80
+Summer: Así que…\pSupongo que esto significa que yo…
+
+### 104793F
+???: Tenía el presentimiento de que te encontraría aquí.
+
+### 1047972
+Summer: ¡Hola, cuánto tiempo! Ha pasado mucho, ¿eh?\p…\pSupongo que hemos tenido la misma idea. El Profesor Oak siempre decía que encontraríamos al entrenador más fuerte del mundo en la cima del Monte Plateado.\pYo siempre pensé que solo nos contaba cuentos, pero…
+
+### 1047A5F
+Summer: ¡No era broma!\pHe estado pensando mucho, {B01}…
+
+### 1047AA1
+¡He estado pensando en ti!\pYo…\p¡Eres lo único que tengo en este mundo de locos!\pAunque estemos separados, quiero que sepas que siempre te querré…\p…y que lo siento.\pSiento las cosas que te dije después de lo que hiciste.\pEl Profesor Oak siempre nos obligaba a hacer las paces y volver a ser amigos cuando nos peleábamos de pequeños.\pSeguramente me regañaría por intentar alejarte…
+
+### 1047BFF
+No espero que me perdones, {B01}. ¡Eso sería egoísta!\pPero, como tienes el título de Campe{on}…\p¡No puedes rechazar mi desafío! ¡Esta vez voy a ganarte!\pEsta…\p…última vez.
+
+### 1047CB2
+Summer: ¡Bueno, pues decidido!\pGracias, {B01}. Nunca pareces saber qué decir, pero…\p¡siempre consigues que me sienta mejor de alguna forma!
+
+### 1047D3B
+Summer: Siempre estaré de tu parte, {B01}.\pHan pasado muchas locuras, ¿eh? ¡Caramba!\p¿Sabes? Pensaba que, cuando llegáramos a lo más alto, todo mejoraría como por arte de magia.\pPero, después de todo esto, no es tan sencillo. Supongo que nunca lo fue, la verdad.\pCada uno tiene sus ideas y sus cosas. Me dolió mucho darme cuenta…\pNo puedes hacer feliz a todo el mundo.\pHay gente que necesita cosas que tú no puedes darle.\pPor mucho que lo intentara, tú siempre necesitabas algo más.\p¡Nunca te conformas! Supongo que por eso tienes tanta fuerza. Y por eso yo también me hice fuerte…\p¡Siempre intentando adelantarte, {B01}!
+
+### 1047FAC
+Creo que tengo que irme de Kanto.\pAl menos durante un tiempo.\pTodos estos fantasmas…\pToda esta gente abandonada…\pEl mundo piensa que somos una causa perdida.\pNadie va a venir a salvarnos. Ni siquiera a intentar ayudar. Piensan que esto es el infierno.\pPero aquí todavía hay belleza.\pNo puedo quedarme, pero no se me ocurre ningún otro sitio donde preferiría estar.\pEste es mi hogar. Es donde debía estar.
+
+### 1048112
+Summer: ¡Tengo que despertar a mucha gente!\pJohto, Hoenn, Alola…\pSi le enseño a la gente de todas partes la esperanza y la belleza de Kanto, quizá lo entiendan.\p¡Quizá también empiecen a verlo!\pY tú tienes el título de Campe{on}, así que tienes trabajo que hacer aquí.\pPero no te preocupes… Sé que tomarás la decisión correcta.
+
+### 104823D
+Summer: Gracias, {B01}. ¡Por todo!\pTe quiero.
+
+### 104826D
+Guardando la partida… No apagues la consola…
+
+### 1048299
+{B01} guardó la partida.
+
+### 123AF64
+Tiene un puerto en un lateral. Parece que esta Memoria Oxidada encaja.\p¿Conectar la memoria al ordenador?
+
+### 123AFC8
+{B01} metió la Memoria Oxidada en el ordenador…
+
+### 123B01D
+Parece una idea estúpida.
+
+### 12E5DEB
+¡Has encontrado una Llave Pequeña! Esta llave abre una puerta cerrada. Solo puedes usarla en esta mazmorra.
+
+### 12E5E49
+En este cofre ya no queda nada.
+
+### 12EBFE6
+Esta puerta está cerrada con llave. ¿Usar la Llave Pequeña?
+
+### 12EC00E
+¡La puerta de este camino se ha abierto!
+
+### 12EC037
+¡La puerta de este camino está cerrada con llave!
+
+### 12EC058
+¡{B01} usó la Llave Pequeña!
+
+### 12EECDD
+Me están observando…\p¡!
+
+### 12EECF2
+Los Stalfos están a raya…\p{B01} abrió el cofre…
+
+### 12EED2A
+¡Has conseguido el Arco de las Hadas! En la subpantalla de objetos puedes asignarlo a ←, ↓ o →.\pPulsa C para sacarlo y sujetarlo. Mientras mantienes C, puedes apuntar con el stick analógico.\pSuelta C para disparar una flecha.\p…¿pero qué?
+
+### 12EF17E
+Seguramente pueda apuntar bien desde aquí.\pMmm…
+
+### 12EF1AF
+{B01} apuntó con el arco…\p…\p¡Ahí!
+
+### 12EF1CC
+Ese cuadro tan molesto ha desaparecido.
+
+### 12EF1EC
+Este sería un buen sitio para lanzarle algo a ese cuadro tan molesto.
+
+### 12EF69C
+Esta antorcha tiene algo muy inquietante…\pEstá caliente, pero su fuego no se ve por ninguna parte…
+
+### 12EF6F9
+…¿eh?
+
+### 12EF70A
+¡El fantasma ha sido derrotado!\p…eh, se le ha caído algo. Es otra llave pequeña. Genial.
+
+### 12EF75E
+Siento que me están observando…
+
+### 12EF77C
+¡Esta antorcha quema! ¡Ay!
+
+### 12F0405
+¡El fantasma ha sido derrotado!
+
+### 12F2043
+Desde aquí puedo acertar bien a esa estatua del ojo…\p¿Usar el Arco de las Hadas?
+
+### 12F20AA
+Hay un triángulo raro en la pared.\pDesde aquí veo perfectamente esa estatua tan rara del ojo.
+
+### 12F3680
+¡Buuuu! ¡No te quedes sin moverte muuuuUUcho tiempo!
+
+### 12F3700
+¡Ooohh!
+
+### 12F3780
+¡BuuUuuUuUU! ¡Te espeeeera!
+
+### 12F39A2
+¿Saltar?
+
+### 12F477E
+Al otro lado de esta sala hay una antorcha apagada…\p¿Disparar una flecha?
+
+### 12F47BD
+{B01} usó el Arco de las Hadas para disparar una flecha a través de la llama…
+
+### 12F4804
+…\p…\p¡¡¡!!!
+
+### 12F480C
+¡La antorcha se ha encendido!
+
+### 12F482B
+La antorcha ya está encendida.
+
+### 12F497A
+…\p…\p…no ha pasado nada.
+
+### 12F499D
+…\p¡¡¡!!!\p¡Algo ha aparecido detrás de mí!
+
+### 12F49C0
+El Stalfos está a raya…
+
+### 12F5186
+{B01} saltó desde el balcón.
+
+### 12F6419
+Esta antorcha está caliente, pero no tiene llama…\pAdemás, creo que me vuelven a observar.
+
+### 12F6468
+Otra vez esta antorcha…\pLos fantasmas de este sitio son muy irritantes…\pOjalá dejaran de tomarme el pelo y lucharan como los fantasmas de Kanto…
+
+### 12F6526
+¡Ay! ¡Este fuego quema!
+
+### 12F9506
+En lo alto de la pared cuelga un gran cuadro de un chico sentado en un tocón en un claro del bosque…\pEs una pieza preciosa. Casi parece real.
+
+### 12F959C
+Link: …
+
+### 12F95A4
+Haah…
+
+### 12F95AA
+Link: haah…\phaah…\p…
+
+### 12F95BE
+En lo alto de la pared cuelga un gran cuadro de un enorme tocón de madera en un claro del bosque…\pEs una pieza preciosa.
+
+### 12FFB80
+¡El Señor de la Codicia guarda todos los tesoros y demás en un castillo enooorme!\p¡Y si entras en el castillo, seguro que te encuentras fantasmas que dan miedo!
+
+### 12FFC80
+Isla del Tesoro\p¡Una isla rebosante de riquezas!
+
+### 12FFDC0
+¿Vienes a entregarle algún tesoro al Señor de la Codicia?\p¡Sigue hacia el norte!
+
+### 1313B40
+¡Ji, ji, ji!\p¡Jo, jo, jo!\p¡Ja, ja, ja!\p¡¡¡Qué gracioso!!! ¡¡¡Bienvenid{o} al Abismo!!!
+
+### 1326E00
+¡Groohh!
+
+### 1326E80
+Ruogh…
+
+### 1326F00
+¡Hrrnf!
+
+### 1327000
+¡Gooaahhh!
+
+### 1327080
+Hrngh…
+
+### 1327100
+¡Wooarrr!
+
+### 1327200
+¡Wrroaaar!
+
+### 1327280
+¡Gwooar!
+
+### 1327300
+Oouhh…
+
+### 1327400
+¡Wrooar!
+
+### 1327480
+Hrrohh…
+
+### 1327500
+¡Wroooarr!
+
+### 1327600
+¡Grff!
+
+### 1327680
+Hrnng…
+
+### 1327700
+¡Gwooaarr!
+
+### 1327980
+¡Hrnngh!
+
+### 1327A00
+¡Wooar!
+
+### 1327A80
+¡Ourrghh!
+
+### 1327B80
+¡Wrooaaar!
+
+### 1327C00
+Rghh…
+
+### 1327C80
+¡Wooaaarr!
+
+### 1327D80
+¡Hrrnngh!
+
+### 1327E00
+¡¡¡Gwooar!!!
+
+### 1327E80
+Hrgg…
+
+### 1328180
+¡WROOAR!
+
+### 1328200
+Grruff…
+
+### 1328280
+¡Hrng!
+
+### 1328963
+El cofre está vacío.
+
+### 1328A69
+¡¡¡{B01} encontró 10.000 $!!!
+
+### 1328EE6
+¡{B01} encontró 5000 fichas del Casino Plateada!
+
+### 1328F57
+{B01} abrió el cofre…\p…\p¡Porras! ¡Aquí dentro hay un Guardia!
+
+### 1329278
+{B01} abrió el cofre…\p…
+
+### 1329292
+Salió una mano del cofre… ¡Me ha robado 5000 $!
+
+### 13296F0
+¡Anda, era un interruptor de la luz!
+
+### 1329906
+Salió una mano del cofre… Me ha robado todos los Ghost-B-Gone…
+
+### 1329A03
+¡Un fantasma me ha agarrado! Me está arrastrando hacia atrás…
+
+### 1329B03
+¡Un fantasma me ha agarrado! ¡¿Adónde me lleva?!
+
+### 1329EC9
+{B01} abrió el cofre…\p…\pEstá vacío.
+
+### 132A0D5
+{B01} abrió el cofre…\p…\p¡¿Q-qué?!\p¡Algo me está agarrando!
+
+### 132A849
+{B01} abrió el cofre…\p¡Hay una nota!\p“Querid{o} pringad{o}:\p¿Quieres mi tesoro? ¡Ven a por él!\pPero si de verdad tienes tan pocas luces… ¡piérdete en mi laberinto y conviértete en otro de mis trofeos!”\pAtentamente,\pEl Señor de la Codicia
+
+### 132B4C9
+Descanse en paz\nLa saga Wario Land\l1994-2008\p“¡Largo de aquí!”
+
+### 132B549
+Descanse en paz\nLa saga F-Zero\l1990-2004\p“¡Qué pena! ¡Has perdido tu máquina!”
+
+### 132B5C9
+Descanse en paz\nLa saga Punch-Out!!!\l1984-2009\p“¿Te rindes? ¿Te retiras? Fin de la partida”
+
+### 132B7C0
+¡OH, DIOS MÍOH!
+
+### 132B940
+Alto ahí. El Señor de la Codicia no quiere que sigas adelante.\pAsí que tengo que detenerte. Además, odio los juegos de la 3.ª generación. Este juego copia el estilo de los superiores juegos de la 1.ª generación, ¡pero con las mecánicas de mierda de la 3.ª generación y su banco de sonidos!\pEso lo hace muchísimo peor, en mi opinión. Además, ¿dónde están las mentas? ¿Y los Caramelos Exp.?\pDios, qué decisiones más horribles. ¡Ahora sí que estoy enfadado!
+
+### 132BB68
+¿Esperabas algo de trasfondo?\pAquí tienes trasfondo: Wario es más fuerte que Donkey Kong.\pCuando Nintendo quiere mostrar un personaje fuerte, poderoso y musculoso, ahora siempre usa a Donkey Kong.\pNo hacer nada con Wario es una tontería, pero supongo que debería agradecer que no sea algo peor.\pNo es que odie a Donkey Kong, solo querría que Nintendo dejara de ningunear a Wario y de actuar como si otros personajes fueran más fuertes o más importantes que él.\pEso hace que le tenga un poco de manía, pero lo ideal sería que pudiera coexistir con Wario sin quitarle su papel de cazatesoros poderoso.\pSe está pasando de la raya con ese juego, el Bananza…\pLa jugabilidad se parece muchísimo a Wario World, ¡sobre todo por cómo coge enemigos y los lanza por ahí!\p¡Eso debería hacerlo WARIO! Donkey Kong solo rueda por ahí y coge barriles.\pAdemás, Wario es muchísimo más importante e influyente históricamente que Donkey Kong.\pSupongo que están promocionando tanto a Donkey Kong por las estúpidas películas de Mario que están sacando.\pSimplemente siento que eso de “¡Tenemos que meternos en el negocio del cine porque SOLO con los videojuegos no LLEGAMOS A TODO EL MUNDO!” no es un argumento convincente, sobre todo teniendo en cuenta lo mucho que se han popularizado los videojuegos desde la época en que eran solo para frikis.\pGrrr…\p¡No me puedo creer que hayan convertido Donkey Kong Bananza en un sustituto de mierda de Wario World!\pBueno, vale, quizá no debería llamarlo de mierda, no es justo, porque no lo he jugado y seguramente sea divertido, pero me cabrea que Nintendo haga eso de\p“Oh, necesitamos un personaje fuerte y duro que rompa cosas, lance enemigos y busque tesoros dorados. ¿Tenemos algún personaje así? Mmm, no se me ocurre ninguno aparte de DONKEY KONG.”\pBásicamente, lo que digo es que deberían haber hecho una secuela de Wario World.
+
+### 1558240
+¡Haiyah!\p¡Si le entrego tus tesoros al Señor de la Codicia, me dará una recompensa!
+
+### 15582C0
+Ohh…\pOlvídalo.
+
+### 1558340
+¿Adónde se habrá ido mi hermana? ¡Esta semana tenemos que entregar el doble de tesoros o nos la cargamos!
+
+### 1558440
+Si quieres pasar por aquí, tienes que pagarme algo.
+
+### 15584C0
+¡Ay! ¡Toma, llévate todo lo que tengo! ¡Uaaahhh!
+
+### 1558540
+Tengo que mejorar mi técnica de intimidación.\pDesde que llegué no he atracado a nadie.
+
+### 1558900
+¡Eeey, venga! Juguemos a algo.\p¡Si gano, me quedo con todo lo que tienes!
+
+### 1558980
+¡A-ay!
+
+### 1558A00
+¿Te marcas un baile conmigo? ¡Tanto buscar tesoros me ha dado ganas de bailar!
+
+### 1558B09
+¡Ji, ji! ¡No paro de pescar estas estrellas de mar tan raras! Por lo visto se venden por mucho dinero.
+
+### 1558B89
+Eeh… Eeh…\pNo paro de pescar estos corales tan raros. No valen ni un céntimo…
+
+### 1559740
+¡Eh! ¡No mires en ninguno de los cofres que hay por aquí!\p¡Los estamos guardando para el desfile de tesoros del Señor de la Codicia!\p¡¡¡Más te vale no tocarlos!!!
+
+### 1559840
+Algunas de estas piedras con forma de estrella se venden a muy buen precio en tierras extranjeras.\pSi pudiera salir de este sitio, sería millonario…
+
+### 1559940
+Tanto tesoro, ¡y no me dejan quedarme ni un triste céntimo!\pMe ha costado mucho encontrar algunas de estas cosas… ¿Por qué no deberían ser mías?
+
+### 1559AC0
+Mucha gente viene a buscar esta isla en busca de riquezas…\p¡Y hay muchas riquezas y tesoros!\pPero…\pNinguno pertenece a nadie más que al Señor de la Codicia…

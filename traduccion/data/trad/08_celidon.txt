@@ -1,0 +1,410 @@
+#! Lote 08: Ciudad Celidon/Azulona (3.6) e interiores (10.x)
+#! Los carteles 0B44589 y 0B44609 son anagramas: se dejan en inglés a propósito.
+
+### 016BC15
+-Bzzt-\pNo vayas nononono vaya no va
+
+### 01801E5
+EDIFICIOS CELIDON
+
+### 01801F5
+NO ENTRAR EN EL CENTRO COMERCIAL
+
+### 0180224 r
+VEGETACIÓN NUTRITIVA\nCONSUMIR
+
+### 01802CF r
+ZONA DE INCUBACIÓN\p¡¡¡SOLO ZÁNGANOS AUTORIZADOS!!!
+
+### 0195638
+DA LA VUELTA\nTU VIDA NO TE PERTENECE
+
+### 01957B0
+¡Chsss!\p…\p¡No digas nada! Nos están escuchando…
+
+### 0195AC9
+-Bzzt-\pC o co co cccccccc ge g gogo ogoo\lchapa de 2 2 2 t 2 2 t el 7 7\l 7 7 7 7     7 7 77   7 7 777 7 7
+
+### 0195B5B
+-Bzzt-\p¡Holaaa, teeeenemos una ofeofeeerta en Lunaaaaa nn nnn nn nnnnnnnnnnnn PARAÍSO!
+
+### 0195BBA r
+Estoy demasiado cansado para subir las escaleras… pero ni por el gracioso alcance de la colmena voy a usar el ascensor.
+
+### 0195CA0
+¡¡Urghh!! ¡GRRRR!
+
+### 01962FB r
+¿Así que este es el creador de mi mundo? Esperaba… algo más.
+
+### 01972B8
+Incluso ahora, sigues creciendo. Sigue creciendo y nutre tus raíces.
+
+### 0197327
+La Medalla Plaga te permite usar la técnica Fuerza fuera de los combates.\pPor favor, llévate también esto.
+
+### 019747C
+Este Gimnasio es sagrado.\p¡Solo pueden entrar verdaderas guerreras!
+
+### 0197527 r
+Las plantas y las setas son las dos caras de la misma moneda. En muchos sentidos, nos ayudamos a crecer mutuamente.
+
+### 019760B
+No se puede molestar a Erika. Ha hecho muchísimo por todos nosotros, ¡déjala en paz!
+
+### 0197708
+Erika es mujer de pocas palabras, pero sus actos son tremendos.
+
+### 01977E5 r
+Mi propósito es apoyar el santuario de Erika. Tú no perteneces a este lugar.
+
+### 0197832
+Ack…
+
+### 0197874
+Gimnasio Pokémon de Celidon\nLíder: Erika
+
+### 01978E6 r
+¿Te apetece un plato recién servido de tierra, humano?
+
+### 0197915
+Urghehhdegehh… Ellos se alimentan…
+
+### 0197A72
+Sé fuerte. Hasta tu hogar puede renovarse.
+
+### 0197BBE r
+Me gustaba mucho este chico, pero resultó ser muy cerrado de mente. Ahora todo es incómodo.
+
+### 0197C30 r
+Aprendo de los mejores.
+
+### 081AC40
+La ventana nunca me muestra lo que debería haber ahí.\pNo recuerdo qué había antes.
+
+### 081BAC9 r
+Sabe que estás aquí. Mantén la calma. Ninguna amenaza sobrevive mucho tiempo.
+
+### 081BB49 r
+Los bichos se comerán tu carne. Las setas brotarán de tu cadáver.\pFormarás parte de algo más grande.
+
+### 081BBC9 r
+¡Crece! ¡Crece!
+
+### 081BC49 r
+Con sol, de noche. Donde nada más puede, la seta crece. Inevitable. Jejejeje…
+
+### 081BCC9 r
+Eres una impureza. Quédate y deja que la mente colmena te purgue.
+
+### 081BD49 r
+Uoorrghhh… Traerás la ruina a muchos. La colmena me informa de que dejas tras de ti un rastro de sangre y huesos.
+
+### 081BDC9 r
+Un nuevo tallo brota de mi orificio. Pronto cumpliré el propósito que la mente colmena ha planeado para mí.
+
+### 081BEC9
+Gruurggll…
+
+### 08D91C9
+Ascensor P2\nPlantas P1 - P5 (Azotea)
+
+### 08E9100
+Erika es tan sabia como sus años. ¡Nunca podrás igualar su fuerza!
+
+### 08E91C0 r
+Erika fortalece a la gran mente colmena. No tendrás ocasión de molestarla.
+
+### 08E9280
+He fracasado…
+
+### 08E9300
+¡Erika! Lo siento…
+
+### 08E9380
+No hay mucha gente que sepa cultivar comida. Erika ayuda a toda esta región lo mejor que puede.
+
+### 08E9440
+Me estoy formando con la gran Erika. ¡Algún día mis plantas serán tan fuertes como las mareas del océano!
+
+### 08E9500
+Tú también tienes mucha fuerza.
+
+### 08E9580
+Erika nos enseñó a cultivar cosechas especiales. Cosechas para comer y cosechas que te relajan.
+
+### 08E9640
+En nuestras ceremonias de cultivo de hierbas solo pueden participar mujeres.
+
+### 08E96C0
+Necesito un poco de hierba relajante…
+
+### 08E9740
+Erika ha cultivado una hierba especial. Una que te arranca las preocupaciones de la mente. Cuando la quemas y la inhalas, tus inquietudes desaparecen.
+
+### 08E9840
+Ah… Relájate…
+
+### 08E98C0
+¿Tienes la desfachatez de traer Fuego a este lecho sagrado de flores?
+
+### 08E9980 r
+Erika es un gran orgullo para la benévola mente colmena.
+
+### 08E9A00
+Bienvenid{o}.\p¿Así que entrenas Pokémon? Qué pintoresco. Hoy en día no abunda la gente como tú.\pMe llamo Erika y llevo más de 50 años en mi puesto de Líder del Gimnasio de Celidon.\pEn los últimos años, la gente de la región empezó a despreciarme. ¿Y todo por acoger a mis amigas las setas y darles un lugar donde vivir sin ser perseguidas?\pEste lugar ha cambiado.\pPero ¿tú qué dices, crí{o}?{C0B5601}\pMe he fijado en ti. Tus amigos han matado y quemado plantas antes. Mis plantas se estremecen bajo tus pasos.\pQué presencia para no ser más que un{a} crí{o}. Me intriga; casi me asusta.\pPero el deber de una Líder de Gimnasio siempre es el mismo. He librado más combates en mis años de los que podrías imaginar. Permíteme poner a prueba tus habilidades.
+
+### 08E9D80
+Extraordinario.\pNo solo en combate: llevas contigo un espíritu fuerte, crí{o}.\pCon ese espíritu tan fuerte, sé el cambio que quieres traer a este mundo. Y, por supuesto, ¡te has ganado la Medalla Plaga!
+
+### 091EE80
+¿Personas? No, esto es un hotel para setas.\pPor desgracia, estamos al completo.
+
+### 091EF40
+Vine aquí a conocer a una chica, pero me rechazó porque no era “un zángano leal” o algo así. Las chicas de hoy no quieren a un buen chico.
+
+### 091F049 r
+Celidon es un refugio para el bien mayor.\pLa gente mala de Azafrán intenta quemar nuestros edificios y saquear nuestros túneles.\pPero la colmena es demasiado resistente. Solo nos hacemos más grandes y más fuertes.
+
+### 091F180 r
+Hhhuuurrghhh… Auuuu… ¡¡¡¡AUUUUGHHH!!!!\pMis bichos me mandan dopamina. Su alimento es aceptable.
+
+### 091F349
+Un plato mugriento y sucio.
+
+### 091F3C0 r
+Me encanta alimentar a la mente colmena. Ya no tengo hambre; mis deseos terrenales son solo un recuerdo fugaz.\pDespejado. Estoy despejado.
+
+### 091F5C0
+{B01} recibió la MT44: Descanso de manos del hombre.
+
+### 091F640
+Parece que no hay sitio…
+
+### 091F6C0
+Vivo aquí desde que era un niño. Cuando tenía tu edad, mi Eevee y yo emprendimos el desafío de los Gimnasios. Se llamaba Isabelle. Se convirtió en un Flareon fuerte y era mi mejor amiga.\pTras años de combates juntos, Isabelle y yo nos retiramos aquí, a casa. Nací en Azulona.\pProbablemente muera en Celidon. El cambio puede ser bueno, aunque no lo entiendas del todo. Mantén firme tu fe y quédate esto.
+
+### 0945111
+NO MOLESTAR A LAS CRÍAS.
+
+### 0945480
+Es una impresora antigua. Vaya, parece que todavía funciona.\pPuede imprimir a tu Pokémon en el reverso de tu tarjeta de entrenador.\pSolo cuesta 50 $. ¿Quieres probar?
+
+### 0946C80
+¿Qué habrá en este barril? No hay forma de moverlo.
+
+### 0946D0C r
+Aquí hay muy poco de valor. Los metales raros dificultan el crecimiento de la colmena.
+
+### 0946D80
+-Bzzt-\pBi bie bien bienvenid{o} ssss mira miraaa las t tum tumbas d d d d d d d del e em\lemmpeemperador ¡MUY DE CERCA!
+
+### 0946EC9
+-Bzzt-\pNnanaaaanada dura p p p p p\ppa paaaaaara siempre!\p¡P P P P PON F FIFIIIN A 2 2 2 TODO!
+
+### 0946F49
+Sorprendentemente, esta tele no funciona.
+
+### 0946FCC
+Hola, cielo. ¿Has venido a ver las estrellas? Me temo que aquí ya no brillan…
+
+### 09FE889 r
+CIUDAD CELIDON\pGLORIA Y ALABANZA A LA MENTE COLMENA VIRTUOSA Y BENÉVOLA
+
+### 09FE9CB
+Estoy satisfecho.\pDebo esperar mi próxima tarea.\pEstoy satisfecho.
+
+### 09FEB49
+Pronto, pronto, pronto, pronto, pronto, pronto, pronto, pronto, pronto, pronto, pronto…
+
+### 09FEBC9 r
+Eughhh…\pCuando te asimilen, tu dolor será monumental.
+
+### 09FEC49 r
+En el lejano, lejano norte queda un mundo frío que nuestras esporas no han contaminado.\pAlgún día, todo estará bajo la influencia de la mente colmena.
+
+### 09FEE80
+La rata de desarrollo… Habla…
+
+### 09FEF80
+Amn: Sí, yo también estoy aquí. No le des muchas vueltas.
+
+### 09FF000
+Joey: ¡Soy yo! ¡Joey, el desarrollador del juego! ¡Yo construí esto! ¡Este juego! ¡TODO!\p¡YO SOLO!\p¡¡¡YO!!!\p¡LADRILLO A LADRILLO! ¡PÍXEL A PÍXEL!\p…bueno, en realidad no todo lo hice yo. Esa señora seta tan rara hizo un montón de cosas, como casi toda la música.\pY otra gente también ayudó mucho.\pEeeh… ¿Qué más…?\p¡Ah!\p¡Si capturas todos los Pokémon del juego, te daré un premio increíble!
+
+### 0A7D140
+¡{B01} obtuvo un Gloomeon!
+
+### 0ADA28C r
+Jejejeje… Hacía mucho que no veíamos una rendición voluntaria.\pDesciende a los túneles y hazte uno con la mente colmena.
+
+### 0B4C9FD
+Hola.\p…\p¿Te has perdido?
+
+### 0B4CA1B
+…\pDesde luego, tienes cara de haberte perdido.\pMe pregunto si sabes dónde estás.
+
+### 0B4CA5F
+Has recorrido un camino muy largo, {B01}.\p¿Por qué sigues?\p¿Sabes cuál es tu propósito?
+
+### 0B4CAB7
+Ya veo…\p…\pVamos a llevarte a casa. Ven.
+
+### 0B4CB09
+Lleva la piedra al puerto.\pAlójala en tu cráneo. Conviértete en lo que estabas destinado a ser.\pDespierta.\psiempre\nfuiste tú
+
+### 0CD2289 r
+Guejejeje…\p¿A que es precioso? Las esporas abundan. Llueven del cielo y se extienden a todos nosotros.
+
+### 0CD2809
+Ah, bien. Es más seguro para ti estar dentro. No te conviene respirar demasiadas esporas del aire.
+
+### 0CD2880
+Después de tanto tiempo, ¿nadie cuidará de ti? Mi querido Eevee, esperaba que algún día alguien tuviera el corazón de llevarte consigo y darte la vida que yo solo soñé con poder darte.\lSiento no poder seguir haciéndote compañía. Solo puedo rezar para volver a verte algún día, mi viejo amigo.
+
+### 101C935
+Mongo: Grrr, grrr…\pNo puedes comprarme nada. Déjame en paz…
+
+### 101C97F
+Mongo: Grrr, grrr…\pTengo una chapa especial. Hará más fuertes a tus Pokémon.\pNecesito 70.000 $ por ella.
+
+### 101C9ED
+Mongo: Grrr, grrr…\pPues entonces déjame en paz.
+
+### 101CA1C
+Mongo te dio la Chapa Plateada.
+
+### 101CA3C
+Mongo: Grrr, grrr…\pY ahora déjame en paz… y no me preguntes por el cuadro de texto que se queda ahí. Me da igual…
+
+### 101CAA6
+Mongo: Grrr, grrr…\pDéjame en paz.
+
+### 12C6509
+Dios, me encanta fumar. ¡Pero a ti te odio!\p¡A la mierda!
+
+### 12C6589
+Eeeeeeeeeeeeeeeeeeeeeeeh…
+
+### 12C6609
+¡Esto siempre me da un bajón de hambre tremendo!\pDebería volver al Snack Sneasel… Je…
+
+### 12C6789
+La habitación da vueltas… ¿Qué llevaba esa hierba?
+
+### 12C6809 r
+Ven, humano. Inhala el humo. Adormece tus sentidos y deja que las cenizas alimenten a las setas jóvenes.\pMuy bien, jejeje…
+
+### 12C6889
+¡Eh! ¿Has traído algo para fumar?\p¡Me muero por un poco más!
+
+### 12C6900
+Qué gusto desconectar con un buen humo. Hoy en día hay tantas cosas de las que preocuparse, con los fantasmas, los hombres seta y todo eso.\pPero poder despejar la mente así…\pUf… Sí…\pEso es…
+
+### 12C6A49 r
+¿Qué tal la hoja quemada, humano?\p¿Tu mente es ahora más receptiva a la colmena?
+
+### 12C6E49
+Fúmate algo, peque. Es bueno para ti.
+
+### 12C6EC0
+¡Eh!\p¿Nunca te has puesto a pensar en, o sea, de qué va todo?\pO sea, ¿cómo ha acabado Kanto así, tío? Cuando yo era pequeño, tío, esto molaba. ¿Cómo ha acabado así?\pMe tiene dándole vueltas. ¿Crees que todo esto estaba planeado?\pO sea, ¿crees que los ataques de fantasmas fueron un trabajo desde dentro? Antes los fantasmas nunca estaban así de furiosos y vengativos. ¿Crees que los psíquicos estaban de verdad detrás?\p¿Y qué crees que pasa en Pueblo Lavanda? ¿Crees que hay una sociedad secreta que dirige toda la región desde allí?\pCada vez que fumo esto, me siento psíquico. A lo mejor lo soy…\pHala.
+
+### 12C71F5
+Madre mía, me MUERO de hambre.\pTengo un bajón de hambre tremendo. ¡Pedí unos caramelos hace horas! ¡¿Dónde están?!
+
+### 12C7263
+Esa Artemis es una depravada.\p¡No sé por qué no puede hacer estas cosas en su casa!
+
+### 12C72C3
+Madre mía, ¿eres quien trae mi Kit Kat?\p¡Justo a tiempo! ¡Tengo muchíííísima hambre!
+
+### 12C7314
+{B01} le dio a Letitia la barrita de Kit Kat.
+
+### 12C7335
+Ah, es verdad.\pArtemis quería que le descargara todas esas cosas raras en su disco duro…\pPuf, qué rara es. Las cosas que le van a esa mujer… No me apetece dárselo, ¿puedes hacerlo tú por mí?\pToma.
+
+### 12C7404
+Vaaale.\pY dile a Artemis que estoy fuera de la ciudad. No me apetece nada hablar con ella.
+
+### 12C7452
+Ah, eres quien me trae los caramelos, ¿no?\pEeeh… ¿Dónde está mi barrita de Kit Kat? ¡¿No te habrás comido mis caramelos?!
+
+### 12CD92B
+Pista de Entrenador 626:\p¿Te cuesta hacer evolucionar a tus Pokémon? ¡No temas!\p¡En el Centro Comercial Azulona hay a la venta montones de útiles objetos evolutivos!\p¡En la 3.ª planta, todas las piedras evolutivas están disponibles por solo 3000 $!\p¡Usa tus Piedrabismos para hacer evolucionar a Staryu o Lombre!\p¡Usa tus Piedras Mies para hacer evolucionar a Phantump, Pumpkaboo o Gloom!\p¡Eso y mucho más!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 12D5689 r
+Hace mucho que olvidé lo que es tener hambre.\pSentir…\p¿Alguna vez tuve eso?
+
+### 12D5709 r
+¿Tú…\pte rendirás?\p…\p…quizá no.
+
+### 12D8909 r
+Mis bichos están hambrientos hoy.\pPronto tendré mi propósito.
+
+### 12D8989 r
+Hola.\p¿Qué tal crece tu espora hoy?
+
+### 12D8A00 r
+¿Crees que te vendría bien romper el ciclo?\pCada día, tu estómago tiene hambre y duele.\pAsimílate. Libera tu mente. Purga tu responsabilidad.
+
+### 12D8C09 r
+Síííí…\pTe convertirás en parte de la colmena.
+
+### 12D8C89 r
+Deja que los Scaras entren por tu orificio…\pHazte uno con él…
+
+### 12D8D09 r
+No te preocupes más…\pTu dolor ha terminado.
+
+### 12D8D89 r
+Cuando los humanos están en estado de euforia por consumir las hierbas de Erika, les entra mucha hambre…\pY cuando tienen hambre, son vulnerables…\pjejeje…
+
+### 12DBAAA
+Algo traquetea dentro de esta caja. ¿Abrirla?
+
+### 12DBADD
+Claro que no. No me chupo el dedo.
+
+### 12DBAFC
+La caja está vacía.
+
+### 12DBB0E
+{B01} trasteó con la caja.\p…
+
+### 12DBB31
+Aquí dentro hay algo.\p…\p¡¡¡!!!
+
+### 12DBB4C
+El Eyeron se quedó en silencio.
+
+### 12F9680
+Joey: ¡LA HOSTIA! ¿De verdad lo has conseguido?\pEeeh… Te voy a ser cien por cien sincero: en realidad no tengo ningún premio para ti. No pensaba que nadie fuera a volver de verdad a comprobarlo.\pEeeh… ¿Te gusta la pizza? A lo mejor te puedo mandar como 5 pavos para pizza. Tú avísame.\pEspero que hayas disfrutado del juego, amig{o}. ¿Has encontrado ya el final secreto, el VERDADERO?\p…bueno, supongo que no estarías aquí si lo hubieras encontrado.\pEeeh… Bueno, hay un objeto secreto en el cuarto nivel de las Catacumbas. ¡Cuando Agatha gire a la derecha, tú gira a la izquierda!\pAdemás, necesitas que todos los Chamanes te echen su maleficio e ir a Tierras Ignotas. ¡Hay 5 Maleficios de Sangre en total para conseguir!\pY no lo olvides…\p¡NUNCA TE RINDAS!
+
+### 1314ACC r
+Mi deber es proteger a las crías.\pNo me molestes.
+
+### 1319057
+Hola. ¿Vienes de fuera?\p¿Por qué no pruebas la famosa medicina herbal de Celidon?\pTe abrirá la mente.
+
+### 13190D8
+Acepta la belleza del mundo natural.
+
+### 14E8529
+¡{B01} encontró un Carbón!
+
+### 14E854F
+Maximus: ¡E-eh! ¡{B01}! ¡N-no esp-p-peraba v-verte aquí!\p¡Q-q-qué pasada! ¿Q-qué tal van las m-medallas?\p…¡q-qué bien! E-eres genial.\pT-también quería pedirte perd-dón… por g-g-g-gritarte en mi g-gimnasio…\pEs que e-estaba mal de la c-cabeza. Odio los r-ruidos fuertes, esp-pecialmente los gritos…\pC-cuando estaba en el e-ejército, m-mi s-s-sargento era un t-tipo llamado Mota.\p¡E-era muy malo! Siempre g-gritaba y daba órdenes a voces… Lo odiaba… Me d-daba mucho miedo… pero siempre le h-h-hacía caso. I-incluso c-cuando quería que f-fuera a hacer cosas malas… O…\pa h-h-h-h-hacer daño a la gente…\pP-pero últimamente he estado p-pensando.\pC-creo que, s-si fuera una mujer guapa la que me g-g-gritara…\pS-seguramente me gustaría mucho. ¿T-tiene s-s-sentido?\pEn f-fin…\pT-ten cuidado por aquí, ¿vale, {B01}?\pA-aquí hay g-gente mala… ¡T-t-te tenderán emboscadas! ¡A-a-así que ve preparad{o}!\p…\p¡Ya n-nos veremos! A-adiós…
+
+### 1592CC6
+{B01} recibió la Medalla Plaga de manos de Erika.
+
+### 15A49C9
+¿Has oído hablar de las bestias legendarias? Cada una es heraldo de un mal presagio.\pSuicune, el viento del norte. Su llegada la anuncia la gran aurora del cielo… Cuando aparece, es para purificar algún tipo de enfermedad de este mundo.\pEntei, el rugido de la tierra y la furia del fuego. Su llegada la anuncian el fuego, los terremotos y las erupciones. Cuando aparece, es para devolver el equilibrio a esta tierra, por destructiva que sea esa restauración.\pRaikou, el heraldo de las tormentas. Su llegada la anuncian las lluvias intensas, los aguaceros y los truenos. Su presencia señala la llegada de un gran cambio, bueno o malo.\pDicen que esos Pokémon no son más que mitos, pero…\pA mi edad, sé con certeza que vi uno. Sí, eso lo sé…
+
+### 0B44589
+Ocher Cry Give Try\nA Caffeine Froth Growl Tryst
+
+### 0B44609
+Geed Suite Shogun

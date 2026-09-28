@@ -1,0 +1,538 @@
+#! Lote 13: resto del grupo 3 (Isla del Tesoro, casino de Plateada, Rutas 26-28, Pueblo Primavera...) y grupos 16-18
+
+### 0189E72
+Vale, vale, toma…
+
+### 0189EFA
+¿Pero qué…?\p¡Tú no eres un{a} crí{o} cualquiera!
+
+### 018A053
+¡Keeejijijiji!
+
+### 018A1A3
+M-m-muy bien…
+
+### 018A223
+¡Gran Castillo más adelante!\p¡¡¡PROHIBIDO EL PASO!!!
+
+### 018A261
+¡Eh, cuidado!\pSe supone que tengo que buscar tesoros en esta playa…
+
+### 018B86B
+Cataratas Tohjo
+
+### 018B8C8
+Jujujuju…
+
+### 018BAC0
+¡LOCURA!
+
+### 018BAE0
+¡DESTINO! ¡SACRIFICIO!
+
+### 0190FDB
+¡{B01} recibió la MO01 de manos de Aston!
+
+### 019DDDC
+Piénsatelo.
+
+### 019E04B
+Eh, peque, ¡largo! No tienes pase de acceso para entrar en Azafrán.
+
+### 019E09B
+Eh…\pQué patinete más chulo.
+
+### 019E0C1
+¿Te importa que le eche un vistazo?\p…
+
+### 019E1D1
+Eh…\pQué bici más chula.
+
+### 019E1F7
+¡Jaja, gracias, idiota! ¡Ahora largo! ¡Este patinete es propiedad de la Policía de Azafrán!\p¡Ven a buscarme e intenta recuperarlo si tienes huevos! ¡Jaaaa!
+
+### 01C3ABF
+¡Eh!\p¡Entrégame todos tus objetos de valor!
+
+### 01C3AF2
+¡Te estás acercando más de la cuenta!\p¡Nadie puede entrar en el Castillo del Señor de la Codicia!
+
+### 01C3B6E
+¡Eh! ¡Tú no eres uno de los matones del jefe!
+
+### 01C4028
+Nos perteneces.
+
+### 01C4057
+No llores. Malgastarás tus lágrimas.
+
+### 01C407F
+Los fuegos del lago te lavarán y te purificarán.
+
+### 01C40D9
+¡DOLOR!
+
+### 01C40FA
+Renacerás. Y morirás.
+
+### 01C4166
+¡Tu sangre se derramará!
+
+### 07AF1FB
+¡Hola! ¡Bienvenid{o} al casino! ¡Toma un Monedero, invita la casa!
+
+### 07AF236
+Recibiste un Monedero y 100 fichas. ¡Feliz juego!
+
+### 07AF310
+¡Feliz juego!
+
+### 07D8740
+¿Eh? ¿Un{a} crí{o}?\pAh, tú debes de ser de quien hablaba esa chica.\pMira, a mí no me va mucho eso de ser Líder de Gimnasio.\pSolo lo hago porque mi viejo quiere, pero, sinceramente, nunca he sido muy de pelear.\pSi quieres la Medalla Roca, puedes comprar una abajo, en la ventanilla de canje de premios.\pEl Gimnasio más cercano está al otro lado de la vieja cueva al sur de Plateada. Tómatelo con calma, peque.\p…\pA menos que te guste apostar…{C0B5601}\p¿Qué te parece esto? Si quieres un combate, me apuesto esta reluciiiente máquina oculta de Corte, y tú solo tienes que poner…\pmmm…\ptodo el dinero que lleves en el bolsillo.\p¡Nyajajaja! ¡Ese es el espíritu!\p¿De verdad quieres llegar a lo más alto?\p¿Quieres tenerlo todo?\p¡Entonces tienes que atreverte a arriesgarlo todo! ¡Vamos allá!
+
+### 07D8A40
+Maldita sea, llevo 0 de 2… Pero la próxima la gano seguro. Un trato es un trato…\p{C0602}¡{B01} derrotó al Líder de Gimnasio Aston!{C17}{C0B0401}{C08FE}{C08FE}{C0856}{C18}\p{C0604}Sí, si quieres usar Corte, necesitarás la Medalla Roca, así que supongo que al final me vas a dar algo de pasta, ¡nyajajaja!\pPuedes comprar mi medalla abajo por 150 fichas. Pero vuelve si quieres jugar a juegos de verdad.
+
+### 07D8C00
+¿De verdad vas a hacer el desafío de los Gimnasios en pleno 2049? Sé que la gente todavía hace eso de los combates, pero déjame decirte que no ganarás nada de dinero a menos que llegues a lo más de lo más.\pY, peque, no creo que tengas lo que hay que tener, ¡nyajajaja!
+
+### 07D8D40
+Toma, mi parte del trato.
+
+### 07DAA09
+En la máquina hay un cartel: FUERA DE SERVICIO\pCreo que está fuera de servicio.
+
+### 07DAB40
+¡Bienvenid{o} al Salón de Juegos de Plateada!\pOoooh, ¿qué te pasa? ¿No tienes fichas? ¿Quieres comprar unas pocas?
+
+### 07DB089
+Aston presenta: el centro de la fiesta de mediados de siglo…\lCASINO PLATEADA\p¡Juega a lo grande, gana a lo grande, festeja a lo grande!
+
+### 07DB109
+¿Eh? ¿Qué haces en el despacho de Aston? ¿Eres alguien famoso?
+
+### 07DB20B
+Jeje… Ay, Aston, me encanta cuando me hablas así, ¡siempre sabes qué decir para ponerme colorada!
+
+### 07DB28B
+¡Ji, ji, ji! Ay, Astooon… ¡eres TAN gracioso! ¡Y guapo!
+
+### 07DB409
+¡Puaj! Odio a Aston, ¡siempre intenta convertirlo todo en un juego!\pPóker de prendas, Picross de prendas, canicas de prendas, Golden Axe: The Duel de prendas… Es insoportable.
+
+### 07DB500
+¡Holaaaa, chicooos! ¡Soy Kelsieee! ¡Estoy en directo desde Ciudad Plateada!\p¡Chicos, tengo acceso exclusivo a la mayor fiesta de Kanto esta noche y la vamos a retransmitir! ¡Así que conectaooos! ¡Y que no paren esas donaciones! ¡Muac!
+
+### 07DB649
+¿Qué pasa, qué pasa? ¿Buscas Polvoenergía?\p… Ah, que eres, o sea, un{a} crí{o}. Olvida lo que he dicho.
+
+### 07DB6C9
+¡Ooooh, maldita sea! ¡Puaj, eran todas mis fichas!\p¿Me da algo suelto, por favor?
+
+### 07DB8C9
+¿Te importa? Tengo que vigilar las tragaperras. ¿No tienes que ir al cole o algo?
+
+### 07DB949
+Tralará… ¿Mmm? ¿El Líder de Gimnasio? Creo que Aston está arriba, de fiesta.
+
+### 07DBE49
+¡Soy un tío jugador y vagabundo! … y lo he perdido todo.\pQuizá este sea el fin.
+
+### 07DC249
+¡Ostras! ¡Esta noche no me sale nada! Normalmente se me da mucho mejor…
+
+### 07DC7C9
+Si no recupero mi dinero, esta noche me voy a meter en un buen lío…\pDeséame suerte…
+
+### 07DC8C9
+Eeeh, ¿conoces a Aston? ¿Puedes ver si me dejan entrar en la fiesta? Me apeteceeee muchísimo ir.
+
+### 07DCDC0
+¡Jajaja! ¡Otro premio gordo! ¡Soy el mejor! Peque, ¿qué haces? ¡Deberías estar apostando! ¡Ve a comprar fichas antes de que te dé una patada en el culo!
+
+### 07DD049
+Alguien se ha dejado la bolsa en la máquina. Mejor no tocarla.
+
+### 07DD0C0
+Aston es el dueño de este sitio. Pero tú eres joven, seguro que eres fan suyo, ¡jajaja! ¿Vas a la fiesta de arriba?
+
+### 07DD1C0
+Si no recupero mi dinero, no voy a poder volver a casa…
+
+### 07DD280
+Estoy aquí de vacaciones. Plateada es uno de los pocos sitios de Kanto donde se permite divertirse. La mayoría de las demás ciudades no te dejan apostar ni beber.
+
+### 07DD480
+No tienes pinta de jugador{a}. ¿Quizá vienes por el desafío del Gimnasio? No creo que el Líder de Plateada participe en combates. Puede que no tengas suerte.
+
+### 07DD58C
+La máquina está haciendo cosas raras. ¿Qué le pasará?
+
+### 07DDD49
+Esta máquina está rota.
+
+### 091DE40
+Ah, tienes permiso. Qué raro, no recuerdo haber visto tu foto en el monitor. Bueno, da igual, pasa.
+
+### 091E3FF
+¡Jaja, gracias, idiota! ¡Ahora largo! ¡Le voy a dar esta bici al jefe!\p¡Ven a buscarme e intenta recuperarla si tienes huevos! ¡Jaaaa!
+
+### 0946B86
+Mmm… Este extraño artilugio tiene algo. ¿Quizá podría usarlo para subir ahí arriba?\pVamos a probar.
+
+### 0946BF7
+Apuntaste con el extraño aparato de cadena al árbol y… ¡HALA!
+
+### 0946C3A
+No hay forma de subir tan alto.
+
+### 094ABC0
+El puré de calabaza es mi comida favorita. He venido desde muy lejos.\pEste huerto de calabazas me hace más feliz que mi propia casa.
+
+### 094AC80
+La casa de la bruja Pepita es prácticamente tierra sagrada. Su huerto de calabazas y su pastelería son un respiro para todos. ¡Hasta puedo compartir una comida con un carroñero sin que intente dejarme sin blanca!
+
+### 094B1F9
+Pepita: ¡Pero bueno, hola, calabacita! ¡Tienes cara de tener mucha hambre!\p¿Vienes a por un poco de mi tarta de calabaza recién hecha? ¡2000 $ por 8 porciones!
+
+### 094B267
+Pepita: ¿Seguro? ¡No hay nada que una porción de tarta de calabaza no pueda arreglar!
+
+### 094B2AA
+Te metes la mano en los bolsillos, pero no tienes ni un céntimo…
+
+### 094B2D9
+Pepita: Oooh, ¿no tienes dinero?\p…Das mucho miedo, peque; a lo mejor comer algo te ayuda.
+
+### 094B342
+Pepita: ¡Aquí tienes! ¡Una tarta enteeeeera, solo para ti!
+
+### 094B377
+Pepita: ¡Vuelve pronto, calabacita!
+
+### 094B398
+Pepita: Oooh, ¿huelo a calabaza fresca? Si me la das, ¡te daré media tarta de calabaza gratis! ¿Qué me dices, calabacita?
+
+### 094B420
+Pepita: ¡Muuuy bien, calabacita, aquí tienes! ¡Media tarta, solo para ti!
+
+### 0ACDACB
+¡Eeey, bienvenid{o} al casino! ¡Compra fichas, disfruta de unas copas y déjate llevar!
+
+### 0B08349
+PROHIBIDA LA ENTRADA NO AUTORIZADA\nSE DISPARARÁ A LOS INTRUSOS SIN PREVIO AVISO
+
+### 0B083C9
+INSTALACIÓN MARÍTIMA BC
+
+### 0B1484C
+La oí… ¿Adónde se ha ido?
+
+### 0C0D7C0
+Lo siento, crí{o}.\pSi te dejara avanzar, te llevaría a una muerte prematura.\pTen fe y vuelve cuando te hayas hecho más fuerte.
+
+### 0C0E109
+Saliendo de la Ruta 26 de Kanto\p↓ Ruta 26\n↑ Recepción de la Liga Pokémon
+
+### 0C0E209
+Ruta 28\p→ Recepción de la Liga Pokémon\n← Monte Plateado
+
+### 0FE8FEE
+Ah, crí{o}…\pO, mejor dicho, Campe{on}.\pTe espera tu asiento.
+
+### 101D080
+¡Puaj! Qué crí{o} más asqueros{o}, ¿no?
+
+### 101D100
+Al jefe no le va a hacer ninguna gracia lo mío. ¡Pero lo tuyo le hará todavía menos!
+
+### 1023009
+Entrega tus tesoros, me pertenecen.\pLo tuyo ahora es mío.\p-El Señor de la Codicia
+
+### 12858D4
+¿Los echas de menos?
+
+### 12B8795
+Entiendes el combate: la necesidad de elegir rápido y después actuar.\pEl pañuelo, tejido con mi sangre y mis huesos…\pte permitirá atacar con una velocidad inhumana; sin embargo…\pno podrás desviarte de tu camino una vez lo hayas fijado. Pero tú, mi distinguida visita…\ptú lo entiendes. Deja que tus decisiones te guíen a la victoria y a convertirte en lo que quieras llegar a ser.
+
+### 12B89D4
+Buenas noches.\p¿Has decidido aceptar mi desafío, compañero de armas?\p¿Me honrarás con un combate de guerreros?
+
+### 12B8A54
+¡AUURGHH!
+
+### 12B8BE1
+Auurrgh…\pSin una vela que me guíe, incluso en la más oscura de las noches polares, puedo ver… que eres…\pun{a} verdader{o} guerrer{o}.
+
+### 12B8CCC
+Por supuesto.\pPor favor, tómate un momento para que el fuego te caliente. El mar está frío.
+
+### 12B8D9F
+{B01} encontró…
+
+### 12B8DB0
+Disculpa.\pEso me pertenece. Puedes descansar en mi casa, pero no me robes.
+
+### 12B8E10
+¡{B01} encontró un Pañuelo Elección!
+
+### 12CBEEB
+Pista de Entrenador 502:\p¡Todo entrenador sueña con subir a lo más alto y, por supuesto, esa meta es ser Campeón de la Liga Añil!\p¡La Liga Añil es la cumbre de todos los entrenadores de Johto y Kanto!\p¡Para entrar en la Meseta Añil, lo único que tienes que hacer es beber agua, tomarte las vitaminas y conseguir las 7 medallas de Kanto o las 8 de la Liga de Johto!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 12CC322
+Pista de Entrenador 552:\p¡Atención, entrenadores de Johto!\p¡Manteneos alejados de las puertas este y oeste antes de entrar en el control de medallas de la Liga Añil!\pSe sabe que los kantonianos rondan y merodean por estas zonas.\pkanto es es un infrabit café y na nausea enrosque enrosque enrosque danza aleteo garra rápida horsea\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 12DF489
+¡Arggghhh! ¡No tengo Fuerza suficiente para empujar rocas como esta!\p¿Cómo lo hacían esos salvajes de las cuevas?
+
+### 12DF500
+¡Holaaa, amig{o}!\p¡No, no, no te preocupes! En esta cueva no hay salvajes.\p¡Bueno, ya no! La Familia Luna se ha encargado de todos esos brutos asquerosos para que la gente pueda ir tranquilamente de Carmín a la base lunar.\p¿A que es genial? ¡Deberías hacernos una visita algún día!
+
+### 12DF700
+¡¡BuuuUu!! El alma de esta cueva… ¡vive!
+
+### 12DF780
+¡Este corazón todavía lateeEeeeeEE! ¡Dentro de tiiiIiiiI!
+
+### 12DF800
+¡Lo que nunca vivió nunca puede morir! ¡BuuUuUUU!
+
+### 12DF900
+¡Eh, tú! ¿Qué te retiene?
+
+### 12DF980
+Eeeey… Qué crí{o} más interesante. Je…
+
+### 12DFA00
+¿Adónde vas ahora? Te tengo echado el ojo.\pPareces una persona muy divertida. Bejejeje…
+
+### 12DFB00
+Oye, ¿qué sabes de esta cosa rara de la pared?
+
+### 12DFB80
+¡No me lo puedo creer! ¿Cómo sigue esto aquí?
+
+### 12DFD09
+¡Qué interesante!\p¡Parece que los cavernícolas que vivían en esta zona estaban predispuestos a vivir en cuevas!\pLa estructura craneal de los cavernícolas es radicalmente distinta de la de un humano normal.\pQuizá no fueran tan humanos después de todo…
+
+### 12DFE80
+Los cavernícolas de aquí se hacían llamar los Apóstoles del Renegado.\p¡Muchos eran doblacucharas! Parece que algunos de sus trucos raros siguen aquí…
+
+### 12E0009
+¡Recuerdo cuando nadie podía entrar en esta cueva y salir con vida!\pLos salvajes que vivían en el Túnel Renegado eran muy hostiles, y he oído que casi todos tenían poderes extraños…\p¡Ojalá limpien de chalados la Cueva Diglett a continuación! Me encantaría tener un camino más fácil a Plateada.
+
+### 12E0180
+Ohhh, ¿a que da mucho miedo?\p¡Esos doblacucharas daban muchísimo miedo! No me puedo creer que llevaran tanta maldad dentro…\p¿Crees que los fantasmas tuvieron algo que ver?
+
+### 12E0280
+¡Que pases un rato encantador visitando nuestra encantadora base lunar, qué vistas tan encantadoras! ¡Qué zumo tan delicioso!\p¿Te ha gustado ver el Túnel Renegado?
+
+### 12E2400
+…¡Bishaaaaan!
+
+### 12E5A0C
+¡Urg!\p¿¡Por qué foraster{o} en mi cueva!?\p¿Tú venir ver jefe? ¿Cómo mover rocas grandes?\p¡Tú no tener músculos! Hrm…\p¿Tú creer fuerte? ¡Yo enseñar FUERZA DE VERDAD!{C0B9001}\p¡Ningún forastero venir aquí!\p¡Ahora! ¡Tú luchar conmigo! ¡Gran jefe de cueva!
+
+### 12E5AE1
+¡Rrrrgh! Tú fuerte…\pTú duro, como roca grande.\pYo respetar tu poder.
+
+### 12E5B25
+Forastero, ¿cómo tú llamar?\p…\p¡AUUUUUUUU! ¡{B01}!\pYo llamar primer hijo {B01}. Tú poder más grande que yo ver nunca, más grande que Gran Roca, ¡y YO ser Gran Roca!\pYo dar a {B01} mayor tesoro de cueva.
+
+### 12E5BE0
+Esa ser mejor y más rica roca, buen tesoro y buen bocado.\p¡Ahora irte! ¡Tú ganar más peleas! ¡Con roca, tú invencible!
+
+### 12E5C51
+¡{B01}!\pYo feliz verte. ¡Yo entrenar para luchar otra vez contigo!\p¡Yo ser más fuerte que roca! ¡Más fuerte que {B01}!\p¡Wojojojo!
+
+### 12F9F40
+Control Fronterizo Kanto-Johto\n←\p¡Tened la documentación preparada!
+
+### 12FA049
+Control Fronterizo Kanto-Johto\n←\pRuta 27\n→
+
+### 12FFF80
+¡Qué!\pToma, llévate un poco de lo mío…
+
+### 1300000
+¡El Señor de la Codicia te lo quitará todo!
+
+### 130D100
+Qué fuerza…\pTu hambre… Me vigoriza, incluso más que mi fuego.\pTe regalaré mi poder, una tela que tejí con la materia de mi ser.\pVe con seguridad y avanza veloz hacia tu meta.\pAlguien de tu talla… seguro que tomará buenas decisiones.
+
+### 130D240
+Buenas noches.\p¿Puedo preguntar… qué tal te va el día?\pEl mar está frío. Lo encuentro algo gélido. Ven, te lo ruego: deja que las chispas de este fuego te calienten el alma. Aquí estás en tu casa; el placer es mío.\p¿Mi nombre? No tengo ninguno. De ahí que no me haya presentado.\pUn nombre… No me dieron ninguno. Los nombres son para los humanos, que los reciben al nacer.\pYo no soy ni lo uno ni lo otro.\pHubo un tiempo en que deseaba ser humano. Pero ahora sé…\pque soy algo que está más allá de ellos. Soy lo que yo mismo he creado.\pPresiento que eres un{a} gran guerrer{o}.\pMi corazón palpitante… tan tranquilo y frío como el mar, bombea aun así el ardor de la guerra por mis venas.\p¿Compartirás un combate con un guerrero como yo?
+
+### 1313C00
+Tu destino quedó sellado desde que llegaste.\pTe colgaremos de un crucifijo y dejaremos que la sangre te suba al cráneo y te reviente como un globo.
+
+### 1313D00
+Mi sangre se derrama… ¡UNA MALDICIÓN!\p¡Te echo una MALDICIÓN!
+
+### 1313D80
+Auughhh…\pDolor eterno, otro clavo para mi piel. Otra púa de hierro en mi sangre.
+
+### 1313E40
+¡Basta! Debo expiar mi derrota.
+
+### 1313EC0
+He vuelto a perder. Debo colgarme. Otros 10.000 años colgado, otra ronda de sangre.
+
+### 1313F80
+Busca el lago de fuego.
+
+### 1314000
+El guardián del lago de fuego. Deja que su locura te consuma.\pBautízate en el magma impío.
+
+### 13140C0
+No recuerdo lo que fue. He visto a tantos que ni siquiera recuerdo tu cara.
+
+### 1314180
+La montaña… Pasa otro día y sigue igual.
+
+### 1320180
+¡Eh! ¿Tienes algún tesoro? ¡A ver!
+
+### 1548A89
+PROPIEDAD PRIVADA
+
+### 15562C0
+¡Recordatorio: entregad todos los hallazgos de la Isla del Tesoro al Señor de la Codicia!\pNo os quedéis nada… porque sus ojos están por todas partes.
+
+### 15569A2
+Nnngg…\pEste cofre está atascado. ¿Abrirlo por la fuerza?
+
+### 15569D7
+A saber qué hay dentro de este cofre…\pMejor lo dejo en paz.
+
+### 1556A19
+{B01} agarró el cofre y hundió los pies en la arena para hacer palanca.\p…
+
+### 1556AA4
+¡Ay! ¡Ha saltado un muelle de debajo de mis pies!
+
+### 1556BC0
+¡El cofre se abrió!\pHay una nota:\p“Querido ladrón entrometido… ¡Buena suerte!”\n-El Señor de la Codicia
+
+### 1557C40
+¡Excelente! ¡Parece que llevas cosas buenas encima!
+
+### 1557CC0
+Al Señor de la Codicia no le vas a caer bien. A mí tampoco me caes muy bien.
+
+### 1557D80
+Vine aquí buscando tesoros… Pero me convertí en propiedad de otra persona…\pQué mundo este…
+
+### 1557E40
+¡Frenemos un poco!
+
+### 1557EC0
+El paisaje de aquí es bastante bonito, ¿eh?\pOjalá pudiera disfrutarlo… En lugar de eso, tengo que buscar tesoros que ni siquiera puedo quedarme.
+
+### 1557F80
+¡Tesoro, tesoro!\p¡Uno, dos, tres! ¿Quién ganará este combate, tú o yo? ¡Ya lo veréis!
+
+### 1558040
+¡Codicia, codicia, nada para quien lo necesita!\p¿Es un señor? ¡Más bien pinta de estafador!
+
+### 1558100
+Esto no mola nada…
+
+### 1558180
+¡Te vas a arrepentir de haber pisado estas arenas!\p¡El Señor de la Codicia se quedará con lo tuyo, que le pertenece!\p¡Juajuajua!
+
+### 15591C9
+Llevo 20 años buscando tesoros para su señoría en estas aguas…\pMi deuda está casi saldada… cof…
+
+### 1559249
+¡Hut, uno! ¡Hut, dos!\p¡Uf! ¡Correr tan alto en el Monte del Tesoro me deja sin fuerzas!
+
+### 1559509
+¡Agghh!\p¡No lo encuentro! ¡Se me ha caído algo importantísimo en algún lugar de esta playa!\pValía mucho dinero, y mi deuda no para de crecer…
+
+### 1559609
+He aceptado que nunca saldaré mi deuda.\pNada será nunca suficiente para el Señor de la Codicia.\pTrabajaré aquí hasta mi último aliento. ¿Por qué tuve que venir aquí?\pNunca debí haber sido codicioso…
+
+### 15796CE
+Esta mole está durmiendo…\pQué paz…\pNo podría despertarla aunque quisiera.
+
+### 15797C9
+La puerta está cerrada con llave. Seguramente haya alguien durmiendo dentro.\pMejor dejarle descansar.
+
+### 15798C9
+La puerta está cerrada con llave, pero se oye a gente riendo y bromeando dentro.\pParece muy divertido.
+
+### 1579949
+La puerta está cerrada con llave, pero se oye a gente andando dentro.\pParece que van con pasos suaves…\pquizá intentan no despertar a alguien.
+
+### 1579A49
+En memoria de dos chicos que intentaron cambiar el mundo.\pCampeones Gold y Silver
+
+### 1579AC9
+Una estatua de madera de un chico joven, seguro de sí mismo y motivado. Incluso en la oscuridad de la noche, parece brillar.\p“El Chico de Oro”\nCampeón Gold de Pueblo Primavera\l1989 - 2005
+
+### 1579BC9
+Una estatua de madera de un chico de pelo largo que da miedo. Aunque da miedo, se nota que es buen chaval, incluso siendo una estatua.\p“El Jefe”\nCampeón Silver de Pueblo Primavera\l1989 - 2031
+
+### 1579CC9
+Casa de Kris
+
+### 1579E49
+Laboratorio de Investigación Pokémon de Elm
+
+### 1579FC9
+Pueblo Primavera\n“El pueblo donde soplan los vientos de un nuevo comienzo”
+
+### 158F56B
+Maximus: ¡E-e-eh! ¡{B01}!\p¿Q-qué tal te va…? B-bueno, con eso de ser C-campe{on} y todo…\pE-e-espero que estés b-bien… Pasaron m-muchas cosas en la M-meseta Añil… ¡D-debió de ser m-m-mucho para ti!\p…\p…¿yo?\pO-oh, estoy bien… T-todo eso lo tengo un p-p-poco borroso… N-no me apetece hablar d-de ello.\p…\p…c-cuando estuve en la g-g-guerra… Hice m-muchas cosas m-malas. Lo tengo t-todo guardado en el f-fondo de mi m-m-mente.\pN-no puedo hablar de esas c-cosas. N-ni siquiera con L-l-lylia, ni c-contigo…\ppero…\pEstoy c-contento… ¡P-p-pude ayudarte!\pD-d-desde que me esc-cuchaste en mi viejo gimnasio, supe que eras b-buena gente.\p¡Me alegro de que seamos amigos!\p…\p…Lylia q-quiere volver a v-v-vivir a Alola.\p¡D-dice que p-puedo irme con ella! M-me encanta la playa… la arena…\pC-cuando puedo t-t-tumbarme en la arena… j-junto al m-m-m-m-mar…\pP-puedo cerrar los ojos… y o-olvidar…\pP-pero, si alguna vez tienes p-problemas…\p…\p…lo sabré. Y allí estaré.\p…en f-f-fin… p-perdona por el r-r-rollo. ¡Me alegro m-m-mucho de verte!
+
+### 158F971
+Maximus: ¡E-eh, {B01}!\pC-cuando L-l-lylia y yo nos mudemos a Alola, ¿c-c-crees que vendrás a v-visitarnos?\pC-creo que estaría b-bien…
+
+### 158FE53
+Puedes usar las MO o MT todo lo que quieras, así que desmádrate.\p¡Puedes quedarte aquí de fiesta con nosotros!\p…pero parece que tienes otra cosa en la cabeza. Como te he dicho, con Corte puedes bajar por la vieja Cueva Diglett, al sur de Plateada.\pPero ten cuidado… Ese sitio es bastante duro. ¡Nyajajaja!
+
+### 158FF7C
+Aston: ¡Hostia, eres tú!\p¡Nyajajaja! Campe{on}, ¿eh? ¡Joder, no tenía ninguna fe en ti!\pSupongo que me he tenido que tragar mis palabras, ¿eh? ¡Qué pasada!\p¡Pero lo que no es ninguna pasada son los 10.000.000 $ que he perdido por tu culpa!\p¡Nyajajajaja!
+
+### 15953CC
+Guh…\p¡Cuatro-nunca!\pCuatronunca c-caemos… Guh… ¡HAMBRE!
+
+### 159544C
+Augh… T-tortu… Tortura… y… eeeh…\p¡Tortura y DOLOR!\p¡AUUUUUUU!
+
+### 1595649
+¡Interrumpes esta tradición sagrada! ¡La danza de los muertos!\p¡Por esto, tu espíritu debe ser torturado! ¡Torturado por toda la eternidad!
+
+### 15956C2
+¡Esto no quedará así! ¡Tu poder no hará flaquear mi maleficio de sangre!
+
+### 1595700
+Con este, mi cuchillo, hundo la hoja oxidada en la carne de mi cráneo.\pMientras su filo raspa el hueso de mi ser, mi sangre derramada te otorga…\p¡mi maldición inmortal! ¡Toma esto, mi maleficio de sangre!\p¡Tortura y dolor por toda la eternidad!
+
+### 15957F2
+¡Tu alma será atormentada y mi maleficio de sangre empañará tus días para siempre!\p¡Sufre, SUFRE!
+
+### 1597473
+???: Hola.\pHace un día precioso, ¿verdad?
+
+### 159749B
+???: ¿Alguna vez has cargado con una maldición?
+
+### 15974BC
+???: Una maldición de sangre, de pura malicia, del alma de alguien a la tuya.
+
+### 15974FF
+???: Quizá cargues con muchas.\pSi es así…
+
+### 1597527
+???: Entonces quizá deberías dar un salto de fe…
+
+### 159755C
+???: Desde lo alto de esta gran montaña…\p¿dónde crees que estás?
+
+### 15975A6
+???: ¿Crees que esta montaña lleva a alguna parte?\pYo me lo he preguntado muchas veces.
+
+### 15975F8
+???: ¿Quién más podrías ser, sino tú?

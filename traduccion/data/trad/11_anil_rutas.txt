@@ -1,0 +1,544 @@
+#! Lote 11: Meseta Añil / palacio del desierto (13.x) y Rutas 9-12 (3.27-3.30)
+
+### 018491C
+¡Tú…! ¡Maldita sea!
+
+### 0184931
+¿Buscas tesoros? Ponte a la cola.
+
+### 0184AD5
+Quizá sí…
+
+### 0184B66
+NO PASAR\pFORASTERO MUERE
+
+### 0184EC5
+Pueblo Jaspar\nCentro Pokémon
+
+### 0184FD8
+¡uUUUuuuUuuuh!
+
+### 0184FEF
+¿Te he asustado?
+
+### 0185488
+Esperaré… Siempre te esperaré, mi amor.
+
+### 0185616
+¿Qué ha pasado…? ¿Por qué ya no la oigo? ¿Por qué…?
+
+### 018574D
+Espero y pesco. Oigo ese sonido, me seco las lágrimas. ¿Dónde está mi amor?
+
+### 01857B3
+Puente del Silencio
+
+### 01C1AFB
+¡Quien lo encuentra se lo queda! Y mira lo que he encontrado, jeje… ¡Qué chollo!
+
+### 01C1DB5
+¡BU!
+
+### 01C1F9D
+Mi amor…
+
+### 01C203B
+J o v e n…\n¿T e    q u e d a s    u n    r a t o    c o n    e s t e    v i e j o    c a s c a r r a b i a s?
+
+### 01C2134
+¿Cuánto tiempo más tendré que esperar?
+
+### 080B300
+Dame tus objetos de valor antes de que te mate.
+
+### 080B380
+Los tiempos difíciles crean críos fuertes…
+
+### 080B400
+De mí no vas a sacar más que la chatarra de mis bolsillos.
+
+### 081DF49
+Preocúpate de ti.
+
+### 090AEF8
+¿Eh? Me acaba de sonar el teléfono. El Profesor Oak me ha enviado algo.
+
+### 090AF36
+El Prof. Oak me ha enviado un meme.\p“Comparte esto con 5 personas a las que quieras y aprecies en este mundo.\pIgnóralo si quieres que a esas personas las apuñalen hasta la muerte en un callejón oscuro, luego se las coman unos Greavard salvajes y después ardan en el infierno.”\pOak: {B01} PORFA MANDASELO A SUMMER Y A TU PADRE Y A MI. TEN CUIDADO.\pY OTRA COSA. VE A VER A MI HIJA SPRUCE!!! VIVE AL ESTE D CARMIN!\lHACE MUXO Q NO T VE\lVALE ADIOS NO T OLVIDES D COMPARTIR\l- OAK
+
+### 092DB00
+¿Qué has hecho? ¿Por qué has cortado mi árbol?
+
+### 092DB80
+¿Dónde…? ¿Dónde se ha ido?
+
+### 092DC00
+¿La ves? ¡Ya no está en pie! Mi amor, mi dulce sirena, llámame. Por favor…
+
+### 094A380
+Mi amor ya no me canta… Esperaré junto al mar hasta mi último aliento para oír su tierna llamada.
+
+### 094A440
+¿Cuándo volveré a oírla?
+
+### 09E4140
+¿Quieres que luche contigo? ¿Te crees que tienes mucho aguante, c
+
+### 0A714AA
+Summer: ¡Caramba!
+
+### 0A714BD
+Summer: ¡Oh! ¡Ji, ji, qué susto me has dado, {B01}!\p¿Qué haces aquí? Te habrán contado lo de las medallas que se supone que están escondidas en este palacio, ¿eh?
+
+### 0A71553
+Summer: ¡Pues te apuesto un millón de billones de Pokédólares a que encuentro la medalla antes que tú!\p¡El último en llegar es un Exeggcute podrido! ¡Ji, ji!
+
+### 0A8B48C
+Un pergamino viejo y polvoriento. Dice:\l“La violencia es un idioma que todos hablan y entienden.”
+
+### 0A8B84B
+Una gran gárgola se alza imponente contra la pared.
+
+### 0A8BDC3
+Esta puerta está cerrada. Hay un montón de símbolos con un espacio vacío en el centro.
+
+### 0A8BE16
+La puerta está cerrada… {B01} dibujó “V I O L E N C I A” en el espacio vacío del centro de la puerta.
+
+### 0A8BE7A
+La confianza nunca es segura. La violencia siempre es una posibilidad.
+
+### 0A8BEB7
+Hasta un santo puede dejarse llevar por su ira primitiva.
+
+### 0A8BEEA
+¡La puerta se abrió!
+
+### 0A8C50C
+Un pergamino viejo y polvoriento. Dice:\l“El dolor es la única motivación verdadera en la vida.”
+
+### 0A8DE4A
+Summer: ¡Eh, {B01}! ¿A que este sitio es lo más?\p¡Ven! ¡Tengo que enseñarte una cosa!
+
+### 0A8DEA4
+Summer: ¿Has encontrado algún tesoro? ¡Yo un montón! Aunque medallas, todavía ninguna…\p¡Pero oye! ¡He encontrado una cosa alucinante! Cuando la vi, pensé enseguida: “¡HALA! ¡A {B01} le encantaría esto!”\p¡Así que, tachááán! ¡Es un patinete! ¡Quiero que te lo quedes!
+
+### 0A8DF96
+{B01} se subió al patinete.
+
+### 0A8DFB3
+Summer: ¡HALA! ¡Qué guay te queda!\p{B01}, ¡TIENES que hacer un truco alucinante saltando por esos bordillos!\p¿Porfaaaa? ¡El Profesor Oak va a flipar cuando le mande el vídeo!\p¡{B01}, tienes que hacerlo!
+
+### 0A8E1D2
+Summer: {B01}, ¡TIENES que hacer un truco brutal con el patinete saltando por esos bordillos para que lo grabe!\p¡Va a ser SUPERGUAY!
+
+### 0A8F561
+Summer: ¡OSTRAAAS!
+
+### 0A8F810
+Summer: ¡HALA! ¡LILEEPS SALTARINES! ¡¡¡ES EL TRUCO DE PATINETE MÁS BRUTAL DE LA HISTORIA!!!
+
+### 0A8F85B
+Summer: ¡Gracias, {B01}! ¡Se lo voy a mandar al Profesor Oak! ¡En fin, la carrera sigue! ¡Voy a encontrar esa medalla antes que tú!\p¡No hay patinete en el mundo que me gane en velocidad! ¡Ji, ji! ¡Nos vemos cuando encuentre esa medalla! ¡Chao, pescao!
+
+### 0A8FC80
+Una gran puerta de piedra sellada. Parece que en el centro hay una cerradura con una forma extraña.
+
+### 0A8FCDB
+Metiste la llave esquelética en la cerradura de piedra.\p…
+
+### 0A907CE
+Un pergamino viejo y polvoriento. Dice:\p“A un amor profundo le sigue un abandono igual de profundo.”
+
+### 0A92F43
+¿Qué es esto?\pHay una ranura en la pared de ladrillo. … Parece que la Llave del Desierto podría encajar.\p…Hay algo más.\pMe acaba de invadir una sensación extraña y mala. Hay algo detrás de esta pared, algo poderoso.\pQuizá debería irme sin más.
+
+### 0A9302B
+Sí, hay cosas que es mejor dejar en paz. Tengo asuntos más importantes de los que ocuparme.
+
+### 0A93085
+{B01} metió la mano en la mochila y colocó la Llave del Desierto en la pared de ladrillo.
+
+### 0A930CB
+Es como si la mano de alguien guiara la mía… ¡Me está empujando el brazo hacia la pared!
+
+### 0A931C1
+Una gigantesca puerta de piedra sellada. Tiene unas extrañas hendiduras talladas en la parte delantera.
+
+### 0A9321E
+{B01} introdujo la Llave del Desierto en la pared de piedra…
+
+### 0A93ACF
+Un pergamino viejo y polvoriento. Dice:\p“La desesperación es inevitable. Caerás sin remedio en la desesperación, y tu destino es perder la esperanza.”
+
+### 0A93D57
+Una figura imponente está sentada en un trono de piedra y arena.\pNo dice nada, pero sus ojos vacíos parecen mirarme directamente.\pLentamente, aparta la mano de su asiento, y los granos de arena caen y se retuercen entre sus dedos.\pAnte mis propios ojos se está formando un monstruo.\p… {C0B5601}\pEn este momento, me doy cuenta.\pTengo que luchar.
+
+### 0A93E9F
+El emperador no dice nada. En un abrir y cerrar de ojos, desaparece y solo deja arena.
+
+### 0A9E57C
+Una gran puerta de piedra sellada.
+
+### 0A9E59F
+¿Eh?\p¡La puerta se está abriendo sola!
+
+### 0A9F3DD
+¡{B01} encontró la Medalla Hambruna!
+
+### 0AA1240
+Estás descuidando algo, estás descuidando a alguien.
+
+### 0AA12C0
+Te has descuidado a ti.
+
+### 0AA1340
+Siente la pena de saber que ignoras aquello que descuidas.
+
+### 0AA1440
+El dolor alimenta la venganza; la venganza alimenta la emoción.
+
+### 0AA14C0
+Por esto, sin duda te enfrentarás a la venganza.
+
+### 0AA1540
+Buscarás venganza, y buscarán venganza contra ti. No rompas el ciclo, pues es natural.
+
+### 0AA2D9A
+Esta piedra brilla con una luz gris.\pTe llama, y no puedes resistirte a su atracción.\pQuizá fue el destino, quizá fue un error, pero desde que entraste en esta sala, necesitabas responder a la llamada de la piedra.\pLa Piedra del Alma Gris… Solo tú puedes sostenerla… Tú y nadie más.\pTe llama…\pTe llama\pa ti…
+
+### 0AC1909
+Un pergamino viejo y polvoriento. Dice:\l“Oh, Emperador, protégenos. Con tus arenas abrasadoras, escúdanos del frío abrazo de la piedra del diablo. Mientras te sientas en tu trono, cargas con nuestro peso, y la oscura tentación se esconde tras de ti, temerosa.”
+
+### 0AC1A49
+Una alta gárgola de piedra se alza, imponente e impasible.
+
+### 0AC1B89
+Una sólida puerta de piedra sellada. Tiene un espacio en blanco tallado en la parte delantera.
+
+### 0AC1BDB
+{B01} apoyó el dedo en el espacio vacío de la superficie de la puerta.\p{B01} trazó “D E S E S P E R A C I Ó N” en la puerta.
+
+### 0ACC8E0
+…¿eh? Ha empezado una tormenta eléctrica.
+
+### 0B0599B
+???: Mmm… qué triste.
+
+### 0B0F840
+Has profanado el jardín que tanto me ha costado plantar…\p¿y para qué?
+
+### 0B0F900
+Cuesta mucho hacer florecer la arena… Planté una criatura, un árbol recién nacido, y lo has talado sin pensarlo.\pSeguramente pisotearás mi hierba y desenterrarás las semillas que planté bajo las flores.\pDurante un tiempo, pensé que podría cambiar las cosas.\pQué mundo este…
+
+### 0B133C0
+¿Cuánto tiempo más tendré que seguir de pie?
+
+### 0B13740
+J o v e n…\n¿T e    q u e d a s    u n    r a t o    c o n    e s t e    v i e j o    c a s c a r r a b i a s?
+
+### 0B13980
+¡E s p  l én  d i d o!
+
+### 0B13A00
+J o v e n,   F u c s i a,   a l   s u r,   g u a r d a   m u c h o s   t e s o r o s.   N o   d e j e s   p i e d r a   s i n   l e v a n t a r.
+
+### 0B14517
+¿Por qué me has molestado? ¡No la oigo! ¡No oigo su canción!
+
+### 0B14557
+¡Por favor, por favor, por favor, canta!
+
+### 0B14597
+J o v e n…\n¿Q u é   t e   h a   t r a í d o   h a s t a   a q u í?
+
+### 0B145DE
+¡U n   e s p e c t á c u l o   m u y   a n i m a d o!
+
+### 0B14680
+J o v e n…\nC u i d a d o   c o n   e l   b a r q u e r o.   N o   l e   l l e v e s   n a d a   d e   t u   a l m a.
+
+### 0C90689
+Huerto de Calabazas\n→ Ruta 12 y Puente del Silencio
+
+### 0C90709
+¡Tarta de Calabaza de Pepita!\n“¡Pasa y come hasta hartarte! ¡Mi tarta de calabaza te dará marcha!”\p¡Se admite T.T.C.P.! (Traer Tus Calabazas Propias)
+
+### 0C90C40
+Eh, espera un momento. ¿Qué haces aquí, peque? ¿Dónde están tus padres?
+
+### 0C90CC0
+Te voy a poner una multa.
+
+### 0C90E40
+¿Cómo te llamas? ¡Te voy a multar por ser menor sin compañía en una zona no autorizada!\pEste mundo es un lugar peligroso, ¿sabes? Solo intento mantenerte a salvo.
+
+### 0CFCD80
+¡Kejijiji! ¡Calabazas, calabazas por el huerto! ¿Qué bichitos has capturado, di, por cierto?
+
+### 0CFCE00
+¡Keeeejijijiji!
+
+### 0CFCE80
+Baila entre las calabazas, ¿cuántas veces? ¡Quién sabe! ¡Si te paras a descansar, un monstruo te muerde el pie, y se acabó lo que se daba!
+
+### 0CFCF80
+¡Eh, eh! ¿Tú también buscas calabazas? ¡Dame algunas de las tuyas!
+
+### 0CFD000
+¡Jo! ¡No tiene gracia si no compartes!
+
+### 0CFD080
+¡Si le llevo a la señora de las calabazas suficientes calabazas, me hará una tarta! ¡Está superrica! Siempre me duelen los dientes después de comérmela.
+
+### 0CFD180
+Por fin he encontrado suficientes calabazas para una tarta. ¡Ahora necesito el dinero!
+
+### 0CFD200
+Puaj, bueno, de todas formas me gusta más el puré.
+
+### 0CFD380
+¡Jaja! ¡Esa tarta me ha sentado de maravilla! ¿Qué tal un combate, peque?
+
+### 0CFD400
+¡Ah, nada como una buena pelea! ¡Jojojo!
+
+### 0CFD480
+¡La bruja de las tartas es un bombón! ¡Le pedí que se casara conmigo!\p…pero me dijo que no.
+
+### 0CFD609
+¡La señora de las calabazas es muy maja! ¡Me da tarta de calabaza gratis! ¡Ñam! …pero a veces da un poco de miedo.
+
+### 0CFDCC0
+Viene gente de toda la región por esto de la tarta de calabaza.\pPero no entiendo por qué a todo el mundo le parece tan especial. ¡Mi marido viene todas las semanas! Es diabético, entra en coma y lo tengo que llevar a rastras a casa. ¡Es exasperante!
+
+### 0CFDE00
+Uf… La tarta está buena, pero no puedo comérmela bien. Tengo que aplastarla y metérmela por las rejillas de la máscara.\p…pero está divina.
+
+### 0CFE018
+Pista de Entrenador 031:\pDurante muchos añios se creyó que una dieta equilibrada de frutas, cereales, proteínas magras y verduras era la dieta más más eficaz. y saludable para mejorar y mantener la salud en general. Sin embargo, investigaciones recientes de los mejores científicos del Instituto de Ciencias de Azafrán han llegado al consensosoo de que una dieta equilibrada de chocolates, maíz y azúcar es aún más saludable.\p¡Si quieres mejorar tu salud, puedes conseguir todo lo que necesitas en el Snack Sneasel más cercano!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 0E2B00F
+“La Aniquiladora”\nCampeona Lylia Mohn\p21.ª Campeona de la Liga Añil\l2017 - 2019\lDefensas: 7
+
+### 0E2B08F
+CENSURADO\p23.º Campeón de la Liga Añil\l2020 - CENSURADO\lDefensas: CENSURADO
+
+### 0E2B10F
+“El Maestro de los Dragones”\nCampeón Lance\p24.º Campeón de la Liga Añil\l2025 - 2025\lDefensas: 1
+
+### 0E2BD8F
+“El Grande”\nCampeón Marcel Vorelli\p26.º Campeón de la Liga Añil\l2031 - 2041\lDefensas: 65
+
+### 0E2C88F
+“El Niño Milagro”\nCampeón Grey\p27.º Campeón de la Liga Añil\l2041 - (Actual)\lDefensas: 13 (en curso)
+
+### 0E9974F
+“El Exaltado”\nCampeón Blaine\p2.º Campeón de la Liga Añil\l1967 - 1969\lDefensas: 4
+
+### 0E997CF
+“La Hija del Diablo”\nCampeona Agatha\p3.ª Campeona de la Liga Añil\l1969 - 1970\lDefensas: 13
+
+### 0E9A4CF
+“El Doctor Pokémon”\nCampeón Fuji\p4.º Campeón de la Liga Añil\l1970 - 1975\lDefensas: 6
+
+### 0E9A54F
+“El Céfiro Elegante”\nCampeón Hayate Pegaso\p5.º Campeón de la Liga Añil\l1975 - 1985\lDefensas: 37
+
+### 0E9A5CF
+“El Poder Superior”\nCampeón Bruno\p6.º Campeón de la Liga Añil\l1985 - 1986\lDefensas: 3
+
+### 0E9A64F
+“El Céfiro Elegante”\nCampeón Hayate Pegaso\p7.º Campeón de la Liga Añil\l1986 - 1987\lDefensas: 1
+
+### 0E9A6CF
+“El Poder Superior”\nCampeón Bruno\p8.º Campeón de la Liga Añil\l1987 - 1991\lDefensas: 8
+
+### 0E9A74F
+“El Maestro de los Dragones”\nCampeón Lance\p9.º Campeón de la Liga Añil\l1991 - 1996\lDefensas: 20
+
+### 0E9A7CF
+“El Prodigio”\nCampeón Blue Oak\p10.º Campeón de la Liga Añil\l1996 - 1996\lDefensas: 0
+
+### 0E9A84F
+“El Rey de la Montaña”\nCampeón Red\p11.º Campeón de la Liga Añil\l1996 - Vacante 1996\lDefensas: 1
+
+### 0E9A94F
+“El Maestro de los Dragones”\nCampeón Lance\p12.º Campeón de la Liga Añil\l1996 - 1999\lDefensas: 7
+
+### 0E9A9CF
+“El Chico de Oro”\nCampeón Gold\p13.º Campeón de la Liga Añil\l1999 - 2000\lDefensas: 5
+
+### 0E9AA4F
+“Resplandeciente”\nCampeona Kris\p14.ª Campeona de la Liga Añil\l2000 - Vacante 2001\lDefensas: 13
+
+### 0E9AACF
+“El Maestro de los Dragones”\nCampeón Lance\p15.º Campeón de la Liga Añil\l2001 - 2001\lDefensas: 4
+
+### 0E9AB4F
+“El Maestro Ninja Venenoso”\nCampeón Koga\p16.º Campeón de la Liga Añil\l2001 - 2002\lDefensas: 2
+
+### 0E9ABCF
+“El Maestro de los Dragones”\nCampeón Lance\p17.º Campeón de la Liga Añil\l2002 - 2003\lDefensas: 7
+
+### 0E9AC4F
+“La Gran Promesa”\nCampeona Leaf\p18.ª Campeona de la Liga Añil\l2003 - Vacante 2007\lDefensas: 12
+
+### 0E9ACCF
+“El Maestro de los Dragones”\nCampeón Lance\p19.º Campeón de la Liga Añil\l2007 - 2009\lDefensas: 4
+
+### 0E9AD4F
+“Corazón y Alma”\nCampeona Lyra\p20.ª Campeona de la Liga Añil\l2009 - 2017\lDefensas: 31
+
+### 0F26589
+No me hables.
+
+### 0F3267B
+Sientes que una fuerza invisible te empuja hacia atrás. Por mucho que te esfuerces, no consigues avanzar.
+
+### 0F6EB4F
+“La Hija del Diablo”\nCampeona Agatha\p22.ª Campeona de la Liga Añil\p2019 - 2020\nDefensas: 13
+
+### 0F6EBCF
+“El Jefe”\nCampeón Silver\p25.º Campeón de la Liga Añil\p2025 - Fallecido 2031\nDefensas: 49
+
+### 0FC8780
+¿Alguna vez has luchado por tu vida contra un salvaje come-rocas?
+
+### 0FC8800
+En la cueva del norte hay un montón de joyas y objetos de valor… Pero esos cavernícolas no lo ponen fácil.\pVi cómo dos de esos salvajes descuartizaban a mi colega, miembro a miembro. Clavaron su cabeza en una pica y les tiraron sus huesos a los lobos.
+
+### 0FC93E2
+Pista de Entrenador 142:\p¡Cuidado! ¡Hay fantasmas cerca! ¡Se sabe que hay fantasmas por esta zona!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 0FC96D7
+¿Buscas medallas? No me hagas reír.
+
+### 0FC9707
+Acabas de tener la chiripa del siglo.
+
+### 0FC9735
+Críos entrometidos como tú los hay a patadas. Todo el mundo quiere ser Campeón, pero nadie vale para ello.
+
+### 0FC9897
+¡Jaja! ¡Te tengo! ¡Te haré rendirte!
+
+### 0FC98BD
+¡Me rindo!
+
+### 0FC98C7
+Tu fuerza es enorme… ¿Dónde entrenas, crí{o}?
+
+### 0FC9917
+No digas nada.
+
+### 0FC992B
+Uf…
+
+### 0FC9930
+jadeo… No digas nada.
+
+### 0FC9997
+Los cavernícolas de aquí te comerán en vida. Déjame hacerte un favor y matarte rápido.
+
+### 0FC99EC
+No hay forma de que gane…
+
+### 0FC99FE
+¿Vienes a rematarme? No, te da demasiado miedo.
+
+### 0FC9A97
+¡UuUuuUuu! ¡Cuidado!
+
+### 0FC9AAA
+¡UuUuUU!
+
+### 0FC9AB2
+¡Bu!
+
+### 0FC9B17
+¡Toc, toc!
+
+### 0FC9B25
+¿No vas a preguntar quién es? ¡Es Helado!
+
+### 0FC9B5A
+¡Helado toda la noche si quieres, jajaja!
+
+### 0FC9DC9
+¿Buscas tesoros? Cuenta la leyenda que las medallas están en el palacio gigante al sur de aquí.\pEn la Cueva del Norte hay un montón de joyas y gemas finas, pero está plagada de cavernícolas, y no son nada amistosos.
+
+### 104BB6F
+Summer: ¡¡¡{B01}!!! ¡Madre mía, madre mía! ¿¡Estás bien!?\p¡Vi el anuncio en el móvil y no me lo podía creer!\p…{B01}…
+
+### 104BBE5
+…¿Es verdad todo eso?\p¿De verdad fuiste a la cárcel? ¿De verdad colaboraste con esa terrorista?\p…¿de verdad le hiciste daño a esa gente?
+
+### 104BC6A
+Summer: No… No pasa nada, no hace falta que digas nada.\p…pero siento que no te conozco de verdad, {B01}. Siempre has sido de muy pocas palabras y cuesta saber qué pasa en esa cabezota tuya…\p…\pTe quiero, pero…\pNo sabía que fueras capaz de algo así.\p¿Sabes? Siempre estaré de tu parte. Nunca me pondré del lado de nadie antes que del tuyo.\pLo que necesites para salir adelante, ya sabes que te lo daré.\pNo te preocupes. Nunca les diré dónde estás.\pCreo que ni siquiera saben lo nuestro. Yo solo…\p…quería verte. Quería saber que estabas bien.
+
+### 104BEA1
+Summer: Todavía somos tú y yo, ¿verdad?\pVamos a seguir siendo los Campeones y los entrenadores más fuertes del mundo, ¿verdad?
+
+### 104BF23
+Summer: Así que no te preocupes por mí. Voy a seguir buscando el resto de las 7 medallas. Y sé que tú también. Así que necesito que por una vez me escuches, {B01}.
+
+### 104BFC2
+Summer: Por favor, ten cuidado. No te voy a llamar ni a escribir, y le diré al Profesor Oak que tampoco lo haga.\pNo quiero que nadie te encuentre. Y si algo de esto le salpica a él, yo…
+
+### 104C078
+Summer: A menos que tu vida corra peligro…\pTú tampoco te pongas en contacto conmigo…\p…¿vale?\pY por favor. POR FAVOR, no empeores las cosas.\pQuieren acabar contigo.\nNo busques problemas. No intentes vengarte.\pSomos solo tú y yo. No podemos con todos ellos, no solos.\pNo te dejes ver y aléjate de Azafrán y de BrunoCorp.\pSolo quiero que estés a salvo. No puedo llegar a lo más alto sin ti. Así que llévate esto, te hará falta.
+
+### 104C213
+Summer: Te quiero, {B01}. Por favor, esta vez hazme caso.\p…\p…
+
+### 104C25B
+Summer: Lo entiendo…\pAhora mismo no quieres prometerme nada, pero…\pSiempre creeré en ti, {B01}. Pienses lo que pienses de ti, sé que lo vas a conseguir.
+
+### 104C307
+Summer: Es una promesa, {B01}. ¡No puedes romperla! Siempre creeré en ti.
+
+### 106C289
+uf, uf…\pOh, ¿no nos conocemos de algo…?\pAh, bueno, ¡solo estoy entrenando! ¡Parece que tú también entrenas Pokémon, como yo!\p¡Pues pronto voy a ser muy fuerte! ¡Mi Wobbuffet y yo!\p¡Solo tengo 1 medalla, pero pronto conseguiré la segunda!
+
+### 127618F
+“El Talento Natural”\nCampeón Samuel Oak\p1.er Campeón de la Liga Añil\l1960 - 1967\pDefensas: 6
+
+### 12CB7D2
+Starmie: ¡Kaa!
+
+### 12CB852
+Electrauma: Iiiik…
+
+### 12CB8D0
+Rhysaurus: ¡Grooaaar!
+
+### 12CB950
+Skeledirge: ¡Draaughh!
+
+### 12CB9CC
+¡Esto es malo! ¡Esto es muy malo!\p¡Avisad a la Liga de que {B01} está aquí!
+
+### 12CBA4C
+¡Vamos, Skeledirge! ¡Venga!
+
+### 12CBACC
+¡Confinad la meseta! ¡Nos atacan!
+
+### 12CBB4B
+¡No es más que un Electrauma!\p¡Venga, saco de huesos!
+
+### 12CBBD3
+Maximus: ¡T-te hemos abierto c-c-camino, {B01}!\p¡El Alto M-mando está ar-r-riba! ¡T-t-tú puedes!
+
+### 12CBC52
+Lylia: ¡Buen trabajo, Starmie!\p¡Ahora usa Hidrobomba!\p¡Dios, ¿cuántos guardias más van a mandar?!\p¡Ahora o nunca, {B01}!
+
+### 12CC540
+Centro de Datos de la Ruta 12
+
+### 12CC6EB
+Pista de Entrenador 243:\p¡Entrenadores! ¡Cuidadp con las condiciones meteorológicas extremas!\p¡Con lluvia intensa, la potencia de los movimientos de tipo Fuego disminuye! ¡Del mismo modo, con sol abrasador, la potencia de los movimientos de tipo Fuego disminuye! ¡Del mismo modo, con tormentas de arena fuertes, la potencia de los movimientos de tipo Fuego disminuye!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 12E0409
+Túnel Renegado\pCiudad Carmín → Base Lunar Paraíso

@@ -1,0 +1,550 @@
+#! Lote 09: Pueblo Lavanda (3.4, 8.x), Ciudad Fucsia (3.7, 11.x), Rutas 7 y 8 (3.25, 3.26)
+
+### 017F6F7
+Catacumbas de Fuji\nTodos los que vagáis perdidos, hallad por fin vuestro lugar de descanso.
+
+### 018056E
+¡URGGHHH! ¡GRRR!
+
+### 01805C6
+Yo… ¡Yo! ¡Unh, unh, unh! ¡AUUUUUU!
+
+### 018062C
+Rrrggrhhh… ¡Yip!
+
+### 0180948
+Así que no te queda adónde ir, ¿eh?\pPuedes unirte a nuestro ritual. Enseño a quienes no tienen nada a sacar algo de la nada. ¡El arte del Sustituto! Permite a tus bestias ganar un poco más de tiempo.\p¿Quieres aprenderlo?
+
+### 0180A32
+Vuelve con nosotros cuando quieras.
+
+### 018414D
+cof, cof…
+
+### 018421B
+Grrrr… ¡PUF!
+
+### 018427A
+Gruurghhhlll…
+
+### 01842B3
+Uh uh…\pRrrrrr…
+
+### 01843A6
+Guh…
+
+### 01843D2
+Tú… maldición…\pMaleficio de sangre.
+
+### 01844D6
+¡Qué codicia! ¡Codicia y maldad!
+
+### 01844FD
+Los ricos como tú me dais asco. Te da pánico ser como yo. ¿De qué tienes miedo? ¿¡DE QUÉ TIENES MIEDO!?
+
+### 01845D0
+Maldita sea…
+
+### 01845F2
+Me acordaré de tu cara.
+
+### 01846FC
+¡Maldita sea! ¿Qué te pasa?
+
+### 019816B
+¡Adelante, bestia mía! ¡Adelante! ¡Usa tu Danza Llama! ¡Aumenta tu poder! ¡MATA!
+
+### 019822A
+¡No me distraigas! Mi bestia va a traerme riquezas. ¡Está invicta!
+
+### 0198285
+Lo haré. Saldré fuera. Lo haré. No tendré miedo. Lo haré. Comeré. Lo haré. Viviré.
+
+### 01C1793
+¡Nyeje! ¿Adónde vas, peque?
+
+### 01C17CD
+Uf… uf… Urgghhhh…
+
+### 01C17F1
+Voy a necesitar lo que llevas encima.
+
+### 01C1834
+¡¡¡GRRRRRRRR!!!
+
+### 01C1873
+¡¡AUUGHHHH!! ¡¡¡Tú!!!
+
+### 01C18AA
+Uejeje… No tienes muchas luces, ¿eh?
+
+### 01C18DC
+Rezamos… ¡MATA!
+
+### 01C1955
+¡Llevas la ropa demasiado limpia! ¡Necesito tu dinero más que tú!
+
+### 01C19BC
+¡Cómo te atreves a interrumpir este ritual!
+
+### 01C19E5
+Vas sin cuidado. Eres un blanco fácil.
+
+### 081DB40
+Kangaskhan: ¡Kanga-kaa!
+
+### 081DBC0
+Kang…
+
+### 081DC40
+Kangaskhan: ¡Kanga! ¡Kangaskhan!
+
+### 081DD40
+¡Auuughhh! ¡AUUGH!
+
+### 081DDC0
+Urrhh…
+
+### 081DE40
+Myehh. Raaagaahh.
+
+### 09E3509
+TÚNEL ROCA\nENTRADA OESTE
+
+### 09E3698
+Pista de Entrenador 427:\p¡El Túnel Roca es un moderno centro de transporte e interacción social!\p¡Luces de cueva de última generación iluminan tus pasos mientras conoces a gente de todo el mundo en nuestro sistema de vagonetas de alta velocidad! ¡No hacen falta MO!\p¡Compra hoy tu pase de transporte del Túnel Roca!
+
+### 09E3800
+Tsk… Cuídate las espaldas.
+
+### 09E3880
+Hasta al Campeón de la Liga se le puede abrir en canal. En este mundo nunca estás a salvo.
+
+### 09E3A6D
+Una presencia poderosa te impide avanzar y te deja clavado en el sitio.\pPor mucho que te esfuerces, lo único que puedes hacer es retroceder.
+
+### 09E3B40
+¡Maldita sea! ¡Te echo un maleficio de sangre!
+
+### 09E3C80
+Ecs, tienes más cabeza de lo que pensaba…
+
+### 09E3D00
+La vida de un carroñero no es fácil. No es nada fácil…
+
+### 09E3D80
+¿Pero qué…? ¡Tienes aguante!
+
+### 09E3E00
+¡Harías un papel estupendo en la Policía de Azafrán! Piénsatelo.
+
+### 09E3EC0
+¡¡¡ARRGHHH!!!
+
+### 09E4240
+Me voy a traer la pistola por si te vuelvo a ver.
+
+### 09E49E4
+Eeey… ¿Compras o vendes?
+
+### 09E4A12
+Vuelve a verme pronto, ¿vale, {B01}?
+
+### 09E4AC0
+Guh… El aire está tan cargado… Casi no puedo respirar.
+
+### 0ACAA6D r
+¿Eres…?\pNo, tú no eres uno de los nuestros. No podemos dejarte entrar.
+
+### 0ACAAAD r
+Ah… una espora de vigilancia. Puedes entrar.
+
+### 0ADA4C0
+¡Alto! ¡Las manos donde pueda verlas!
+
+### 0B04F08
+Vuelve a verme pronto, ¿vale, {B01}?
+
+### 0B05049
+Hay un cartel colgado de este mostrador. “COMPRAVENTA\l←\pTASACIONES\n→”
+
+### 0B050C9
+¡DAME, DAME, DAME! ¡COME, COME, COME!
+
+### 0B05149
+Uhn, uhn… Cola.
+
+### 0B051C9
+¡¡¡GRAAAAAUUUUU!!!
+
+### 0B05249
+Urg, unf… COLA. COLA.
+
+### 0B05449
+¡URGHGHH! ¡YO!
+
+### 0B054E7
+Hay una especie de cosa con forma de huevo bajo el cristal…
+
+### 0B0551E
+¡EH! ¡NO TOQUES ESO!
+
+### 0B2DB40
+Gimnasio Pokémon de Ciudad Fucsia\nLíder: Yamato\l¡El titán adolescente tóxico!
+
+### 0B2E18C
+Urghh… Tú… matar.
+
+### 0B2E200
+¿Cuál de tus bestias aprenderá Sustituto?
+
+### 0B2E300
+Tus bestias son tanto herramientas como aliadas. Aprovecha su lealtad.
+
+### 0B34FD9
+Un altar con una sola vela encendida.
+
+### 0B34FFE
+En el centro del altar hay enmarcada la foto de un hombre.
+
+### 0B35049
+En la pared cuelga la foto de una madre y un padre abrazados, de pie detrás de sus hijos, un niño y una niña.
+
+### 0B35536
+Tú eres…\pAyúdame. Por favor, ayúdame. Mi hijo está solo, se escapó a la Zona Safari, tenía tanta hambre y no tenemos nada que comer.\pHace días que no lo veo, por favor. Tienes que ayudarme. Se llama Dezo; seguramente se llevó a su Shroomick. Por favor, encuéntralo y dile que vuelva a casa sano y salvo. Por favor…\pTe lo suplico, por favor. Necesito ayuda. No puedo ofrecerte una recompensa, pero… por favor, busca en tu corazón las ganas de ayudarme.\pNo tengo nada más en este mundo. Dezo es lo único que me queda.
+
+### 0B4120E
+Dreadigon: Dreeee… ¡DRED!
+
+### 0B4128E
+Marowak: ¡MAR! ¡MARRO!
+
+### 0B41300
+¿Has venido a domar a tus bestias? Aquí es donde vienen nuestros ciudadanos a entrenar para defenderse de los horrores del mundo exterior y valerse por sí mismos.\pDebes de haberte perdido, o quizá nunca tuviste un hogar. No importa, puedes observar.
+
+### 0B4148B
+Bestia mía, tienes que escucharme. Somos aliados, pero yo soy tu amo. Oigo cómo te ruge el estómago, pero tú y yo somos más fuertes juntos que por separado.\pSi luchamos y matamos, comeremos.
+
+### 0B41590
+Jiangfoo: Ji…
+
+### 0B41749
+Uh uh… Hambreee…
+
+### 0B42409
+¿Buscas algo?
+
+### 0B42428
+…\p¿El Gimnasio? Mira a tu alrededor.\pLo que pudo haber aquí desapareció hace mucho. No eres de aquí, así que te lo explicaré:\pMientras estés aquí, tendrás que luchar. Luchas y matas.\pCuando matas, coges. Después de coger, vendes.\pVende lo que tengas al mercader y quizá puedas comprar algo de comer esta noche.\pA menudo te dormirás con hambre, pero de esperanza no se vive. Cuando sientes esa hambre…\pTus pensamientos empiezan a desvanecerse.\pEso es todo. Ahora vete. Lucha.
+
+### 0B42607
+Pues vete.
+
+### 0B42610
+No hay nada más que decir.
+
+### 0B4264F
+¿Qué? …Jejeje.\pPresa fácil.
+
+### 0B426F7
+H-hola. Mmm…\p…\pToma, llévate esto. Siempre hay que ir preparado.
+
+### 0B42737
+Afila tus garras y mantente alerta, con los ojos bien abiertos. Cuídate, crí{o}.
+
+### 0B42780
+H-hola, crí{o}. Me alegro de verte con vida y b-bien.\pAntiguamente, entrenadores como tú venían de todas partes para ver la Zona Safari, ir al zoo y desafiar a los Gimnasios por sus medallas. Me enamoré de Ciudad Fucsia y me mudé aquí hace mucho tiempo. Tanta belleza en estas montañas, tanta vida entre los árboles.\pAlgunos días todavía puedo verla.
+
+### 0B42F8C
+Tsk, muérete.
+
+### 0B79745
+¡Tú! Por favor, ¿viene Dezo de camino a casa? ¿Está bien? Por favor…
+
+### 0B7977F
+{B01} le entregó a la mujer la tarjeta de entrenador de Dezo.
+
+### 0BCF789 r
+Oh. Bienvenid{o} a nuestras tierras fértiles. Disfruta.
+
+### 0BCF809 r
+Te ayudaré a crecer. Esporas hoy, tallos mañana. Enriquece e ilumina el futuro.
+
+### 0BCF880 r
+Hola. ¿Cómo has atravesado los túneles?
+
+### 0BCF900 r
+Ah… Ya veo. Habrá que alertar a la colmena.
+
+### 0BCF980 r
+No me fío de ti. Pero la mente colmena dice que no sigamos persiguiéndote.
+
+### 0BCFA80 r
+La humedad de aquí… Es óptima.
+
+### 0BCFB00 r
+Tomaré el sol y dejaré que mis esporas crezcan.
+
+### 0BCFB80 r
+Ah… Mis neuronas están extasiadas. Estoy eufórico.
+
+### 0BCFC80 r
+¿Aspiras a ser un zángano?
+
+### 0BCFD00 r
+No… Tú no eres uno de los nuestros… ¿Qué tramas?
+
+### 0BCFD80 r
+He alertado a la colmena.
+
+### 0BCFF80
+¡Kejijiji! ¡Esporas a nuestro alrededor, qué olor desprende el barro!\p¡Únete a mí y luchemos! ¡Un combatito un buen rato!
+
+### 0BD0000
+¡Kejijiji!
+
+### 0BD0080
+Pequeñ{o} crí{o}, pequeñ{o} crí{o}, ¿tienes ganas de luchar?\p¡Al ritmo que llevas, esta noche no vas a descansar!
+
+### 0BD0180
+¡Juejeje! ¿Vienes a buscar setas, crí{o}? ¿O quizá te apetece un combate?
+
+### 0BD0200
+¡Juejeje! ¡Parece que he encontrado un rival con potencial!
+
+### 0BD04C9 r
+¿Vienes a que te asimilen? Bien por ti. Al principio due     le, pero aprendes a disfrutarlo.
+
+### 0BD0549
+¡Jejejeje! ¡Setas y hierbas cosecho con alegría! ¡Pociones y hechizos, mejunjes para mí!
+
+### 0BD0749 r
+Mira. Mira qué bien crecen. Estas tierras son fértiles y generosas para los nuestros.
+
+### 0BD07C0 r
+Otro más. ¿Por qué entras en el territorio de la colmena?
+
+### 0BD0840
+Ueeeghhhh…
+
+### 0BD08C0 r
+¿Crees que nuestro alcance se limita a Kanto? Incluso ahora, crece. Jejeje…
+
+### 0BD09C0
+Quédate ahí y te leeré la fortuna. Hrrrr…\pHNNNGGGGGGGG…\p¡UAAAAAAAAAAAAAAAAHHHHHHHHHHHH!\pEn tu futuro veo… Te enfrentarás a un gran desafío y lo superarás. Ganarás, pero a un alto precio.
+
+### 0BD0B00
+Hola, crí{o}. Has desafiado al pantano y a los túneles, ¿eh?\pAdelante está el centro principal del culto de las setas. ¡Pero, al otro lado de la espesura, te espera una medalla!\pMucha suerte.
+
+### 0BD0CAC
+¡Jejejeje! ¡Lo has conseguido! ¡Otra medalla para tu colección!\pSin embargo… Para encontrar tu próxima medalla, seguramente tendrás que adentrarte más en los túneles de las setas.\pMucha suerte.
+
+### 0BD0D59
+¡Jejejeje! ¡Lo has conseguido! ¡Has desafiado a los túneles y has descubierto una nueva Fuerza!\pAhora… Tendrás que volver a los túneles. Ve hacia el lejano este y siéntate en el trono de arena.\pMucha suerte.
+
+### 0BD0E18
+¡Jejejeje! ¡Lo has conseguido! ¡Las medallas Roca, Descarga, Plaga y ahora Hambruna cuelgan de tu cinturón! ¡Buen trabajo!\pAhora… Entra en este edificio, justo a mi derecha. ¡Pero ten cuidado! Azafrán no es el paraíso que presume ser.\pMucha suerte.
+
+### 0BD0F03
+¡Jejejeje! ¡Lo has conseguido! Has sobrevivido, pero te has hecho toda una fama, jejeje…\pAhora… ¡El poder de romper barreras está en tus manos! El sur es el único camino. ¡Pero te encuentras una bifurcación! ¿Rezarás para superar los misterios de la Senda Amatista, al oeste? ¿O recorrerás el camino del este, aferrándote a tu vida?\pMucha suerte.
+
+### 0BD106C
+¡Jejejeje! ¡Lo has conseguido! Has sobrevivido a una tierra sin ley ni rastro de esperanza y has ganado la medalla del Caos.\pAhora… ¡Puedes surcar los mares! Quedan dos medallas. ¿Te adentrarás en las cuevas oceánicas del sur, de donde nadie ha vuelto con vida? ¿O navegarás hacia el norte y buscarás entre los restos de lo que fue?\pMucha suerte.
+
+### 0BD11B5
+¡Jejejeje! ¡Lo has conseguido! ¡Todas las máquinas ocultas son tuyas! Pero una, dos, tres, cuatro… ¡Solo siete medallas! ¿No te falta una?\pAhora… Vuelve al Gimnasio abandonado de Ciudad Verde. Algo te espera allí.\pMucha suerte.
+
+### 0BD1296
+¡Jejejeje! Así que el alumno ha superado al maestro, ¿eh?\pAhora… Solo te queda un lugar al que ir, “señor del terror”. Lavanda, donde hasta los espíritus hallan el descanso eterno.\pMucha suerte.
+
+### 0BD133F
+¡Jejejeje! ¡Te has ganado tu lugar! 8 medallas: ¡es hora de ir a la Calle Victoria!\pAhora… Cuando llegues allí, no tendrás otra opción. Cumple tu objetivo de tener más fuerza que nadie, de derribar a los poderes establecidos… o muere.\pMucha suerte.
+
+### 0BD1437
+¡Jejejeje! ¡Lo has conseguido! Pero el cambio no llega de la noche a la mañana. Has plantado una semilla y ahora tienes que cuidarla. Riégala y aliméntala con mimo.\pEl cambio de verdad… Eres más que capaz de lograrlo.\pMucha suerte.
+
+### 0BD1580 r
+TÚNEL DE LA HERMANDAD\nACCESO:\lCARMÍN - GRAN CELIDON
+
+### 0C7E5C0 r
+No pasa nada. El chico se hará uno con la colmena. Su madre estará en paz.
+
+### 0C7E680 r
+Wueehheheh… Tu espora de vigilancia… Cada día crece. Al final serás como nosotros… un zángano al servicio de un propósito mayor…
+
+### 0C7E780 r
+El Túnel Roca está lleno de salvajes y carroñeros. Por ahora, no es adecuado para cultivar crecimiento.
+
+### 0C7E840
+Señora: Hola.\pQué corderit{o} más dulce eres… Ahí fuera no es seguro. No podrás conseguir todas las medallas si no duermes bien. Jejejejeje…\pDeja que te arrope, corderit{o}. Descansa y deja que alivie tus preocupaciones.
+
+### 0C7E9DC
+Señora: Ven, corderito. Descansa… Descansa y despierta de nuevo…
+
+### 0C7EA11
+Señora: Eso es… Vacía tu mente. Jejeje…
+
+### 0C7EA3B
+Señora: Vuelve si te pierdes, corderito…\pTe esperan grandes cosas, recuérdalo. Jejejeje…
+
+### 0C8AFC0 r
+ESTE TÚNEL PERTENECE A LA HERMANDAD DE LOS BICHOS. SOLO LOS ZÁNGANOS TIENEN PERMITIDO ENTRAR.
+
+### 0F32778
+sientes cómo tu cuerpo y tu alma se\ns e p a r a n . . .
+
+### 0F8B8B7
+???: Hola.\p¿Te has perdido, corderito?
+
+### 0F8B8DE
+???: Pero te he encontrado. Jejejeje…\p¿Tienes miedo?
+
+### 0F8B90F
+???: Oooh, jejeje…\pNo te preocupes, corderito. Te ayudaré a volver a casa. Sígueme.\pJejejejeje…
+
+### 0F8B976
+???: Harás grandes cosas por este mundo, jejejeje…\pEscucha su llamada…
+
+### 0F8BAC0
+???: Harás grandes cosas por este mundo, jejejeje…\pEscucha su llamada…\pDespierta, corderit{o}. Despierta…
+
+### 0FDF102
+Me está sonando el teléfono. Es Summer.
+
+### 0FDF124
+Summer: ¿Hola? ¿{B01}?\pPerdona que te moleste, es que he vuelto a tener esa pesadilla… ¡Sí, la misma!\pSolo quería oír tu voz… Siempre me haces sentir mejor después de mis pesadillas…\p¿Tienes prisa?
+
+### 0FDF1EB
+Summer: ¡Ji, ji, no te preocupes! Seré breve.\pEs la misma pesadilla de siempre… Aunque esta vez había muchísimo ruido. Muchos gritos y golpes.\p¡Y luego se quedó todo muy en silencio! Y yo no podía hacer nada… Alguien muy alto se me puso delante y empezó a hablarme. Me dijo: “¡Elige!”\pClavó un cuchillo en el suelo y puso una Poké Ball muy lejos de él.\pLuego se sentó y se quedó esperándome. Cuando empecé a acercarme, me desperté, ¡y entonces te llamé!\p¡Caramba, qué miedo daba!
+
+### 0FDF3E1
+Summer: ¡Ji, ji, bueno, gracias por escucharme, {B01}! ¡Ya me siento mucho mejor! ¡Venga, te dejo con lo tuyo!\p¡No lo olvides! ¡La próxima vez que nos veamos, te voy a ganar seguro!\p¡Chao, pescao!
+
+### 0FDF498
+Summer: ¡Bueno, no pasa nada! ¡Seguro que vas a toda prisa a por tu próxima medalla!\p¡Ji, ji! ¡Solo con oírte decir que tienes prisa ya me siento mucho mejor!\pGracias, {B01}…\p¡Venga, te dejo con lo tuyo!\p¡No lo olvides! ¡La próxima vez que nos veamos, te voy a ganar seguro!\p¡Chao, pescao!
+
+### 101C740
+A este tipo lo he visto antes.\pEs una foto de Koga, antiguo Campeón de la Liga Pokémon.
+
+### 12C7A06
+Hola.\p¿Compras o vendes?
+
+### 12C7A20
+Oh, {B01}. Artemis me lo ha contado.\pVen, el comprador ya está aquí. Jejeje…
+
+### 12C964D
+{B01} se queda de pie junto a la ventana.\p…\p…\p…\p…
+
+### 12C9674
+Hexagon: Más te vale no haberme hecho esperar tanto para n…
+
+### 12C96B4
+Hexagon: …Ya veo.\p…\p…\p…así que…
+
+### 12C96CE
+¿Darle el Gen Misterioso al Dr. Hexagon?
+
+### 12C96F4
+{B01} aplastó el Gen Misterioso.
+
+### 12C9711
+Hexagon: Eh… Vale. Bueno…\p…\p…
+
+### 12C9733
+El comprador misterioso se marchó.
+
+### 12C974B
+{B01} le entregó al Dr. Hexagon el Gen Misterioso.
+
+### 12C9773
+Hexagon: Bien…\p…¿gracias…?\pEh…\pBueno… Supongo que puedes darle esto a… Edwin.\p…
+
+### 12C97C2
+{B01} recibió un Huevo extraño del Dr. Hexagon.
+
+### 12C97E9
+Hexagon: …\p…muy bien entonces.\p…
+
+### 12CDCAB
+Pista de Entrenador 622:\pvale, {B01}. intentaré que se me ocurra algo nuevo. aquí tienes el dibujo de un coche cocinado hasta quedar doradito y crujiente, pero es un dibujo completamente distinto al de antes.\pbuur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur buur\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 131528C
+Oh, crí{o}…\p¿Por qué estás aquí?\pTienes que irte. Te queda tanta vida por delante…
+
+### 1315389
+Esto antes era un sitio bonito.\pNuestros Líderes de Gimnasio lo mantenían todo en orden, a pesar de su afición por el veneno.\pTeníamos un zoo…\pAquí queríamos a los Pokémon, y ellos nos querían a nosotros…\pQué triste cómo cambian las cosas.
+
+### 14EC700
+Casa de los Recuerdos\n“Que las almas de los Pokémon descansen en paz”
+
+### 14F07CC
+Un muñeco muy mono de un Clefairy.
+
+### 14F0949
+Un póster chulo de una mascota muy comercial. Me suena.
+
+### 14F09C9
+Un muñeco de peluche de una especie de bestia reptiliana.
+
+### 14F0A49
+¡Es una Nintendo 64!\p¿Qué juego tiene puesto?\p…\p¿Quest 64? Qué bien.
+
+### 14F0AC9
+Un muñeco de peluche gigante de una especie de mole glotona.
+
+### 14F0BD5
+Niño: ¡No, maldita sea!\pArgh… Siempre se me olvida el código de esta parte.\pSé que para el nivel 1 es solo ↑ ↑ ↑…\pPero no me acuerdo de cuál era el del nivel 4… ¿quizá era\l↑ ↑\l← ← ← ←?\pTengo que mirar mi guía.
+
+### 14F0D00
+“Todos los espíritus errantes que busquen guía…\pEstad tranquilos. Procurad mantenerlo todo en orden. Si todavía no deseáis descansar, sed como os plazca…\pAquí estáis a salvo del desprecio de los vivos.”
+
+### 14F154C
+¿Me equivoqué?\pEcho de menos a mi papá… Me pregunto qué estará haciendo…
+
+### 14F15CC
+Estoy un poco inquieta…\pNo creo que esté lista para irme. Había tantas cosas que quería hacer…\p¿De verdad tiene que acabarse?\pQuería enamorarme. Quería casarme.\pNo es justo.\pNo es justo…
+
+### 14F1710
+Ah, crí{o}…\pEstarás bien. Siento…\pQue todavía te queda más por ver.\pQuizá… lo mejor ahora sea que te tomes un tiempo…\pSiéntate…\prespira…\py recuerda todo lo que has recorrido para llegar hasta aquí.\precuerda, crí{o}…\p…
+
+### 14F1840
+Supongo que esto tenía que pasar.\pPensaba que me quedaría en paz al morir.\pPero aún tengo mucho en lo que pensar. He malgastado mi juventud… He malgastado mi vejez…\pY ahora solo puedo pensar en lo que podría haber sido.\pMmm…\p…
+
+### 14F198C
+Qué luz hay fuera…
+
+### 14F1A0C
+¡Esto no puede estar pasando, ahora no! Todavía no…\pMi familia me necesita. ¿Qué van a hacer sin mí…?\pAy, madre…
+
+### 14F1E91
+Oh, crí{o}…\p¿Te encuentras bien?\pTómate todo el tiempo que necesites. Aquí siempre tendrás un sitio.
+
+### 14F1F09
+En la tele echan algo…\p…\pespera…\p…quizá solo me lo he imaginado.\pSolo hay interferencias.
+
+### 14F2089
+En la pared cuelga una foto.\pNo sale nada.
+
+### 14F2730
+Ojalá pudieras abrazarme una última vez…\py decirme que me quieres…\pOjalá hubiera podido oír qué nombre le pusiste.\pSiempre seré tuya. Para siempre…
+
+### 14F27C1
+Ojalá pudieras abrazarme una última vez…\py decirme que me quieres…\pOjalá hubiera podido oír qué nombre le pusiste.\pSiempre seré tuya. Para siempre…
+
+### 14F28E2
+¿Papá?
+
+### 14F28E9
+¿Mamá?
+
+### 14F294B
+Todavía no lo he superado.\pLa guerra fue hace más de 20 años, pero sigo sin superarlo…\p¡Yo no debería estar aquí! No soy un doblacucharas, soy un hombre…\p¡Raaargghhh! Los atormentaré a todos… Por toda la eternidad, y luego otra vez…
+
+### 14F2A8B
+Me pregunto si lloverá.
+
+### 1595909
+Con el odio en mi sangre, la derramo en nombre del odio.\p¡Con ODIO en el corazón me desgarro y me rajo la carne con este, mi cuchillo…! El dolor es pasajero, pero para ti será eterno…\p¡CON ODIO TE IMPONGO ESTA TRANSGRESIÓN!\p¡Sobre TU CARNE pongo un maleficio eterno!
+
+### 1595A21
+¡Tu avance solo traerá la ruina!\p¡Con esto, mi maleficio de ODIO sobre ti y tu sangre de la mía…!\p¡Sufre, SUFRE!

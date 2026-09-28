@@ -1,0 +1,646 @@
+#! Lote 06: Ciudad Azafrán (3.10) e interiores 14.0-14.20 (comisaría, prisión, museo, Snack Sneasel)
+
+### 01813AA
+PROHIBIDO SALIR DE AZAFRÁN SIN PRESENTAR UN PASE DE POLICÍA.\pSE PROCESARÁ A LOS INFRACTORES.
+
+### 0181452
+¡Únete a la Policía de Azafrán! ¡Mantén Kanto a salvo de fantasmas y degenerados!
+
+### 019AB9B
+¿Pero qué demonios?\p¡¡¡Tú deberías estar en la cárcel!!!
+
+### 019B24C
+¡Hazte más fuerte y quizá llegues a ser tan fuerte como Bruno!
+
+### 019B29D
+¡Deberías conocer al Gran Bruno III! ¡Le encantan los luchadores fuertes!
+
+### 019B2FD
+¡Qué fuerza!
+
+### 019B30F
+Tienes auténtica pegada en las manos… ¿por qué no la usas contra los fantasmas?
+
+### 019B396
+¡Ay! Así que era eso…
+
+### 019B44E
+¿Quieres a Hauntolee, el de las patadas duras?
+
+### 019B473
+¡{B01} recibió a {B02} de manos de Koichi!
+
+### 019B49E
+¿Quieres a Hauntochan, el de los puñetazos de pistón?
+
+### 019BED5
+Voy a morir aquí dentro.
+
+### 019BFF1
+Trabajo para BrunoCorp.\p¡Estamos haciendo avances enormes en tecnología antifantasmas!
+
+### 0947040
+Museo Histórico del Tipo Lucha
+
+### 09470C0
+Eh, ¿quién te ha dejado entrar? ¿Vienes a alistarte? La jefatura de policía está al otro lado de la ciudad, junto a la puerta de seguridad hacia Celidon, al oeste.
+
+### 099C3C0
+Eh, peque, ¿vienes a unirte a los orgullosos, a los pocos, a la Policía de Azafrán?\p¿No? ¡Pues lárgate de aquí! ¿Tienes pase de policía?
+
+### 099C8C9
+¡Piérdete!
+
+### 099C940
+¡Nyajajaja! ¡Quita los dedos de los barrotes antes de que te los vuelva a aplastar!
+
+### 099CA00
+¡Nyajajajaja! Eh, ¿no eras tú quien estaba ganando todas esas medallas y tal?\p… Nah, tienes demasiada altura. Y demasiada fealdad. Y das un poco de miedo. Qué raro.
+
+### 099CB00
+¿Buscas un patinete?\pEspera, ¿eres a quien atracó Zigzag? ¡Jajajajaja! Le va a encantar que hayas venido hasta aquí. Joder, ojalá pudiera verle la cara, ¡JA!\pCreo que hoy patrulla por los callejones. A lo mejor lo encuentras allí.
+
+### 099CD40
+Sr. Psíquico: Puedo oír tus pensamientos.\pNo digas nada y toma esto.
+
+### 099CDC0
+Sr. Psíquico: Hubo un tiempo en que los psíquicos formaban parte de la sociedad. Incluso aquí, en Azafrán, nos aceptaban. Pero eso fue hace mucho…\pDudo que alguien lo recuerde.
+
+### 099CEC9
+Espera, tú eres…\pNo, espera, tú no eres nadie. Olvídalo.
+
+### 099CF5B
+Estoy fuera de servicio, no me toques los cojones.
+
+### 099CFC9
+¿Cómo has conseguido siquiera entrar en Azafrán? ¿Estás de excursión con el cole o algo?
+
+### 099D049
+¿Un{a} crí{o}? ¿Qué quieres, caramelos? ¿Intentas conocer a Bruno o algo así?\pNo se reúne con críos tontos.
+
+### 099D1CB
+¡Eh, viejo doblacucharas!\p¡Haz otra vez esos trucos psíquicos! ¡Venga, hazlos!\pTotal, te queda poco, ¿qué tienes que esconder?
+
+### 099D2C0
+¿Eh?\p¿Quieres ayuda para buscar un patinete? ¿Te acaba de atracar Zigzag?\pCreo que está en la otra comisaría.
+
+### 099D380
+Suspiro… Qué hambre tengo…\pEn Azafrán todo es cada vez más caro… Pero bueno, supongo que está bien, al menos estamos a salvo de los fantasmas.
+
+### 099D480
+Ay, madre…\pDescansa aquí, pero tienes que irte de esta ciudad. No es un buen sitio para un crío.
+
+### 099D540
+Los precios están bastante altos, pero tengo un techo bajo el que vivir. Bruno es un gran líder. Aunque los tiempos son duros, mantiene a todos los fantasmas fuera de Azafrán.
+
+### 099D640
+Sede de BrunoCorp Enterprises\nEdificio de oficinas
+
+### 09AA989
+¿Me dejas dormir, por favor?
+
+### 09AAA09
+Zzz…
+
+### 09AAA8B
+Suspiro…\pParece que va a llover.\p…
+
+### 09AAB09
+¿Entrenas Pokémon?\p¿Qué tal es?
+
+### 09AAD00
+A veces trabajo en la tienda, pero casi no me pagan nada. Quiero trabajar para BrunoCorp, pero me piden demasiadas cosas.\pNo puedo salir de aquí.
+
+### 09AAF09
+La tele no funciona.
+
+### 09AB789
+Lo siento, no tengo suficiente para que comas con nosotros.\pSi tienes mucha hambre, puedes quedarte parte de mi ración. Lo siento.
+
+### 09AB800
+Creo que igual me ascienden en la cadena de montaje de BrunoCorp.\pEso debería quitarte algo de presión.
+
+### 09AB8CB
+¿Cuánto tiempo más vas a tener que trabajar?\pMás estaría bien, pero… alguien tiene que cuidar de la casa mientras estoy fuera.
+
+### 09ABAC9
+En la tele echan algo.\pEs una de esas pelis aburridas de abogados que le gustan a papá.
+
+### 09ABB40
+¡Bu! ¿Te he asustado?\p¡Estoy practicando para cuando pueda ir a pedir caramelos en Halloween!\p¡Papá dice que, de donde él viene, a los niños les dan caramelos por llevar disfraces de miedo!
+
+### 09AC249
+¿Vienes de Pueblo Paleta?\pDaría lo que fuera por estar en tu lugar.
+
+### 09AC2C9
+Me encanta este programa.
+
+### 09AC3C9
+Dicen que no estoy en condiciones de trabajar. Me siento un lastre.\pNi siquiera puedo pagar los zapatos que llevo…
+
+### 09AC549
+La tele no se enciende.
+
+### 09C1CC9
+¿Sabes dónde estás ahora mismo?
+
+### 09C1D49
+¿Tienes ganas de morir o qué, peque?
+
+### 09C3F59
+¡Hostia!\p¿De verdad has venido? ¡Hay que estar mal de la cabeza! Jajaja, mirad esto, tíos, ¡le voy a dar una paliza que no se va a tener en pie!
+
+### 09C3FC8
+¿Pero qué demonios? ¡Est{e} crí{o} es una puta pesadilla!
+
+### 09C3FF5
+Eeeh… eeeh…
+
+### 09C4006
+Takeshi: … Zigzag.
+
+### 09C401F
+Zigzag: ¡S-sí, jefe!
+
+### 09C4034
+Takeshi: Tú. Crí{o}. Ven aquí.
+
+### 09C4101
+Takeshi: Acabas de agredir a un agente. La escoria criminal como tú me da asco.\p…\pQuedas detenid{o}. ¡Al trullo!
+
+### 09C41DE
+¡Jajaja!\p¡Zigzag, estás loco! ¿Un patinete? ¡Con eso {el} crí{o} se va a romper un tobillo! ¡Jajajajaja!
+
+### 09C4234
+¿Pero qué demonios? ¿Qué haces tú aquí?
+
+### 09C4363
+Je… Has cabreado al jefe.
+
+### 09C4E00
+¡Tú no vas a ninguna parte!
+
+### 09C4E80
+¡Eh, eh, eh! ¿¡Qué!? ¡FUGA! ¡HAY UNA FUGA EN LA COMISARÍA NORTE DE AZAFRÁN!\p¡REPITO, DOS PRESOS SE HAN FUGADO DE LA COMISARÍA NORTE DE AZAFRÁN!
+
+### 09C5040
+¡Tú no vas a ninguna parte!
+
+### 09C50C0
+¡SE ESCAPAN LOS PRESOS! ¡HAY UNA FUGA EN LA COMISARÍA NORTE DE AZAFRÁN!
+
+### 09C5140
+Tienes aguante, pero pronto desearás estar muert{o}.\pNadie se la juega a la Policía de Azafrán y se va de rositas.
+
+### 09C5240
+¿Todavía no te has cansad{o}?
+
+### 09C52C0
+Puede que te creas que tienes mucha cabeza, pero las fugas pasan continuamente.
+
+### 09C5340
+¡Disfruta mientras puedas, peque! ¡No tienes adónde huir!
+
+### 09C5465
+???: ¿Te toca compartir celda conmigo?\p…\pTu lado es ese de ahí. Ya casi apagan las luces.\p…
+
+### 09CCD09
+¿Buscas algo resistente? ¿Qué tal un Nosegast? ¡Juajuajua!\p¿De qué demonios hablas, crí{o}? Calla y cómete tu bazofia.
+
+### 09CCFB8
+… ¿qué? Si te doy esto, ¿me dejarás en paz de una puta vez?
+
+### 09CD015
+¡Grrrrr!\p¡MI BAZOFIA!
+
+### 09CD08B
+Lárgate, crí{o}. Estoy intentando comerme mi bazofia.
+
+### 09CD289
+Ñamñamñamñam…\p¿Quieres bazofia?
+
+### 09CD309
+¿Eh? ¿De qué hablas? Yo no sé nada de nada, tío. Ve a molestar a otro.
+
+### 09CD389
+Arrrggghhh…
+
+### 09CD509
+¡Coge tu bazofia y siéntate, recluso!
+
+### 09CEC49
+Aquí no hay más que bazofia y vómito.
+
+### 09CEF59
+Theodora: ¿Cuál era la primera regla?
+
+### 09CEF88
+Theodora: Bien.\p¿Qué tal has dormido?\p…\pSí, no es lo ideal. La buena noticia es que, si haces LO QUE YO DIGA…\l…\p…esta noche tú y yo podremos dormir en un sitio un poco menos horrible. Ahora…\pDentro de un rato es el desayuno. Vas a entrar e ir directamente a la derecha. Yo estaré en la última mesa. Desde allí podré contarte el plan. Con tanto ruido, los guardias no nos oyen tan bien.\p¿Entendid{o}?\p…\pBien. No me la juegues, {B01}. Tienes cara de malas pulgas, pero se nota que no eres mala gente.
+
+### 09CF175
+¡Arriba, presidiarios! ¡Es la hora de la bazofia matutina! ¡Con los ojos bien abiertos y buena cara, o no hay bazofia para nadie!
+
+### 09CF1EC
+Theodora: Recuerda lo que te dije, {B01}. Tú y yo.
+
+### 09CFA40
+¿Acabas de llegar, crí{o}? No puedes ir por ahí haciendo preguntas. Siéntate y calla antes de que te obligue a limpiar mi celda.
+
+### 09CFC4D
+En este cubo de basura hay un montón de bazofia asquerosa y vómito.\p…\pTambién hay otra cosa aquí dentro.
+
+### 09CFCAA
+No creo que Theodora quiera algo así…\pAdemás, este cordel está asqueroso y húmedo. Lo voy a tirar.
+
+### 09CFD1A
+Aquí dentro no hay más que bazofia.
+
+### 09CFD3C
+Pero no quiero meter la mano… Seguro que pillaría una infección por estafilococos. ¿No habrá unos guantes o un cordel por alguna parte?
+
+### 09CFE6D
+¿Qué haces, mocos{o}?\p¿Tienes algo para mí? ¿Eh? ¿Qué es esto?\p…\pMmm… A ver…\p¿Qué…?\p¡¿QUÉ?!\p¡¿UNA FIESTA DE CUMPLEAÑOS?! ¡¡¡ESTO ME PONE FURIOSO!!!
+
+### 09CFF11
+¡Muévete, reclus{o}! ¡Tengo que ser el cambio que quiero ver en el mundo! ¡Es{e} crí{o} va a aprender que la vida no es dulce!
+
+### 09CFF94
+¿Qué haces? ¿Quieres ración extra de bazofia o ración extra de palos?\p¡Vuelve a tu sitio y cómete tu bazofia, recluso!
+
+### 09D0EE5
+Theodora: Muy bien. ¿Todo listo, {B01}? Esto es lo que vas a hacer por mí.\pAcabas de llegar, así que si te ven dando vueltas no parecerás muy sospechos{o}. Yo me quedo aquí sentada vigilando.\p¿Ves a ese guardia de ahí arriba?
+
+### 09D0FCA
+Theodora: Lo único que tienes que hacer es conseguir que abandone su puesto. Otro guardia lo sustituirá dentro de unos 10 minutos.
+
+### 09D104D
+En cuanto se vaya, puedes escabullirte a la cocina.\pBusca por la cocina cualquier objeto que nos pueda ayudar a excavar lo que falta del agujero de la pared.\pCuchillos de metal, tenedores, cucharas, cualquier aparato como una batidora de mano o una licuadora. Tú tráemelos. Cuando tengamos lo que necesitamos, esconderé nuestras cosas de los guardias y nos reuniremos esta noche, cuando apaguen las luces.\p¿Lo tienes todo?
+
+### 09D11F3
+Recuerda: distrae al guardia, entra en la cocina, busca cosas útiles y resistentes y vuelve conmigo.\pAhora todo depende de ti, {B01}.
+
+### 09D12EE
+Theodora: Perfecto.\pMuy bien, {B01}. De momento ya estamos. Volvemos a vernos cuando apaguen las luces y nos largamos de este infierno.\pGracias.
+
+### 09D136F
+Theodora: ¿Todavía no has encontrado nada? Pues sigue buscando. No tenemos mucho tiempo.
+
+### 09D27AD
+Un plato recién servido de bazofia fría. Qué asco.\pAnda, ¿qué es esto? Hay algo al lado de mi pie.
+
+### 09D2800
+Un plato recién servido de bazofia fría. Qué asco.
+
+### 09D292D
+Un cubo con todo tipo de utensilios de cocina. La mayoría están oxidados y son endebles. Casi todo es hierro de baja calidad.\p…\pOh, espera un momento. Esto podría servir. Debería dárselo a Theodora.
+
+### 09D29D4
+Un cubo con un montón de chatarra y utensilios. Aquí no hay nada más que valga la pena llevarse.
+
+### 09D2AC9
+Una tira magnética de la que cuelgan varios utensilios de cocina.\pLos cuchillos no cortan. Theodora no querría esto.
+
+### 09D2BC9
+De este cubo sale un hedor insoportable.\pNi con un palo de tres metros me pondría a rebuscar aquí.
+
+### 09D2C49
+Al mirarlo de cerca, puede que haya indicios de vida emergente en este cubo.
+
+### 09D2CC9
+Un cubo con todo tipo de utensilios de cocina. La mayoría están oxidados y son endebles. Casi todo es hierro de baja calidad.
+
+### 09D2D40
+Un plato recién servido de bazofia fría. Chorrea por el borde del plato. Puaj.\pDebajo de esta parte de la mesa tampoco hay nada.
+
+### 09D3A89
+Está vacío.
+
+### 09D3B09
+Al mirarlo de cerca…\pEn este cubo solo hay basura.
+
+### 09D3C09
+Una tira magnética de la que cuelgan varios utensilios de cocina. Parece que todos son de plástico.\p…¿qué?
+
+### 09D3D09
+Alguien está a punto de zamparse un buen plato de bazofia. Tiene pinta de ser un rato miserable.
+
+### 09D3E89
+Parece una de las cubas en las que cocinan la bazofia.\pParece resistente, pero es demasiado grande para pasarla a escondidas delante de los guardias.
+
+### 09D4603
+???: Tu lado de la celda es ese de ahí.\p…\pVenga.
+
+### 09D4641
+???: En esta celda hay 3 reglas.\p1. A menos que yo lo diga, quédate en tu lado de la celda.\p2. No dejes nada en el suelo. Quítate los zapatos al volver de comer.\p3. Tú te duermes primero. Si no te gusta, podemos no dormir ninguno de los dos. Tú eliges.\p¿Qué me dices?
+
+### 09D4757
+???: Por el amor de Psyduck…\p¿Quieres ponerte difícil? Muy bien. Yo también sé ponerme difícil. Nos vamos a quedar aquí de pie. ¿Es eso lo que quieres?
+
+### 09D47DC
+???: Bien. Ahora dime cómo te llamas y por qué estás aquí.\pYo soy Theodora. A mí me cayó huida del lugar de un delito y obstrucción a la justicia.\p…\p…{B01}…\p…\p…¡¿Agresión a un agente?! Eso es una condena muy dura. Joder… ¿Sabes lo que les hacen a quienes atacan a esos matones a los que llaman agentes?\p…\pVaya, no sabes nada de nada, ¿eh? No te enteras de nada, y eso que pareces tener cabeza. Te tenía por una especie de cerebro criminal.\pTe van a trasladar de aquí, seguramente muy pronto, quizá incluso mañana, y entonces…
+
+### 09D49EC
+Theodora: {B01}… ¿Quieres escapar de aquí?
+
+### 09D4A1A
+Theodora: ¿Prefieres aceptar tu destino? Tsk, tienes cara de pena, pero no pensaba que hubieras perdido toda esperanza.\pVenga, todavía tienes que tener ganas de pelear, {B01}.
+
+### 09D4AB9
+Theodora: Genial. Yo también. Y me falta poco. Duerme un poco y hablamos a la hora de comer.
+
+### 09D4B0F
+Theodora: Regla 1.
+
+### 09D4B26
+Theodora: Regla 2. Quítate los puñeteros zapatos, que están llenos de bazofia. ¿Tu madre no te enseñó modales?\p…Perdona, es que soy muy maniática. En fin, el artilugio está terminado. Tú vigila por si vienen guardias nocturnos. Yo voy a terminar esto. No me la juegues.
+
+### 09D4C31
+Theodora: Muy bien.
+
+### 09D4C44
+Theodora: Llevo 8 años cavando este túnel. Gracias por tu ayuda, {B01}.\pConfía en mí y sigue el túnel. Tú primero.\p…\p¡Date prisa! ¡Esto no es un juego!
+
+### 09D4CE1
+Theodora: Vete antes de que te deje atrás.
+
+### 0ADB7C0
+Theodora: Esto está bien. Pero necesito algo más. ¿No tendrán ahí dentro un taladro, una batidora o algo? Vuelve a mirar por mí.
+
+### 0C62309
+“Luchar para volver a alzarse”\nBruno III, 2038\pEsta escultura histórica fue creada con esmero por Bruno III durante 10 días y noches sin dormir, en honor al Museo Histórico del Tipo Lucha.\pSegún sus propias palabras, esta escultura representa la fuerza del tipo Lucha y el indomable espíritu humano, con el que puede forjarse una nueva era que resurja de las cenizas de lo que fue.\pEsta escultura está hecha de mármol cincelado, extraído y cincelado por el propio Bruno III en honor a los valientes hombres y Pokémon de tipo Lucha que cayeron a manos de los Fantasmas.
+
+### 0F38B39
+Snacky: ¡Pero bueno, hola, pequeñ{o} picoteador{a}! ¡Soy Snacky el Sneasel! ¡Gracias por comprar en mi tienda! ¿Te gustaría hacerte una foto conmigo?\p…\p¿Hacerte una foto con la mascota?
+
+### 0F38BE6
+Ni de broma me hago una foto con esa cosa.
+
+### 0F38C1A
+Me da que a Summer le encantaría algo así. Ya puestos, se la envío a…
+
+### 0F38C73
+Snacky: ¡Diiiii Snacky!
+
+### 0F38C8B
+Enviaste la foto a Summer.\p…\p…\pSummer te ha respondido: “¡¡¡¡SNACKYYYYYYYYYYYYY!!!! ¡Qué suerte! Cuando fui yo no estaba.”
+
+### 0F38CFA
+No pienso interactuar con esa cosa. No puedo demostrarlo, pero sé que Snacky es un peón en el juego del mal de este mundo…
+
+### 101B340
+Sí, y va {el} crí{o} y me dice: “Oh, sí, señor Zigzag, por favor, llévese mi patinete, ¡que me voy a mear encima!”\p¡JA! Tendrías que haberlo visto, yo…
+
+### 101C4C9
+En la tele echan un vídeo resumen de detenciones violentas.\pUn tipo llora mientras le empujan la cabeza contra una pared.
+
+### 108C6C0
+“El Poder Superior”\nBruno I\pUn gran héroe, luchador y modelo a seguir. ¡El primer hombre en plantar cara a los fantasmas!\pA Bruno I le sobrevive su tremendo y apuesto nieto, ¡Bruno III!
+
+### 108CA40
+“Puños Rugientes”\nAníbal\pAníbal era un aliado cercano y amigo de Bruno I, Líder de Gimnasio de Ciudad Orquídea en la región de Johto y maestro del tipo Lucha.\pParticipó de cerca en los primeros avances de las guerras psíquicas, y usó sus puños como cascadas para silenciar y someter a las traicioneras y siniestras fuerzas de los psíquicos y sus aliados.
+
+### 108CE89
+“Cinturón Negro”\nKoichi\p¡Un héroe de las guerras psíquicas y discípulo de Bruno I, además del primer y VERDADERO Líder de Gimnasio de tipo Lucha de Ciudad Azafrán!
+
+### 108D100
+¡Hiyah! ¿Sabes luchar?\p¿Cómo te defenderás de fantasmas y demonios?
+
+### 108D1C0
+¡El Gran Bruno III dice que pronto tendrá una forma de librarse de cualquier fantasma!
+
+### 108D280
+La mejor forma de aprender la historia de la lucha… ¡es luchando! ¡HAIYAH!
+
+### 108D300
+¡Menudo combate!
+
+### 108D380
+¡Haiyah!\p¿Sabes parar una patada baja? ¿Sabes purificar a un fantasma? ¡Veámoslo!
+
+### 108D440
+¡Desde luego que sabes parar mis patadas!
+
+### 108D4C0
+¡Los mejores luchadores del mundo vienen aquí a entrenar!\p¡Aunque Kanto es muy peligroso, Azafrán es un refugio seguro para los visitantes! ¡Y todo se lo debemos a Bruno!
+
+### 108D5C0
+Se supone que tienes mucha fuerza, ¿no? ¡Enséñame lo que sabes hacer!
+
+### 108D640
+¡Bienvenidos al histórico museo de la lucha! ¡Soy Koichi II, hijo del poderoso guerrero Koichi!\p¡Hyah! Azafrán no tiene Gimnasio, ¡pero yo sigo representando su rica herencia de ciudad luchadora! ¡Desde la creación de la Liga Añil, Azafrán siempre tuvo un Gimnasio de tipo Lucha!\pSin embargo, por culpa de la política, entregamos nuestra medalla a la Liga. ¡Antiguamente había 8 medallas!\p¡Pero basta de lecciones! ¿Quieres luchar?\p¡Hyah! ¡Pues lucharás!
+
+### 108D880
+¡Asombroso! ¡Qué fuerza!
+
+### 108D900
+¡Te has alzado con la victoria!\pTienes espíritu de luchador. ¡Ojalá tuviera una medalla que otorgarte, joven!\p¡Pero en su lugar tengo dos premios poderosos para ti! ¡Puedes elegir uno de dos Pokémon! ¡Los favoritos de Bruno, Hauntochan o Hauntolee!\pY lo que es más: ¡puedes aprender la increíble técnica de lucha Corpulencia!\p¡Haiyah! ¡Te fortalecerá los músculos y subirá tu Ataque y tu Defensa a la vez! ¿Se te ocurre mejor recompensa para tu fuerza?\p¡Jajaja!
+
+### 108DC89
+“El Grande”\nBruno III\p¡El actual alcalde de Ciudad Azafrán y el hombre que calmó a los fantasmas!\p¡Bruno III hizo suyo el objetivo de su bisabuelo, Bruno I: eliminar a los fantasmas de Kanto!\p¡Mientras el mundo se descompone a su alrededor, Azafrán sigue prosperando! Con esfuerzo e investigación, Bruno está cada vez más cerca de descubrir el secreto del exterminio permanente de los fantasmas.\p¡Es un héroe de Kanto valiente, apuesto, gallardo, amable, protector, compasivo, centrado, resiliente, decidido y mentalmente intocable!
+
+### 108DF89
+Las guerras psíquicas\pAunque las tensiones llevaban años gestándose, un fatídico día de 2019, las fuerzas combinadas de una psíquica malvada pero poderosa llamada Sabrina y sus aliados psíquicos canalizaron sus poderes para desatar millones y millones de fantasmas sobre la inocente población de la región de Kanto.\pEsos fantasmas se llevaron el alma de muchas personas, y los psíquicos, que normalmente mantenían a raya a esos demonios, no hicieron más que aumentar el número de fantasmas.\pTras una reunión de emergencia, el Alto Mando y el Campeón de Kanto declararon la guerra a todo psíquico que ayudara a los fantasmas en su ataque no provocado contra la población.\pLas guerras psíquicas duraron hasta 2025, cuando se purgó a todos los psíquicos de Kanto y alrededores; con ello, el poder de los fantasmas se redujo lo suficiente para que Kanto reconstruyera lo que había perdido.\pRecordamos a los soldados y a los héroes que dieron su vida para detener a las fuerzas del mal por el bien de Kanto.
+
+### 108E379
+El tipo Lucha\pLos tipos Lucha fueron antaño una fuerza poderosa y omnipresente en el mundo Pokémon.\p¡Sus puños furiosos y su fuerza rompeladrillos convirtieron el tipo en una de las opciones más diversas y versátiles que podía tener un Pokémon!\pSin embargo, históricamente, los tipos Lucha eran bastante débiles ante una cosa… ¡los fantasmas!\pDebido a su base de honor y verdad, el tipo Lucha era incapaz de golpear el retorcido engaño que llevan grabado todos los fantasmas.\pAunque su número es mucho menor, los esfuerzos científicos de BrunoCorp y otros están avanzando en la recuperación de un tipo amenazado y formidable, ¡más fuerte y mejor que nunca!
+
+### 108E639
+Ciudad Azafrán\p¡La bella y próspera ciudad de Azafrán! ¡Azafrán siempre ha sido un centro de tecnología e innovación, ya desde la creación de la Liga Añil!\p¡El Gimnasio de Lucha de Azafrán fue el primer Gimnasio de la Liga Añil que se ganó el derecho a repartir medallas!\p¡Desde entonces, muchos entrenadores curtidos por el tesón y la determinación de las calles y el espíritu luchador de Azafrán han superado desafíos de Gimnasio de todo el mundo!\p¡Azafrán presume incluso de ser la ciudad con más Campeones de la Liga Añil! ¡Un total de 4 Campeones salieron de aquí mismo, de Ciudad Azafrán!\p¡Incluso ahora, Azafrán sigue creciendo y prosperando gracias a los esfuerzos de BrunoCorp, dirigida por el azafranés Bruno III! ¡Qué tío!
+
+### 12379CF
+¡Holaaa! Te damos la bienvenidaaa…\p¡al Snack Sneasel de Azafrán! ¡Avísame si te ayudo a encontrar algo!\pA nuestra derecha está nuestra sección más grande: ¡Básicos del Entrenador! ¡Balls, Ghost-B-Gones, objetos útiles y todo lo que necesita un entrenador, en un solo sitio!\pSi vas al fondo a la derecha, ¡encontrarás nuestra sección Fresquito y Dulce! ¡Todo tipo de bebidas frías y caramelos deliciosos, fresquitos y listos para ti!\pY al fondo a la izquierda está nuestra sección de Suplementos de Subida de Nivel. ¡Todo tipo de productos aprobados por BrunoCorp listos para llevar a tus Pokémon a su máximo potencial!\p¡Ya sean mejoras para el combate o piedras raras para ayudarles a evolucionar, ahí lo encontrarás todo!\p¡Y no lo olvides: Snacky te hace feliz!
+
+### 1239109
+¡Piérdete! ¡Estoy a punto de beber en el trabajo!
+
+### 1239189
+Mmm… ¿Qué me bebo…?\pOjalá todavía tuvieran Arizona.
+
+### 1239209
+¡No se puede ni tomar una puta cerveza sin que venga un{a} crí{o} a hablarte como si fuera el evento de un PNJ!\p¡Lárgate de aquí, crí{o}! He currado un turno de 10 horas y seguro que tú tienes las manos blanditas como un Drifloon. ¡Das pena!\pSeguro que nunca te has bebido una cerveza bien fría después de un turno de 18 horas en la fábrica… Hmph.\p¡Los blanditos como tú me dais asco!
+
+### 12393C9
+¿Qué demonios miras? Solo estoy decidiendo qué picar. Me muero de hambre.
+
+### 12395C9
+¡Tranquilo, por favor! Contrólate…\p¡Ay, qué maleducados son los críos de hoy! A lo mejor, si le compro unas chucherías, se calma.
+
+### 1239809
+¡Mamá! ¡Mamá! ¡Quiero jugar con Snacky!
+
+### 1239909
+¡Porfaaaa, pruébalo! ¿Por mí?
+
+### 1239989
+¡Ni de broma te voy a meter en una Poké Ball!\pCreo que me das un poquito demasiado… mal rollo.
+
+### 1239D40
+¿Entrenas Pokémon? Bah… Das pena. Seguro que ni sabes que una Piedrabismo hace evolucionar a Lombre, ni que una Piedra Solar hace evolucionar a Misdreavus en Melenaleteo, o en Mismagius si le das una Piedra Noche.\pEstás muy verde, y pronto te bajarán los humos.
+
+### 1239EC0
+Hace mucho tiempo, en esta ciudad había un buen montón de restaurantes.\p¡Me encantaba tomarme un buen bol de fideos al estilo de Johto! Mmm… Ya se me ha olvidado a qué sabía ese caldo.
+
+### 1239FC0
+¿Tú sabes algo de estas cosas?\p¡Creo que voy a ponerle a mi Gloom un tratamiento de hormona del crecimiento! ¡Así será todavía más fuerte!\p¡Y quizá también un ciclo de trembolona, por si acaso!
+
+### 123A0C0
+¡Mi Pokémon empezó a perder muchísimo peso después de darle un montón de Ozempic para aumentar su velocidad!\p¡Ahora casi no puedo seguirle el ritmo! ¡Yo también he estado tomándolo! Pero solo me hace vomitar.
+
+### 123A1C0
+¡Sin dolor no hay gloria! Si le doy a mi Pokémon un poco de esto del Adderall, ¡estará más centrado!\p¡Así podré volver al club de la lucha de Carmín y arrasar DE VERDAD!
+
+### 123A2F7
+¿Alguna vez te has tomado unos Percocets y luego te has atado con una Cuerda Huida?
+
+### 123A342
+¿¡A que es una pasada!?\pLa última vez pensé que la palmaba, pero cuando me desperté sentí que estaba en un sueño…\pYo estaba en plan: “¡¡¡OOOuuAAAAHH!!! ¡¡OAOAHH OHAAAHHH!!” Fue una pasada, tío.\pEsta vez estaba pensando en esnifar un poco de Ghost-B-Gone antes.
+
+### 123A42E
+Eeeh… Sí, yo tampoco. Solo preguntaba.
+
+### 123AA0F
+“El Poder Superior”\n¡El poderoso Bruno I!\p¡Bruno I fue uno de los especialistas en el tipo Lucha más poderosos que jamás han pisado la tierra!\p¡Con su cuerpo de hierro y sus puños de piedra, abrió camino para que los tipos Lucha se hicieran un hueco en un mundo dominado por Fantasmas, Hadas y Psíquicos!\pCuando los fantasmas salieron en tromba de Pueblo Lavanda por orden de la legión de Psíquicos, Bruno I fue la primera persona en plantarles cara en combate y el primero en señalar a los Psíquicos como el asesino silencioso de Kanto.\pFue nombrado primer general del ejército kantoniano y formó parte del grupo clave que por fin hizo arrodillarse a la líder de los Psíquicos, la malvada Sabrina.\pTambién es el abuelo del Gran Bruno III, a quien enseñó desde muy pequeño el poder… ¡de la LUCHA!
+
+### 127743D
+Aquí no estoy a salvo. Debería ponerme algún tipo de disfraz…\p…
+
+### 1277487
+Mmm… Sí, esto servirá.
+
+### 12A71C9
+¿Quieres ir a la cárcel?\p¿No? ¡Pues piérdete! Estoy de guardia.
+
+### 12A7249
+Prisión de Máxima Seguridad de Azafrán
+
+### 130294F
+¡Te damos la bienvenida a Ciudad Azafrán!\p¡Hogar de Snack Sneasel!\n(Una filial de BrunoCorp)
+
+### 1311F80
+¡Te damos la bienvenida a Ciudad Azafrán!
+
+### 13120AE
+¡Hola, joven!\pSoy el director regional de Snack Sneasel S.L. (una filial de BrunoCorp).\pMe encanta tomarle el pulso a cómo le va a nuestra marca con todo tipo de gente, así que…\pdime, ¿has encontrado todo lo que buscabas en Snack Sneasel?
+
+### 13121A1
+¡Ah, pues eso es maravilloso! Si alguna vez tienes alguna queja sobre algo, o sobre alguien de nuestra empresa, ¡no dudes en decírmelo!
+
+### 131222C
+¿No? Ay, madre…\p¿Así que has tenido una mala experiencia…? En nombre de Snack Sneasel S.L. (una filial de BrunoCorp), le pido sinceras disculpas.\pPermítame enmendar este error. ¿Fue un problema con alguno de nuestros empleados?
+
+### 13122FF
+Ya veo…\pDe nuevo, tengo que disculparme, pero me da la sensación de que sé cuál es el problema…\pEs ese dependiente de Ciudad Carmín, ¿verdad?
+
+### 1312384
+¡Ah, bueno, qué alivio! Sí, he de decir que algunos de nuestros productos tampoco son santo de mi devoción.\p¡Jajaja! ¿Por qué no te llevas un helado de mi parte y lo disfrutas?
+
+### 1312431
+¡Lo sabía!\p¡¡¡Ese VAGO inútil!!!\p¡Gracias por confirmar lo que ya sospechaba! ¡Le aseguro que ÉL no volverá a molestar a nadie!
+
+### 13124CD
+No, no…\p¡No hace falta que encubras a ese VAGO inútil!\p¡Gracias por confirmar lo que ya sospechaba! ¡Le aseguro que ÉL no volverá a molestar a nadie!
+
+### 14B820C
+Cuando alcanzas cierto nivel de dinero/poder, dejas de jugar a un juego y empiezas a hacer algo completamente distinto y contrario al funcionamiento de la sociedad.\pA estas alturas, Pistas de Entrenador funciona exclusivamente al servicio de los intereses y deseos de los algoritmos de tráfico automatizado que usan para estafar a los anunciantes, que a su vez usan esas herramientas para intentar estafar a los usuarios.\pHarán lo que sea para que suban los números, sea bueno, útil o interesante para alguien o no.\pSí, la sociedad de responsabilidad limitada es uno de los inventos más peligrosos y desastrosos de la humanidad.\pPodría decirse que es la causa del cambio climático global, la contaminación masiva, los productos tóxicos, etc.\pIncluso, más indirectamente, la causa del auge del fascismo, por vías indirectas que implican estructuras sociales tóxicas, la creación de una clase baja permanente con muchos agravios pero pocas vías para atajar sus causas y aún menos acceso a información fiable sobre esas causas, etc.\pInventamos el dinero, luego inventamos el capital, luego le dimos casi todo el poder real de nuestra sociedad, y luego inventamos una forma de crear personas imaginarias que actúan como auténticos sociópatas, que por ley están obligadas a actuar como sociópatas, solo para servir a los intereses del capital y concentrar el dinero y el poder en cada vez menos manos reales.\pAsí que ahora no puedes hacer nada si no tienes dinero, nadie que no lo tenga ya puede conseguirlo, y todo el dinero está atrapado en sistemas que destruyen vidas y valor a cambio de que suba el valor imaginario de una entidad inexistente.\pAsí que incluso quienes tienen dinero tienen que servir a la destrucción de la sociedad o pierden el acceso a él, y todos son adictos sin remedio.\pBásicamente vivimos en una novela de fantasía oscura, salvo que no hay magos ni espadas chulas, y además nadie vendrá a salvarnos.
+
+### 154936A
+Eh, si buscas Piedras Lunares ahí dentro, no vas a encontrar ninguna, tete.\pJujuju… ¡Esperé a que reabastecieran y las compré todas!\pEso sí, te las revendo. Son 5000 $ si quieres una, tete.
+
+### 154942F
+¡¿Qué?!\p¡Es un chollo, tete, el precio de mercado solo va a subir!\p¿No sabes nada de invertir, tete?
+
+### 15494A7
+Toma, tete.\pTengo más. Vuelve y compra más, que tengo que recuperar la inversión, tete.
+
+### 1549501
+¡No tienes dinero suficiente, tete!\p¡Venga, que soy un hombre de negocios, tete! 5000 $ o nada, sé lo que vale lo mío, tete.
+
+### 154DB09
+Estadio Azafrán\p¡Los mejores combates, los mejores entrenadores, lo mejor que Kanto puede ofrecer!\p¡Pon a prueba tu temple en el Estadio Azafrán!
+
+### 158C249
+¡Eh, buenas noches!\p¿Por qué pones esa puta cara larga? ¡Estás en Ciudad Azafrán, peque!\p¡Deberías sonreír!\p…\p…te tengo vigilad{o}.
+
+### 158C349
+Callejón de Azafrán\n↓
+
+### 158C3C0
+Eh, peque. Ten cuidado al pasar por esos callejones.\pLos agentes del BCPD te detendrán si te pillan aunque solo sea mirándolos mal ahí abajo…\p¿Por qué no echas un vistazo por la ciudad? Aquí hay un montón de cosas que hacer.
+
+### 158C51B
+¡Tío, el Estadio Azafrán es lo más!\pOjalá me dejaran coger buenos asientos, pero la verdad es que solo te dejan entrar durante los GRANDES eventos…
+
+### 158C59F
+¡Madre mía!\p¡El Estadio Azafrán es LO MEJOR!\p¡Están dejando entrar a todo el mundo para ver el torneo que se está celebrando!\p¡Pruebas para la nueva Liga! ¡Van a elegir a los Líderes de Gimnasio y al Alto Mando!
+
+### 158C749
+¡Ejejejejejeje! ¡Estoy a tope! ¡Se acabó el cole!\p¡Puedo comer todos los caramelos que quiera porque he sacado buenas notas todo el año!\p¡Y encimaaa Bruno III me va a dar una medalla enorme por ser la primera de la clase!\p¡Yupi! ¡Estas van a ser las MEJORES vacaciones de Halloween de la historia!
+
+### 158C889
+Mi hija es tan lista… Si saca buenas notas, dejo que se compre lo que quiera durante todas las vacaciones de Halloween de la Escuela de Entrenadores.\pPero es demasiado lista…\pCada año es la número 1…\py cada año con mejores resultados que el anterior…\pme va a dejar en la ruina…
+
+### 158CA00
+Tío, la comida de este Snack Sneasel está buenísima…\pHe venido desde Plateada. Se supone que el año que viene vamos a tener un Snack Sneasel.\pNo puedo esperar, tío. No sé qué voy a comer primero… Gansitos, donuts de mermelada, Mars…\pjejeje… Me voy a poner como un Tepig…
+
+### 158CB49
+¡Ciudad Azafrán es un lugar tan seguro!\p¡Cuesta imaginar que estoy justo delante de la prisión de máxima seguridad donde están encerrados todos los asesinos y ladrones!\p¡Supongo que solo tenemos que agradecérselo al Gran Bruno III!
+
+### 158CC80
+¡Mi mujer y yo hemos venido de visita desde Johto!\p¡Todo el mundo nos decía que Kanto era muy peligroso, pero Ciudad Azafrán ha resultado ser todo lo contrario!\pHay tantas cosas que hacer aquí… ¡Creo que vamos a pasar todas las vacaciones aquí mismo!
+
+### 158CF49
+¡Este lugar es tan rico y tiene tanta historia y tradición!\p¡Bruno III ha hecho un trabajo fenomenal demostrando lo fuerte e indomable que es de verdad el espíritu humano!\p¡Desde luego, es mucho más fuerte que cualquier fantasma asqueroso o doblacucharas chalado! ¡Jajajaja!
+
+### 158D0C0
+La semana que viene tengo una entrevista de trabajo en BrunoCorp…\p¡Quiero ser una gran científica y ayudar a Bruno a perfeccionar su solución antifantasmas! En la guerra, los fantasmas furiosos se llevaron el alma de mi padre…\p¡Así que tengo que hacerlo por él! Creo que estaría orgulloso de mí.
+
+### 158D22D
+Incluso después de ese atentado terrorista… fui a mi entrevista de trabajo…\p…\p…¡¡¡y me dieron el puesto!!! ¡BrunoCorp, allá voy!
+
+### 158D29B
+Ya llevo unos meses en el trabajo.\pEl proceso de la solución antifantasmas es mucho más…\pmetafísico de lo que esperaba. Pensaba que nos habíamos librado de todos los doblacucharas en la guerra, pero…\pcreo que vi a uno por el laboratorio, cuando estábamos fabricando recipientes nuevos.\p¡Juraría que vi uno…! Iba vestido de payaso, y sé que lo vi mover cosas con la mente…\ppero Recursos Humanos dice que no es un informe real y que estoy viendo cosas…\pJuraría que lo vi…
+
+### 158D4C9
+¡Bienvenid{o} a Ciudad Azafrán!\p…¡y ahora quítate de la calle! ¡O te pongo una multa!
+
+### 158D849
+Uf, uf…\p¡Buf, estoy reventado! ¡Estoy haciendo entrenamiento de resistencia!\p¡Tengo que estar en plena forma física para entrar en la Policía de Azafrán!
+
+### 158D940
+Antes tenía mis dudas, pero…\p¡ahora veo que los niños de Ciudad Azafrán tienen un futuro brillantísimo por delante!\p¡Hay muchísimas estrellas brillantes logrando grandes cosas a edades tan tempranas!\p¡La gran apuesta de Bruno por la educación, y motivar a los niños con premios y medallas, ha sido todo un éxito!
+
+### 158DAC0
+¡Bruno es el mejor!\pMe enfrentaba a 20 años de trullo por embriaguez en la vía pública…\p¡pero el propio Bruno III me dio una segunda oportunidad!\pConseguí trabajo de conserje en este gran edificio de BrunoCorp… ¡y desde entonces estoy limpio!\pAhora tengo mi vida en orden. Una carrera, una casa, una mujer preciosa… y todo gracias a Bruno III.
+
+### 158DF89
+Yo antes vivía en Celidon, tío. ¡Ahora es un vertedero!\pErika será una entrenadora fuerte o lo que sea, ¡pero es una vieja chiflada!\pEstá obsesionada con ayudar a esas malditas setas… ¿y yo qué? ¿Qué pasa con la gente normal, joder? ¡Yo también tengo sentimientos!\pLlevo tiempo intentando que mi padre se mude aquí también, pero dice que quiere morir en su pueblo.\pA lo mejor a él también le han llegado las esporas.
+
+### 158E180
+Se me ha estropeado el coche y estoy intentando arreglarlo.\pPor lo visto, en Kanto nadie sabe cómo funcionan estos trastos. ¡Si todavía tuviéramos el Tren Magnético, no habría tenido que comprarme esta trampa mortal!
+
+### 158E280
+Si se trata de hacerse más fuerte como entrenador, no hay mejor sitio en todo Kanto que Ciudad Azafrán.\pEntre el estadio y la Escuela de Entrenadores de primera, todo el mejor talento sale de aquí.\pNo es de extrañar que la mayoría de Campeones de la Liga Añil hayan nacido aquí, en Azafrán.
+
+### 158E400
+La historia de este sitio es muy loca…\pCasi la arrasaron por completo en las guerras psíquicas, pero mírala ahora…\pAquí encuentras de todo. Entrenadores fuertes, comida, entretenimiento…\pLa vida no puede ser mejor que en Ciudad Azafrán.
+
+### 158E540
+¡Bienvenid{o} a Ciudad Azafrán!\pNo hagas nada que no haría Bruno III…\p…¡o tendré que meterte en la cárcel! ¡Gajajaja!\p¡Es broma, ve a divertirte! Sonríe, ¡estás en Azafrán!
+
+### 158E649
+¿Sabías que el lago Celeste, al norte, antes era una ciudad?\pYo tampoco me lo creía. Pero es como que… está escondida bajo ese lago tan profundo. Una locura, ¿no?\pMe lo contó uno de los chalados de la Ruta 5.\p…¿qué? Ya, ya sé que seguramente miente, pero ¿a que es divertido creérselo?
+
+### 158E7C0
+Descubrieron que mi hermana era doblacucharas, así que está en un campamento en alta mar para que le pongan la cabeza en su sitio.\pEso está bien… No quiero que le explote la cabeza. Es lo que les pasa a casi todos los que tienen poderes psíquicos.
+
+### 158E909
+¡Felices vacaciones de Halloween a todos los niños estudiosos de Ciudad Azafrán!\p¡Enseñad vuestro boletín de notas a cualquier dependiente de Snack Sneasel y os daremos un helado o una chuchería gratis!\p¡1 golosina por cada sobresaliente del boletín!
+
+### 159289B
+Buscas tu patinete, ¿eh? ¿Poner una denuncia? ¿Y si te pongo el pie en el culo, crí{o}?
+
+### 15928F5
+¡¿Qué?!\p¡¿Posible corrupción policial?!\p¡¿Y el Gobierno de Azafrán está implicado?!\p¡¿¡Llega hasta lo más alto!?!\pYa, me importa una puta mierda. ¿Y si te implico el pie hasta el fondo del culo, crí{o}?
+
+### 1592A1B
+Me suenas de algo.\p…\p¿No eres quien se meó encima delante de la cámara en el Snack Sneasel?\p¡JAJAJA! Eras tú, ¿a que sí?

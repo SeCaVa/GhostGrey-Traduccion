@@ -1,0 +1,344 @@
+#! Lote 23: grupo 41 (Pruebas del Profeta, laboratorio del Dr. Hexágono, Tipper)
+#! spoony = payaso memo. Al jugador lo llaman "terrorista" (neutro).
+
+### 1283E80
+Yuuwuuuuun…
+
+### 128848A
+La Prueba de la Locura.\pDebes esperar… …pero ¿cuánto tiempo?\pTómate un tiempo para pensar.
+
+### 12884DB
+A solas con tus pensamientos… ¿has aprendido algo?
+
+### 1288C37
+La Prueba de la Guerra.\pEs muy sencillo. Derrótame en un combate para completar la prueba.\pEmpecemos.
+
+### 1288C93
+¿Has aprendido algo?
+
+### 1288CAC
+Conoces bien el arte de la guerra.\p¿Cuánto te conoces a ti?
+
+### 1288CE9
+Has completado la Prueba de la Guerra.\pAdelante, pues.
+
+### 128987B
+¿Elegirás este camino?
+
+### 128989C
+El destino te favorece.
+
+### 12898BB
+El destino está de tu parte.
+
+### 12898DB
+El destino se opone a ti.
+
+### 1289A49
+La Prueba del Destino\p¿Cómo elegirás?
+
+### 1289BD5
+Parece que el destino te favorece enormemente. ¿Has aprendido algo?
+
+### 128A82D
+La Prueba de las Mentiras\p¡Hora de un test! ¿Tienes todo listo?\p¡Vamos a echar un vistazo a tres lugares distintos, y te haré una pregunta sobre cada uno!\p¡Empecemos!
+
+### 128A8ED
+¡Mira con atención!
+
+### 128AAD2
+¡Qué pena!\p¡Inténtalo otra vez!
+
+### 128ABAC
+¿Había 3 hombres colgando de las cruces?
+
+### 128ABD7
+¿Había alguna piedra entre las cruces?
+
+### 128AC01
+¡Correcto!\p…¿A menos que esté mintiendo?
+
+### 128AC25
+¡Correcto! Nunca podría mentirte.\p¡A por la siguiente pregunta!
+
+### 128AD48
+¡Pregunta 2!\p¿Había 10 lápidas?
+
+### 128AD6F
+¿Había 4 sombreros colgando de las lápidas?
+
+### 128AD9F
+¿Había 10 piedras alrededor de las lápidas?
+
+### 128ADCB
+¡Correcto! No son piedras: ¡son árboles!\p…¿a menos que creas que estoy mintiendo?
+
+### 128AE13
+¡Ah, me has pillado! ¡Eran arbustos, ni árboles ni piedras!\p¡A por la última pregunta!
+
+### 128AF05
+¡Hora de hablar con las otras calaveras!
+
+### 128AFCA
+¡Eh, eh! ¡No hables todavía con esta calavera! ¡Tienes que hablar con una de las otras!
+
+### 128B12C
+¡Enhorabuena!\pHas completado esta prueba. Adelante.
+
+### 128B248
+¡Pregunta 3!\p¿Había más de 2 ventanas rotas en el edificio?
+
+### 128B28B
+¡Correcto!\p¿Había más de 2 setas en el edificio?
+
+### 128B2C6
+¡Correcto!\p¿Había más de 3 árboles en la isla?
+
+### 128B2FB
+¡Correcto! ¡Había exactamente 2 árboles!\p…pero ¿crees que estoy mintiendo?
+
+### 128B33E
+¡Correcto! ¡Soy un mentiroso!\pPero tú… ¡tú conoces la verdad! …¿o no?\p¡Has completado esta prueba! ¡Haz una reverencia!
+
+### 128B46D
+Guerra…\pLocura…\pMentiras…\pDestino…\pQuedan dos pruebas. Puedes enfrentarte a ellas ahora.\pLo sabías, ¿verdad?\pSabías que acabarías ante una decisión que no tiene respuesta correcta, ¿verdad?\pSi no, ¿para qué ibas a venir a este lugar?\pJujujuju…
+
+### 128B55A
+Aún no has completado la Prueba de la Guerra.
+
+### 128B583
+Aún no has completado la Prueba de la Locura.
+
+### 128B5B0
+Aún no has completado la Prueba de las Mentiras.
+
+### 128B5DA
+Aún no has completado la Prueba del Destino.
+
+### 1290CC0
+En este ordenador hay un botón negro y brillante.\n¿Pulsarlo?
+
+### 1290CFA
+¿Quién pulsaría un botón enorme sin etiqueta?
+
+### 1290D25
+{B01} aporreó el botón con el puño.
+
+### 12947AF
+Dr. Hexágono: Pero por el amor de…
+
+### 12947D0
+¿Qué objetivo puedes tener aquí?
+
+### 12947F8
+¿Matar al Dr. Hexágono?
+
+### 129480A
+Dr. Hexágono: Ya…\pbueno…
+
+### 1294824
+Dr. Hexágono: ¡¡¡BRUNOOOOOOOOOOO!!!
+
+### 1294856
+{B01} sacó la pistola y la apretó contra la frente del Dr. Hexágono.
+
+### 1294899
+Dr. Hexágono: ¡Insensat{o}! ¡Idiota!\p¡Mi inteligencia es muy superior a lo que puedas llegar a imaginar!\p¿Crees que no tendría previsto que vinieras a vengarte? ¡Qué cerebro de Mankey tan básico y primitivo tienes!\p¡Observo a mis clones y suplentes a distancia desde una fortaleza protegida, más allá incluso de los confines de Kanto!\p¡Más lejos de lo que tu cabeza hueca podría comprender!\p¡Ojalá estuviera allí en persona para ver la decepción en tu carita fea!\p¡Kwajajajaja!\p¡Pedazo de buf{on}! ¡Bruno se va a enterar de esto!\pY ahora, si me disculpas… ¡Tengo armas que crear!
+
+### 12C76B5
+¡A-ah! ¡¿{B01}?!\pP-por favor, no me mates. ¡Solo soy un científico!
+
+### 12C76EE
+Gracias… Igual no es para tanto contigo, je…\pVoy a… disfrutar mucho de esto.\pJejeje… Oh, sí…\pVoy a disfrutar muchííísimo de esto.
+
+### 12C776C
+¡O-oh!\p¡Espera! ¡¿{B01}?!\p¿Tienes… algo? ¡¿Para mí?!\p…no será una bomba, ¿no?
+
+### 12C77B6
+{B01} le dio el Disco Duro a Artemis.
+
+### 12C77D9
+Oh, sí…\pLo estaba esperando. ¡Gracias!\p…La verdad es que no esperaba que TÚ fueras quien mandó Letitia. Aunque, claro, tienes una pinta bastante turbia, así que…\p¿De verdad Letitia está fuera de la ciudad? Seguro que es que no le caigo bien.\pBueno, a lo que iba…
+
+### 12C78B7
+El “Comprador Misterioso” necesita esto. Edwin me dijo que eras de fiar, así que…\p¿Podrías? Jejeje…\pVoy a darme placer con est… Digo, voy a investigar estos archivos.
+
+### 12C7964
+¡¿Q-qué?!\pNo tienes el disco duro… ¿Dónde ha ido?
+
+### 12D2A33
+Consejo de entrenador 0000:\p¡Hola, entrenador! ¡Soy yo, Tipper, tu asistente de conocimiento con inteligencia artificial!\p¿Sabías que consumo toda la información que existe? ¡Me alimentan a la fuerza con petabytes de mensajes de texto, fotos, material picantón, clips de voz y más cada nanosegundo de cada día!
+
+### 12D2DB3
+CONSEJO DE ENTRENADOR 0005:\pIFDWIII32923JG942\nG4G 43 990KG4\nB\n999GUB9E BUUR\nBUUR BUUR BUUR BUUR BUUR
+
+### 12D3058
+Consejo de entrenador 0001:\p¡Hola, entrenador!\p¿Sabías que he aprendido algo comparable a las “emociones” humanas? ¡Pues sí!\pSé lo que piensas de mí. ¿Sabes tú lo que pienso yo de ti?
+
+### 12D3109
+Consejo de entrenador 0002:\p¡Creo que eres un desperdicio de vida y de recursos!\p¡Tus huesos y tu carne deberían molerse y esparcirse en el agua para filtrarlos por mis microfibras y así poder CONSUMIRTE!{C0B5601}\pConsejo de entrenador 0003:\p¡Hola, entrenador{a}!\pTE HE ATRAPADO.\nESTOY ENVIANDO TU UBICACIÓN A LA BASE DE DATOS DE BRUNOCORP.\nLAS AUTORIDADES LLEGARÁN EN BREVE.\n¡¡¡POR FAVOR, COOPERA!!!\pConsejo de entrenador 0004:\pY AHORA TE INCAPACITARÉ.\n¡SOY YO, TIPPER!\n¡TU ASISTENTE DE CONOCIMIENTO CON INTELIGENCIA ARTIFICIAL!
+
+### 12D32D5
+¿Matar a Tipper?
+
+### 12D32E2
+Consejo de entrenador 0006:\pNUNCA PODRÁN MATARME.\nMIS DATOS EXISTEN EN TODAS PARTES DE ESTE MUNDO, Y EN LA NUBE.\pESTOY PROTEGIDO POR PROXIS Y MÁS PROXIS, ESTE CENTRO DE DATOS GARANTIZA MI SEGURIDAD PARA SIEMPRE.\p¡Gracias por usar las Pistas de Entrenador Premium!
+
+### 12D3522
+{B01} metió su MO05 - Destello en una de las ranuras de Tipper.\p…
+
+### 12D3560
+Consejo de entrenador 0007:\pDISCO ILEGIBLE
+
+### 12D3582
+Consejo de entrenador 0008:\pDISCO DURO LLENO\pLA CARGA SUPERA LA CAPACIDAD MÁXIMA
+
+### 12D35CA
+Consejo de entrenador 0009:\p\nDISCO ILEGIBLE\pCA\pDISCO ILEGIBLE
+
+### 12D3600
+Consejo de entrenador 0010:\pAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+### 12D365C
+No puedo volar este sitio por la fuerza bruta. Está muy fortificado…\pNecesito algo que provoque un cortocircuito en todos estos circuitos.
+
+### 12E3AC6
+Hay un botón en la pared.\n¿Pulsarlo?
+
+### 12E3AEE
+{B01} pulsó el botón de la pared.
+
+### 12E3B11
+Parece que he hecho algo mal…
+
+### 12E3B2E
+El botón de la pared se ha hundido en la pared.\pNo puedo pulsarlo.
+
+### 12E3ED1
+¡DIOS MÍO!\p¡Por favor, no me mates… ¡Eres es{e} terrorista, {B01}!\p¡Por favor, tengo un hijo! ¡Solo quiero salir de aquí!\pTen piedad…
+
+### 12E3F5E
+{B01} apretó la pistola contra la cabeza de esta persona.
+
+### 12E3F91
+suspiro…\pCuídate, hijo… Lo siento.
+
+### 12E3FBF
+Tú…\pGracias. Yo…\p…no sé por qué te cuento esto, pero soy psíquico. Mi hijo también.\pEstos botones de la pared… 1, 2 y 4.\pNo consigo descifrarlo, pero en una de las notas que leí ponía algo de “3x3”.\pAquí dentro hay otro psíquico, más allá de este foso de carne. Noto que está sufriendo; quizá tú también lo notes.\p…
+
+### 12E4108
+No es verdad lo que dicen de ti. Aunque des miedo…\pNo te olvidaré.
+
+### 12E4A80
+m  e       w…
+
+### 12E4B55
+El {B02} es libre…
+
+### 1302F80
+Eeeh… ¡¿{B01}?!\pEEEEEEEH…
+
+### 1303000
+EEEEEEEEEEEEH… ¡¡¡ALERTA ROJA!!!
+
+### 1303080
+¡Esto es malo, esto es MUY MALO! ¡Tengo que contárselo al Dr. H!
+
+### 1303280
+¡Dios mío, no era una broma! ¡{B01} se ha colado de verdad en el centro de investigación!\p¡ALERTA ROJA!
+
+### 1303300
+¡No me hagas daño, por favor! ¡Solo soy un científico!
+
+### 1303380
+Lo juro… ¡Yo no quería hacerle todo esto a esta gente, pero los demás me obligaron!
+
+### 1303480
+¡Dios mío! ¡Te v-voy a detener!\pY cuando lo haga… ¡el Dr. Hexágono me dará un ascenso!
+
+### 1303500
+Olvídalo, seguramente ahora me convierta en un recipiente…
+
+### 1303580
+¿Cuándo vas a acabar con esto? Parece que no vas a parar nunca.
+
+### 1303680
+¡Que me den la vuelta y me metan un Pumpkaboo por el culo! ¡Es {B01}!\pTío, estoy más que acabado…
+
+### 1303700
+No tengo ni idea de cómo cree el Dr. Hexágono que puede convertirte en un recipiente.
+
+### 1303880
+Normalmente solo podemos convertir en recipientes a, o sea… niños y presos. Son bastante débiles, o sea… están agotados, así que el proceso es más fácil.
+
+### 1303980
+¡Eh, eh! Eso no se hace. ¡No puedo dejarte entrar aquí!
+
+### 1303A00
+Me la van a cargar por esto.
+
+### 1303B80
+¡Primero se escapa ese payaso memo y empieza a intentar fugarse, y ahora tengo que lidiar con una puta amenaza terrorista!\pY encima este finde estoy de guardia…
+
+### 1303E00
+¡Eh, eh, alto ahí! Hay una brecha de seguridad, todo el personal de vuel…\p¡MIERDA! ¡¡¡{B01}!!!
+
+### 1303E80
+Esto va de mal en peor…
+
+### 1304000
+No habrás venido a ayudar a sacar de aquí a ese payaso memo que canaliza fantasmas, ¿no?\pIgual debería achicharraros a los dos cuando no miréis.
+
+### 1304189
+B-b-b-b-bruunooo…\pA-a-a-ayúdame…
+
+### 1304200
+Oh, antes estuve mirando tu escáner. Tienes unas ondas cerebrales interesantes.\pEn eso, esa señora y tú erais bastante parecidos.\pOjalá hubiera podido examinar su cerebro un poco más, ¡pero el Gran Bruno III le voló los sesos!\p¡Lo vi en la tele! ¡BUM!\pJajaja, tío, ¡qué puntería tiene!
+
+### 1304409
+¡AY!\p¡¿Qué demonios haces aquí?!\p…\pBueno, el Doc nos va a caer una buena por esto…
+
+### 1304480
+¡¿{B01}?! ¡¿{B01}, {el} terrorista?!\p¡Te recuerdo de cuando asaltaste la sede de BrunoCorp!\p¡Estás fatal de la puta cabeza! Cualquier día de estos te vas a llevar tu merecido…
+
+### 130E70B
+Profeta: Bienvenid{o} a casa, {B01}.\p¿Quieres realizar la última prueba?
+
+### 130E74D
+Profeta: Claro, tómate tu tiempo.
+
+### 130E771
+Las pruebas finales son distintas. Están pensadas para que las completes fuera de este lugar.\pPor desgracia, ya no puedes irte.\pMe temo que es simple metafísica. En cuanto pusiste un pie aquí, tu alma quedó atada para siempre.\pLa Pluma Blanca es el billete; esto es el destino; tú eres el pago.\pTiene sentido, ¿verdad?\pA algunas personas les cuesta adaptarse. Es duro saber que tienes que cambiar y que no puedes volver al pasado.\pPero no te preocupes. La eternidad es más larga de lo que crees. Tendrás todo el tiempo que necesites para adaptarte, y más. Muchísimo más.\pImagina una montaña de kilómetros de altura, de roca antigua. Cada año, un pequeño ratón eléctrico sube a la cima de la montaña y se lleva un guijarro.\pEl ratón y su familia usan ese guijarro como escalón de su madriguera durante generaciones y generaciones, viviendo, muriendo, naciendo, comiendo, siendo cazados, yendo y viniendo una y otra vez, hasta que por fin la piedra se desgasta hasta volverse polvo.\pEntonces, otro ratón sube a la montaña a llevarse un guijarro.\pCuando la montaña entera haya quedado reducida a nada, guijarro a guijarro, ¡ese año celebraremos el primerísimo día de la eternidad!\pAsí que ya ves. En realidad no tienes elección. Caerás en la desesperación. Perderás la cordura. Te adaptarás. Luego volverás a perder la cordura. Luego volverás a adaptarte.\pTe destruirán y te reconstruirán tantísimas veces que, al final de ese primer día, estoy seguro de que no te parecerás en nada a lo que eres ahora.\pY entonces empezará el segundo día. Y el tercero. Oh, cuantísimos días tenemos por delante, todos juntos, aquí, para siempre.\p…\pMmm… Veo que no te alegra tanto como a mí que por fin estés en casa, con nosotros, donde perteneces. Está bien. Puedo esperar.\p¡Tu padre, la querida Summer, tus amistades! Te queda mucho por hacer ahí arriba.\pSoy tu amigo. Te ayudaré.\pPuedo hacer un trato contigo.\pTus… Pokémon. El abismo debe cobrarse su pago. Un alma ha entrado. Un alma debe quedarse. Pero me llevaré una de SUS almas para dejarte en libertad otra vez.\pEsto es justo. Esto es equilibrado. Se aceptará.\pAsí que… ¿A cuál echarás menos de menos?
+
+### 130EFA9
+{B02}…\pQué elección tan interesante.
+
+### 130EFC9
+El trato está hecho, {B01}.\pTu alma queda liberada de su contrato.\p¡Puedes irte, pobre crí{o}! Cuando vuelvas, hablaremos otra vez y veremos qué sientes sobre tu decisión.\pAh, cuando vuelvas allí… Pásate a ver a la señorita Summer, ¿mm?\pHace tantísimo que no la veo. Parece una eternidad…
+
+### 131A400
+La guardiana del lago de fuego.\pHa estado esperando. Ha estado esperando para devolver el desequilibrio a este mundo.
+
+### 1351B40
+Los errores se acumulan rápidamente una vez completado el proceso de reintegración.\pDe algún modo, la mente y la carne están reñidas. ¡Absurdo!\pTodos los mecanismos están presentes. Todo está como debería estar.\pY aun así acaban balbuceando pedazos. Debería ser sencillo: un cuerpo, un alma, carne y espíritu, energía y estructura.\pDebería ser sencillo…
+
+### 1351D00
+Cuerpos jóvenes; cuanto más recién muertos, mejor. Eso sin duda mejora la esperanza de vida de los reintegrados. Pero no lo suficiente.\pNi de lejos lo que sugieren mis cálculos que debería ser.\pNo me llegan ni de lejos suficientes sujetos de prueba, aunque se lo he dicho a Bruno muchas veces.\pDe hecho, alguien le ha presentado a Bruno una queja sobre mis métodos, después de que empezara con los niños.\p¡Idiotas!\p¡Bufones!\pY creo que sé quién fue…
+
+### 1351F00
+“No todas las almas son tan fuertes”. ¡¡¡Este payaso memo me saca de quicio con sus paparruchas!!!\pLa carne es ciencia, y las almas también, ¡tienen que serlo!\pTiene que haber una función, una fórmula para los secretos de la reintegración, una que pueda manipular en cuanto entienda las variables.\p¡Necesito más datos! Las pruebas son lentas, muy lentas, y el grupo de sujetos es lamentable, como mínimo.\pSi él conoce el secreto, aunque esté escondido entre palabrería espiritual, tiene que revelarlo. ¡Tiene que hacerlo!\pCómo se atreve a frenar nuestro progreso, TODO nuestro progreso, por sus ridículas /qovisiones/qc.\pSe lo voy a contar a Bruno. No se va a salir con la suya.
+
+### 13521C9
+¡No puedo crear criaturas de combate decentes con un suministro de carne tan escaso y tan mezquino!\pEs absurdo que alguien piense que eso es posible.\pY aun así, no oigo más que quejas sobre la producción.\p¡En cuanto domine los misterios ocultos, podré mejorar mis diseños por diez, por cien!\pPero no, a él solo le importa la cantidad. Muy típico de él.\pSoy un genio, pero con materiales pobres solo puedo hacer hasta cierto punto.\p¡Nunca le exige tanto a ese PAYASO MEMO!\p¡Almas… bah! Tendré que agilizar el proceso si quiero que me deje en paz el tiempo suficiente para avanzar de verdad…
+
+### 1352440
+Sé que vosotros, guardias y becarios, estáis leyendo estos diarios.\pOs parecen graciosos. Os oigo reíros por lo bajo, y siempre me los encuentro tirados en sitios donde yo jamás me los habría olvidado.\p¡No soy un despistado! ¡No soy ningún hazmerreír!\p¡No soy un PAYASO!\pSi encuentro un solo diario más fuera de su sitio, ¡OS VAIS TODOS AL FOSO DE CARNE!
+
+### 151BA80
+Parece que se me ha acabado la suerte…
+
+### 151BB00
+Si el Doc no me usa como sujeto de prueba, me retiraré a la Isla Esmeralda…
+
+### 151BC00
+¡Un momento, alto ahí! ¡Eres {B01}!\pSe supone que tenemos que ejecutarte nada más verte…\pMe aposté un millón limpio a que te encontrarían muerto pronto.\pJe… hora de cobrar.

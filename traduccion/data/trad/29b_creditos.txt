@@ -1,0 +1,107 @@
+#! Lote 29b: créditos finales (disposición fija: se mantienen las líneas en blanco)
+#! ancho 236
+
+### 0867740
+\nSprites del mapa\n\n\n\n\n
+
+### 08677C0
+\nVoces de los personajes\n\n\n\n\n
+
+### 0867940
+\n\nEntradas de la Pokédex\n\n\n\n
+
+### 0867A40
+Embajador de Wario\n\n\nGritos de los Pokémon\n\n\n
+
+### 0867B40
+Herramientas usadas\n\n\n\n
+
+### 0867C80
+Dedicado a\n\n\n\n\n\n
+
+### 0867DC0
+Ayuda y asistencia con el guion\n\n\n\n\n\n
+
+### 0867F00
+EL MEJOR EQUIPO DE PRUEBAS:\n\n\n\n\n\n
+
+### 08681C0
+Agradecimientos especiales a:\n\n\n\n\n\n
+
+### 0868240
+\nla maravillosa gente de reddit\npor su apoyo y su\ninterés en mi juego.\n\n\n
+
+### 0868380
+\nla gente tan amable de YouTube,\nDiscord y pokecommunity\npor sus bonitas palabras sobre\nmis avances.\n\n
+
+### 0868440
+Agradecimientos especiales a:\n\n\n\n\n\n
+
+### 08684C0
+\nMi madre\nMi padre\nJesse\nMi amigo Heiwa\nGoku\n
+
+### 0868580
+Arte promocional\n\n\nRetratos de personajes\n\n\n
+
+### 0868600
+Guionistas de diálogos\n\n\nSprites traseros\n\n\n
+
+### 0868680
+¡Gracias por mirar esto!\n\n\n\n\n\n
+
+### 0868780
+Hola:\n\n\n\n\n\n
+
+### 0868800
+\n¡Soy yo, Joey! ¡Gracias por\njugar a mi juego! Lo he hecho\ncon mucho cariño y espero de\nverdad que lo hayas disfrutado.\n\n
+
+### 08688C0
+\nSin embargo, seguramente este sea\nel último proyecto de ROMhacking\nque haga yo solo.\n\n\n
+
+### 0868980
+\nMe encanta el ROMhacking, pero creo\nque después de esto me gustaría\nempezar a crear juegos originales.\n\n\n
+
+### 0868A40
+\n\nAun así, seguiré ayudando a quien\nlo necesite con sus hacks, así que\nescríbeme si quieres que te\neche una mano.\n
+
+### 0868B00
+\nme hace ilusión ver lo que\nme depara el futuro.\nSolo puedo hacerlo lo mejor posible, jaja.\n\n\n
+
+### 0868BC0
+\nQuiero dar las gracias a todas las\npersonas que me ayudaron a hacer\neste juego, sobre todo\nal grupo de Nate:\n\n
+
+### 0868C80
+\nWhale, Magma, Ghosty, Nate,\nRyuuhime, Seiko, Sunny, 5th Nate,\nServbot, Bret y Teddy.\n\n\n
+
+### 0868D40
+\nY un saludo enorme a mi colega Peter B\ny a mis primos pequeños y mi tío\nde Wellington, ¡y a mis primitos de\nAustralia también! Os quiero.\n\n
+
+### 0868E00
+\nAh, y gracias al grupo\nReady for the World por hacer\n“Oh Shiela”, ¡la canción que\nestás oyendo ahora mismo!\nQué marcha, ¿eh?\n
+
+### 0868EC0
+\n¡Te quiero! Gracias por estar aquí\ny por dedicar un rato de tu\nvida a jugar a mi juego.\n\n\n
+
+### 0868F80
+\n¡eres tú y solo tú, de principio\na fin! ¡Y eso es algo bueno!\nDesde el fondo de mi corazón, te deseo\n\n\n
+
+### 0869040
+\nun día maravilloso y un\nsueño reparador. Con cariño,\nJoey Zeed.\n¡Ah! ¡Y SÉ GUAY!\n\n
+
+### 0869100
+\nEres una persona maravillosa.\nNo hay ni habrá nunca nadie\nen este mundo como tú.\n\n\n
+
+### 08691C0
+\nsobre todo a Whale, sin quien\neste juego no sería ni de lejos\ntan bueno como creo que ha\nquedado. De todo corazón,\ngracias, Whale.\n
+
+### 0869280
+\nPero me alegra muchísimo que\neste proyecto haya visto la luz.\nEstoy muy nervioso por el futuro,\npero también\n\n
+
+### 09D2500
+\nComposición\nde la música original\n\n\n\n
+
+### 09D2580
+\nPara pistas sobre el\nFINAL SECRETO…\n¡visita el Museo de los Créditos\nde Pueblo Ópalo!\n\n
+
+### 09D2700
+\nDiseño del juego\n\n\nSprites de Pokémon\n\n

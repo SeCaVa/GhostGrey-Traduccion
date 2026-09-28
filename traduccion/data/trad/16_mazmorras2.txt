@@ -1,0 +1,595 @@
+#! Lote 16: mazmorras 1.51-1.65 (torre de BrunoCorp, túneles incendiados, Islas Espuma, bosque de las bestias)
+
+### 0175BE5
+¡Quedas detenid{o}!
+
+### 0175C0F
+Meterse con BrunoCorp es seguramente la peor decisión de toda tu vida, peque.
+
+### 0175D89
+¡Bru-aviso de empresa!\p¡Se acabaron los aperitivos en la sala de descanso!\pDebido a las acciones de MAUREEN, ya no se confía en que los empleados de BrunoCorp limpien la sala de descanso después de comer.
+
+### 0176136 r
+Jejejeje… ¿Todavía no te has cansado?
+
+### 0176266
+Quémalo todo hasta los cimientos.
+
+### 0176305
+Bruno es un estafador. Hay que quemar y destruir este mundo.\pEl único idioma que entiende un parásito mentiroso y codicioso es el miedo. El miedo y la violencia.\pEnséñaselo.\pCon este demonio, baña el mundo en llamas y deja que la bondad resurja de las cenizas.\pQuémalo todo hasta los cimientos.
+
+### 0176586
+¡Jaja! Ven aquí, pequeñaj{o}…
+
+### 01765E2
+¡No muevas ni un músculo!
+
+### 0176669
+Bruno, señor…
+
+### 0176727
+Summer: ¡Te dije que conseguiría la medalla antes que tú! ¡Aunque ha sido bastante difícil!
+
+### 01769A2
+¡Se acabó!
+
+### 0176AB2
+¡Bru-aviso de empresa!\p¡No toquéis la pared de cables! ¡Está ahí por algo!
+
+### 0176B81
+Da lo mejor de ti.
+
+### 0176B90
+Buena suerte.
+
+### 0176D57
+¡Sorpresa!
+
+### 017726A
+¡ALTO AHÍ! ¡No muevas ni un músculo!
+
+### 01772E7
+¿Pero qué…?
+
+### 01772F9
+¡Date por muert{o}! ¡Jajajaja!
+
+### 01773FD
+Ugehehhhgg…
+
+### 01776C0 r
+Te tenemos acorralado.
+
+### 0177720 r
+Tú no puedes ver. Pero yo puedo sentir… jejeje…
+
+### 090DE98
+Pista de Entrenador 472:\pEl foso el abismo el abismo te espera. Para más al foso en descenso del caos del abismo cae.
+
+### 090DF80
+Una vieja estatua de piedra. Se mantiene firme, a pesar de lo que la rodea.\p…\pTe sientes con energías renovadas.
+
+### 0A5E280
+¡Eres una de las personas que están armando jaleo en nuestras magníficas instalaciones!\p¡Basta ya! ¡Somos una empresa perfectamente respetable!
+
+### 0A5E340
+Tú y esa mujer mayor… ¿qué tramáis aquí?
+
+### 0A5E3C0
+¿Pero qué demonios? ¿Qué clase de crí{o} eres?
+
+### 0A5E440
+No has llegado ni a la mitad del camino hasta arriba. ¿Se te cansan los pies?
+
+### 0A5E4C0
+Parece que tienes más energía que yo…
+
+### 0A5E540
+De mí no vas a sacar ninguna pista. Nuestro sistema de seguridad es de primera.
+
+### 0A5E618
+¡Te vas a arrepentir de haberte cruzado con el gran Bruno III!
+
+### 0A5ECC0
+Oooh, mala suerte para ti. ¡Buena suerte para mí!
+
+### 0A5ED40
+¡Maldita sea! Vas arrasando con todo.
+
+### 0A5EDC0
+Me da igual no ser quien te atrape, solo quiero ver en qué te convierten.
+
+### 0A5EE80
+¡BrunoCorp es la mejor empresa de este planeta y del siguiente!\p¡Nuestro gran y generoso líder, Bruno III, nos da muchísima libertad para explorar los límites de la ciencia!
+
+### 0A5EF80
+¡Oh! Tú eres…\pLa persona malvada. Tú y esa mujer.\pJi, ji… Aquí se acaba tu camino, ¿sabes?
+
+### 0A5F040
+BrunoCorp nos dio a mi familia y a mí un futuro, ¿y tú intentas estropearles las cosas? ¡Eres una amenaza para toda Ciudad Azafrán!
+
+### 0A5F140
+Bruno es uno de los mejores hombres que ha visto esta región, peque. ¡Debería darte vergüenza!
+
+### 0A5F200
+No lo parece.
+
+### 0A5F280
+¿Por qué intentas atacarnos? ¡BrunoCorp no ha hecho nada malo!
+
+### 0A5F340
+¡Te voy a devolver a la celda en la que tenías que pudrirte!
+
+### 0A5F400
+¡Uf, tranquilidad, peque! ¡Solo era una broma!
+
+### 0A5F480
+Tú ignórame. Solo cumplo órdenes.
+
+### 0A5F500
+¡Hay una orden de detención contra ti!
+
+### 0A5F580
+Te arrepentirás de esto…
+
+### 0A5F600
+¡Solo soy un soldado raso! Es imposible que avances en los pisos de arriba…
+
+### 0A5F6C0
+¡Ay! No se me da bien luchar…
+
+### 0A5F740
+¡Soy una de las mentes científicas más brillantes de Kanto! ¿Este sistema de seguridad de laberinto? ¡Idea mía!
+
+### 0A5F800
+Je… Tienes mordiente.
+
+### 0A5F880
+¡Cuando te conviertan en espécimen, intentaré quedarme contigo!
+
+### 0A5F940
+Eeeey, ¿adónde te crees que vas, peque?
+
+### 0A5F9C0
+Merece la pena proteger a BrunoCorp. Aunque yo no pueda protegerla, la visión de Bruno es importante.
+
+### 0A5FA80
+¡Formas parte de los terroristas del edificio! ¡Alto ahí!
+
+### 0A5FB00
+Una victoria del terror…
+
+### 0A5FB80
+¡Puedes detenerme a mí, pero no a todos nosotros! Hasta el entrenador más fuerte puede llevarse una sorpresa.
+
+### 0A5FC40
+¡{B01} obtuvo un Pansear de manos del empleado de BrunoCorp!
+
+### 0A5FCC0
+Que todo arda hasta quedar en cenizas y vuelva a empezar.\pQue arda, que arda, que arda hasta los cimientos… Todo…
+
+### 0A5FE80
+A estas alturas tienes que tener aunque sea un poco de cansancio.
+
+### 0A5FF00
+¿Pero qué te dan de comer?
+
+### 0A5FF80
+Necesito un pitillo; no me pagan lo suficiente para este nivel de estrés.
+
+### 0A60040
+Descansa ya, crí{o}. No le diré a nadie que estás aquí.
+
+### 0A60140
+¡Se puede vencer a los fantasmas! ¡Se puede inyectar vida a lo que está muerto!
+
+### 0A60200
+Jejejeje… Qué vitalidad.
+
+### 0A60280
+El Dr. Hexagon es un genio sin igual. Está a punto de dar con una cura para la plaga fantasma…
+
+### 0A603C0
+¡Maldita sea, maldita sea! ¡Deja de mirarme así, que me das miedo!\p… Ah, bueno, supongo que da igual. De todas formas me van a volver a castigar por perder contra ti. ¡Te odio, peque! ¡Te odio muchísimo!
+
+### 0A60500
+Por cierto…\p¿Tu patinete? ¡Lo hicieron pedazos para chatarra! ¡Ja, ja, ja, ja, ja! ¡Supongo que al final el que ríe último soy yo!\p¡Que disfrutes de tu ejecución!
+
+### 0A60780
+¡Nunca llegarás al despacho del señor Bruno!
+
+### 0A60800
+¡Estoy alertando al sistema de seguridad!
+
+### 0A60880
+No te preocupes. No es la primera vez que tenemos que lidiar con una situación así.\pEsa señora y tú no tenéis nada de especial. Sube si quieres, ¡jajaja!
+
+### 0A60980
+¡Ni hablar! ¡No vas a ver al señor Bruno NUNCA!
+
+### 0A60A00
+¡Ay! ¿Qué demonios es esto?
+
+### 0A60A80
+¿Qué buscas exactamente? ¿Por qué tienes tantas ganas de ir al despacho del señor Bruno?
+
+### 0A60B40
+¡Ni hablar! ¡Tengo órdenes de llevarte con vida!
+
+### 0A60BC0
+No he podido detenerte, pero otro lo hará. No eres más que un pez pequeño.\pPuede que te creyeras una especie de talento especial, pero no tienes nada de nuevo ni de diferente.\pHagas lo que hagas, eso no va a cambiar. ¡Jajajaja!
+
+### 0A60D00
+Joder, ¿qué te pasa? ¿Por qué te importa tanto esto?
+
+### 0A60D80
+Ya llegas tarde.\p¡Sea lo que sea lo que intentas hacer, ya llegas tarde! ¡Jajajaja!
+
+### 0A60EC0
+¡Te estás pasando! ¡¿Qué hemos hecho mal?!
+
+### 0A60F40
+Es que no lo entiendo…
+
+### 0A60FC0
+¡El trabajo de BrunoCorp solo beneficia a la gente de Kanto! Estamos a punto de librarnos de los fantasmas… Creamos empleo y ayudamos a las familias. ¡¿Qué problema tienes con nosotros?!
+
+### 0A610C0
+Quizá seas demasiado joven para recordarlo, pero el abuelo de Bruno fue miembro del Alto Mando.\pCuando empezaron a aparecer los fantasmas, fue uno de los primeros en intentar detenerlos. ¡Un linaje de heroísmo!\p…¡y tú intentas entrometerte en su visión! ¡Eres la peor escoria que hay!
+
+### 0AA2F40
+Summer: ¡A quien madruga, Arceus le ayuda, {B01}! ¡Ji, ji, ji!
+
+### 0AA30CF
+Summer: ¿Te has encontrado a esos tipos estatua tan raros? ¡Daban muchísimo miedo!\p¡Pero yo soy muchísimo más fuerte que ellos! ¡Y ahora tengo cuatro medallas enteras!\p¿Qué tal un combate? ¡Te tengo calado, {B01}! ¡Esta vez voy a ganar con facilidad!
+
+### 0AA32C0
+Summer: ¡Ha sido superdivertido! ¿A que este sitio era alucinante?\p¡Ya estamos a mitad de camino para poder ir a la Liga Pokémon! ¿Te lo imaginas, {B01}? ¡Tú y yo! ¡El mejor equipo de entrenadores del mundo entero!\p¡Me voy al oeste, a Azafrán! No te lo vas a creer, ¡pero me ha invitado Bruno III! ¡Quiere entrevistarme porque he ganado muchísimos combates y medallas!\p¡Tú también deberías ir! ¡Azafrán es como… un sitio de ciencia importante también!\pEstán intentando recuperar un tipo antiguo de Pokémon, o algo así.\p¡En fin, nos vemos pronto! ¡Quedan tres medallas! ¡Chao, pescaooo!
+
+### 0B36280
+¡Kanga! ¡Kan!
+
+### 0B36300
+¡Ka-Kangaskhan!
+
+### 0B36380
+¡Ka ka kang!
+
+### 0B59E00
+¡AUGGHHHH!
+
+### 0B59E80
+Uf… Uf…
+
+### 0B59F00
+Grrghhh…
+
+### 0B5A000
+Bgghh… ¡URK!
+
+### 0B5A080
+Guh… ¡MATAR!
+
+### 0B5A100
+Comer… comida… eeeh…
+
+### 0B5A200
+¡Te pillé! Ahora pónmelo fácil y muérete rápido.
+
+### 0B5A280
+Maldita sea… ¿Cómo puedes tener tanta fuerza?
+
+### 0B5A300
+Con lo poco que como, no me extraña que no tuviera fuerza para ganar…
+
+### 0B5A400
+¡Kanga!
+
+### 0B5A480
+¡Kang-Kaaa!
+
+### 0B5A500
+Khh… Kangaskhan…
+
+### 0B5A600
+¡Vas a gritar!
+
+### 0B5A680
+¡AAAAAHHHHH!
+
+### 0B5A700
+¿A qué esperas? ¡Mata, mata, mata!
+
+### 0B5A800
+Grrruuhhh.... ¡FSSS!
+
+### 0B5A880
+Buh….. grrruhhh…
+
+### 0B5A900
+¡Yip! ¡Grrrau!
+
+### 0B5ADC0
+¡Kangaskhan!
+
+### 0B5AE40
+¡Kang! ¡Kang!
+
+### 0B5AEC0
+Kangaaa…
+
+### 0B5B080
+Tienes que tener mucha fuerza para seguir con vida en este sitio. ¿Qué clase de crí{o} eres?
+
+### 0B5B100
+…hay algo diferente en ti…
+
+### 0B5B180
+Nunca había conocido a nadie que me diera miedo antes que tú. ¿Eres human{o} o bestia?
+
+### 0B5B280
+J o v e n…\n¿T e   a p e t e c e   s e g u i r l e   l a   c o r r i e n t e   a   e s t a   v i e j a   b r u j a   u n   r a t i t o?
+
+### 0B5B300
+J a   j a   j a…\nE n c a n t a d o r.
+
+### 0B5B480
+¡Kang! Kangaaaa…
+
+### 0B5B500
+¡Kangaskhan! ¡Kanga!
+
+### 0B5B580
+Grrr… Kanga-kahh…
+
+### 0B5B680
+¡¡¡¡RRRRARRRGGHHHHHHH!!!!
+
+### 0B5B700
+¡¡¡GrrrhhhAAAAHHH!!!
+
+### 0B5B780
+Hrrrrghhhhh… ¡VAMOS!
+
+### 0B5B880
+¡Kejijiji!\p¡Entre la maleza, sin nadie y con miedo! ¡Calla, dame la piedra, que yo me la quedo!
+
+### 0B5B900
+¡¡¡Keeejijijiji!!!
+
+### 0B5B980
+¡Escúchalo con atención! ¡¡Kejijiji!!
+
+### 0B5BBC0
+¡GrrrrRRR!
+
+### 0B5BC40
+¡Fsss! ¡Grah!
+
+### 0B5BCC0
+¡Hghhhuh! ¡GUGH!
+
+### 0B5BDC0
+Te pillé, pequeño Mareep… ¿Adónde vas?
+
+### 0B5BE40
+¡Ay!
+
+### 0B5BEC0
+Determinación. Te sobra por todas partes. Me pregunto qué comerás…
+
+### 0B5CE09
+Domino a las bestias y, aun así, estoy atrapado en este infierno, sobreviviendo a duras penas.\pPero ¿qué sabrás tú de eso?
+
+### 0B77D40
+J o v e n…\nL a s   p i e d r a s   q u e   c a y e r o n   d e   l a   l u n a   e n c i e r r a n   u n   p o d e r   i n q u i e t a n t e.   C u i d a d o.
+
+### 0CD2A4C
+La visión de Bruno es una por la que daría la vida.\pAquellos malditos fantasmas se llevaron a mi madre y a mi hermana. ¡Sin ningún motivo, me arrebataron a mi familia!\pSi hay una posibilidad de librarnos de esos demonios para siempre, la aprovecharé, cueste lo que cueste.
+
+### 0F3C1AA
+Una compleja pared de cables y circuitos. En su superficie hay una ranura para algún tipo de chip.
+
+### 0F3C20B
+{B01} metió el Microchip en la ranura de la parte delantera de la pared de cables…
+
+### 0F3C251
+La pared de cables se replegó arrastrándose hacia el techo y las paredes de alrededor…
+
+### 0F3C297
+La pared de cables ya está abierta, lumbrera.
+
+### 0F5CA40
+¡No os dejaré hacer esto! ¡Vosotros dos, par de bichos raros, no os vais a ir de rositas por enfrentaros a BrunoCorp!
+
+### 0F5CB00
+¡Mierda! ¡Mierda, mierda, mierda! Bruno… ¡Lo siento!
+
+### 0F5CB80
+Si no fuera por BrunoCorp, estaría en la cárcel o muerto. ¡Eres la escoria de la tierra!
+
+### 0F5CDDD
+Summer: ¡Caramba! ¡Siempre tienes tanta determinación! ¡Pero esta vez te he pillado!
+
+### 0F5CE25
+Summer: ¡Caramba! ¡Eres lo más, {B01}! ¡No puedo seguirte el ritmo!
+
+### 0FD765B
+Todavía hay corriente.
+
+### 0FD7672
+Una especie de máquina con un montón de interruptores y botones. Zumba y suelta chispas.\p¿Accionar algunos interruptores?
+
+### 0FD76E1
+{B01} empezó a pulsar botones y a accionar interruptores a lo loco…
+
+### 0FD7724
+¡Han vuelto las luces!
+
+### 0FD773C
+Parece una mala idea.
+
+### 0FD7980
+Se ha vuelto a ir la luz…
+
+### 0FD79FC
+No hay corriente…\p…\p{B01} accionó un interruptor del frontal de esta máquina.\p…
+
+### 0FD7EC0 r
+Hombres malos de Azafrán… No podéis matarnos de un modo que importe… jejeje…
+
+### 0FD7F80
+Si al menos pudiera ver esto…
+
+### 0FD8000 r
+Que mis bichos devoren mis ojos. Que me dejen ver con la visión verdadera.
+
+### 0FD8218
+Amn: Eh.\p¿Qué haces aquí?\p…\pVale, bueno, aquí abajo hay gente con lanzallamas y cosas que no le gustan a la mente colmena.\pEeeh… La mente colmena dice que tengo que matar a todos los humanos que vea, pero tu espora todavía está creciendo.\pAsí que… La mente colmena necesita que mates a todos los humanos que veas aquí abajo. Intentan volar este túnel, así que, si no los matas…\pAcabarás muert{o} igualmente. Así que eso.\pAdiós.
+
+### 0FDCA00
+Otra seta para mi pizza. ¡No te muevas, que te dejo bien crujiente!
+
+### 0FDCAC0
+Estaba que ardía, pero no a punto…
+
+### 0FDCB40
+Ay, perdona, no eres una seta. Espera… ¡eres la amenaza terrorista!
+
+### 0FDDC89
+Una estatua vieja con un interruptor en la parte delantera. Está oxidado y no hay forma de moverlo.
+
+### 0FDEF00 r
+No perdonaré a ninguno de vosotros, cretinos. Vengaré a mis hermanos y hermanas.
+
+### 0FDEFC0 r
+Lo aceptes o lo niegues… Esta cueva se unirá a la gran red de túneles…
+
+### 0FE0680
+¡Oh! ¡Eres {B01}, la amenaza terrorista! ¡Voy a hacerme rico si te quemo aquí mismo!
+
+### 0FE0700
+Bueno, me he quemado.
+
+### 0FE0880
+Tienes mucha más velocidad y fuerza que estos hombres seta que hemos estado quemando.\pAunque da igual: ¡tú y todo este sitio vais a volar por los aires!
+
+### 0FE0980
+Hrk… Agh… ¡Duele… duele!\p¡Ohh, eres TÚ quien me está haciendo sufrir!\p¡Entonces, si te reduzco a cenizas, el dolor se acabará!
+
+### 0FE0A00
+¡QUEMA! ¡QUEMA HASTA LOS CIMIENTOS!
+
+### 0FE0A80
+¡QUEMA! ¡QUEMA!
+
+### 0FE0B80 r
+Millones de esporas quemadas e inertes. La colmena está profundamente disgustada.
+
+### 0FE0C00
+Ueeghhehhh…
+
+### 0FE0C80 r
+Hay que derramar sangre. El túnel se completará.
+
+### 0FE0D89
+Johnny… ¿Por qué tuviste que ser tú, Johnny?\psnif…\pEstas malditas setas… No voy a dejar ni una con vida. Hasta la espora más pequeña… ¡Todo va a arder!
+
+### 0FE0E89
+cof…\pUrggh… No se nos puede detener. Todos los túneles se unirán. Todos los seres alimentarán a la colmena.
+
+### 0FE1080 r
+Demasiados zánganos perdidos. La colmena exige que reclamemos un intercambio equivalente.
+
+### 0FE1100 r
+Tú no eres un humano normal. ¿Qué escondes?
+
+### 0FE1180 r
+La colmena… Te reconoce.
+
+### 0FE13CA
+Marco… ¡Ni siquiera le dieron tiempo a pudrirse, lo mutilaron! Aguanta, Marky, me llevaré lo que quede de ti. Te sacaré de aquí sano y salvo, colega…
+
+### 0FE1680 r
+Así que entras desde arriba.
+
+### 0FE1700 r
+Por mucho que lo intentes, nunca podrás ver lo que vemos nosotros…
+
+### 0FE1780 r
+La imperfección será corregida.
+
+### 0FE1B00
+¡Hasta luego, {B01}! ¡Suerte encontrando una salida!
+
+### 0FE1B80
+¡Hijo de la gran seta! ¡Te voy a reducir a cenizas!
+
+### 0FE1C00
+¡Ah! ¡Tengo que salir de aquí! ¡No lo soporto más!
+
+### 0FE1C80
+Mewtwo ni siquiera está aquí… ¿Por qué tenemos que quedarnos a volar este sitio? ¡No tiene sentido!\pUf… uf… No puedo respirar…
+
+### 0FE1D40 r
+Reclamaré otro recipiente para la gloriosa colmena.
+
+### 0FE1DC0
+Uno se escapa…
+
+### 0FE1E40 r
+La bestia que buscas ya no existe. Todo para nada. je…
+
+### 0FE1F40
+¡Te voy a tostar como a una nube de azúcar!
+
+### 0FE1FC0
+¡Uy! Ah, espera, no eres una seta…
+
+### 0FE2040
+…¡Ay, porras! ¡Eres la amenaza terrorista! ¿Qué demonios pasa aquí? ¿De qué lado estás…?
+
+### 0FE2149
+Luché en las guerras psíquicas, en la década de 2020. Lo he visto todo…\pPero perder a mis compañeros nunca es más fácil. No sé por qué no puedo encerrarme y vivir en soledad. Este dolor…
+
+### 0FE2249
+La salida está aquí abajo. Marco, Johnny, Howie, Casey… Incluso Jet, todos han muerto, tío.\pOí a las setas decir que Mewtwo ni siquiera es real…\p¿Y entonces qué sentido tiene?
+
+### 0FE2340
+Auughh… ¡ESTAS SETAS! ¡SON PEORES INCLUSO QUE ALGUIEN COMO TÚ!\pAl menos tú eres una persona… Estos bichos raros no se merecen el aire que nos roban a los demás…
+
+### 0FE258A
+¡Hijo de un Stoutland! ¡¿Por qué no te MUERES?!
+
+### 0FE260A r
+jejejeje… te estás cansando, humano. ¿Qué te pasa?
+
+### 0FE2F3B
+¿Quién anda ahí? Está tan puñeteramente oscuro aquí dentro…\p¿Sois los refuerzos?\p¡Madre mía, habéis llegado justo a tiempo! ¡Nos están comiendo vivos!\p¿Sabes esa… criatura, Mewtwo, que quería Hexagon?\pSe suponía que todavía vivía en algún lugar de estas viejas ruinas.\pResulta que no solo NO está aquí, sino que todo el sitio está plagado de hongos parásitos.\p¡Malditos hombres seta!\pAsí que nos hemos puesto una nueva misión: ¡quemar todo el sitio hasta los cimientos!\pVamos abriéndonos paso a fuego hasta los túneles subterráneos que han estado cavando estos cabrones, y estamos colocando explosivos para hacer ¡BUM! y volar todo este sitio, ¡y de paso reventar la vieja Caverna Espuma!\p¿Llevas algún arma, colega? ¿Solo tus Pokémon?\p…¡Mierda, eres {B01}!\p¡Supongo que a ti también tendré que quemarte!\p“¡No hagas preguntas!”, como dice siempre el jefazo.
+
+### 0FE324A
+¡Maldita sea! ¡Tengo que avisar al jefazo! Tenemos un TERCER problema gordo.
+
+### 0FE6EE5
+Domino: ¡Mierda! ¡{B01}…! ¿¡Sigues con vida!?\pEso significa que el jefe Takeshi…\pEntonces me toca a mí cumplir… sus órdenes.\p“¡No hagas preguntas!”\p…\p¡No! ¡No voy a permitir que se derrame la sangre de otra persona!\pNi siquiera la de escoria como tú…\p¡Vamos, nuestra ruta de escape está por aquí!
+
+### 12A6BC0
+¡Bru-aviso de empresa!\p¡Ahora todos los empleados están obligados a fichar la salida al menos 1 hora antes de que termine su turno!\p¡Está demostrado que una hora extra de trabajo aumenta la productividad!\p¡Gracias por vuestra comprensión!
+
+### 12A6D00
+¡Bru-aviso de empresa!\p¡Gracias al esfuerzo de todos, Bruno III sube el salario mínimo de la empresa a 1,21 $ la hora!\p¡Es un aumento nada menos que del 200% respecto a la subida del año pasado!\p¡Bravo, equipo!
+
+### 12A6E40
+¡Bru-aviso de empresa!\pCuando trabajéis en los sótanos, ¡recordad llevar siempre un traje de protección química!\pA los infractores se les obligará a trabajar en los sótanos sin traje de protección química.
+
+### 12A6F40
+¡Bru-aviso de empresa!\p¡No olvidéis informar a vuestros superiores de cualquier infracción de las normas!\pRecordad siempre: ¡un espacio de trabajo seguro se vigila a sí mismo constantemente!\p¡Vigilaos y haceos responsables de los demás!
+
+### 12A7080
+¡Bru-aviso de empresa!\pSalvo permiso especial, ¡el acceso al despacho de Bruno III está prohibido!\pSi deseas reunirte con él en persona, ¡abre una incidencia en el servicio de ayuda desde un PC de oficina de BrunoCorp!
+
+### 12A7440
+¡Bru-aviso de empresa!\p¡NO USÉIS LOS PC DEL TRABAJO PARA DAROS PLACER CON VÍDEOS EXPLÍCITOS!\p¡¡¡SI HAY QUE PUBLICAR OTRO BRU-AVISO, TE ENFRENTARÁS AL DESMEMBRAMIENTO, ARTEMIS!!!
+
+### 12CEFEB
+Pista de Entrenador 050:\pES TAN LAMENTABLE\pOTRO JOVEN ADVENEDIZO CON TANTO POTENCIAL\pDESPERDICIADO ¿Y PARA QUÉ?\pPOR TU PROPIO ORGULLO\pTU PROPIA ARROGANCIA SERÁ TU PERDICIÓN\pHASTA UN PÁJARO DEBE DESCANSAR LAS ALAS. SUFRIRÁS POR LAS DECISIONES QUE TOMES\p¡Gracias por usar Pistas de Entrenador Premium!

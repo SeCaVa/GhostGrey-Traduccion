@@ -1,0 +1,338 @@
+#! Lote 21: grupo 33 (Pueblo Ópalo, casa del jugador, Museo de los Créditos)
+#! Opal Village = Pueblo Ópalo. Los nombres propios, canciones y juegos de los créditos se dejan en original.
+
+### 0996949
+Pueblo Ópalo\nUn lugar donde la esperanza nunca muere.
+
+### 09975C9
+¡Buenas tardes!\n¿Verdad que hace un día precioso?
+
+### 0997649
+¡Jijí, que te pillo!\n¡Que te pillooo!
+
+### 09976C9
+¡Jijijí!\n¡No me pillas!\n¡No me pillaaas!
+
+### 099787B
+Oye, se te ve con los nervios a flor de piel.\pTranquilidad, no pasa nada…\pVen aquí, ¿te puedo dar un abrazo?
+
+### 09978D1
+…\pLo estás haciendo genial. Te estás esforzando muchísimo, así que entiendo el estrés. No pasa nada. Relajarse no es ningún delito. Aquí estás a salvo.\p…\pSal ahí fuera y da lo mejor de ti, ¿vale?
+
+### 0997978
+No pasa nada, lo entiendo. Parece que tienes muchas cosas en la cabeza.
+
+### 0997B49
+Mi prometido y yo nos casamos pronto.\pOjalá nuestras familias pudieran vernos ese día.
+
+### 0997BC9
+Parque Memorial de Canela\n¡Usa calzado antideslizante o patines para jugar sobre el hielo!
+
+### 0997C40
+Mi prometido y yo vinimos aquí de adolescentes, después de la segunda erupción.\pHemos pasado por todo juntos. Lo perdimos todo… Pero nos seguimos teniendo el uno al otro.\p¡Y tenemos Pueblo Ópalo! Siempre he sido una chica de isla, pero ahora nada me hace sentir más a salvo que ver caer la nieve.
+
+### 0997DC9
+Nuestro alcalde, Nicolas, es un buen hombre. Su padre fue un gran entrenador y, sin él, este pueblo nunca se habría construido.\pCreo que pronto le harán una bonita estatua de madera.
+
+### 0997F09
+¡Madre mía, has conseguido cruzar el Bosque Ardiente! Ese bosque tiene algo mágico, ¿lo sabías?\pSolo quienes tienen buen corazón pueden salir del bosque una vez que entran.\pProtege este pueblo tranquilo de los espíritus malignos y de la gente malvada.
+
+### 099805E
+Hay un cartel en esta parcela, pero no tiene nada escrito.
+
+### 0998096
+Casa de {B01}
+
+### 09985C9
+Es un buen sitio para vivir. Me alegro de haberlo conocido.
+
+### 0999749
+¡Hola! ¡Bienvenid{o} al Museo de Pueblo Ópalo!\pEs nuestro edificio más nuevo, ¡pero seguramente el más importante!\pTodavía estamos terminando algunas cosas, ¡pero puedes echar un vistazo a todas estas fotos históricas de la construcción de este maravilloso pueblo y de algunas de las maravillosas personas que abrieron el camino!
+
+### 0999924
+Nicolas: ¡Jo, jo, jo! ¿Qué tenemos aquí? Una cara nueva, ¿de dónde vienes?\p…\p¿De Pueblo Paleta? Se te nota en la cara todo lo que has pasado. Me alegro de que hayas cruzado el Bosque Ardiente sin problemas. ¿Cómo te llamas, amig{o}?\p…¿{B01}? ¡Jo, jo, jo! ¡Es un placer tenerte aquí, {B01}! Soy Nicolas, el alcalde de este pintoresco pueblecito.\pHe de decir que es bastante raro ver a un peque llegar a Pueblo Ópalo sin compañía… ¿Tus…?\pAh, qué alivio. Y bien, ¿qué trae por aquí a un{a} jovencit{o} tan decidid{o} como tú?\p¿Explorar? ¿El Desafío de Gimnasios? Madre mía…
+
+### 0999B3A
+¡JO, JO, JO! Por muy mal que estén las cosas, ¡todavía hay jóvenes que luchan y se esfuerzan!\p¡Para alguien tan sombrío, tienes un futuro muy brillante! ¡Jo, jo, jo!\p{B01}, me temo que no tenemos mucho con lo que ayudarte. Cuando tenía tu edad, ayudaba a mi padre en su gimnasio. Él siempre quiso que yo tomara el relevo al hacerme mayor, pero…\pLas cosas pasan. Ojalá pudiera darte una medalla por tu valentía y tu corazón. Tras la segunda erupción, perdimos el gimnasio, nuestras MT y las medallas. Cuando tengas un poco más de fuerza, búscalas. Las medallas antiguas seguramente estén en algún lugar de las Islas Espuma.\pToma esto también.
+
+### 0999D98
+Esa MT es Protección. La vas a necesitar para mantenerte a salvo si quieres recorrer esas malditas cuevas de las Islas Espuma…\pAh, y {B01}. Me gustaría hacerte una invitación.\p¿Te gustaría vivir aquí, en Pueblo Ópalo?\pHay una casa justo al sur del Centro Pokémon. Me gustaría que fuera tuya.\pVeo mucha bondad en ti. Puedes quedarte aquí todo el tiempo que quieras. Conozco la vida aventurera, y Kanto en sí puede dejarte sin fuerzas. Siempre puedes volver a Pueblo Ópalo a descansar.\pBienvenid{o}, {B01}.
+
+### 0999F99
+Nicolas: ¡Jo, jo, jo!\p¿Qué tal te va la vida, {B01}? ¡Espero que saques algo de tiempo para relajarte! ¡Yo estoy pintando este nuevo retrato para el museo!
+
+### 099A209
+Me pregunto si echan algo en la tele…\pAquí no llega la señal. ¿Qué estará viendo papá hoy?
+
+### 099A2CE
+Es una cama. Blandita y calentita…\p¿Irse a dormir?
+
+### 099A2F5
+Qué va, ahora no puedo dormir. Tengo muchas cosas en la cabeza.
+
+### 099A329
+Te metiste en la cama.
+
+### 099A33B
+Ah… Qué gusto.\nCreo que voy a…\pQuedarme…\p…
+
+### 099AAC9
+¡HALA!\p¡Ay, jajaja, qué susto me has dado! No estoy acostumbrada a que la gente entre sin avisar, salvo mi hermano pequeño.
+
+### 099AB49
+¡Puaj! ¡Odio la nieve!\pOjalá pudiéramos ir a la playa o algo. Pero mi hermana mayor dice que no es seguro.
+
+### 099ACC9
+En la tele echan unos dibujos animados. Creo que este ya lo he visto. El Rattata siempre gana.
+
+### 099B349
+Hace décadas era investigador de fósiles. Tendría que haberme hecho biólogo marino.\pCuando encontramos este sitio hace años, pensé que podría dejar atrás el daño que causé, pero no consigo olvidarlo…\pUn ecosistema entero, desaparecido. Así, sin más.
+
+### 099B5C9
+Echan algo en la tele. Una especie de documental de naturaleza. Me encantan los Horsea, ojalá pudiera ver uno.
+
+### 099BC49
+La tele está encendida. Esta peli ya la he visto, va de una tortuga gigante o algo así.\pSe pelea con un lagarto gigante hecho de cuchillos. Bastante absurdo, la verdad.
+
+### 099BE49
+Mi marido ha salido a llevar a los niños a jugar en la nieve.\p¡Es de Fucsia, ¿sabes? Las historias que me cuenta…\pNo me puedo imaginar que exista un sitio así en el mundo.
+
+### 099BF49
+Jajaja… ¡Hola! Sí, los dos son míos.\pEl más bajito es mi hijo, Manny. Su hermana lo sobreprotege muchísimo, pero a él le encanta ir por libre, ¡jajaja!\pVerlos reír me hace sentir… Bueno, ¡algún día tú también lo sentirás, jajaja!
+
+### 12DDC80
+Peeech…
+
+### 12F6EF4
+Alguien está llorando…
+
+### 12F70A3
+¡El fantasma desapareció!
+
+### 13109D3
+Gr… gracias…\pQué frío hace… pero me siento calentito por dentro.
+
+### 1310AC9
+“Isla Canela”\nLos fundadores de Pueblo Ópalo tuvieron que abandonar sus hogares en Isla Canela, una tranquila isla del mar del sur de Kanto.\p¡Era un centro de ciencia y tecnología, y sentía una pasión ardiente por los combates!
+
+### 1310C09
+“Volcán de Canela”\pEl volcán que hay bajo Isla Canela está ahora inactivo, pero entró en erupción dos veces entre los años 1997 y 2017.
+
+### 1310D89
+“¡El exaltado maestro de los acertijos!”\nEl padre de Nicolas, fundador de Pueblo Ópalo, y el ardiente antiguo Líder de Gimnasio de Isla Canela.\p¡Blaine fue uno de los entrenadores y científicos más destacados de todo Kanto!\pSu voluntad inquebrantable y su determinación dieron a la gente de Canela la fuerza para seguir adelante y buscar una vida mejor.
+
+### 1310F49
+Una gran placa dorada con una piedra caliente y resplandeciente incrustada.\p“Museo de Pueblo Ópalo”\nEn memoria de Blaine. Que esta piedra fuego prenda las llamas de un nuevo comienzo para todos.
+
+### 1311049
+“Pueblo Ópalo”\pFundado en 2019, tras 2 años vagando por Kanto y más allá, los inicios de lo que sería Pueblo Ópalo se encontraron en un claro del Bosque Ardiente.\pJunto con los Pokémon del Bosque Ardiente, la gente que una vez no tuvo hogar construyó algo que podría ser suyo para siempre.
+
+### 15746A3
+¿Mm?\p¡Oh! {B01}…\pNo esperaba verte por aquí.\p…\pGracias otra vez por lo que pasó en aquel laboratorio.\pAllí hacen… cosas horribles, pero seguro que lo viste con tus propios ojos.\pTambién querían a mi hijo… Me estremezco solo de pensar lo que le haría a mi pequeño ver algo así.\p…\pEs ese de ahí. Jajaja…\p¡Es tímido! Pero se nota que tiene muchas ganas de jugar con esos niños. Con el tiempo, encontrará el valor para pedirles jugar.\pA su ritmo…
+
+### 1574865
+Vaya, buenas tardes, {B01}. Has vuelto a desconectar, ¿eh?\pSí, hace un buen día. Nublado.\p…\pCuídate. Que te vaya bien.
+
+### 157494C
+El niño está demasiado distraído para fijarse en ti.\pEstá mirando a los otros niños jugar en la nieve.
+
+### 1574C1B
+Este trozo de nieve en concreto parece… un poco vacío.
+
+### 1574C4E
+El mayor tesoro de la gente de las cavernas que vive en la Cueva Diglett.\pEs una piedra.\pAunque aquí queda bien.
+
+### 1574D9B
+Aquí hay un hueco vacío en la pared.\pSe podría colgar una foto o algo.
+
+### 1574DF0
+Una foto de cuando Summer y yo desenterramos un fósil de Colagrito en la Ruta 1.\pEstá borrosa y el pulgar de Summer tapa media foto.\pLa hicimos porque el Profesor Oak no nos creía, y sigue sin creernos.
+
+### 1574F7E
+Esta parte de la pared está vacía.\pPodría poner algo aquí.
+
+### 1574FC5
+Una foto del truco de patinete brutal que hice en el desierto.\pLa hizo Summer, e insistió en que me la quedara.
+
+### 157625B
+Esta pared está vacía…\pDebería poner algo aquí.
+
+### 1576296
+Un póster de Cool Spot…\pEs tan guay…\pSirve como recordatorio constante de que hay que ser siempre guay, con uno mismo y con quienes te rodean.\pEl mensaje de Cool Spot es sencillo… Aunque a menudo se malinterpreta y se pervierte por culpa de lenguas malvadas y malas intenciones.\pSin embargo, los verdaderos fans de Cool Spot conocen la verdad…\pSer guay es aceptar las cosas como vienen, y ser amable y guay con todo el mundo.\pRefresca el mundo y a la gente que te rodea, como 7-Up, la anticola.\pESO sí que es guay.
+
+### 15765C3
+Quizá debería buscar algún adorno o chuchería para esta mesa.
+
+### 1576613
+Es una moneda vieja y gastada que encontré en lo más profundo de las Islas Espuma…\p¿La lanzo?
+
+### 157666C
+Lanzaste la moneda vieja…
+
+### 1576682
+Ha salido cara.\pNo sé muy bien qué significa eso.
+
+### 15766AA
+Ha salido cruz.\pPues nada, no dormiré.
+
+### 157671B
+Una especie de mesita auxiliar.\pMm… Podría poner algún tipo de decoración encima.
+
+### 1576773
+Es un vinilo del álbum “Blood Mountain” de Mastodon.\pEs buenísimo. Pero buenísimo de verdad.\pLo escucharía si supiera qué aparato arcaico usa este disco.
+
+### 157689B
+La verdad es que no tengo nada que poner en este sitio.
+
+### 15768CD
+Un peluche de Clefairy muy mono que conseguí de aquella secta de la Ruta 4.\pEstán como cabras, pero al menos el merchandising es mono y el zumo está bueno.
+
+### 15770B2
+Esta mesa parece vacía. Debería pensar en algo decorativo para ponerle encima.
+
+### 1577100
+Encontré esta ocarina en aquel templo tan raro del bosque…\p¿Tocar algo con la ocarina?
+
+### 157715E
+Qué va.\pSi ni siquiera sé tocar este trasto.
+
+### 1577194
+{B01} cerró los ojos y se llevó el extraño instrumento a los labios.\p…
+
+### 15771DC
+No sé muy bien qué me acaba de pasar…
+
+### 157735B
+Me da que podría poner algo en esta esquina.\pSe ve… vacía.
+
+### 157739C
+No tengo ni idea de qué es esto, pero lo robé del Castillo del Señor de la Codicia.\p…menudo capullo.
+
+### 15775DB
+Aquí no se coge ningún canal…\pTendría que haberme traído una consola o algo.
+
+### 157762C
+Encontré esta PlayStation 1 debajo del escritorio de aquel laboratorio de ordenadores tan raro.\pMe encantaría jugar más al Monster Rancher 2, pero ahora mismo tengo otras cosas que hacer.
+
+### 157775B
+Quizá debería buscar una mesilla de noche o algo.\pDa sensación de vacío tener la cama así, pegada al borde de la habitación.
+
+### 15777D4
+Le quité esta espada a uno de esos guardias vampiro.\pEs una pasada… Con su filo cortaré cualquier maldad o pesadilla que venga a por mí mientras duermo…\pEse es mi camino del samurái…
+
+### 157791B
+¿Me quito los zapatos?\pBueno, es mi casa… Puedo hacer lo que me dé la gana.\pAunque papá igual no opina lo mismo…
+
+### 157798C
+Por lo visto, estos son mis zapatos de baile.\pMe los hizo Kareena. “sii quieeres baailar como es deebido, {B01}, aalma queeriida, neeceesitas loos zaapatos adeecuados, ¡síísí!”\pMe quedan de maravilla… Pero me sabe mal andar por ahí con ellos. No quiero rayarlos.
+
+### 1580499
+Me da que aquí se podría poner algo festivo.\pEn este sitio en concreto…
+
+### 15804E8
+Es un esqueleto festivo tocando la guitarra que saqueé de aquel barco hundido.\pNo es un esqueleto de verdad. …tampoco es una guitarra de verdad.\pSi pulsas este botón, suena una canción pregrabada.\p¿Pulsar el botón?
+
+### 15805CD
+Qué va.\pBuena canción, pero no me apetece la calidad de audio tan mala de este trasto.
+
+### 1580616
+{B01} pulsó un botón del esqueleto.
+
+### 158063A
+Ah, sí…\pQué buena es esta canción…
+
+### 15816DD
+El feng shui de este sitio en concreto no acaba de encajar.
+
+### 1581717
+Ahí está el gnomo de adorno que encontré en los antiguos Grandes Almacenes de Ciudad Celidon.\pSu aura de engreído se burla de mí… aunque desde que lo puse delante de casa tengo mucha más suerte.\pLlámalo superstición…
+
+### 158185B
+Me da que podría poner algo en este sitio…\pO no, así vacío también queda bien.
+
+### 15818C2
+¡AY!\p…ah, claro. Es ese trozo de muro invisible que encontré en la Zona Safari de Ciudad Fucsia.\pSería bastante útil si me dedicara al ninjutsu o a resolver puzles…\p…pero no es el caso. Y solo sirve para darme golpes en los dedos del pie.
+
+### 1581A1B
+Esto es una estantería. Todavía no he puesto nada.\pTampoco tengo nada que quiera exponer en un trasto tan hortera como este.
+
+### 1581A98
+Este es el trofeo que me dio el Campeón Grey justo antes de…\p…desaparecer.\pTener este trofeo es la prueba irrefutable de que ostento el título vigente, defendido y legítimo de Campeón de la Liga Añil…\py de que no hay nadie con más fuerza entrenando en todo el mundo.
+
+### 159FCF8
+¡¡¡CASI TODAS LAS CANCIONES LAS COMPUSO Y SECUENCIÓ WHALE!!! (Amncordy)\n¡Hala!\pCanciones que no son de Whale:\pEncuentro con subjefe\nCompuesta y secuenciada por Magma\pLaberinto de la Codicia\nCanción original: 9 - Pouncer Course\nde Wario Land: Super Mario Land 3\nCompositores: Ryoji Yoshitomi y Kozue Ishikawa\nSecuenciada por Magma\pPueblo Paleta\nCanción original: Maybe Everything Will Be Ok… de Crow Country (2024)\nCompositor: Ockeroid\nSecuenciada por Magma\pVictoria en combate\nCanción original: Results de Atari Karts (1995)\nCompositor: Fabrice Gillet\nSecuenciada por Magma\pTema del superjefe 2\nCanción original: Intro de Atari Karts (1995)\nCompositor: Fabrice Gillet\nSecuenciada por Magma\pBosque Ardiente\nCanción original: Siberian Tunnel de Strider (1989)\nCompositora: Junko Tamiya\nSecuenciada por Whale\pEncuentro con entrenador 1\nCanción original: Encounter/Jason inside the Cabin de Friday the 13th (NES 1989)\nCompositor: Hirohiko Takayama\nSecuenciada por Stockman (vgmusic.com)\pSintonía del Recordador de Movimientos\nCanción original: Game Over de Forgotten Worlds (1988)\nCompositora: Tamayo Kawamoto\nSecuenciada por Stephen P. (vgmusic.com)\pSintonía de medalla obtenida\nCanción original: Character Joins de Shining Force 2 (1993)\nCompositor: Motoaki Takenouchi\nSecuenciada por Johnnyz (vgmusic.com)\pTema del Centro Pokémon\nCompositor y secuenciador: Joey Zeed\pLa radio de Summer\nCanciones originales: Creep de TLC y Never too Late de Three Days Grace\nSecuenciador: desconocido, midis sacados de bitmidi.com\pCasino de Plateada\nCanción original: Stage 1 de Streets of Rage (1991)\nCompositor: Yuzo Koshiro\nSecuenciada por Ian Bennett (vgmusic.com)\pTema del patinete\nCanción original: A Story About Us de Never Too Late, adaptada en el juego Razor Freestyle Scooter (GBC 2001)\nCompositor: desconocido\nSecuenciada por Magma\pPalacio del Desierto\nCanción original: Steambreather de Mastodon\nRemix compuesto y secuenciado por ¡¡¡Whale!!!\p¡Combate! VS Emperador de la Arena\nCanción original: The Wolf is Loose de Mastodon\nSecuenciada por ¡¡¡Whale!!!\pTema de los créditos\nCanción original: Oh Shiela de Ready for the World\nSecuenciador: desconocido\pTema de combate contra entrenador\nCanciones originales: Laura in the Bathtub y Don't Cry, Jennifer de Clock Tower (SNES, 1995)\nCompositor: Koji Niikura\nSecuenciada por Zachary J. Palmer (vgmusic.com)\pTema del capullo codicioso\nCanción original: Wario Battle de Super Mario Land 2: 6 Gold Coins (1992)\nCompositor: Kazumi Totaka\nSecuenciada por Alluro95 (vgmusic.com)\pSueño del bosque\nCanción original: Forest Temple de Legend of Zelda: Ocarina of Time (1997)\nCompositor: Koji Kondo\nSecuenciada por Shawn Gibbons (vgmusic.com)\pSe acerca la bestia\nCanción original: combate contra Raikou, Entei y Suicune de Pokémon Oro/Plata/Cristal\nCompositores: Go Ichinose, Junichi Masuda, Morikazu Aoki\nSecuenciada por Jace (vgmusic.com)\pCombate VS Oak\nCanción original: Champion Battle de Pokémon Oro/Plata/Cristal\nCompositor y secuenciador del remix: Jace (vgmusic.com)\pRuta 21\nCanción original: tema de Santana de Survival Arts (1993)\nCompositor: Shigeyuki Shinbo\nSecuenciada por Whale\pConsejos de entrenador\nCanción original: sintonía de Dr. Amigo Family Clinic\nCompositor: desconocido\nSecuenciada por Whale\pCiudad Celeste (superficie)\nCanción original: Comb Reef de Endless Ocean (2007)\nCompositora: Ayako Saso\nSecuenciada por Whale\pTorre Carmín\nCanción original: Clotho de Columns (1989)\nCompositor: Tokuhiko Uwabo\nSecuenciada por\pMuseo de los Créditos\nCanción original: Changes de Black Sabbath\nSecuenciada por Whale\pGuitarra esqueleto\nCanción original: In the End de Linkin Park\nSecuenciada y remezclada por Whale\pCombate contra el chamán\nCanción original: Rainbow Demon de Uriah Heep\nSecuenciada por Whale\pTodas las canciones las arregló, editó e insertó Joey Zeed
+
+### 15A0A6B
+Contraseña del final secreto 2:Ij
+
+### 15A0A87
+Contraseña del final secreto 2:tr
+
+### 15A0AF8
+Guion y programación: Joey Zeed, pero obviamente esto es un romhack de Rojo Fuego, que no hice yo, JAJA\pAyuda y asistencia con el guion:\nXecrus\nYeahPotato\nDontJoelMe\nBroTacos\nAdriccustoms\nInvis\pEste juego se hizo con la Decap and Attack Rombase de MrDollSteak\pHerramientas usadas para hacer este juego:\nMicrosoft Paint\nBeepbox\nAnvilStudio\nSappy\nHexManiacAdvance\nmGBA\nAudacity\nCryEditor
+
+### 15A0C71
+Contraseña del final secreto 3:\n(guion bajo)\npara que quede claro, la 3.ª contraseña es un solo guion bajo.
+
+### 15A0CD2
+Contraseña del final secreto 3:N
+
+### 15A0D49
+Museo de los Créditos\p¡¡¡Lee todos los créditos y junta un código para encontrar el FINAL SECRETO!!!\p(¡¡¡No olvides apuntar todos los códigos secretos y su orden!!! ¡En total necesitarás juntar 7 códigos!)\p¡Enhorabuena, Campe{on} {B01}!
+
+### 15A0EB8
+Todos los gritos los editó e insertó Joey Zeed, sacados de los juegos originales de Pokémon, Pokémon Stadium 1/2 y Snap\pVoces de los personajes\nBunnyVA: Summer, Moa, Alyce, Kareena, Yam, Enfermera Joy, Mujer Pesadilla, Theodora, Spruce, dependienta del Snack Sneasel (Verde, Azafrán), Lylia, Erika, Condesa de las Fauces Carmesí, Onibaba, Junebug, Amn, Sabrina, Blanca, Pepita, Sectaria Ascendida, Nasha\pWhale: Amn, Profesor Oak, Teal\pNathaniel Lee: Nicolas\pJoey Zeed: Humano, Mereanie, fantasma de la pantalla de título, fantasma de “Vuelve atrás”, Dr. Hexágono, John Pokémon Edición Ghost Grey, Morti, Hombre Pesadilla, Fredo, Takeshi, Vorelli, dependiente del Snack Sneasel (Carmín, Celidon), Lance, Cap'n Steve, Maximus Voltage, Recordador de Movimientos, El Mercader, Marshall, Aston, La Bestia sin Nombre, Bruno III, Hombre Amable, Hombre Enmascarado\pMan Ham Productions: Crítico de internet\pCharles Martinet: Wario\pMongo: él mismo
+
+### 15A1214
+Contraseña del final secreto 4:a
+
+### 15A122F
+Contraseña del final secreto 4:M
+
+### 15A12B8
+Historia, personajes y diálogos escritos por Joey Zeed\pAyuda importante con la edición y escritura de diálogos, y mensajero de frases extrañas y crípticas: Nathaniel Lee\pEntradas de la Pokédex escritas por Joey Zeed, Nathaniel Lee y Ghosty
+
+### 15A138E
+Contraseña del final secreto 5:R7
+
+### 15A13AA
+Contraseña del final secreto 5:Ru
+
+### 15A14B9
+ni idea de por qué esto no funciona, jaja
+
+### 15A2678
+Gráficos\pTodos los sprites de Pokémon los dibujó y diseñó Joey Zeed\psalvo Trapinch, que dibujó y diseñó Whale (Amncordy). Eyeron lo diseñó Sunny, y el diseño de Bellossom es de Nigel (arachnocturne) y lo dibujó Joey Zeed.\pSprites traseros dibujados por Joey Zeed\pSprites de entrenadores dibujados y diseñados por Joey Zeed, ¡pero no todos! Whale (Amncordy) dibujó los siguientes, y luego yo les di sombreado:\pCarroñero y Carroñera\nMarinero\nJardinero\nSprite de combate del Emperador de la Arena\nSirviente de la Arena\nManíaco y Maníaca Hex\nCondesa de las Fauces Carmesí\nHombre Salvaje y Mujer Salvaje\nAgente\nGuardia Vampiro\nLas dos variantes del Pirata Fantasma\nQuemado\nRarita\nPescador\nCavernícola\nTipo Turbio y Tipa Turbia\pTodos los retratos de diálogo de los personajes los dibujó Joey Zeed, salvo los retratos del espejo del baño de Plateada y los de Wario, que dibujó Nate y luego sombreé yo\pLas animaciones de combate se sacaron de Pokémon Trading Card Game (GBC), Oro/Plata/Cristal y Rojo/Azul/Amarillo, redibujadas y decoloradas por mí; el resto de animaciones de combate las dibujó y animó Joey Zeed\pLos tilesets se sacaron de los siguientes juegos:\nPokémon Rojo/Azul/Amarillo\nPokémon Trading Card Game (GBC)\nPokémon Oro/Plata/Cristal\nBomberman Quest\nDigimon 3 Crystal (Bootleg)(GBC)\nShi Kong Xing (Bootleg)(GBC)\nThe Legend of Zelda: Link's Awakening\nThe Legend of Zelda: Oracle of Ages & Seasons\nThe Legend of Zelda: The Minish Cap (Bootleg)(NES)\nWai Wai World (NES)\nFinal Fantasy (NES)\nFinal Fantasy 7 (Bootleg)(NES)\nSuper Mario Land 2: 6 Gold Coins\nMetal Gear: Ghost Babel\nTales of Phantasia: Narikiri Dungeon\nHello Kitty no Happy House\nShiren the Wanderer GB2: Magic Castle of the Desert\nMystical Ninja Starring Goemon\nDragon Warrior Monsters 2\nMahjong Quest (J-Wing)\nTodos los tilesets se encontraron en The Spriters Resource o los extrajo directamente Joey Zeed, que los redibujó y decoloró\pLos sprites del mapa los dibujó Joey Zeed, y algunos se sacaron de:\nPokémon Rojo/Azul/Amarillo\nPokémon Trading Card Game (GBC)\nPokémon Oro/Plata/Cristal\nRedibujados y decolorados por Joey Zeed
+
+### 15A2E7F
+Contraseña del final secreto 1:Z9
+
+### 15A2E9B
+Contraseña del final secreto 1:rc
+
+### 15A3989
+Disy: ¡Hola! ¡Soy Disy!\p¡Bienvenid{o} al Museo de los Créditos, Campe{on} {B01}!
+
+### 15A3A00
+Edy: ¡Hola! ¡Soy Edy, y ayudé a organizar este Museo de los Créditos!\p¡Adelante, que disfrutes de la lectura, amig{o}!\p¡Cuando juntes todas las contraseñas en orden, del 1 al 7, el código revelará la URL de un vídeo oculto de YouTube!\pLa URL es:\nhttps://youtu.be/(Código de la contraseña secreta)
+
+### 15A3BB9
+Agradecimientos muy especiales:\pGracias a los artistas que inspiraron este juego, en especial a los músicos de este juego que fallecieron durante su desarrollo:\nBrent Hinds, de Mastodon\nEl Príncipe de las Tinieblas, Ozzy Osbourne\pDescansad en paz, gracias por vuestro arte.\pGracias muy especiales a Nathaniel Lee, un escritor con mucho talento que me enseñó un montón sobre cómo ser más eficaz escribiendo, por muy caótico que sea yo, jaja. Valoro muchísimo tus aportaciones y tu visión sobre lo que te pregunté. ¡¡¡Gracias!!!\p¡Gracias muy especiales a Ghosty! Gracias por ayudarme con esto y por dar, en cierto modo, el pistoletazo de salida a toda mi aventura desarrollando juegos, ¡jajaja! Por un extraño efecto mariposa, no podría haber hecho esto sin ti, ni sin Sunny, ni sin Cool Spot. Gracias, de verdad, de todo corazón.\p¡Gracias muy especiales a Magma! Ha sido genial verte perseguir tus propias metas y superar tus propios límites intentando ayudar con esto. Me has ayudado muchísimo y tengo muchas ganas de ver cómo acaba tu arco de entrenamiento. Gracias, amigo.\p¡Gracias muy especiales a Nate! Gracias por ser un buen amigo y un digno Embajador de Wario. No sé cómo, pero atraes a buena gente, a grandes amigos y a una comunidad maravillosa. Muchísimas gracias, Nate. ¡Wah!\p¡Gracias muy especiales a Nigel! Tu entusiasmo por mi proyecto me ha llegado al alma. Me encantan tu arte y tus aportaciones. La prueba de errores no podría haber ido mejor, y en gran parte es gracias a ti. ¡Tengo muchas ganas de ver lo próximo que dibujes! Gracias, Nigel.\pY el agradecimiento más especial de todos es para Whale (amncordy), el compositor de este maravilloso juego.\pQué casualidad tan curiosa la que nos llevó a trabajar juntos. Trabajar contigo en este proyecto ha sido una de las mejores experiencias creativas que he tenido, si no la mejor. Tu forma de crear canciones con indicaciones mínimas y de captar exactamente el ambiente que tenía en mente es una locura. Creo que tú, más que nadie, siempre entendiste el ambiente y la atmósfera exactos que buscaba con este proyecto; aunque nunca lo expresé con palabras, de alguna manera lo entendiste.\pTienes un talento increíble, y estoy eternamente agradecido y bendecido por haber podido compartir este tiempo y este trabajo contigo, ¡y más aún por poder llamarte amigo!\pDesde lo más hondo hasta lo más alto de mi corazón, gracias, Whale.\pOjalá volvamos a trabajar juntos, para que puedas lucirte de verdad y enseñarle al mundo este talento y este arte que has llevado dentro todo este tiempo. Y si no, ¡siempre nos quedará Ghost Grey, jaja!\pTe quiero para siempre, amigo. Gracias, Whale.\pPara George:\ngracias\ppara Eugenie:\nOjalá, de alguna manera, en algún lugar, puedas ver esto. Creo que, después de esto, por fin intentaré pasarme el Bio-Hazard Battle, como prometimos. Tu positividad siempre me ha empujado a seguir adelante en la vida. Te quiero y te echo de menos. Gracias por dejarme formar parte de tu vida.\pY un enorme, gigantesco gracias a TI, el ser humano que está leyendo esto. ¡El mundo está esperando escucharte y ver TU arte!\p¡Así que sal ahí fuera y créalo! Te quiero. Gracias a todos.\p- Joey Zeed
+
+### 15A47E2
+Contraseña del final secreto 7:\n0\ppara que quede claro, la última contraseña del final secreto es el número 0.
+
+### 15A4843
+Contraseña del final secreto 7:\ns\ppara que quede claro, la última contraseña del final secreto es una s minúscula.
+
+### 15B11B9
+Agradecimientos especiales\pMuchísimas gracias a TI por jugar a mi juego y por tomarte el tiempo de leer esto y de tragarte todos estos créditos, jaja.\pDe verdad, espero de corazón que hayas disfrutado de mi pequeño proyecto. ¡Me encantaría saber qué te ha parecido!\pMuchísimas gracias a toda la gente del Discord de Ghost Grey, ¡y también a la gente de r/PokemonROMhacks, YouTube y Pokecommunity!\pTambién quiero dar las gracias a las personas que me ayudaron de cualquier pequeña forma durante todo este proceso. En especial:\nGhosty, Sunny, Magma, Seiko, Nate, Nathaniel Lee, Servbot, Ryuu, Bret y Teddy, ¡del grupo de Nate!\pGracias a todos por empujarme a ser más creativo y por dar alas a mis ideas.\p¡Quiero dar las gracias a todos los amigos de la escena del ROMhacking que hice durante el desarrollo de este juego!\nInvis, Joel, Xecrus, YeahPotato, BroTacos, Bakinet, Verris, Adric, Commando0789, Metaphysical, Drewsome, LibertyTwins, Mediko, Paco y Star Dragon.\pTodos me habéis ayudado muchísimo a mejorar como artista y como creador de juegos, y os estoy profundamente agradecido.\pMuchísimas gracias a mi increíble equipo de pruebas:\nWhale (amncordy)\nMagma\nVileVermin\nNigel (arachnocturne)\nJeff\nJake from Real Life\nStorm\nAdriccustoms\nRyuuhime\nGhosty\nYan Chop\p¡Y un pequeño saludo a mis otros amigos con los que compartí cosas! Bowlnir, Heiwa, Hunter, Man Ham Productions y Lauren. ¡Y gracias a BunnyVA por ser una actriz de voz maravillosa con la que trabajar!\pY un saludo también a mi tío y a mis primos pequeños al otro lado del océano. Espero que hayáis jugado a esto y lo estéis leyendo, jaja.
+
+### 15B1FB7
+Contraseña del final secreto 6:VC
+
+### 15B1FD3
+Contraseña del final secreto 6:\n6l\ppara que quede claro, la 6.ª contraseña es el número 6 y una L minúscula.
+
+### 15B208A
+Agradecimientos especiales\pMuchísimas gracias a TI por jugar a mi juego y por tomarte el tiempo de leer esto y de tragarte todos estos créditos, jaja.\pDe verdad, espero de corazón que hayas disfrutado de mi pequeño proyecto. ¡Me encantaría saber qué te ha parecido!\pMuchísimas gracias a toda la gente del Discord de Ghost Grey, ¡y también a la gente de r/PokemonROMhacks, YouTube y Pokecommunity!\pTambién quiero dar las gracias a las personas que me ayudaron de cualquier pequeña forma durante todo este proceso. En especial:\nGhosty, Sunny, Magma, Seiko, Nate, Nathaniel Lee, Servbot, Ryuu, Bret y Teddy, ¡del grupo de Nate!\pGracias a todos por empujarme a ser más creativo y por dar alas a mis ideas.\p¡Quiero dar las gracias a todos los amigos de la escena del ROMhacking que hice durante el desarrollo de este juego!\nInvis, Joel, Xecrus, YeahPotato, BroTacos, Bakinet, Verris, Adric, Commando0789, Metaphysical, Drewsome, LibertyTwins, Mediko, Paco y Star Dragon.\pTodos me habéis ayudado muchísimo a mejorar como artista y como creador de juegos, y os estoy profundamente agradecido.\pMuchísimas gracias a mi increíble equipo de pruebas:\nWhale (amncordy)\nMagma\nVileVermin\nNigel (arachnocturne)\nJeff\nJake from Real Life\nStorm\nAdriccustoms\nRyuuhime\nGhosty\nYan Chop\p¡Y un pequeño saludo a mis otros amigos con los que compartí cosas! Bowlnir, Heiwa, Hunter, Man Ham Productions y Lauren. ¡Y gracias a BunnyVA por ser una actriz de voz maravillosa con la que trabajar!\pY un saludo también a mi tío y a mis primos pequeños al otro lado del océano. Espero que hayáis jugado a esto y lo estéis leyendo, jaja.\pPor cierto, ni idea de por qué este no funciona. La contraseña está en la pared, a la derecha de esto, jaja.

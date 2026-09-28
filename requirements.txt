@@ -1,0 +1,4 @@
+numpy
+Pillow
+# opcional, solo para regenerar data/parches_codigo.json (tools/parches_asm.py)
+# keystone-engine

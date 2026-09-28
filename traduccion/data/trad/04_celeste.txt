@@ -1,0 +1,523 @@
+#! Lote 04: Mt. Moon / Base Lunar (1.1-1.3), Ruta 4 (3.22), Ciudad Celeste (3.3, 7.x)
+
+### 016ACFB
+¡Arrr! ¡¿Quién se ha llevado mi ron?!\pLo estaba guardando pa’ luego… ¡Arrr!
+
+### 016AE7A
+¡Arrr! ¿Un{a} mariner{o} de agua dulce?\p¿Te gusta mi humilde morada, chaval{a}?\pUn{a} jovenzuel{o} como tú… ¡Aún me acuerdo de esos días! ¡Yo era un grumete de provecho! ¿Y ahora…?\p¡Sigo siendo un puñetero grumete! ¡Arrr!
+
+### 016AF26
+¡Arrr! ¿Un{a} mariner{o} de agua dulce?\p¿Te gusta mi humilde camarote, chaval{a}?\pUn{a} jovencit{o}… ¡Todavía con carne en los huesos! ¡Me recuerdas a mi mujer, cuando aún me entraba aire en los pulmones!\p¡Se divorció de mí y me tiró por la borda! Arrr…\pYa no hacen mujeres así…\pArrr…
+
+### 0172C5A
+Eh, colega, ¿seguro que ahora mismo tienes que estar en el Edificio Zan Bay?
+
+### 0172CFC
+¡Ay, madre! ¡Creo que no deberías estar aquí!
+
+### 0172D46
+¡Ay, porras!
+
+### 0172D51
+Te… ¡Tengo que contarle esto al Padre Luna!
+
+### 0172DAF
+¡Ay, no, ay, no!
+
+### 0172DF0
+¡No te acerques más! ¡Las llaves tienen que mantenerse en secreto!
+
+### 0172E3E
+¡Ay, rediez!
+
+### 017F319
+S O L O\nL A\lF U E R Z A\lD E\lU N\lC A M P E Ó N\lP U E D E\lA F R O N T A R\lL A S\lC O N S E C U E N C I A S\lD E L\lP O D E R
+
+### 0191967
+Veamos…\p¿Qué medalla quieres que te describa?
+
+### 0191A31
+Esta medalla gozaba antes de una reputación de dureza.\pSolo los entrenadores con verdadero talento y motivación podían conseguirla.\pY ahora se puede comprar…
+
+### 0191CA9
+El Emperador aún vive. En las arenas del tiempo, en la arena bajo tus pies, en la que arrastra el viento.\pSu trono custodia un mal grande y antiguo… un mal que, curiosamente, siento dentro de ti.
+
+### 0191D78
+…\p…¿cómo?
+
+### 0191E13
+¡Eh! ¿Qué haces colándote en mi casa?\p¡Mi marido, el pirata fantasma, me está preparando una cena deliciosa! ¡No vas a probar ni un bocado! ¡Fuera!
+
+### 01925AC
+Ja, ja, ja…\p¡Si yo no tengo ni reflejo de arcada, grumete! ¡No vas a poder beber más que yo!
+
+### 0192937
+¡Estos patinetes son una pasada, pero son carrrrísimos!
+
+### 01929AD
+¡Un patinete nuevo y reluciente!
+
+### 0823D3A
+Una estatua de piedra de una sirena. … El agua bajo esta estatua tiene algo raro.\p¿Sumergirte en el agua?
+
+### 0823DB1
+¡Aguanta la respiración!
+
+### 0823DC3
+Mejor no. ¿Cómo es posible que esa estatua se mantenga sobre el agua?
+
+### 08270C9
+¡Arrr! ¿Qué te pasa, pisatierras? ¿Nunca habías visto un pirata fantasma con tus propios ojos? ¡Ja, ja, ja!
+
+### 0827149
+¿Un pisatierras? ¿Cómo diantres, por la cola de una sirena, has buceado hasta aquí?\p¡Me pregunto cuánto aguantarás con vida! ¡A lo mejor acabas uniéndote a nuestras filas! ¡Ja, ja, ja!
+
+### 0827249
+¡Arrr! Es una sire…\pArrrr… ¡Tú no eres una sirena! ¡Se me debe de estar agitando la calavera de tanto pensar en una sirena preciosa…!\p¡Arrr! ¡Mi mollera hueca ya está haciendo el vago otra vez! ¡El capitán me arrancará la calavera si me vuelve a pillar!
+
+### 0827400
+¡Arrr! ¡Un alma fresca para echar al calabozo! ¡Ja, ja, ja! ¡A las armas, pich{on}!
+
+### 0827480
+¡Que me tiren por la borda y me recorten la ración!
+
+### 0827600
+Tienes fuerza para ser de tierra firme. Si fueras un fantasma, serías un buen pirata, ¡ja, ja, ja! ¡Ahora lárgate antes de que pierdas las piernas!
+
+### 082FB80
+¿Eh? ¿Tú? ¿S-solo quieres una medalla? ¿Esta c-c-cosa vieja?\pEspera, da-dame un mi-minuto…\p…\p…y soltar el aire.\pSolo he d-d-dado unas pocas y hace tiempo de eso…\pYa ca-c-casi no viene nadie por aquí. Solo f-f-fantasmas. Me dan pánico.\p¡En fin, sí! Me has g-ganado a mí, el Líder de Gimnasio, ¡así que te has ganado esta m-medalla!\pAh, y t-t-t-toma e-esto.
+
+### 082FD40
+{B01} recibió la MT27 de manos del Cmdte. Voltage.
+
+### 08AAC40
+Es Onda T-trueno. D-descarga y p-p-p-paraliza a tus enemigos, y te hace g-ganar algo de tiempo.\pPuedes usar el ascensor que hay a mi izquierda para s-s-salir de aquí…\pOye, gracias por v-venir a luchar conmigo. Y por escucharme.\pÚ-ú-últimamente he estado m-m-muy metido en mi cabeza, y me c-cuesta concentrarme.\pEres buena gente. Ojalá más p-personas fueran como tú.\pOye, ¿q-qué vas a h-hacer ahora?\p…\pTienes unos objetivos muy amb-b-biciosos, {B01}. Yo siempre q-quise viajar y ver m-m-mundo, pero ni siquiera he salido de C-c-carmín desde que me destinaron a K-kanto…\p¿S-sabes? C-creo que yo también me voy a ir de aquí. Esta región da b-b-bastante miedo, pero…\pQ-quizá me guste. Espero verte pronto.\pGracias, {B01}. Por cierto, mi n-nombre real es M-m-m-maximus.
+
+### 08DAC34
+¡{B01} también obtuvo la Medalla Descarga!
+
+### 091A17E
+“¿Lo soy?”\p…\p…Este agujero es bastante profundo.\p…
+
+### 091A1AF
+Tan joven… ¡Kijijiji!
+
+### 091A1CA
+De algún modo, has sobrevivido. …\pEstá inconsciente… y se le ha caído algo.
+
+### 091A211
+{B01} cogió la Medalla Caos del suelo.
+
+### 091A23F
+¡No te muevas, criatura! ¡Deja que te despedace! ¡Kiiijijijiji!
+
+### 091A270
+Onibaba: ¡AAUUUGH! Ugk…
+
+### 091BC11
+Está inconsciente…\nPero, de algún modo, siento que sigue observándome.\pTengo que salir de este agujero.
+
+### 0B58489
+Taberna de Ciudad Celeste\n¡Venid, piratas fantasma, y trincaos una jarra de cerveza! ¡Arrr!
+
+### 0B58580
+Ciudad Celeste\n¡Si lo ves todo azul, eres un pirata! ¡Ja, ja, ja!
+
+### 0B78FC1
+El cuerpo de un chico yace sobre la tierra.\p¿Darle una sepultura digna?
+
+### 0B78FFF
+{B01} empezó a cavar un hoyo.
+
+### 0B79019
+Oh…\nEs su tarjeta de entrenador.
+
+### 0B79036
+{B01} se guardó en el bolsillo la tarjeta de entrenador de Dezo.
+
+### 0B79062
+Supongo que no. Ni siquiera sé quién es.
+
+### 0B7908E
+Aquí es donde enterré a Dezo.\pEspero que descanse en paz, esté donde esté.
+
+### 0B792B1
+Maximus: ¡Eh! ¡{B01}! ¿Q-qué tal te va? Esperaba v-volver a verte.\p…\pEeeh… ¿q-qué tal tu carrera de entrenador{a}? ¿A-alguna medalla nueva?\p¡Qué bien! Eres genial. Yo t-también he estado entrenando.\pEsta vez me g-gustaría desafiarte yo.
+
+### 0B793A3
+¿Emp-pezamos, {B01}?
+
+### 0B793B0
+Maximus: ¡Hala! ¡Eres im-imb-batible!
+
+### 0B793D5
+Maximus: V-vaya…
+
+### 0B793E7
+Maximus: B-bueno, gracias, {B01}. Siempre pensé que era fuerte, hasta que te conocí.\p…\pEn fin, seguro que t-tienes cosas que hacer. Yo voy a ir a n-nadar un rato.\p…\pHasta luego.
+
+### 0B7D489
+¡Arrrgh!\p¡¡ARRRGH!!\p¿Hola?\p¡Arrrgh!\p¡Ay, di algo! ¡Me estás asustando!
+
+### 0BEBB09
+¡Hola, colega, pasa, pasa! Echa un vistazo, ¡bebe un poco de agua! ¡También tenemos zumo!
+
+### 0BEBC09
+¡Hola, colega! ¿Quieres coger el tranvía hasta nuestras exclusivas suites familiares? Tienes que ser una Criatura Lunar, ¡y es una pasada!\pSi quieres, ¡te hago una orientación! ¡Mañana conoceremos a nuevos miembros de la familia! ¡Sería genial que vinieras, colega!
+
+### 0BEBD80
+¡Hola, amig{o}! ¡Ay, jo! ¡Parece que no eres una Criatura Lunar!\p¡Sería superchulo tenerte en nuestra familia! Mañana estaré aquí enseñando a algunos miembros nuevos, ¡sería una dulzura que vinieras!
+
+### 0BEBEC0
+¡Ay, qué alegría verte! ¡Tendrás ganas de descansar, colega! ¡Deberías sentarte y relajarte! ¡Tenemos todo tipo de lecturas geniales para que desconectes!
+
+### 0BEBFC0
+¡Bueno, hola, amig{o}! ¡Me alegro de que hayas podido venir hasta aquí!\pAy, jo, ¿necesitas descansar? ¿Por qué no pasas y te sientas un ratito? ¡Tenemos zumo y libros divertidos para leer!
+
+### 0BEC0CC
+¡Hola, colega! ¡Has llegado! Plateada es un asco, ¿eh? Todo contaminación y ruido, ¡menudo muermo de sitio! Oye, ¿has oído hablar de la familia Luna? ¡Es lo mejor! ¡Pasa y te lo contamos todo!
+
+### 0BEC289
+¡Holaaa! ¡Oh, vaya, qué monada! ¿Eres una Criatura Lunar?\p¿No? Qué pena… ¡Me encantaríaaa conocerte mejor, pero ahora tenemos comida familiar y después tengo que cambiar de puesto!\p…Si fueras una Criatura Lunar, ¿a lo mejor podríamos quedar? ¡Ji, ji!
+
+### 0BEDEC9
+Tranvía de la Familia Luna\nVestíbulo - Edificio Drum
+
+### 0BEDF49
+Tranvía de la Familia Luna\nVestíbulo - Edificio Zan Bay
+
+### 0BEDFC9
+Tranvía de la Familia Luna\nVestíbulo - Edificio High Sow
+
+### 0BEE049
+Tranvía de la Familia Luna\nVestíbulo - Edificio Flex
+
+### 0BEE0C9
+Tranvía de la Familia Luna\nVestíbulo - Sala del Padre
+
+### 0BEE176
+¡Din-don! ¡El Tranvía Luna 1 embarca ahora hacia el Edificio Zan Bay!\p¿Te subes, colega?
+
+### 0BEE1CA
+¡Pasajeros al Edificio Drum, al tranvía! ¡Agárrate bien y ten cuidado!
+
+### 0BEF5F6
+¡Din-don! ¡El Tranvía Luna 2 embarca ahora hacia el Edificio Drum!\p¿Te subes, colega?
+
+### 0BEF647
+¡Pasajeros al Edificio Drum, al tranvía! ¡Agárrate bien y ten cuidado!
+
+### 0BF266E
+¡Din-don! ¡El Tranvía Luna 4 embarca ahora hacia el Edificio Flex!\p¿Te subes, colega?
+
+### 0C5FF5D
+Parecen los restos de un capitán de navío que fue grande. Incluso sin vida y sin espíritu, el cadáver del capitán transmite el prestigio de mil victorias…\pEn el hombro del capitán hay una insignia reluciente… ¡Al mirarla de cerca, resulta ser la Medalla Inundación! ¿Cogerla?
+
+### 0C60060
+Arrr… ¿Quién osa perturbar mi sueño?
+
+### 0C60083
+Capitán Steve: ¡¡Arrr!! ¿Te crees que, por ser ciego, no te puedo ver? ¡Serías un{a} neci{o}!\p… Pero tendrías razón. ¡Ven aquí, brib{on}! ¿Nunca has oído las leyendas del temible pirata, el Capitán Steve? ¡JEEEYAH! ¡TOMA ESTO, CANALLA!
+
+### 0C60163
+Capitán Steve: Esto… ¿Te han rajado mis garfios? Igual me he vuelto a enganchar la rótula.\p¡Bueno, ya me entiendes! {C0B5601}\p¡Ahora sal de mi camarote, a menos que quieras un combate de verdad! ¡He notado que intentabas coger mi insignia del tesoro! ¡Te rebanaré el pescuezo antes que entregar mi botín!\p¡¡¡Arrr!!! ¡Rayos y centellas! ¡Si quieres pelea, pelea tendrás! ¡En guardia, perro sarnoso!
+
+### 0C602D4
+¡Maldita sabandija! ¡Has matado a mi único pájaro!\p¡Petey! ¡Petey, despierta, bribón! ¡No te puedes morir, eres mi primer oficial!
+
+### 0C60342
+¿Robarle a un cadáver? Incluso para ti, eso es caer bajo. Mejor dejarla ahí. Aunque brilla, eso sí.
+
+### 0C603A4
+Capitán Steve: ¡PETEY! ¡Nunca te lo perdonaré! ¡Mientras vivas, te echaré la MALDICIÓN DEL TEMIBLE PIRATA! ¡Y nunca saquearás mi insignia del tesoro, tan cierto como que el temible pirata, el Capitán Ste…
+
+### 0C60455
+Petey: Na… tu.
+
+### 0C60464
+Capitán Steve: ¡Petey! ¡Mi primer oficial! ¡Todavía respiras con esos pulmones tan finos y emplumados! ¡¡¡Arrr!!!\pBueno, asquerosa rata de sentina, puede que seas una sabandija, pero eres un rival formidable… ¡Así que mi insignia del tesoro es tuya! ¡Arrr!
+
+### 0C60531
+¡{B01} saqueó la Medalla Inundación del temible pirata, el Capitán Steve!
+
+### 0C60571
+Capitán Steve: ¡Y ahora fuera de mi barco! ¡A menos que quieras fregar la cubierta de popa! ¡Es la hora del segundo desayuno de Petey! ¡Arrr!
+
+### 0C605EC
+Capitán Steve: ¡Arrr! ¿Qué haces volviendo a mi camarote? ¡No tienes edad para ser pirata! ¡Primero tienes que quitarte la carne de esos huesos! ¡Ja, ja, ja, ja, ja!
+
+### 0F71F00
+¡Esto, perdona!\p¡Estamos a punto de recibir nuestras instrucciones diarias!\p¡No tienes autorización para estar aquí!
+
+### 0F71F80
+¡Ay, madre mía de mi vida!
+
+### 0F72000
+Lo siento, ¡pero tengo que contarle esto al Padre Luna!
+
+### 0F72309
+¡Hola, amig{o}! ¡Oh, debes de haber llegado hace poco!\p¡Bueno, estamos a punto de repasar las instrucciones del día del gran heraldo de la Luna!\p¡Te interesa ir a la sala de reuniones especial! ¡Aún hay una tarea para ti!
+
+### 0F74BAE
+¡Din-don! ¡El Tranvía Luna 5 embarca ahora hacia el Puesto de Seguridad del Padre!\p¿Te subes, colega?
+
+### 107BC09
+En la pared cuelga una foto dañada por el agua, pero aún se distingue la imagen de un grupo de marineros.
+
+### 107BC89
+En la tele echan algo…\pUnos dibujos animados de piratas; todos luchan en una especie de batalla gigante. Ninguno de ellos está en un barco.\p¿Por qué tienen los ojos tan grandes?
+
+### 107C2C9
+Una foto de Barrel Boy, ganador del concurso de trucos en patinete pirata de 2048.
+
+### 107C340
+Arrr… ¡A los piratas siempre nos han encantado los patinetes!\p¿Qué sabrá de eso alguien de carne y hueso como tú?\p¡Ja, ja, ja!
+
+### 107C400
+Arrr. ¡Tu patinete es muy chulo!
+
+### 107E683
+¡Arrr!\p¿Qué? ¡Tú no eres de nuestra tripulación de piratas fantasma!\p¡Para ti no hay patinete, ja, ja!\pGrrr…\pAsí que no aceptas un no por respuesta, ¿eh? ¡Muy bien!\pMe has obligado, perro sarnoso… ¡Si quieres uno de mis patinetes, acepto tu propuesta de un duelo pirata a muerte!
+
+### 107E798
+Bien, pisatierras… Da 3 pasos atrás y luego haremos un duelo a ver quién desenfunda más rápido.\pA la de 3… ¡Quien desenfunde más rápido se lleva un patinete nuevecito! …¡y la vida! Arrr…
+
+### 107E84F
+Muy bien, perro…\p1…\p2…\p¡3!
+
+### 107E86A
+¡Ay! ¡Me ha petardeado la pistola!\p¡Me has matado… sin apretar siquiera el gatillo! Menudo guerrero…\p¡Te has ganado tu patinete, grumete! Ahora déjame… morir…
+
+### 107E96C
+arrrgh…\nDéjame, muchach{o}.\pHa llegado mi hora…\n¡Arrr! Siento cómo la luz se me va de los ojos…\p¡No intentes salvarme! arrr…
+
+### 107E9E5
+arrrgh…\nDéjame, muchach{o}.\pHa llegado mi hora…\n¡Arrr! Siento cómo la luz se me va de los ojos…\p¡No intentes salvarme! arrr…
+
+### 107EB40
+¿Te importa?\p¡Estoy preparando una comida digna de un marinero! ¡Y no recuerdo haber invitado a ningún apestoso de tierra firme!
+
+### 107EC09
+Tienda de Patinetes Fantasma
+
+### 107ED89
+En la pared hay una foto de una botella de ron.\p“Mi amada”
+
+### 1080109
+¿Cuál es tu cerveza favorita, pisatierras?\p¡Seguro que te gusta la Mike’s Hard Lemonade!
+
+### 1080209
+¡Arrr! ¿Así que de verdad te escapaste del calabozo? ¡Eres una rata de sentina muy astuta! ¡Ja, ja, ja!
+
+### 1080409
+¡Arrr!\p¿Alguna vez te has echado un buen trago de cerveza? ¿No?\p¡Pues no puedes considerarte un pirata de verdad!
+
+### 1080489
+¡Arrr! ¡Lo siento, grumete! ¡En esta taberna no servimos a menores!\p¡Ja, ja, ja!
+
+### 1080589
+Todavía la echo de menos…\pArrr, mi corazón…
+
+### 108060A
+Arrr… ¡Urp!\p¡Nunca beberás más que yo, perro asqueroso! Glglgl…
+
+### 1080A83
+¡Vamos! ¡Vamos! ¡Vamos! ¡Vamos!
+
+### 1080A97
+¡Vamos, Summer! ¡Vamos, Summer!
+
+### 1080B02
+Summer: ¡Caramba! ¡{B01}! ¿Qué haces aquí, por los pies de un Diglett?
+
+### 1080B52
+Summer: ¿A que este sitio es lo más? ¡Ojalá lo hubiera descubierto antes!\p¡Estos piratas me han dicho que puedo unirme a su tripulación! ¡Me han enseñado un baile pirata alucinante y a luchar con espada!\p¡¡¡Es superguay!!!
+
+### 1080C27
+Summer: ¡Chicos! ¡Esta es la persona de la que os hablé! ¡Es mi mejor amig{o} del mundo, {B01}!
+
+### 1080C76
+¡Rayos y centellas! ¡Summer nos ha contado historias de tus saqueos en Ciudad Azafrán!\p¡Arrr! ¡Eres tod{o} un{a} corsari{o}! ¡Cualquier amistad de Summer es amistad nuestra!\p¡Ja, ja, ja!
+
+### 1080D2D
+Summer: ¡{B01}!\p¡Tenemos que luchar aquí, en Ciudad Celeste!\p¡Seguro que te has vuelto mucho más fuerte! ¡Y yo también!\pAsí que…
+
+### 1080D9A
+Summer: ¡Arrr! ¡Desenvaina, compañero!\p¡Es un duelo pirata!
+
+### 1080DD9
+Summer: ¡Caramba! Qué fuerte eres, {B01}…\p¿Sabes? Te he echado muchísimo de menos.\pSe hace raro no poder llamarte ni hablar contigo de cosas…\pSé que eres fuerte, pero… ¡no puedo evitar preocuparme por ti!\pJi, ji… ¡A que no te lo crees! ¡Ya tengo la Medalla Inundación! ¡La encontré husmeando en el barco viejo que hay al norte de esta taberna!\p¡Pues sí! ¡Otra vez voy un paso por delante de ti!\p¡A quien madruga, Arceus le ayuda, {B01}! ¡Solo queda una! ¿Tienes ganas?\p…
+
+### 1080FA3
+Summer: ¡Adiós, chicos!\p¡Portaos bien con {B01}! ¡Prometo volver y contaros más historias!
+
+### 1081004
+Summer: ¡Una medalla más, {B01}!\p¡Luego podremos demostrarle al mundo que somos más fuertes que nadie!\p¡Chao, pescao!
+
+### 1081072
+¡Arrr! ¡Tiradme por la borda!
+
+### 108108C
+¡Arrr! ¡Yo soy el capitán de este barco!
+
+### 108118C
+¡Summer nos ha contado que de peque te hurgabas la nariz y te comías los mocos! ¡Ja, ja, ja!
+
+### 1081200
+¡Estoy harto de los lloros de ese pirata!\p¡Si nunca se ha enamorado! Si lo hubiera hecho…\psnif… ¡SABRÍA LO QUE ES MI DOLOR!\pMi corazón… arrr…
+
+### 10812C0
+¡Arrr! ¡Esa Summer es una auténtica pirata!\p¡Algún día será Campeona, lo veo en sus ojos!\pY tú…\n¡Tienes la misma mirada!\pPero solo puede haber un Campeón, grumete.
+
+### 10813CC
+¡Arrr! ¡Esa Summer sí que sabe bailar un baile pirata!\p¿Tú no sabrás algún paso, verdad?\p¡Pues claro que no! ¡Summer nos ha dicho que el baile no es lo tuyo! ¡Ja, ja, ja!
+
+### 10821C9
+¡Bueno, hola, colega! Ay, jo, me encantaría dejarte pasar, ¡pero esta puerta está en reparación!\p¿A que es un rollo? ¡Jo!\p¡Pero nuestra entrada del otro lado de la Ruta 4 está abierta del todo! ¡Nos encantaría hablar contigo allí!
+
+### 108239E
+Eh, en esta mesa hay una clave de acceso especial escrita en un pósit.\pClave de acceso: “ANY”
+
+### 10823F6
+Ya he encontrado la llave de este edificio.
+
+### 1082800
+¡Ay, que me unten las galletas!
+
+### 1082880
+Escucha, amig{o}, ¡creo que no tienes permiso para estar aquí! ¡No he visto tu cara en la lista de registro!
+
+### 1082949
+¡Hola, amig{o}! ¿Te importa esperar en otro edificio?\p¡Jo, nos encantaría enseñarte algunos de los nuevos textos que ha manifestado el heraldo, pero no deberías estar aquí!\p¡Qué rollo!
+
+### 1082A40
+¿Sabes? ¡No vas a salirte con la tuya!
+
+### 1082AC0
+¡Eh! ¡No puedo dejar que consigas la llave! ¡Lo siento, colega!
+
+### 1082B40
+Tengo que informar de esto… ¡Están atacando la base lunar!
+
+### 10862F6
+¡Din-don!\p¡El Tranvía Luna 3 embarca ahora hacia la sala High Sow!\p¿Te subes, colega?
+
+### 1086349
+¡Pasajeros a la sala High Sow, al tranvía! ¡Agárrate bien y ten cuidado!
+
+### 12CE9AB
+Pista de Entrenador 130:\p¡Hola, Entrenadores! Dejadme que os haga uan prgeunta: ¿dde dónde salió el ilustre objeto, la Piedra Lunar?\p…\pRESPUESTA NO DETECTADA\p…\p¡Bueno, Entrenador, te lo diré yo!\pEa aea aee ea eea e eeaat ea ee e eeee aeedeeeeeeee as eeee\pee eeeeae aeeaaaaeasee eea  eaa\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 12E0489
+Túnel Renegado\nBase Lunar Paraíso → Ciudad Carmín
+
+### 1313AC9
+¡Arrr! ¡¿De dónde has salido?!\p¿Eres de tierra firme, verdad?\p…¿Cómo es que respiras, grumete?
+
+### 13A2B1E
+Arrr…\pPareces perdid{o}, muchach{o}. ¿Echas de menos el beso del aire de tierra firme en la piel?\pAy…\p¡Conozco esa sensación! Si quieres volver a tierra, ¡más vale que toques las estatuas de las bellas sirenas que hay por nuestro pueblo!
+
+### 13A2BFB
+Arrr…\pPareces perdid{o}, muchach{o}. ¿Echas de menos el beso del aire de tierra firme en la piel?\pAy…\p¡Conozco esa sensación! Si quieres volver a tierra, ¡más vale que toques las estatuas de las bellas sirenas que hay por nuestro pueblo!
+
+### 13A2DC9
+En la tele echan algo.\pUn pase de diapositivas con los mejores momentos de pesca y fotos de las vacaciones de la feliz pareja.
+
+### 13A2E40
+Ah, el tesoro de las profundidades.\pRepresenta tu deseo y tu impulso profundo bajo la superficie. ¿Hasta qué profundidad llegarás?
+
+### 13A2F00
+Un destello de esperanza. Empieza contigo.\pNo dejes que su luz se apague.
+
+### 13A2F80
+Esta medalla encierra tristeza y alegría a la vez.\pPero con una máscara, ¿quién sabe dónde está tu corazón, dónde están tus deseos?\pCuando cierras los ojos y piensas… ¿Te sobresalta tu yo interior?
+
+### 13A3080
+Todo crecerá, todo morirá y todo se pudrirá y se corromperá. Es el curso natural.\pCon la salud viene la enfermedad. Quizá no esté mal dejar que las cosas pasen como quieran.\pQuizá no hacer nada sea la mejor opción.
+
+### 13A31C0
+Esta medalla la entregaba antaño la gran familia de ninjas venenosos que gobernaba la tierra que hoy no tiene ley.\p¿Cómo ha podido sobrevivir siquiera un fragmento de lo que fue? Quizá su anterior dueño guardó este fragmento a buen recaudo…
+
+### 13C0149
+En la pared cuelga un marco vacío.
+
+### 13C0202
+De esta estatua suben burbujas. Mirando hacia arriba, seguramente podría salir disparado a la superficie desde aquí.\p¿Volver a la superficie?
+
+### 13C0286
+{B01} tocó la base de la estatua de la sirena…\p…\p…¡¡¡!!!
+
+### 14DDCC9
+¿Buscas tesoros?\p…¡pues este es un mal sitio para buscar! ¡Busca en otra parte!
+
+### 14E4349
+¿Qué vas a…\pNo irás a ese pantano, ¿verdad?\pNo lo hagas.\pPor favor.\pTodavía eres muy joven. No hagas tonterías. Las cosas mejoran… siempre mejoran.\pTienes que tener fe. Tienes más fuerza de la que crees. Por favor, no vayas…
+
+### 14E7380
+Ay, mi amor… He encontrado tu sonido, pero no puedo seguirte hasta el fondo…
+
+### 14E7400
+Ay, ¿qué voy a hacer?
+
+### 14E7480
+No puedo bajar nadando, mi amor… No puedo acercarme a nado para admirar tu belleza.\pHace demasiado frío…
+
+### 151A0C9
+Una foto de una pareja feliz. El marco está destrozado y la foto, rota, pero aun así sigue colgada en la pared.
+
+### 151A1C9
+Alguien, o algo, yace en el suelo en un montón sangriento de carne y lágrimas.\pQuienquiera que fuese, lo han despedazado hasta dejarlo irreconocible.\pDesgarrador.
+
+### 151A2CC
+En la tele echan algo…\pEl final de una peli romántica empalagosa.\pSe reencuentran corriendo el uno hacia el otro bajo la lluvia.\pEste tipo de chorradas son tan poco realistas…\p…pero ¿a que estaría bien?
+
+### 151AB07
+Ese Psíquico ha desaparecido… Parece que se le ha caído algo.
+
+### 151B189 r
+Ya no recuerdo lo que es tener hambre.\p¿Notas cómo te ruge el estómago? jejeje…
+
+### 151B209 r
+¿Te importa?\pMi tarea es cuidar de los tallos jóvenes…\p¿Sabes cuidar de otro ser? jejeje… La Mente Colmena dice que no.
+
+### 151B48C
+Algo se retuerce y se agita en el fondo de esta maceta de tierra.\p¿Regar esa cosa?
+
+### 151B4E1
+Ryuuhime: ¿Crees que podrías llegar a Campe{on} solo con plantas como yo?\p¡Seguramente no! ¡Gracias por el agua de todos modos!
+
+### 151B558
+{B01} echó un poco de agua en la tierra…
+
+### 151B57F
+La planta está creciendo…\p¡La planta se vuelve agresiva!
+
+### 151B5AE
+¡Pensaba que sería más fácil! Tienes bastante fuerza…\pPero podrías tener más.
+
+### 151B5FD
+Ryuuhime: ¡Gracias por el agua! Y ahora, si me disculpas…\p¡Tengo que incubar!\p…\p…Bueno, supongo que te puedo dar esto… ¡Toma!
+
+### 151B679
+Ryuuhime: ¿No tienes un juego al que jugar?\p¡Venga, a ello!
+
+### 151B6B3
+No soy un PNJ.\pSé que es mejor no investigar este tipo de sucesos raros.
+
+### 1542A89
+Hay un montón de juegos antiguos en estas estanterías…\pAquí hay cosas buenas. Valkyrie Profile, Silent Hill…\pUn montón de juegos de Ys.\p¿Cómo se pronuncia eso? ¿Is? ¿Uais?\pA saber…\pEspera…\p¿Eso es el Bloody Roar 3? Joder, sí, qué bien.
+
+### 1543528
+Clefairy: ¡Cle-faiiiry!\p…\pClefairy: ¿Qué te parece? Una imitación bastante buena, ¿eh?
+
+### 1543580
+Clefairy: ¡Oh! En realidad no soy un Clefairy… ¡al menos, todavía no!\p¡Me llamo Yan y soy hija de la luna! ¿Quieres ser una Criatura Lunar como yo?\p¡Oh, es superdivertido! ¡Nos dan un zumo riquísimo, leemos un montón de libros divertidos y aprendemos cosas del eclipse lunar!\p¿No sabes nada del eclipse? ¿El de hace 30 años, que dejó el mundo entero a oscuras durante una semana?\p¿Y después un montón de Pokémon empezaron a comportarse raro y a evolucionar de forma extraña?\p¿Y luego los Clefairy volvieron a su hogar en la luna?\p¿No te has enterado de nada de eso?\p¡Entonces tienes que unirte a nosotros y aprender!\p¡Clefairy!\p¡Clefaaairy!
+
+### 15439C0
+¡Esto es malo, esto es MUY MALO!
+
+### 1543B40
+¡Llegas un poco tarde al cambio de turno, amig{o}!\p…¡¡¡!!!\pEspera, tú eres… ¡{B01}! ¡Terrorista! ¡Tú mataste a esa gente de BrunoCorp!\peeeh… ¡ALERTA!\p¡ALERTA! ¡TERRORISTAS!
+
+### 1543C75
+Yan: ¡Oh, no!\pAy, madre…\pAy, jo…\p¡Tengo que contárselo al gran Padre Luna! ¡AAAAAAAHHH!

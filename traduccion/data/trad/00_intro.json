@@ -1,0 +1,23 @@
+{
+ "Press this button to open the\nMenu.": "Pulsa este botón para abrir el\nmenú.",
+ "If you need help playing the\ngame, or on how to do things,\npress the L or R Button.": "Si necesitas ayuda con el\njuego o para hacer algo,\npulsa el botón L o el R.",
+ "Thanks for playing Pokémon Ghost\nGrey Version! I have been working\non this for about a year, so\nplease enjoy this labor of love.\n\nExplore the world, find lots of\nsecrets, and be thrilled by the\nhorrors that await you!": "¡Gracias por jugar a Pokémon\nGhost Grey! He dedicado casi\nun año a este juego, así que\ndisfrútalo: está hecho con cariño.\n\nExplora el mundo, descubre\nun montón de secretos y tiembla\nante los horrores que aguardan.",
+ "Essentially all the graphics in\nthis game were drawn by yours\ntruly! Except the PC skins and some\nof the trainer sprites, which Whale\ndrew.\nWhale composed like 99% of all the\nmusic himself! WOW! Jingles, too. So\nturn the volume up (only if you want).": "Casi todos los gráficos de este\njuego los he dibujado yo. ¡Salvo\nlos fondos del PC y algunos sprites\nde entrenadores, que son de Whale!\nWhale compuso como el 99% de la\nmúsica él solito. ¡Y los jingles! Así\nque sube el volumen (si te apetece).",
+ "I get that some of you play these\non speed-up mode and that’s valid\ntbh. I’m not here to judge.\n\nShoutout to the Nate Group, the\nHMA discord, the ghost grey discord\nand my lil cousins in Australia\nand Wellington. Ok, bye. Stay cool!": "Sé que algunos jugáis a esto con\nel modo acelerado, y me parece\nbien. No estoy aquí para juzgar.\n\nSaludos al Nate Group, al Discord\nde HMA, al Discord de Ghost Grey\ny a mis primitos de Australia\ny Wellington. Venga, ¡hasta luego!",
+ "When you close your eyes,\\pwhat is it you see?\\pIn this world, the living treads on\nthe memories of the dead.\\p…": "Cuando cierras los ojos,\\p¿qué es lo que ves?\\pEn este mundo, los vivos pisan\nlos recuerdos de los muertos.\\p…",
+ "What do you…\\p…": "¿Qué es lo que…\\p…",
+ "… expect to see?\\p…": "… esperas ver?\\p…",
+ "You’ve been here before.\\pYes, I’m sure of it. I’ve\nseen your face, I’ve felt your\\lspirit.\\p…": "Ya has estado aquí antes.\\pSí, no me cabe duda. He visto\ntu cara, he sentido tu espíritu.\\p…",
+ "How well do you know yourself,\ntruly?\\p…": "¿Hasta qué punto te conoces\nde verdad?\\p…",
+ "Look deep into your mind.\\pClose your eyes.\\pWhen you speak to yourself,\nwhat is your name?": "Mira en lo más hondo de tu mente.\\pCierra los ojos.\\pCuando hablas contigo,\n¿qué nombre usas?",
+ "Your name is {B01}.": "Tu nombre es {B01}.",
+ "Your heart, what does it desire?\\pWhat makes you happy?\\p…": "Tu corazón… ¿qué es lo que desea?\\p¿Qué te hace feliz?\\p…",
+ "{B06} is what makes you happy?": "¿{B06}? ¿Eso es lo que te hace feliz?",
+ "Your heart’s desire.\\pIs it really {B06}?\\p…": "El deseo de tu corazón.\\p¿De verdad es {B06}?\\p…",
+ "Wake up.\\p{B01}, wake up.\\pThe nightmare is over.\\pWake up…\\p…\\pwake…": "Despierta.\\p{B01}, despierta.\\pLa pesadilla ha terminado.\\pDespierta…\\p…\\pdespierta…",
+ "@0A58CC0": "Fama",
+ "@01C576C": "Amor",
+ "@0A58D40": "Poder",
+ "@0A58DC0": "Nada",
+ "How do you see yourself?\nAs a boy? Or a girl?": "¿Cómo te ves a ti?\n¿Como un chico? ¿O como una chica?"
+}

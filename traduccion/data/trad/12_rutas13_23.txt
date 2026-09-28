@@ -1,0 +1,628 @@
+#! Lote 12: Rutas 13-23 (3.31-3.42), casa de Summer (4.4) y túneles (4.5, 4.7)
+
+### 01859F9
+¡Me van a subir el sueldo por encontrarte! ¡Jajajaja!
+
+### 0185A62
+¿Te has asustado?
+
+### 0185C95
+Grrrr…
+
+### 0185CA8
+¡Aaauu! ¡Yip!
+
+### 0185FBB
+Haz otra cosa; tus asuntos conmigo han terminado.
+
+### 018610A
+Qué deshonra…
+
+### 018611D
+He perdido el combate. ¿No vas a rebanarme aquí mismo?
+
+### 0186291
+Ah…
+
+### 01862F8
+Grrrrr… ¡FSSS!
+
+### 018636E
+Rrrrr… ¡UGH UGH UGH!
+
+### 0186549
+¡Kwaaaaaa!
+
+### 018655A
+¡Qué astucia, qué astucia, qué bestialidad la tuya! ¡Si apuntas a la luna, caerás desde las estrellas!
+
+### 018671A
+No acepto limosnas. Déjame en paz.
+
+### 01867C1
+Yo… urgghh… luchar.
+
+### 01867DA
+Hrrrghhh… ¡Para!
+
+### 0186841
+Grrrahh… ¡Tú, para!
+
+### 018686F
+Luchar, grrr… ¡LUCHAR!
+
+### 01869F4
+¡Diviértete! ¡UuuuuUuuUU!
+
+### 0186A40
+¡aUUUGHHHH!
+
+### 0186A55
+Hrrr… rrrr…
+
+### 0187757
+Hay una forma mejor.
+
+### 0187852
+Da igual. Ya es demasiado tarde.
+
+### 0187AC1
+¿Qué…?
+
+### 0187B94
+Esto antes era una playa. Ahora a mis pies solo hay hielo y nieve.\pY no he pescado nada en too este tiempo…
+
+### 0187D7E
+Tsk…
+
+### 0187DAD
+Cáete al hielo y muérete congelado.
+
+### 0187E7B
+Pues sí.
+
+### 0187E83
+Ojalá mi vida hubiera sido diferente.
+
+### 0187F92
+Era de esperar.
+
+### 0187FF7
+¡Aaah!
+
+### 0187FFE
+¡Hay algo en los pájaros que no soporto!
+
+### 018805C
+Vale.
+
+### 01A5776
+¡Son las normas! ¡Y ahora, largo!
+
+### 01A57C1
+¡Si no tienes la {B02}, no puedes pasar por aquí!\p¡Y yo no veo ninguna {B02}!\p¡Así que largo! De todas formas, no tienes lo que hay que tener para ser un entrenador de primera.
+
+### 01C220C
+¡Eh, espera un puto segundo! ¡Tú eres la pieza que montó aquel numerito en el cuartel general!
+
+### 01C2340
+¡Aughh! ¡RARRGH!
+
+### 01C23C1
+M u c h a c h o.   ¿H a s   v e n i d o   a   v e r   l a s   m a r i o n e t a s?
+
+### 01C2425
+Sigue andando, que esto lo he encontrado yo primero.
+
+### 01C2461
+M u c h a c h a.   ¿C u á l   e s   t u   p r o p ó s i t o   a q u í?
+
+### 01C24CB
+¡Te voy a rebanar!
+
+### 01C2505
+¡Adelante! ¡Lucha contra mis bestias!
+
+### 01C259E
+Snif, snif… ¡AUUUUUU!
+
+### 01C25D6
+¡UGH! ¡UGH!
+
+### 01C26D3
+¡No te lo voy a volver a pedir! ¡Entrégame tus bestias!
+
+### 01C2717
+Por fin, algo de valor.
+
+### 01C2753
+Uf, uf… Nosotros… ¡LUCHAR!
+
+### 01C279D
+¡GrrraaauuAAAAUGH!
+
+### 01C27E7
+¡Hyah! ¡Hyah! ¡No muevas ni un músculo!
+
+### 01C287D
+¡GrrraaaAAAHHH!
+
+### 01C2C2B
+Eh, peque… Hace mucho que no se te ve por aquí, ¿eh? ¿Qué tal si te enseño esto?
+
+### 01C2C7B
+¿Te doy miedo? Entonces no eres más que una bestia a la que domar.
+
+### 01C2EC0
+¿Te importa? Estoy pescando.
+
+### 01C2EFC
+Ay, madre… Llevo demasiado tiempo pescando.
+
+### 01C2FF3
+Todos los días son iguales. Aquí llega mi derrota en combate.
+
+### 01C3095
+¿Las Islas Espuma? ¿No lo sabes?
+
+### 01C30B0
+¡Ay! ¡Este sitio me da escalofríos!
+
+### 01C30ED
+Adelante. Alégrame el día.
+
+### 01C31C4
+Los pájaros de aquí… Vuelan sin amo.
+
+### 08AC749
+Samuel\n1946-2017\pPadre, abuelo, mentor y maestro querido.\pEl alma de Pueblo Paleta.
+
+### 08AE349
+Es la Sega Mega Drive de Summer.\pTodavía no nos hemos pasado juntos el Bio-Hazard Battle. Tenemos que hacerlo algún día.
+
+### 08AE3C9
+Summer siempre deja la tele encendida por alguna razón.\pAlgo que tiene que ver con la mala suerte.
+
+### 08D4E12
+¿Eh? Espera…\pTú no eres {el} crí{o} al que tengo que matar.\pLa mente colmena me dice que no eres ninguna amenaza. Vaya.\pSupongo que puedes irte. Pero no vuelvas.\pAdiós.
+
+### 095AE4B
+Chof, chof…\p¡Túnel Norte! ¡Bosque Ardiente!
+
+### 095AECB
+Chof, chof…\p¡Túnel Oeste! ¡Bosque Verde!
+
+### 095AF4B
+Chof, chof…\p¡Túnel Este! ¡Afueras del Túnel Roca!
+
+### 095AFCB
+Chof, chof…\p¡Túnel Suroeste! ¡Ciudad Verde!
+
+### 095B04B
+Chof, chof…\p¡Túnel Sureste! ¡Lugar Misterioso!
+
+### 095B1CB
+Chof, chof…\p¡Túnel Sur! ¡De vuelta a Celidon!
+
+### 095CA1C
+???: …\pMmm… Qué triste.
+
+### 098CCC0
+¡Se ha escapado una bolsa de sangre!
+
+### 098CD40
+¡Están distraídos! ¡Cogedlos!
+
+### 098CE77
+¡De vuelta al banco de sangre, bolsa de sangre!
+
+### 098CEA2
+Su majestad te ha concedido salvoconducto, bolsa de sangre. Ya puedes darle las gracias.
+
+### 09C2149
+Blue\n1986 - 2049\pCampeón, erudito, maestro y amigo. “¡Nos olemos luego!”
+
+### 09C221B
+Red: …
+
+### 0ACE2C0
+Spectrier: ¡Hiiiiii!
+
+### 0ACE536
+Un Pokémon bebe agua tranquilamente del estanque.\pDesprende un aura sombría y escalofriante.\p¿Molestarlo?
+
+### 0ACE5AB
+Mejor lo dejo en paz.
+
+### 0AE6689
+Mansión de Marionetas de Marcel\pMarionetas, juguetes y mucho más… ¡Pregunte dentro!
+
+### 0AE6800 r
+ATENCIÓN, ZÁNGANOS:\pEVITAD PLANTAR ESPORAS AL OESTE DE CELIDON.\pDE MOMENTO, LA TIERRA ES INHABITABLE.
+
+### 0B12AC0
+Urh… No tienes ningún respeto.
+
+### 0B12B40
+Q u é   d e c e p c i ó n.
+
+### 0B12BC0
+¿B u s c a s   l a s   m e d a l l a s?   L a   m e d a l l a   d e   C e l e s t e   e s t á   e s c o n d i d a   b a j o   l a s   o l a s.
+
+### 0B12E00
+¡C u á n t a   d e t e r m i n a c i ó n!
+
+### 0B12E80
+J o v e n…   ¿H a s   v i a j a d o   a   l a   p e s a d i l l a?   L o s   m a r e s   g u a r d a n   u n   s e c r e t o.
+
+### 0B12FC0
+Cántame, déjame hacer Surf hasta ti y oír ese sonido…
+
+### 0B13040
+Ojalá fuera un Basculin. Nadaría hasta mi amor…
+
+### 0B130C0
+Toda una vida he esperado, y otra vida esperaré.
+
+### 0B131C0
+¡Devolvedme al mar! ¡Quiero ser libre!
+
+### 0B13240
+Cuando estás en tierra, siempre tienes que responder ante alguien.\p¡En un barco de pesca, a solas en el mar, solo tengo que responder ante el viejo rey Kyogre y el rugido del océano!
+
+### 0B13340
+¡No eres más que un{a} crí{o}! ¿Qué sabrás tú del océano?
+
+### 0B13540
+¡Estás apañad{o}, {B01}! ¡Estoy enviando tu ubicación ahora mismo!
+
+### 0B14117
+¡Bu! ¡Ten miedo! ¡Muuuucho miedo!
+
+### 0B1413A
+¡Qué miedo!
+
+### 0B14180
+Ruta 13\nEntrando en el Laberinto Fucsia
+
+### 0B14318
+Pista de Entrenador 015:\p¡El Laberinto Fucsia es una solución clásica a un problema moderno!\p¡Disfruta de un día de sol y diversión en la playa de la Ruta 13, al sur del Puente del Silencio, sin preocuparte de que los gamberros y delincuentes de la zona de Fucsia te arruinen el día!\p¡El robusto laberinto confunde y disuade a cualquier malhechor, y lo vigila día y noche la seguridad designada por BrunoCorp!\p¡Así que ponte cómodo, relájate y mete los pies en la arena!
+
+### 0B15257
+El hombre nunca puede fiarse de una bestia.
+
+### 0B15274
+¿Eres human{o} o eres bestia?
+
+### 0B152C0
+Hasta una bestia hablará y caminará a dos patas.
+
+### 0B15357
+¡Yo he llegado primero!
+
+### 0B15369
+Tendrás que arrancarme este hallazgo de mis frías manos muertas.
+
+### 0B153C0
+Me merezco este hallazgo, no tú. Tú tienes demasiado; yo, demasiado poco.
+
+### 0B2A9D7
+Puedo domarte. Tus bestias son débiles y tus manos, blandas.
+
+### 0B2AA12
+¿Qué es esto…?
+
+### 0B2AA40
+Déjame en paz, peque. Tengo que castigar a mis bestias por haber perdido.
+
+### 0B2AAD7
+¡Enséñame tu destreza domando bestias!
+
+### 0B2AAFC
+Qué finura…
+
+### 0B2AB40
+Tus bestias son fuertes, pero eres demasiado indulgente con ellas. ¡Una bestia no puede prosperar de verdad sin disciplina!
+
+### 0B2AC17
+¿Un{a} crí{o}? ¿Has venido a aprender a domar bestias como es debido?
+
+### 0B2AC53
+Tú también eres una bestia.
+
+### 0B2AC80
+Aprenderás que el suelo afilado e irregular de este laberinto sirve para fortalecer la voluntad de tus bestias. No seas amable; sé firme.
+
+### 0B2C109
+Los restos de una persona han sido diseccionados y despojados de todo lo valioso o nutritivo.
+
+### 0B2C189
+Una persona yace en su propia sangre; parece que encontró su destino hace solo unos momentos.
+
+### 0B2C200
+Bestias inútiles…
+
+### 0B2C280
+Si las tratas como iguales, ¿qué te diferencia de tus bestias?
+
+### 0B2C357
+¿Tú también quieres? ¡No te tengo miedo!
+
+### 0B2C381
+¡No le tengo miedo a nadie!
+
+### 0B2C3C0
+¿Qué, qué? ¡Ya no tenemos nada más que hacer juntos!
+
+### 0B2C440
+Oh, el mar…\p…\pNo perturbes mi mirada sobre el mar.
+
+### 0B2C4C0
+Déjame a solas con mis pensamientos.
+
+### 0B2C540
+¡Rrrrau, miau!
+
+### 0B2C6C0
+Tu destino es sufrir el castigo de mi maleficio de sangre. ¡Sufre, SUFRE!
+
+### 0B2C898
+Pista de Entrenador 023:\pLa humanidad sabía que no podía cambiar la sociedad.\pAsí que, en lugar de reflexionar sobre sí misma, culpó a las bestias.
+
+### 0B2DC80
+¡Qué domador{a} de bestias tan feroz eres!
+
+### 0B2DD00
+Parece que tengo mucho que aprender. Por muy estricto que sea, mis bestias se niegan a aprender.
+
+### 0B2E100
+Maldita sea, otra vez con las manos vacías…
+
+### 0B30F40
+¡Kejijiji! ¿Eres joven o eres bestia? ¿Cuánto lo pensarás? ¡Una hora, como poco, de molestia!
+
+### 0B31000
+¿Te adentras en tierras sin ley y esperas una cálida bienvenida? ¡Adelante, mis siervos!
+
+### 0B31140
+Debería tirar a estas bestias al océano y domar a otras más feroces de la Zona Safari.
+
+### 0B31200
+¡Yupi! ¡Enhorabueeeenaaaa!
+
+### 0B328B3
+Es el altavoz viejo que el Profesor Oak nos regaló a Summer y a mí. Parece que todavía tiene cargada mi lista de reproducción.\p¿Darle al play?
+
+### 0B32935
+Me pregunto qué ha estado escuchando Summer…\p¿Escuchar su lista de reproducción?
+
+### 0B32975
+Le diste al “play” del altavoz. Empezó a sonar mi música.\pMe encanta esta canción.
+
+### 0B329BE
+Sí, su música nunca ha sido lo mío.
+
+### 0B329EA
+Le diste al “play” del altavoz. Empezó a sonar la música de Summer.\p…\pAnda, pues esta sí que me gusta.
+
+### 0B4CCD8
+Pista de Entrenador 603:\pHAS APUNTADO A LAS ESTRELLAS. PERO CAERÁS. aSÍ DE RÁPIDO COMO HAS SUBIDO, ¡LO PERDERÁS TODO IGUAL DE RÁPIDO!\pPUEDE QUE NO ENTIENDAS MIS PALABRAS, PERO DEBES ESCUCHAR.\pTIENES QUE RENDIRTE. EL CAMBIO SOLO PUEDE LLEGAR CON LA PÉRDIDA. ¡SI SIGUES, LO VAS A PERDER TODO!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 0B57240
+¡Aiii! ¡Crí{o} asqueros{o}!
+
+### 0B572C0
+Otra noche que descanso con el estómago vacío.\pSi te encuentro durmiendo en esta tierra, te mataré y te daré de comer a mis bestias.
+
+### 0BC9A00
+¡¿Qué?! ¡¿La {B02}?! Eh… Supongo que puedes pasar, entonces…
+
+### 0BC9A80
+¡ALTO AHÍ! A ver esas medallas, peque.\pEh, lumbrera, ¡no tienes la {B02}! ¡La necesitas para pasar!
+
+### 0BC9B40
+Solo puedo dejarte pasar si tienes la {B02}.\pEh, espera… ¿La {B02}?!{C17}{C0B0101}{C0860}{C18}\pEh… Supongo que puedes pasar, entonces.
+
+### 0F3F400
+¿Cómo se llama un{a} crí{o} perdid{o} y sol{o} en el pantano?
+
+### 0F3F480
+Oooh, ¿no te van los chistes? ¿Dónde está tu sentido del humor? Ejejejeje…
+
+### 0F3F500
+¡Eh, mira ahí!\p…\p¿No aguantas ni un chiste sencillo? Qué poca gracia tienes…
+
+### 0F3FA80
+¡Qué día de lluvia, qué barro en el pantano! ¡Ven a luchar conmigo, que no te haré daño!
+
+### 0F3FB40
+Te conozco. Eres la amenaza terrorista de las noticias.\pPor tu cabeza ofrecen una buena recompensa.
+
+### 0F3FD80
+¿Quieres encontrar las medallas? Ponte a la cola. No eres más que otra piedra en mi camino.
+
+### 0F3FF00
+¡Kejijijiji!
+
+### 0F3FF80
+Qué crí{o} más feroz. No importa…
+
+### 0F40000
+Las criaturas que salen del bosque de la bruja son presa fácil. Parece que eso ya lo sabías. ¿Cuánto sabes?
+
+### 0F40140
+¡Ay! ¡Tú no eres un{a} crí{o} perdid{o}, eres un bicho raro!
+
+### 0F401C0
+Me has robado como 1000 $, vete a tomar por culo, avaricia con patas. No quiero hablar contigo. Tengo que estafar a otros críos.
+
+### 0F402C0
+Tierra sin ley, tierra sin ley… ¿Cuánto aguantarás aquí, a ver?
+
+### 101B440
+AVISO A TODOS\nASESINOS AL ESTE\lASESINOS AL OESTE\lQUEDAOS QUIETOS Y ABRAZAD LA MUERTE
+
+### 1056180
+Tsk… Ha sido suerte.
+
+### 1056200
+Para mí eso no ha sido una victoria de verdad. Usas tácticas baratas e innecesarias.\pNo ha sido una prueba de habilidad real. Si lo hubiera sido, te habría destrozado.
+
+### 1056300
+Maldita sea… Quería esa recompensa.
+
+### 1056380
+Si no soy yo, otra persona acabará atrapándote.\pSolo es cuestión de tiempo.
+
+### 1077C17
+Bah.\pA lo mejor tienes algo de dinero que pueda quitarte.
+
+### 1077C44
+Era de esperar.
+
+### 1077C50
+Me da igual.
+
+### 1077C97
+¿Por qué estás aquí?\p¿No deberías estar en algún sitio más agradable?
+
+### 1077CCB
+Claro, vale.
+
+### 1077D00
+Ahora tengo que volver a lanzar la caña.
+
+### 1077D80
+Supongo que pasaré hambre. Total, tampoco me apetecía estar despierto.
+
+### 1077E26
+Vale.
+
+### 1077F00
+Tengo que vivir aquí y pescar esperanzas y plegarias porque a mi estúpida familia se le ocurrió quedarse en Canela hace como 20 años.\pAhora yo también estoy aquí atrapado. ¿Qué sentido tiene?
+
+### 1078000
+No tengo nada que me haga ilusión.\p¿Y tú?
+
+### 1078080
+¿Tú también buscas medallas por aquí?
+
+### 1078100
+No puede ser. ¿Cómo alguien que no vale nada entrenando tiene tantas medallas?
+
+### 10781D7
+¿Para qué intentarlo si nunca lo consigo?
+
+### 1078206
+Claro…
+
+### 1078240
+Como nieve cuando el estómago me empieza a doler de verdad.
+
+### 1078540
+Llevo 2 semanas seguidas comiendo Basculin.\pNada más que espinas y sal.
+
+### 1078600
+Ay, madre. ¿Cuánto tiempo ha pasado?
+
+### 1078680
+Nadie sale nunca de las Islas Espuma.\pY tampoco entra nunca nadie.
+
+### 10787C0
+¿Y tú qué clase de bestia eres?
+
+### 1078840
+Algunas bestias no se dejan domar. No tienen sitio en la vida.
+
+### 12ABC8C
+Oye, ¿no nos conocemos de algo?\pEn fin, ¿te importa dejarnos un poco de espacio a mi Wobbuffet y a mí? ¡Estamos intentando despejar la mente y hacernos más fuertes en cuerpo y espíritu!\p¡Una medalla menos… quedan seis!
+
+### 12ABDCC
+Brrr… Qué frío hace aquí, ¿eh?\pPero tengo que aguantar… ¡Wobbuffet y yo tenemos que acostumbrarnos a las condiciones duras si queremos conseguir nuestra segunda medalla!\pSolo un poco más, Wobbuffet…
+
+### 12CA813
+Maximus: ¡M-muy bien!\pHa llegado la hora, {B01}. Voy a h-h-hacer lo que haga falta p-p-para que c-consigas el t-título… el t-t-título de…\p¡Campe{on}! Tú me h-has ayudado m-mucho. Aunque n-no te des cuenta…\p¡N-no creo en nadie t-tanto como en ti!
+
+### 12CA9A2
+Lylia: ¡Cuánto tiempo sin vernos, {B01}!\pMe sentí fatal por cómo acabaron las cosas en la base lunar… Pero también…\pDe verdad lo decía en serio: la gente de Kanto se merece algo mejor.\pEsta Liga… no ha traído más que pérdidas a todo el mundo…\pPero nadie ha sido tan…\p…imparable como tú desde… que llegó el Campeón actual.\pPensaba que podría cambiar las cosas, pero…
+
+### 12CAB0F
+Este lugar está lleno de monstruos, {B01}.\pSon fuertes. Más fuertes incluso de lo que era yo cuando fui Campeona.\pSeguro que ya saben que estamos aquí. ¡No podemos entrar por la puerta principal sin más!\pPero no pasa nada… ¡Me conozco este sitio al dedillo! Hay una entrada secreta subterránea en lo alto de esta colina.\p¡Vas a enfrentarte a la Liga, {B01}! Sé que hemos tenido nuestras diferencias, pero…\p¡si alguien puede ganar el título de Campe{on}, eres tú!\pTú síguenos a Max y a mí, ¡te meteremos dentro!\p¡Max, vamos!
+
+### 12CACF1
+Maximus: ¡V-vale!\p¡{B01}! ¡N-no t-t-te preocupes!\pNo dejaré que nadie te haga daño, ni a t-ti ni a L-l-ly-lylia.
+
+### 12CD36B
+Pista de Entrenador 270:\p¡La Pista Bici está actualmente en obr en obras!\p¡Próximamente: un parquee de atracciones para el Kanto de la posguerra!\p¡BRUNOLANDIA está en camino! ¡Atracciones de última generación, juegos y diversión para toda la familia!\p¡Se avecinan buenos tiempos, señoras y señorees! ¡Estad atentos para más novedades!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 12CD62B
+Pista de Entrenador 334:\p¡Ciudad Portual, en Hoenn, está a solo 2 días en ferri desde aquí mismo, desde el puerto de Azulonnna      !\p¡Perfecciona tus habilidades de combate contra entrenadores de otra parte del mundo!\p¡O disfruta de unas vacaciones de primera en la playa y bébete un refrescante 7-Up! ¡El anticola!\p¡Pregunta en el Centro Comercial Celidon para conseguir un billete de ferri!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 12CF2EB
+Pista de Entrenador 021:\pPAGO NO VÁLIDO.\pPOR FAVOR, INTÉNTALO DE NUEVO MÁS TARDE.\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 12D3DAB
+Pista de Entrenador 480:\pNombre legal: {B01}\nFecha de nacimiento: 6 de junio de 2033\lEdad: 16\lAltura: 1,72 m\lColor de ojos: gris\lColor de pelo: negro\lN.º de la Seguridad Social: 666-01-4996\lResidencia habitual: Calle Oak, 1, Pueblo Paleta, Kanto\lOcupación: sin empleo\lEstudios: Escuela de Entrenadores de Ciudad Verde (promoción de 2048, nota media: 1,02)\lFamilia: padre (vivo), madre (fallecida)\lEnfermedades conocidas: eccema\lSituación legal: condena firme por delito grave\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 1305911
+Eh, peque.\p¡Ven aquí, sí, tú!\pTienes pinta de ser entrenador{a}, ¿a que sí?\p…\pJe… ¿Lo ves? ¡Puedo saber muchas cosas de ti solo con mirarte! Puede que des miedo, pero se nota que tienes grandes sueños.\pY bien… Ser entrenador{a} es duro, ¿verdad? ¡Tienes que viajar y farmear, y farmear, y farmear!\p¿Y si te dijera que ya no tienes que farmear más?\p¿Has oído hablar de…\p…los Caramelos Rarillos?\pSí, Caramelos Rarillos. Es una comida especial que ¡sube 1 nivel a tu Pokémon!\pÚtil, ¿verdad? Pues ¿y si pudiera conseguirte una bolsa enoooorme? ¡Prácticamente ilimitada!\pLo único que tienes que hacer… es decir que sí.
+
+### 1305B54
+No le digas a nadie de dónde has sacado esos caramelos, ¿me oyes?
+
+### 1305B92
+¿Qué pasa? ¿Te da miedo que te guste?
+
+### 1305BBF
+Jejeje… así me gusta, buena chica.\pQue lo disfrutes…
+
+### 1305BE3
+No le digas a nadie de dónde lo has sacado, ¿vale?\pSerá nuestro pequeño secreto.
+
+### 1305C2E
+Jejeje… así me gusta, buen chico.\pQue lo disfrutes…
+
+### 1305EF5
+¡NO!\p¡TÚ NO ERES MI PADRE!\p¡ATRÁS!
+
+### 1305F16
+¡¡¡HE DICHO QUE ATRÁS!!!
+
+### 1305F29
+¡¡¡AUUUAUUUAAAAGHHHHHH!!!
+
+### 1305F40
+¡VETE!\p¡TÚ NO ERES MI PADRE!\p¡DÉJAME EN PAAAAAAAAZ!
+
+### 131C078
+El {B02} te echa un vistazo y cierra los ojos.
+
+### 1503A89 r
+Jejeje…\pCrece.
+
+### 1545074
+¡Eh!\pAntes te vi en el Huerto de Calabazas. Estabas hablando con esa chica tan mona.\p¿Por qué estaba triste?\pBuejejeje… Ya, no es asunto mío…\p…pero bueno, ¡ella se lo pierde! Tienes buena pinta, peque…\pY si te gustan las chicas monas…\pConozco un sitio LLENO de ellas. Y de las que están BUENAS… ¿y lo mejor?\pHarán lo que tú quieras. Lo que sea… ¡y digo LO QUE SEA! Ni siquiera son humanas, buejejeje…\p¡Así que nada de dilemas morales! Puedes hacer de toooodo… Buejejeje…\pAhora sí que te he llamado la atención, ¿eh?
+
+### 1545240
+Qué rollo, habrías sido una marioneta o un juguete estupendo…
+
+### 154528C
+¿¡Eh!? ¿No?\p¿Qué pasa, te da miedo que te guste? ¿Te da miedo pillar algo?\pPues… ¡No acepto un no por respuesta!\p¡Te vienes conmigo!
+
+### 1545313
+¡Ay!\p¡Tengo que largarme!
+
+### 1545327
+Buejejeje…\pSabía que lo pillarías.\pAcércate un poquiiito, deja que te lleve a la casa de la diversión…\p…\p¡HE DICHO QUE VENGAS AQUÍ!
+
+### 1594A09
+¡Desde el fuego y las cenizas te maldigo! ¡Interrumpe el ritual y recibirás tu castigo!
+
+### 1594A53
+Augghhh… Vas a sufrir muchísimo…
+
+### 1594A7A
+Me rajo la carne y te maldigo con mi sangre.\pCon este, mi cuchillo… Me levanto la piel, reviento el tejido y dejo que mi dolor se convierta en el tuyo…
+
+### 15A48C9
+En la pared de Summer hay una pequeña pluma blanca enmarcada.\pEl Profesor Oak dijo que la tenía en la mano cuando la encontró de bebé.\pLa guarda para que le dé buena suerte.

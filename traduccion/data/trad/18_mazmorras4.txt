@@ -1,0 +1,527 @@
+#! Lote 18: mazmorras 1.84-1.126 (catacumbas de Lavanda, cuevas de los salvajes, zonas secretas)
+#! Los carteles en otros idiomas (vietnamita, coreano, portugués, italiano) se dejan tal cual: son un chiste.
+
+### 0163AEB
+o o
+
+### 0179B36
+da la vuelta\ptodavía no es 2 tarde xa ti
+
+### 017AF9F
+Tu Funda de Almohada está llena. Supongo que no quieres esto.
+
+### 017BD82
+¡{B01} encontró un Carbón!
+
+### 07D2F40
+¡AY! ¡Toma esto, bárbaro asqueroso!
+
+### 07D2FC0
+¡Oh…! ¡Lo siento muchísimo!
+
+### 07D3040
+Tendrás que perdonarme… Pensaba que eras uno de esos caníbales. Vi a uno de ellos darle un mordisco a un Rockruff muy mono…
+
+### 07D33C9
+¡Forastero hackear ROMhack! ¿Qué decir eso de forastero?
+
+### 07D3449
+¿Cómo tú llegar aquí?
+
+### 07D4389
+Hombre cuatro ojos apestar peor que caca de Woobat, pero no irse de cuevas. Hombre cuatro ojos empezar a molestar.
+
+### 07D56C0
+¡AUUUUU! ¡FORASTERO! ¡MATAR! ¡MATAR!
+
+### 07D5740
+¡FORASTEEEERO! ¡FUERA, FUERA, FUERA!
+
+### 07D57C0
+¡FORASTERO HACER DAÑO GINSHK! ¡MATAR TODO FORASTERO! ¡CABEZA EN PALO! ¡GOLPEAR CON ROCA!
+
+### 07D58C0
+¡FUERA DE CUEVA! ¡NO VER JEFE!
+
+### 07D5940
+Forastero… más fuerte que Gorval.
+
+### 07D59C0
+Foraster{o} fuerte. Pero solo como roca. Gorval guijarro, foraster{o} roca, jefe peñasco.
+
+### 07D5FC9
+Forastero FUERA de cuevas. Forastero irse ya o cabeza ir en palo grande, jujujuh…
+
+### 07D6049
+Forastero…\pTener rocas grandes para venir a cueva. Snif, snif…\p¡Fuera de cueva! ¡No para ti… MORIR!
+
+### 07D6180
+¡AUUUUU! ¡CAZARTE COMO ROCKRUFF! ¡MATAR! ¡MATAR!
+
+### 07D6200
+Urgghhh… forastero más difícil de atrapar que Rockruff…
+
+### 07D6280
+Forastero matar gente de cueva, así que gente de cueva matar forastero. No ser de cuevas.
+
+### 07D6D49
+¿Todo forastero entrar en casa y no preguntar?\p¡Fuera antes de que yo aplastarte con roca grande!
+
+### 07D6DC9
+¡Urk! ¡Esto cueva privada! …\lPerdón, forastero, no haber roca para comer. Hoy tener que ir a cazar.
+
+### 07D7449
+Marido muerto.\pNo querer volver a casar. Solo querer roca.
+
+### 07D7AC9
+¿Forastero aquí? Yo Valgoor. Tú no forastero del todo malo. Abuela de Valgoor forastera. Pero eso ser hace muchas vidas.
+
+### 07D7B49
+Cocinar roca para Valgoor. Algún día casar con Valgoor con roca GRANDE.
+
+### 0A92CE2
+Esta puerta está sellada. En su superficie arenosa hay tallados cuatro espacios en blanco.
+
+### 0A92D31
+{B01} trazó “V I O L E N C I A” en uno de los espacios.
+
+### 0A92D65
+{B01} trazó “D O L O R” en otro de los espacios.
+
+### 0A92D95
+… pero no pasó nada.
+
+### 0A92DAD
+{B01} trazó “A B A N D O N O” en otro de los espacios.
+
+### 0A92DE3
+{B01} trazó “D E S E S P E R A C I Ó N” en el último espacio.\p…
+
+### 0F82AC9
+“En honor al Sr. Fuji, un hombre que amó y respetó a todas las almas en vida y en la muerte.\pQue su recuerdo ayude a los perdidos y condenados a encontrar la paz y el descanso eterno.”
+
+### 0F82D75
+Aquí yace {B01}.\n2033-2049
+
+### 0F82F4F
+Agatha: Eres demasiado joven para saber lo que le pasó a este lugar…\pPersonas y recuerdos olvidados y desechados como basura.\pNingún respeto por los muertos… Ningún respeto por los vivos…\p…\pLamento tu pérdida, crí{o}. El nieto de Samuel se preocupaba muchísimo por ti y por esa huérfana.\pSi te sirve de algo, no siento su alma en este plano. Descansa en paz para siempre. Pobre chico… era tan joven y tenía tanta energía. Ahora…\pLos espíritus de aquí están inquietos. Kejejeje… Si quieres la medalla, y que tu cuerpo y tu alma vuelvan a ser uno, seguirás mis movimientos exactos.\pY procura no molestar a los espíritus.
+
+### 0F831B6
+Agatha: Solo puedo mantener a raya a estos fantasmas vengativos durante un tiempo, crí{o}.\pNo te salgas del camino. Kejejejeje…
+
+### 0F834E2
+Agatha: Kejejeje… Así que quieres saber más del plano de los fantasmas y los espíritus, ¿eh? Entonces ven…
+
+### 0F83541
+Agatha: Hace mucho, mucho tiempo, Pueblo Lavanda era un lugar donde la gente de Kanto enterraba a sus muertos y les presentaba sus respetos.\pLos fantasmas que aún no estaban en paz vagaban por lo que antes era la Torre Pokémon, un gran monumento en honor a la vida y la muerte.\pLa muerte y la vida son las dos caras de la misma moneda. Antes, a la gente no le daba tanto miedo el final del ciclo de la vida.\pTodo pasa, como se suele decir.
+
+### 0F836C2
+Agatha: Date prisa. Mira bien dónde pisas, crí{o}.
+
+### 0F83909
+Joseph Zeed\n1997 - 2026\lCondenado a no terminar nunca su obra
+
+### 0F8454D
+Agatha: Kejejejeje… Tú y yo nos parecemos bastante, crí{o}. Te sentí en el plano espiritual en el mismo momento en que naciste. Sé que ya has sentido mi presencia antes.\pKejejejeje…
+
+### 0F845F4
+Agatha: No te descuides, crí{o}.
+
+### 0F84616
+Agatha: La muerte se volvió un tabú. Algo que negar, algo que evitar.\pLos críos insensatos que llegaron a Campeones quisieron explorar el mundo, y dejaron las obligaciones del Campeón a quien las quisiera.\pDerribaron la sagrada Torre Pokémon de este pueblo y construyeron en su lugar una infernal Torre de Radio…\pSiglos de tumbas, almas en reposo y almas todavía perdidas en nuestro plano fueron demolidos y profanados.\p¿Adónde va un alma si no tiene lugar donde descansar?
+
+### 0F85483
+Agatha: Kejejejee… Y ahora tienes el título de Campe{on}, ¿eh? ¿Qué clase de líder serás para la gente de Kanto?\pMucha gente te ve como a su peor enemigo. Kejejeje… No puedes contentar a todo el mundo, crí{o}.
+
+### 0F8553F
+Agatha: Usa los ojos, crí{o}. Sígueme de cerca.
+
+### 0F8556D
+Agatha: Solo podía tolerar hasta cierto punto la falta de respeto a los muertos. Esos necios de la Meseta Añil nunca me escuchaban; pensaban que era una reliquia de una época pasada…\pCuando falleció el Dr. Fuji, reuní todas mis fuerzas para hacerme con el título de Campeona. Pude dar paz a sus almas, durante un tiempo…\pCuando estaba a punto de sucumbir a mi enfermedad, aquella chica me derrotó y logró lo que yo no pude. La chica psíquica, Sabrina. Era increíblemente poderosa, pero sus poderes crecieron demasiado para que la sociedad los aceptara.\pQué alma tan bella… Se preocupaba por los fantasmas, por la gente, por todo lo bendecido por la luz blanca del sol. Es una pena lo que le pasó. Una verdadera pena…
+
+### 0F86389
+Aquí yace el rey Cradi\p“De Villa Raíz a Ciudad Colosalia, con un amor eterno por los Pokémon”
+
+### 0F86509
+Drew Some\n1997-2026\lResbaló con una piel de plátano
+
+### 0F86589
+Adric Customs\pEnterrado y en paz con lo que nunca llegó a cobrar vida.
+
+### 0F86609
+King Revolver\n1997-2026\pAplastado bajo el peso de su propia arrogancia
+
+### 0F86689
+Aquí yace Misty\pEntrenadora fuerte y amiga noble; que flote para siempre en el océano que tanto amó.
+
+### 0F86709
+Joel\n1997-2026\lMurió de disentería
+
+### 0F86789
+Hunter Blackburn\n1997-2026\pEncontró su perdición, y ahora su panteón.
+
+### 0F86909
+Stevie el Growlithe\n1981-1998\pAmante de los mimos y de los pasteles de Krabby, y mi mejor amigo para siempre jamás.
+
+### 0F86989
+Maxwell\n18.9.1995 - 28.9.2024\pQue la muerte te trate con más justicia que la vida.
+
+### 0F86EAA
+Agatha: Kejejeje… La solución suele ser más compleja que el blanco y el negro. Quizá no haya una opción correcta.\pCon el cambio llega el dolor, aunque no lo sientas…\p¿Lo ves?
+
+### 0F86F5A
+Agatha: A partir de aquí no hay vuelta atrás. Haz las paces contigo.
+
+### 0F86F97
+Agatha: Hasta aquel chico de Johto… No era perfecto, pero tenía buen corazón. Se preocupaba de verdad por el bienestar de las personas y de los Pokémon.\pY mira lo que le pasó, una pena… En este mundo hay gente profundamente malvada, crí{o}. Ese bufón de Azafrán es una marioneta, y tan terco como el idiota de su abuelo, pero, claro, él no ve la realidad de las cosas. Si llegas a la Meseta Añil, seguramente no te dejen entrar, ni siquiera con todas las medallas.\p¿Qué harás entonces? El mundo te ve como a su peor enemigo; ¿le darás la razón? Kejeje… Es demasiado tarde, crí{o}. Las cosas nunca podrán volver a ser como eran, pero presiento que eso ya lo sabías hace mucho, mucho tiempo.\p¿Hasta dónde llegarás para alcanzar la cima?\pKeeejejejejeje… Será interesante verlo.
+
+### 0F89789
+Aquí yace el honorable Dr. Fuji\pQue encuentres la paz entre los espíritus que te amaron en vida.
+
+### 0F89809
+Aquí yace Carmine Woods\pNunca marcó.
+
+### 0FDA901
+Summer: Ha muerto, {B01}.\pY no había nada que yo pudiera hacer.\pNi siquiera pude despedirme de él.\p…
+
+### 0FDA96C
+Summer: Te supliqué que tuvieras cuidado. Te dije que no te metieras en líos, {B01}. Lloré cuando te lo dije. ¿Por qué tienes que seguir empujando, y empujando, y empujando? … ¿Qué es lo que te mueve así?\pSiento que ya ni siquiera sé quién eres.\p¿Sabes? Yo nunca tuve madre ni padre ni nada parecido. Lo único que tenía erais tú y el Profesor Oak.\p…\pNunca me llamaste para pedirme ayuda. Te vi en las noticias, escapando de la cárcel y luchando contra esos cerdos. Ojalá hubiera estado allí contigo.\p¿Nunca pensaste que esa gente malvada descubriría quién eras, descubriría a quién querías y le haría daño?\p…\p¿No se suponía que éramos tú y yo? ¿No íbamos a llegar juntos a lo más alto?\p…\p¿Y si hubiera sido yo, {B01}?\p¿Pensaste en mí cuando estabas ahí fuera sin nadie? ¿Cuando empezaste esta guerra de locos?
+
+### 0FDAC83
+Summer: No. Claro que no.\p…\pPuede que no lo mataras tú, pero el Profesor Oak ha muerto por tu culpa.\p¡Todo esto es por TU culpa! Todo, absolutamente todo… siempre ha girado a tu alrededor, {B01}.\pTodo este tiempo, solo tú.\pPues yo también tengo un sueño. Voy a ser la entrenadora más fuerte del mundo. He perdido todo lo que creía tener, pero todavía puedo conservar mi sueño.\p¡Y TÚ no te vas a interponer en mi camino!
+
+### 0FDAE1B
+Summer: Sea lo que sea lo que te impulsa, espero que no vuelva a ponerte en mi camino.\pVoy a la Meseta Añil.\pVoy a ser Campeona.\pNo puedes detenerme.
+
+### 0FDAEC9
+Cientos de medallas descansan en un montón, oxidadas y cubiertas por una gruesa capa de polvo.\pCuando me agacho para coger una, brilla con un tono extraño.\p¡{B01} encontró la Medalla Esperanza!
+
+### 0FDAF6B
+Summer: No sé qué esperaba.
+
+### 0FDAF92
+Summer: Eso es lo que pensaba…
+
+### 0FFAD09
+Thành ph Tokiwa
+
+### 0FFDB00
+¡No puedes pasar por aquí! ¡Es propiedad privada!
+
+### 0FFDB6A
+¡Ahh, ya me he tomado el café y me siento de maravilla! ¡Claro que puedes pasar!\p¿Tienes prisa?
+
+### 0FFDBC5
+Veo que usas una Pokédex. Cuando capturas un Pokémon, la Pokédex se actualiza automáticamente.\p¿Qué? ¿No sabes cómo capturar Pokémon?\pPues entonces te enseñaré.
+
+### 0FFDC65
+Primero, tienes que debilitar al Pokémon que quieres capturar.
+
+### 0FFDC93
+Los movimientos\nde combate de los\lPOKéMON están\llimitados por sus\lPUNTOS DE PODER, PP.\lPara recuperar PP,\lhaz descansar a tus\lPOKéMON en un\lCENTRO POKéMON.
+
+### 0FFDD14
+El tiempo es oro Venga, sigue.
+
+### 0FFF280
+jigglypuff…
+
+### 0FFF489
+Qué frío hace…
+
+### 0FFF589
+Pokémon Jeotaek
+
+### 0FFF609
+Ilha Cinnabar
+
+### 0FFF689
+Laboratorio dell’Isola Cannella
+
+### 104C409
+Los restos de una especie de pájaro gigante.\pSiento calor cerca de sus huesos. Qué raro.
+
+### 104EED1
+Aquí fuera sopla bastante viento.
+
+### 10556D7
+Este script ha funcionado.
+
+### 10558C8
+El viento empieza a soplar más fuerte…
+
+### 10558EE
+El viento sopla todavía más fuerte…
+
+### 105590F
+No puedo quedarme aquí fuera mucho más. ¡El viento es demasiado intenso!
+
+### 1062900
+¡FORASTERO MORIR!\p¡NO LLEVAR NADA! ¡YO PARTIR TU CUERPO Y COMER TU ROCA HUESO!
+
+### 1062980
+¡GAAAGHH! ¡APLASTARTE!
+
+### 1062A00
+¡QUEDAR EN CUEVA Y NOSOTROS MATAR Y COMER! ¡MI ROCA! ¡MÍA MÍA MÍA!
+
+### 1062B00
+¡TÚ ENTRAR! ¡AHORA MORIR!
+
+### 1062B80
+Forastero… ¡Rgggh!
+
+### 1062C00
+¡TODO FORASTERO MORIR! ¡MATAR TODO FORASTERO!
+
+### 1062D00
+¡YO COMER TU ROCA HUESO!
+
+### 1062D80
+¡DEMASIADOS FORASTEROS! ¡NOSOTROS MATAR TODOS!
+
+### 1062E00
+¡Forastero creer roca ser de todos! ¡NO!\p¡NO NO NO! ¡ROCA SER MÍA! ¡MÍA!
+
+### 10630C0
+¡MORIR! ¡MORIR! ¡MÍO! ¡MÍO!
+
+### 1063140
+¡Rgghhh!
+
+### 10631C0
+¡Forastero coger MI ROCA! ¡MÍA PARA TENER! ¡MÍA PARA COMER!
+
+### 10635C0
+¡Ay! ¡Atrás! ¡Le he abierto la cabeza a 2 salvajes de las cuevas para conseguir esta gema!\p¡Es mía!
+
+### 1063640
+Maldita sea…\pEstoy demasiado cansado…
+
+### 10636C0
+uf…\pDespués de todo eso, sigo sin conseguir nada…
+
+### 1063B00
+¡MÍO!\p¡TUS HUESOS!\p¡MI COMIDA!
+
+### 1063B80
+¡Fsss!\p¡MORIR! ¡FORASTERO MORIR!
+
+### 1063C00
+¡TÚ ROBAR, YO ROBAR!\p¡TÚ ROBAR, YO MATAR!
+
+### 1063F40
+Eh, eh.\p¿Qué hace un{a} crí{o} como tú aquí? ¿Llevas algo encima?
+
+### 1063FC0
+¡Maldita sea, me ha atracado un{a} crí{o}!
+
+### 1064040
+Las gemas de aquí se venden a muy buen precio.\pPero, por intentarlo, puede que un salvaje te abra el cráneo.
+
+### 1064140
+¡Eeey!\p¿Sabes algo de esta pared invisible?
+
+### 10641C0
+¡Eres lo peor!
+
+### 1064240
+Un salvaje me persiguió hasta aquí, pero salió huyendo al llegar a este punto brillante.\p¡Menuda panda de bichos raros!
+
+### 10644C0
+¡Te daré de comer a mis bestias!\p¡Roerán tus huesos! ¡GAJAJA!
+
+### 1064540
+Grrr…\p¡ODIAR FORASTERO!
+
+### 10645C0
+Hueso de forastero tan sabroso…\p¡Lleno de sal! ¡Partes blandas dar de comer a bestia!
+
+### 10646C0
+¡TÚ NO COGER!\p¡MATAR FORASTERO!
+
+### 1064740
+Mi roca…\p¡MI ROCA!
+
+### 10647C0
+Tú no comer…\p¡Tú no necesitar!
+
+### 10648C0
+Eh, peque.\p¿Cuánto dinero dirías que llevas encima?
+
+### 1064940
+Bueno, yo tengo esto…
+
+### 10649C0
+Vete a tomar por culo a otra parte. Solo intento encontrar una salida segura.
+
+### 1064AC0
+¡Lo he visto yo primero!\p¡Mierdecilla avariciosa!
+
+### 1064B40
+Maldita sea…\puf…
+
+### 1064BC0
+Ya sabes cómo lo tenemos los carroñeros.\pY aun así, nos quitas la comida de la boca.\p¿Te queda algo de humanidad?
+
+### 1064CC0
+¡TÚ NO SER DE AQUÍ!\p¡NADIE SALIR VIVO DE CUEVA!
+
+### 1064D40
+¡MORIR!\p¡MATAR!\p¡ODIAR!
+
+### 1064DC0
+¡Forastero todavía querer!\p¡Todavía coger! ¡COGER!\p¡MI ROCA!
+
+### 10650C0
+Guh… Estoy medio muerto.\pLo único que tengo para enseñar después de toda esta mierda son unas cuantas piedras brillantes.\p…¿y tú?
+
+### 1065140
+Y ahora no tengo nada.
+
+### 10651C0
+No mucha gente consigue salir de aquí. Los salvajes de las cuevas son hostiles incluso entre ellos.
+
+### 10652C9
+Grrr…\pForastero.\pTú dar espalda, yo aplastar tu cabeza.\pDar de comer a bestia, yo comer tus huesos.
+
+### 1065349
+¡RAAAGH!\p¡PARED BRILLAR! OJOS…\p¡¡¡DOLER!!!
+
+### 10653C9
+¿Qué demonios miras?
+
+### 1065449
+Tú no me importas.\pY ahora déjame en paz.
+
+### 10654C0
+no pude\pescapar a tiempo
+
+### 106C509
+Jardín de Gold
+
+### 12410F7
+¿Mover a {B01} a esta carpeta?
+
+### 1241111
+Se ha movido a {B01} al destino:\nCARPETA
+
+### 1241173
+Puede haber malware…
+
+### 12C9A74
+Agatha: Kejejeje…\p¿Esta sala te llena de emoción? La huérfana, la hija de Marcel. Qué momento tan emotivo…\pLo siento por esa chica, de verdad…\pPero tú, Campeón…\p…sabes que solo una persona puede estar en lo más alto. Tú y yo lo sabemos.\p¿Te crees más fuerte que todos los que vinieron antes que tú?\p¡Kejejeje! ¡Que decidan nuestros espíritus!
+
+### 12C9BC5
+Kejejeje… Quizá, contigo…\p…las cosas podrían cambiar. El futuro cercano… hasta yo me pregunto qué pasará.
+
+### 12C9C29
+Agatha: Tu poder es realmente digno de ver.\pEntiendo lo que Blue ve en ti. Pero tienes algo dentro.\pAlgo horrible se pudre dentro de ti, algo desastroso.\p¿Qué vas a hacer?\pSerá interesante verlo. Kejejejeje…
+
+### 1311700
+¡NO PUEDES QUITÁRMELO!\p¡ES MÍO! ¡SOLO MÍO! ¡MUERE!
+
+### 1311780
+No…\pn-no puedes quitármelo…\ppor favor…
+
+### 1311800
+Me lo has quitado…\pYa no está…\pmi…\pmi único…
+
+### 1442849
+Meepy\n2019 - 2029\pUn amigo para siempre. Mi mejor amigo.
+
+### 14428C9
+Aquí yace Flippers el Lapras\pEl último de su especie, fue leal y cariñoso con todos los que lo rodeaban hasta su último aliento.\pTe queremos, Flippers. Nada con el resto de tus hermanos y hermanas en el océano infinito.
+
+### 1442A09
+Hayato\n2010 - 2025\pEl titán adolescente tóxico. El mejor hijo que una madre podría pedir.
+
+### 145A649
+El soldado que me salvó la vida en las guerras psíquicas de Kanto.\pOjalá supiera tu nombre. Descansa en paz.
+
+### 15A5809
+Jigg\n2010 - 2026
+
+### 15A5889
+Nips el Chihuahua\n1998 - 2003\pMascota y amigo querido. Te fuiste demasiado pronto. Que descanses en paz. Te querré y te recordaré siempre.
+
+### 15A5989
+Mamá\n1997 - 2040\pGracias por estar ahí cuando nadie más estaba.
+
+### 15A5A09
+El Príncipe de las Tinieblas\n1948 - 2025\p¡Que siga el rock! Gracias por tu arte.
+
+### 15A5A89
+Brent Hinds\n1974 - 2025\pDescansa en paz, alma mortal. Gracias por tu arte.
+
+### 15A5B09
+Capitán\n1974 - 2032\pLíder, padre, héroe.
+
+### 15A5B89
+Rita la Golduck\n2001 - 2041\pUna mente brillante y una buena amiga.
+
+### 15A5C09
+Liz\n1994 - 2034\pUn hombro en el que apoyarse
+
+### 15A5C89
+Margaret\n2002 - 2012\pSe fue demasiado pronto; la recordaremos siempre.
+
+### 15A5D89
+Pal el Gloom\n1999 - 2029\p¡Gracias por los recuerdos, descansa en paz!
+
+### 15A5E09
+Aquí yace la señora Charlie\pQue cantes tu hermosa canción en el cielo para que todos la oigan.
+
+### 15A5E89
+Aquí yace Meta\pHámster querido, estudiante aplicado, amigo maravilloso.
+
+### 15A5F09
+Koichi I\n1977 - 2027\pMaestro de artes marciales, profesor y padre.
+
+### 15A5F89
+Eddie el Magnemite\p¡Sigue zumbando, imán loco!
+
+### 15A6109
+Turnip el Swampert\n2004 - 2026\pUn amigo a través de generaciones, un compañero leal para siempre.
+
+### 15A6189
+Peter\n1996 - 2026\pUn entrenador del montón, pero el mejor amigo que nadie podría tener, en esta vida o en la siguiente.
+
+### 15A6209
+Basil\n2012 - 2034\pEl mejor Pidgeot que una chica podría conocer. Extiende tus alas y vuela libre.
+
+### 15A6289
+Aquí yace Sunny\pUn auténtico espíritu creativo; deja que tus preocupaciones se esfumen y descansa tranquilo.
+
+### 15A6409
+Theodora\p2003 - 2049\nUn alma preciosa, por dentro y por fuera.
+
+### 15A6489
+Jin\n2009 - 2031\pSigue encendida.
+
+### 15A6509
+Winston el Whismur\n2002 - 2020\pEncuentra tu paz, amigo.
+
+### 15A6589
+Aquí descansa Koga\nCampeón, padre, líder y modelo a seguir.
+
+### 15A6609
+Lorelei\pUna mujer de muchos talentos, que siempre encontró el camino a casa desde el frío.\pDescanse en paz
+
+### 15A6689
+Will\p1975 - 2027\nVíctima de una guerra sin sentido. Que entretengas a todas nuestras almas en el descanso eterno.
+
+### 15A6709
+Mimi la Manectric\n2010 - 2047\pLa cosa más rápida del mundo, y la melena más cálida en la que descansar por la noche. ¡Gracias por todo, Mimi!
+
+### 15A6809
+Aquí yace YeahPotato\pDescansa en paz; quizá puedas terminar tu obra en la próxima vida…
+
+### 15A6889
+Aquí yace Kaspar\pSe fue, pero no está olvidado
+
+### 15A6909
+Aquí yace Monte\pOlvidado, pero no se ha ido
+
+### 15A6989
+Yoshitora\n2017 - 2026\pQue te des un atracón en el más allá, como tanto te gustaba en esta vida.

@@ -1,0 +1,2299 @@
+[
+ {
+  "us": "03CC4DC",
+  "es": "0EAF54C",
+  "size": 1200,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "00894E8"
+  ]
+ },
+ {
+  "us": "03CC984",
+  "es": "0EAF95C",
+  "size": 1200,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "00894BC"
+  ]
+ },
+ {
+  "us": "0402CD4",
+  "es": "0EAFD04",
+  "size": 256,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "040BBE0"
+  ]
+ },
+ {
+  "us": "0410B94",
+  "es": "0EAFBCC",
+  "size": 2048,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "0410CEC"
+  ]
+ },
+ {
+  "us": "0440124",
+  "es": "0EB2154",
+  "size": 1280,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "0104E6C"
+  ]
+ },
+ {
+  "us": "0440274",
+  "es": "0EB1F60",
+  "size": 1024,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "01026A4"
+  ]
+ },
+ {
+  "us": "04403AC",
+  "es": "0EB2068",
+  "size": 1024,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "010259C"
+  ]
+ },
+ {
+  "us": "04659D0",
+  "es": "0EAFE08",
+  "size": 4416,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "01413AC"
+  ]
+ },
+ {
+  "us": "046D3A8",
+  "es": "0EB19F4",
+  "size": 8192,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "0149F10"
+  ]
+ },
+ {
+  "us": "047A348",
+  "es": "0EB0920",
+  "size": 3584,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "047A79C"
+  ]
+ },
+ {
+  "us": "0E82700",
+  "es": "0E82700",
+  "size": 1984,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "011EFB0"
+  ]
+ },
+ {
+  "us": "0E82EA0",
+  "es": "0E82EA0",
+  "size": 1024,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "045A574"
+  ]
+ },
+ {
+  "us": "0E86240",
+  "es": "0E86230",
+  "size": 7456,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "015AE98"
+  ]
+ },
+ {
+  "us": "0E86D6C",
+  "es": "0E86CA0",
+  "size": 2048,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "015AEA4"
+  ]
+ },
+ {
+  "us": "0E87028",
+  "es": "0E88B5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4434",
+   "03D443C",
+   "03D4444",
+   "03D444C",
+   "03D4454",
+   "03D445C",
+   "03D4464",
+   "03D446C",
+   "03D44D4",
+   "03D4524",
+   "03D454C",
+   "03D4554",
+   "03D455C",
+   "03D456C",
+   "03D4574",
+   "03D45BC",
+   "03D45C4",
+   "03D45DC",
+   "03D4614",
+   "03D4624",
+   "03D462C",
+   "03D4634",
+   "03D463C",
+   "03D4644",
+   "03D464C",
+   "03D4814",
+   "03D481C",
+   "03D4824",
+   "03D49A4",
+   "03D49AC",
+   "03D49B4",
+   "03D49BC",
+   "03D49C4",
+   "03D49CC",
+   "03D49D4",
+   "03D49DC",
+   "03D4AEC",
+   "03D4D6C",
+   "03D4D74"
+  ]
+ },
+ {
+  "us": "0E870B4",
+  "es": "0E930A4",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4E4C"
+  ]
+ },
+ {
+  "us": "0E877DC",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D42D4"
+  ]
+ },
+ {
+  "us": "0E878C8",
+  "es": "0E87088",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D42DC"
+  ]
+ },
+ {
+  "us": "0E879B4",
+  "es": "0E87180",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D42E4"
+  ]
+ },
+ {
+  "us": "0E87A7C",
+  "es": "0E87268",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D42EC"
+  ]
+ },
+ {
+  "us": "0E87B60",
+  "es": "0E87360",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D42F4"
+  ]
+ },
+ {
+  "us": "0E87C04",
+  "es": "0E87434",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D42FC",
+   "03D4344"
+  ]
+ },
+ {
+  "us": "0E87CF0",
+  "es": "0E8752C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4304"
+  ]
+ },
+ {
+  "us": "0E87E0C",
+  "es": "0E87624",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D430C",
+   "03D4314",
+   "03D431C",
+   "03D4324"
+  ]
+ },
+ {
+  "us": "0E87F04",
+  "es": "0E879B0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D432C",
+   "03D4334"
+  ]
+ },
+ {
+  "us": "0E88078",
+  "es": "0E87D40",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D434C"
+  ]
+ },
+ {
+  "us": "0E88148",
+  "es": "0E87D40",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4354"
+  ]
+ },
+ {
+  "us": "0E881A4",
+  "es": "0E87D40",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D435C"
+  ]
+ },
+ {
+  "us": "0E8828C",
+  "es": "0E87D40",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4364"
+  ]
+ },
+ {
+  "us": "0E88360",
+  "es": "0E87E38",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D436C"
+  ]
+ },
+ {
+  "us": "0E8841C",
+  "es": "0E87E38",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4374"
+  ]
+ },
+ {
+  "us": "0E88504",
+  "es": "0E87B38",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D437C"
+  ]
+ },
+ {
+  "us": "0E885DC",
+  "es": "0E87B38",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4384",
+   "03D4394",
+   "03D4404"
+  ]
+ },
+ {
+  "us": "0E88688",
+  "es": "0E87FAC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D438C"
+  ]
+ },
+ {
+  "us": "0E88790",
+  "es": "0E880D8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D439C"
+  ]
+ },
+ {
+  "us": "0E88880",
+  "es": "0E881C0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D43A4",
+   "03D43AC",
+   "03D43B4",
+   "03D43BC"
+  ]
+ },
+ {
+  "us": "0E889D0",
+  "es": "0E88510",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D43C4"
+  ]
+ },
+ {
+  "us": "0E88AC0",
+  "es": "0E885BC",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D43CC",
+   "03D43D4",
+   "03D43DC",
+   "03D43E4",
+   "03D43EC"
+  ]
+ },
+ {
+  "us": "0E88C28",
+  "es": "0E887B4",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D43F4"
+  ]
+ },
+ {
+  "us": "0E88D30",
+  "es": "0E887B4",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D43FC"
+  ]
+ },
+ {
+  "us": "0E88E34",
+  "es": "0E889F4",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D440C"
+  ]
+ },
+ {
+  "us": "0E88F50",
+  "es": "0E889F4",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4414",
+   "03D441C",
+   "03D4424",
+   "03D442C"
+  ]
+ },
+ {
+  "us": "0E8900C",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D448C"
+  ]
+ },
+ {
+  "us": "0E890EC",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4494",
+   "03D449C",
+   "03D44A4",
+   "03D44AC",
+   "03D44C4"
+  ]
+ },
+ {
+  "us": "0E8923C",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D44B4"
+  ]
+ },
+ {
+  "us": "0E8931C",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D44BC"
+  ]
+ },
+ {
+  "us": "0E8941C",
+  "es": "0E88F40",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D44CC"
+  ]
+ },
+ {
+  "us": "0E89558",
+  "es": "0E89020",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D44DC",
+   "03D44E4",
+   "03D44EC",
+   "03D44F4",
+   "03D44FC",
+   "03D4504",
+   "03D450C"
+  ]
+ },
+ {
+  "us": "0E896CC",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4514"
+  ]
+ },
+ {
+  "us": "0E897D8",
+  "es": "0E8948C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D451C"
+  ]
+ },
+ {
+  "us": "0E898EC",
+  "es": "0E8948C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D452C",
+   "03D4534",
+   "03D4544"
+  ]
+ },
+ {
+  "us": "0E899DC",
+  "es": "0E8948C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D453C"
+  ]
+ },
+ {
+  "us": "0E89ADC",
+  "es": "0E89910",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D457C"
+  ]
+ },
+ {
+  "us": "0E89BF0",
+  "es": "0E89820",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4584"
+  ]
+ },
+ {
+  "us": "0E89CE4",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D458C"
+  ]
+ },
+ {
+  "us": "0E89E00",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4594"
+  ]
+ },
+ {
+  "us": "0E89F08",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D459C"
+  ]
+ },
+ {
+  "us": "0E8A00C",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D45A4"
+  ]
+ },
+ {
+  "us": "0E8A128",
+  "es": "0E89C18",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D45CC"
+  ]
+ },
+ {
+  "us": "0E8A1A8",
+  "es": "0E89D34",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D45D4"
+  ]
+ },
+ {
+  "us": "0E8A284",
+  "es": "0E89F40",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D45E4"
+  ]
+ },
+ {
+  "us": "0E8A328",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D45EC"
+  ]
+ },
+ {
+  "us": "0E8A3E0",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D45F4"
+  ]
+ },
+ {
+  "us": "0E8A4C4",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D45FC"
+  ]
+ },
+ {
+  "us": "0E8A548",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4604"
+  ]
+ },
+ {
+  "us": "0E8A5F4",
+  "es": "0E8A05C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D460C"
+  ]
+ },
+ {
+  "us": "0E8A6B0",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D465C"
+  ]
+ },
+ {
+  "us": "0E8A7A4",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4664"
+  ]
+ },
+ {
+  "us": "0E8A88C",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D466C"
+  ]
+ },
+ {
+  "us": "0E8A990",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4674"
+  ]
+ },
+ {
+  "us": "0E8AA8C",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D467C"
+  ]
+ },
+ {
+  "us": "0E8AB8C",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4684"
+  ]
+ },
+ {
+  "us": "0E8AC84",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D468C"
+  ]
+ },
+ {
+  "us": "0E8AD64",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4694"
+  ]
+ },
+ {
+  "us": "0E8AE5C",
+  "es": "0E8A5E4",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D469C"
+  ]
+ },
+ {
+  "us": "0E8AF64",
+  "es": "0E8A6D8",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D46A4"
+  ]
+ },
+ {
+  "us": "0E8B064",
+  "es": "0E8A7C0",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D46AC"
+  ]
+ },
+ {
+  "us": "0E8B148",
+  "es": "0E8A8C4",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D46B4"
+  ]
+ },
+ {
+  "us": "0E8B200",
+  "es": "0E8A9C0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46BC"
+  ]
+ },
+ {
+  "us": "0E8B310",
+  "es": "0E8AAC0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46C4"
+  ]
+ },
+ {
+  "us": "0E8B3F4",
+  "es": "0E8ABB8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46CC"
+  ]
+ },
+ {
+  "us": "0E8B4D8",
+  "es": "0E8AC98",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46D4"
+  ]
+ },
+ {
+  "us": "0E8B5E0",
+  "es": "0E8AD90",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46DC"
+  ]
+ },
+ {
+  "us": "0E8B6EC",
+  "es": "0E8AE98",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46E4"
+  ]
+ },
+ {
+  "us": "0E8B7C8",
+  "es": "0E8AF98",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46EC"
+  ]
+ },
+ {
+  "us": "0E8B8B0",
+  "es": "0E8B07C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46F4"
+  ]
+ },
+ {
+  "us": "0E8B9A8",
+  "es": "0E8B134",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D46FC"
+  ]
+ },
+ {
+  "us": "0E8BA7C",
+  "es": "0E8B244",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4704"
+  ]
+ },
+ {
+  "us": "0E8BB6C",
+  "es": "0E8B328",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D470C"
+  ]
+ },
+ {
+  "us": "0E8BC58",
+  "es": "0E8B40C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4714"
+  ]
+ },
+ {
+  "us": "0E8BD60",
+  "es": "0E8B514",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D471C"
+  ]
+ },
+ {
+  "us": "0E8BE40",
+  "es": "0E8B620",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4724"
+  ]
+ },
+ {
+  "us": "0E8BF4C",
+  "es": "0E8B6FC",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D472C"
+  ]
+ },
+ {
+  "us": "0E8C058",
+  "es": "0E8B7E4",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4734"
+  ]
+ },
+ {
+  "us": "0E8C15C",
+  "es": "0E8B8DC",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D473C"
+  ]
+ },
+ {
+  "us": "0E8C270",
+  "es": "0E8B9B0",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4744"
+  ]
+ },
+ {
+  "us": "0E8C378",
+  "es": "0E8BAA0",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D474C"
+  ]
+ },
+ {
+  "us": "0E8C45C",
+  "es": "0E8BB8C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4754"
+  ]
+ },
+ {
+  "us": "0E8C574",
+  "es": "0E8BC94",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D475C"
+  ]
+ },
+ {
+  "us": "0E8C64C",
+  "es": "0E8BD74",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4764"
+  ]
+ },
+ {
+  "us": "0E8C73C",
+  "es": "0E8BE80",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D476C"
+  ]
+ },
+ {
+  "us": "0E8C82C",
+  "es": "0E8BF8C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4774"
+  ]
+ },
+ {
+  "us": "0E8C930",
+  "es": "0E8C090",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D477C"
+  ]
+ },
+ {
+  "us": "0E8CA08",
+  "es": "0E8C1A4",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4784"
+  ]
+ },
+ {
+  "us": "0E8CB08",
+  "es": "0E8C2AC",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D478C"
+  ]
+ },
+ {
+  "us": "0E8CC1C",
+  "es": "0E8C390",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4794"
+  ]
+ },
+ {
+  "us": "0E8CCE8",
+  "es": "0E8C4A8",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D479C"
+  ]
+ },
+ {
+  "us": "0E8CE08",
+  "es": "0E8C580",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D47A4"
+  ]
+ },
+ {
+  "us": "0E8CEC8",
+  "es": "0E8C670",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D47AC"
+  ]
+ },
+ {
+  "us": "0E8CFAC",
+  "es": "0E8C760",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D47B4"
+  ]
+ },
+ {
+  "us": "0E8D0B4",
+  "es": "0E8C864",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D47BC"
+  ]
+ },
+ {
+  "us": "0E8D1E8",
+  "es": "0E8C93C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D47C4"
+  ]
+ },
+ {
+  "us": "0E8D310",
+  "es": "0E8CA3C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D47CC"
+  ]
+ },
+ {
+  "us": "0E8D418",
+  "es": "0E8CB50",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D47D4"
+  ]
+ },
+ {
+  "us": "0E8D518",
+  "es": "0E8CC1C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D47DC"
+  ]
+ },
+ {
+  "us": "0E8D618",
+  "es": "0E8CD3C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D47E4"
+  ]
+ },
+ {
+  "us": "0E8D720",
+  "es": "0E8CDFC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D47EC"
+  ]
+ },
+ {
+  "us": "0E8D83C",
+  "es": "0E8CEE0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D47F4"
+  ]
+ },
+ {
+  "us": "0E8D91C",
+  "es": "0E8CFE8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D47FC"
+  ]
+ },
+ {
+  "us": "0E8DA20",
+  "es": "0E8D11C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4804"
+  ]
+ },
+ {
+  "us": "0E8DB14",
+  "es": "0E8D244",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D480C"
+  ]
+ },
+ {
+  "us": "0E8DC00",
+  "es": "0E8D654",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D482C"
+  ]
+ },
+ {
+  "us": "0E8DCDC",
+  "es": "0E8D770",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4834",
+   "03D485C"
+  ]
+ },
+ {
+  "us": "0E8DDA8",
+  "es": "0E8D850",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D483C"
+  ]
+ },
+ {
+  "us": "0E8DEBC",
+  "es": "0E8D954",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4844"
+  ]
+ },
+ {
+  "us": "0E8DFD0",
+  "es": "0E8DA48",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D484C"
+  ]
+ },
+ {
+  "us": "0E8E088",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4854"
+  ]
+ },
+ {
+  "us": "0E8E190",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4864"
+  ]
+ },
+ {
+  "us": "0E8E2A4",
+  "es": "0E8DB34",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D486C"
+  ]
+ },
+ {
+  "us": "0E8E3B0",
+  "es": "0E8DC10",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4874"
+  ]
+ },
+ {
+  "us": "0E8E460",
+  "es": "0E8DCDC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D487C"
+  ]
+ },
+ {
+  "us": "0E8E51C",
+  "es": "0E8DDF0",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4884"
+  ]
+ },
+ {
+  "us": "0E8E5E0",
+  "es": "0E8DF04",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D488C"
+  ]
+ },
+ {
+  "us": "0E8E694",
+  "es": "0E8DFBC",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4894"
+  ]
+ },
+ {
+  "us": "0E8E76C",
+  "es": "0E8DC10",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D489C"
+  ]
+ },
+ {
+  "us": "0E8E834",
+  "es": "0E8E0C4",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D48A4"
+  ]
+ },
+ {
+  "us": "0E8E910",
+  "es": "0E8E1D8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48AC"
+  ]
+ },
+ {
+  "us": "0E8E9E0",
+  "es": "0E8E2E4",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48B4"
+  ]
+ },
+ {
+  "us": "0E8EAF8",
+  "es": "0E8E394",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48BC"
+  ]
+ },
+ {
+  "us": "0E8EB98",
+  "es": "0E8E450",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48C4"
+  ]
+ },
+ {
+  "us": "0E8ECC0",
+  "es": "0E8E514",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48CC"
+  ]
+ },
+ {
+  "us": "0E8ED9C",
+  "es": "0E8E5C8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48D4"
+  ]
+ },
+ {
+  "us": "0E8EE64",
+  "es": "0E8E6A0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48DC"
+  ]
+ },
+ {
+  "us": "0E8EF38",
+  "es": "0E8E768",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D48E4"
+  ]
+ },
+ {
+  "us": "0E8EFF0",
+  "es": "0E8E844",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48EC"
+  ]
+ },
+ {
+  "us": "0E8F0CC",
+  "es": "0E8E914",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48F4"
+  ]
+ },
+ {
+  "us": "0E8F1A4",
+  "es": "0E8EA2C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D48FC"
+  ]
+ },
+ {
+  "us": "0E8F270",
+  "es": "0E8EACC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4904"
+  ]
+ },
+ {
+  "us": "0E8F310",
+  "es": "0E8EBF4",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D490C"
+  ]
+ },
+ {
+  "us": "0E8F3D8",
+  "es": "0E8ECD0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4914"
+  ]
+ },
+ {
+  "us": "0E8F4B0",
+  "es": "0E8ED98",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D491C"
+  ]
+ },
+ {
+  "us": "0E8F568",
+  "es": "0E8EE6C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4924"
+  ]
+ },
+ {
+  "us": "0E8F644",
+  "es": "0E8EF24",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D492C"
+  ]
+ },
+ {
+  "us": "0E8F6EC",
+  "es": "0E8F000",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4934"
+  ]
+ },
+ {
+  "us": "0E8F7D4",
+  "es": "0E8F0D8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D493C"
+  ]
+ },
+ {
+  "us": "0E8F894",
+  "es": "0E8F1A4",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4944"
+  ]
+ },
+ {
+  "us": "0E8F94C",
+  "es": "0E8F244",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D494C"
+  ]
+ },
+ {
+  "us": "0E8FA38",
+  "es": "0E8F30C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4954"
+  ]
+ },
+ {
+  "us": "0E8FB0C",
+  "es": "0E8F3E4",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D495C"
+  ]
+ },
+ {
+  "us": "0E8FC34",
+  "es": "0E8F49C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4964"
+  ]
+ },
+ {
+  "us": "0E8FD18",
+  "es": "0E8F578",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D496C"
+  ]
+ },
+ {
+  "us": "0E8FDF8",
+  "es": "0E8F620",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4974"
+  ]
+ },
+ {
+  "us": "0E8FF08",
+  "es": "0E8F708",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D497C"
+  ]
+ },
+ {
+  "us": "0E90018",
+  "es": "0E8F7C8",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4984"
+  ]
+ },
+ {
+  "us": "0E900FC",
+  "es": "0E8F880",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D498C"
+  ]
+ },
+ {
+  "us": "0E901E0",
+  "es": "0E8F96C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4994"
+  ]
+ },
+ {
+  "us": "0E90290",
+  "es": "0E8FA40",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D499C"
+  ]
+ },
+ {
+  "us": "0E90354",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4A84",
+   "03D4A8C",
+   "03D4A94",
+   "03D4A9C",
+   "03D4AA4"
+  ]
+ },
+ {
+  "us": "0E904AC",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4AAC"
+  ]
+ },
+ {
+  "us": "0E905D8",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4AB4"
+  ]
+ },
+ {
+  "us": "0E906B8",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4ABC"
+  ]
+ },
+ {
+  "us": "0E9079C",
+  "es": "0E90288",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4AC4"
+  ]
+ },
+ {
+  "us": "0E9086C",
+  "es": "0E90288",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4ACC"
+  ]
+ },
+ {
+  "us": "0E90930",
+  "es": "0E90288",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4AD4"
+  ]
+ },
+ {
+  "us": "0E90A08",
+  "es": "0E90288",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4ADC"
+  ]
+ },
+ {
+  "us": "0E90AB4",
+  "es": "0E90288",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4AE4"
+  ]
+ },
+ {
+  "us": "0E90B88",
+  "es": "0E9050C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4AF4"
+  ]
+ },
+ {
+  "us": "0E90C78",
+  "es": "0E905EC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4AFC"
+  ]
+ },
+ {
+  "us": "0E90D3C",
+  "es": "0E906D0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B04"
+  ]
+ },
+ {
+  "us": "0E90E3C",
+  "es": "0E907A0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B0C"
+  ]
+ },
+ {
+  "us": "0E90F0C",
+  "es": "0E90864",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B14"
+  ]
+ },
+ {
+  "us": "0E91028",
+  "es": "0E9093C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4B1C"
+  ]
+ },
+ {
+  "us": "0E91138",
+  "es": "0E909E8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B24"
+  ]
+ },
+ {
+  "us": "0E911B8",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4B2C"
+  ]
+ },
+ {
+  "us": "0E91278",
+  "es": "0E90ABC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B34",
+   "03D4B3C"
+  ]
+ },
+ {
+  "us": "0E91368",
+  "es": "0E90C70",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B44"
+  ]
+ },
+ {
+  "us": "0E91454",
+  "es": "0E90D70",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B4C"
+  ]
+ },
+ {
+  "us": "0E91528",
+  "es": "0E90E40",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B54"
+  ]
+ },
+ {
+  "us": "0E91628",
+  "es": "0E90F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B5C"
+  ]
+ },
+ {
+  "us": "0E916E0",
+  "es": "0E9106C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B64"
+  ]
+ },
+ {
+  "us": "0E9179C",
+  "es": "0E910EC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B6C"
+  ]
+ },
+ {
+  "us": "0E9185C",
+  "es": "0E911AC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B74"
+  ]
+ },
+ {
+  "us": "0E91918",
+  "es": "0E911AC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B7C"
+  ]
+ },
+ {
+  "us": "0E919C0",
+  "es": "0E9129C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B84"
+  ]
+ },
+ {
+  "us": "0E91AF4",
+  "es": "0E91388",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B8C"
+  ]
+ },
+ {
+  "us": "0E91BE4",
+  "es": "0E9145C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B94"
+  ]
+ },
+ {
+  "us": "0E91CC8",
+  "es": "0E9155C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4B9C",
+   "03D4BA4",
+   "03D4BAC",
+   "03D4BB4",
+   "03D4BBC",
+   "03D4BC4",
+   "03D4BCC",
+   "03D4BD4"
+  ]
+ },
+ {
+  "us": "0E92044",
+  "es": "0E91BFC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4D7C"
+  ]
+ },
+ {
+  "us": "0E9211C",
+  "es": "0E91BFC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4D84"
+  ]
+ },
+ {
+  "us": "0E92208",
+  "es": "0E91BFC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4D8C"
+  ]
+ },
+ {
+  "us": "0E922FC",
+  "es": "0E91BFC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4D94"
+  ]
+ },
+ {
+  "us": "0E923BC",
+  "es": "0E91BFC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4D9C"
+  ]
+ },
+ {
+  "us": "0E924CC",
+  "es": "0E91BFC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DA4"
+  ]
+ },
+ {
+  "us": "0E925D0",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DAC"
+  ]
+ },
+ {
+  "us": "0E92698",
+  "es": "0E86F5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DB4"
+  ]
+ },
+ {
+  "us": "0E92774",
+  "es": "0E91F78",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DBC"
+  ]
+ },
+ {
+  "us": "0E92888",
+  "es": "0E92050",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DC4"
+  ]
+ },
+ {
+  "us": "0E92978",
+  "es": "0E9213C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DCC"
+  ]
+ },
+ {
+  "us": "0E92A70",
+  "es": "0E92230",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DD4"
+  ]
+ },
+ {
+  "us": "0E92B94",
+  "es": "0E922F0",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DDC"
+  ]
+ },
+ {
+  "us": "0E92C78",
+  "es": "0E92400",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4DE4"
+  ]
+ },
+ {
+  "us": "0E92D60",
+  "es": "0E92504",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4DEC"
+  ]
+ },
+ {
+  "us": "0E92E3C",
+  "es": "0E925CC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DF4"
+  ]
+ },
+ {
+  "us": "0E92F28",
+  "es": "0E926A8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4DFC"
+  ]
+ },
+ {
+  "us": "0E93050",
+  "es": "0E927BC",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4E04"
+  ]
+ },
+ {
+  "us": "0E93170",
+  "es": "0E928AC",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4E0C"
+  ]
+ },
+ {
+  "us": "0E93234",
+  "es": "0E929A4",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4E14"
+  ]
+ },
+ {
+  "us": "0E93304",
+  "es": "0E92AC8",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4E1C"
+  ]
+ },
+ {
+  "us": "0E933F0",
+  "es": "0E92BAC",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4E24"
+  ]
+ },
+ {
+  "us": "0E934A8",
+  "es": "0E92C94",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4E2C"
+  ]
+ },
+ {
+  "us": "0E93568",
+  "es": "0E92D70",
+  "size": 288,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "03D4E34"
+  ]
+ },
+ {
+  "us": "0E93658",
+  "es": "0E92E5C",
+  "size": 288,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "03D4E3C",
+   "03D4E44"
+  ]
+ },
+ {
+  "us": "0E991F8",
+  "es": "0E9912C",
+  "size": 6144,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "0089568"
+  ]
+ },
+ {
+  "us": "0E998CC",
+  "es": "0E9980C",
+  "size": 5120,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "0089558"
+  ]
+ },
+ {
+  "us": "0E99F44",
+  "es": "0E99E8C",
+  "size": 2048,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "043F948"
+  ]
+ },
+ {
+  "us": "0E9A168",
+  "es": "0E9A0B4",
+  "size": 4096,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "043F950"
+  ]
+ },
+ {
+  "us": "0E9A460",
+  "es": "0E9A3E0",
+  "size": 16384,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "0135FFC"
+  ]
+ },
+ {
+  "us": "0E9B4B8",
+  "es": "0E9B490",
+  "size": 384,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "013A4C0"
+  ]
+ },
+ {
+  "us": "0E9B950",
+  "es": "0E9B928",
+  "size": 2048,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "0135B20",
+   "0135B8C",
+   "0135D88"
+  ]
+ },
+ {
+  "us": "0E9BD28",
+  "es": "0E9BD00",
+  "size": 4096,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "043F940"
+  ]
+ },
+ {
+  "us": "0E9BF48",
+  "es": "0E9BF24",
+  "size": 1024,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "013A314"
+  ]
+ },
+ {
+  "us": "0E9C438",
+  "es": "0E9C404",
+  "size": 4608,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "008F034"
+  ]
+ },
+ {
+  "us": "0EA1720",
+  "es": "0EA16E0",
+  "size": 1248,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "012AC94"
+  ]
+ },
+ {
+  "us": "0EA1958",
+  "es": "0EA1950",
+  "size": 1280,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "012AC98"
+  ]
+ },
+ {
+  "us": "0EA1A50",
+  "es": "0EA1A48",
+  "size": 1024,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "045AF78"
+  ]
+ },
+ {
+  "us": "0EA1D68",
+  "es": "0EA1D60",
+  "size": 20480,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "02D4A98"
+  ]
+ },
+ {
+  "us": "0EA467C",
+  "es": "0EA4684",
+  "size": 9216,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "047A890"
+  ]
+ },
+ {
+  "us": "0EA5664",
+  "es": "0EA5178",
+  "size": 8192,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "047A89C"
+  ]
+ },
+ {
+  "us": "0EA6408",
+  "es": "0EA5B24",
+  "size": 11264,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "047A8A8"
+  ]
+ },
+ {
+  "us": "0EA7320",
+  "es": "0EA6624",
+  "size": 16384,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "047A8B4"
+  ]
+ },
+ {
+  "us": "0EA8408",
+  "es": "0EA73A0",
+  "size": 6144,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "047A8C0"
+  ]
+ },
+ {
+  "us": "0EA8F40",
+  "es": "0EA7C00",
+  "size": 6144,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "047A8CC"
+  ]
+ },
+ {
+  "us": "0EA9588",
+  "es": "0EA7F08",
+  "size": 2048,
+  "estado": "igual_que_USA",
+  "punteros": [
+   "047A8D0"
+  ]
+ },
+ {
+  "us": "0EAB8C4",
+  "es": "0EAA258",
+  "size": 16384,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "0078A98"
+  ]
+ },
+ {
+  "us": "0EAD390",
+  "es": "0EABD90",
+  "size": 1280,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "0078A9C"
+  ]
+ },
+ {
+  "us": "0EAE0B4",
+  "es": "0EACAC4",
+  "size": 2048,
+  "estado": "modificado_por_hack",
+  "punteros": [
+   "0078AB0"
+  ]
+ }
+]

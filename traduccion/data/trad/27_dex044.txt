@@ -1,0 +1,479 @@
+#! Lote 27: entradas de la Pokédex (3 líneas, máx. ~228 px)
+#! ancho 228
+
+### 0444C35
+Es un Pokémon recién descubierto. Todavía\nse está investigando. De momento no hay\ninformación detallada disponible.
+
+### 0444DDF
+La llama espectral de Litwick guía a los\nniños que se fueron antes de tiempo hacia\nuna vida tranquila en el más allá.
+
+### 0444E48
+Cuando un alma abandona su cuerpo, puede\naparecer un Lampent, pues es el nuevo\nrecipiente del alma tras la muerte.
+
+### 04455B6
+¡Bu!\n¿Te has asustado?
+
+### 0445FA1
+Algún día, Golurk volverá con su\nverdadero amo para cumplir la tarea\npara la que fue creado.
+
+### 0446079
+Se transforma y se integra en cualquier\ngrupo que elija. ¿Quién puede decir quién\nes un Zoroark y quién no?
+
+### 0446274
+Un espíritu vengativo. Wailmer embiste\ncualquier barco que ve. Se puede domar,\npero nunca se hará tu amigo.
+
+### 0446417
+Dos Honedge se vuelven uno. Dos mentes\nseparadas, pero juntas. Un alma para\ndefender y otra para mutilar y cortar.
+
+### 04464DC
+Hola.\n\nDéjame libre. Seré tu amigo.
+
+### 04465F7
+Se disfraza de calabaza de Halloween y\natrapa a sus víctimas desprevenidas en\nuna red venenosa. Luego, se alimenta.
+
+### 0446664
+La cara del lomo de Ariados parece\nseguir y hablar a quienes quedan\natrapados bajo su mirada.
+
+### 0446A6C
+Un Vanillite que ha llegado a evolucionar,\npero que también se acerca a su fin. Poco\na poco, se evapora en niebla de vainilla.
+
+### 0446ADA
+Al galopar, sus llamas iluminan el camino\npara que las almas errantes encuentren la\npaz y un lugar de descanso final.
+
+### 0446E63
+Cuanto más frío hace, mejor se siente.\nNada feliz por océanos tan fríos que\nestán llenos de hielo flotante.
+
+### 0447014
+Hace décadas, era alegre, brillante,\nabundante y ¡rosa!\nPero de eso hace mucho tiempo…
+
+### 0447152
+En la oscuridad total, donde no se ve\nnada, Haunter acecha en silencio a su\npróxima víctima.
+
+### 04473B5
+Su mente rebosa conocimiento, sentimiento\ny poder. Percibe y ve todo lo que no\npuede.
+
+### 04475A6
+Si está triste o se siente solo, la\ncalavera que lleva tiembla y emite un\nsonido lastimero y triste.
+
+### 0447607
+Las llamas del hueso de Marowak giran\ncon pesar y tristeza, pues nunca\nconoció el amor de una madre.
+
+### 0447800
+Si uno de los Koffing gemelos se infla,\nel otro se desinfla. Mezcla sin cesar\nsus gases venenosos.
+
+### 0447867
+El espíritu condenado de un Pokémon\nenvuelto en tela maldita y obligado a\nreptar por las arenas.
+
+### 0447D09
+Se desconoce el origen y el propósito\nde este Pokémon. Hay quien cree que\npodría ser un alma castigada.
+
+### 0447DD6
+Un arma biológica cuyo único disparo\npuede mutilar y matar sin falta a\ncualquier ser, vivo o muerto.
+
+### 0447E3C
+Un Pokémon antes sabio y calculador que\nse cortó su propio cerebro para evitar\nun parásito. Ahora vaga sin rumbo…
+
+### 044815B
+Si bebes de su copa, ¡tus problemas\ndesaparecerán!\nPorque tú desaparecerás, ya no serás tú.
+
+### 04484AA
+LO QUE VIVE PUEDE MORIR\nLO QUE MUERE PUEDE VOLVER A VIVIR\nUNA NUEVA ERA. UN NUEVO COMIENZO.
+
+### 044870B
+Un alma bondadosa hecha de nieve. Guía\na quienes se pierden en el bosque hacia\nun refugio cálido.
+
+### 044876F
+El guardián de quienes no tienen hogar\ny tienen buen corazón. Construye un\nhogar seguro a quien lo necesite.
+
+### 044889E
+La hoja de su cabeza desprende un suave\naroma dulce. Es dócil y le encanta\ntomar el sol.
+
+### 04489C8
+Sus pimientos pican tanto que abrasan\nlos sentidos de cualquiera que sea tan\ninsensato como para comérselos.
+
+### 0448A91
+Un ave cuya técnica de otro mundo le\npermite golpear a los fantasmas. Su\nintención puede cambiar según le dé…
+
+### 0448BBE
+El hombre cuelga por sus crímenes.\nAy, madre mía… ¿Qué habrá hecho para\nmerecer este destino?
+
+### 0448C25
+¡Qué suerte, qué suerte!\n¡Qué suerte tengo!
+
+### 0448C8E
+Un gato que, por un milagro de la suerte,\nobtuvo una inteligencia que supera la\ncomprensión mortal. Lo ve todo.
+
+### 0448FCB
+Un nenúfar feliz que canta bajo la lluvia.\n¡Su canción saca una sonrisa a todo el\nque la escucha!
+
+### 0449277
+Le encanta fabricar máscaras y ropa de\npiel humana. Tasa e intercambia ropa\ncon otros Scrafty.
+
+### 04496E5
+Ya no queda comida con la que alimentar\na las antiguas presas de Dratini. Crece\ny se devora a sí mismo.
+
+### 0449746
+Crece. Su hambre crece. Son iguales.\nSon lo mismo. Son uno.
+
+### 0449817
+Canta canciones tristes con la cola y\nllora por todo lo que nunca volverá.
+
+### 04498EA
+Las canciones ya no son para nadie.\nAzumarill ya ha oído bastante.
+
+### 0449C19
+Su cuerpo plano y fino siempre está\npegado a las paredes. Su forma parece\ntener algún significado.
+
+### 0449C70
+Para esconder su cola negra como el\ncarbón, vive en silencio en la oscuridad.\nNunca ataca primero.
+
+### 0449CD5
+Su cola, que también tiene un pequeño\ncerebro, puede morder por su cuenta si\nnota un olor atrayente.
+
+### 0449D38
+Cuelga y espera a que se acerquen\ninsectos voladores. No suele moverse\nmucho por su cuenta.
+
+### 0449D99
+Permanece inmóvil, enraizado a su árbol.\nEsparce trozos de su duro caparazón\npara ahuyentar a sus enemigos.
+
+### 0449E03
+Si lo descubren, huye excavando con la\ncola. Puede flotar un poquito usando\nsus alas.
+
+### 0449E63
+Suele aferrarse a los acantilados. Al\nver una presa, extiende las alas y\nplanea para atacar.
+
+### 0449EC9
+Su cuerpo se ha comprimido bajo tierra.\nPor eso es incluso más duro que un\ndiamante.
+
+### 0449F2D
+Aunque su aspecto da miedo, en realidad\nes amable y cariñoso.\nEs muy popular entre las mujeres.
+
+### 0449F93
+Hace huir a casi cualquier Pokémon con\nsolo abrir la boca y enseñar sus\nenormes colmillos.
+
+### 0449FF4
+Ante un rival más grande, traga toda el\nagua que puede para igualar su tamaño.
+
+### 044A05A
+Agita sus pinzas con dibujos de ojos\npara asustar a sus enemigos. Así parece\nque tiene tres cabezas.
+
+### 044A0C1
+Guarda bayas en su caparazón. Con el\ntiempo, las bayas fermentan y se\nconvierten en un zumo delicioso.
+
+### 044A121
+Le encanta la miel dulce. Para quedarse\ntoda la miel, lanza por los aires a sus\nrivales con su preciado cuerno.
+
+### 044A1E6
+Empapa sus zarpas de miel para poder\nlamerlas siempre. Cada par de zarpas\ntiene un sabor único.
+
+### 044A2AE
+Nunca duerme. Tiene que moverse sin\nparar, porque si se detuviera, su cuerpo\nde magma se enfriaría y endurecería.
+
+### 044A313
+La concha de su lomo es solo piel que\nse ha enfriado y endurecido. Se rompe\ncon un ligero roce.
+
+### 044A569
+Siempre lleva su comida consigo, vaya\na donde vaya. Si lo atacan, le lanza la\ncomida al rival.
+
+### 044A63D
+Sus alas parecen pesadas, pero en\nrealidad son huecas y ligeras, lo que\nle permite volar libremente.
+
+### 044A706
+Las llamas que escupe cuando se enfada\ncontienen toxinas. Si causan una\nquemadura, dolerá para siempre.
+
+### 044A82C
+Su piel se ha endurecido como una roca.\nUn ataque normal y corriente no le\ndeja ni un rasguño.
+
+### 044A891
+Este Pokémon artificial evolucionó con\nla última tecnología. Puede tener\nreacciones no programadas.
+
+### 044AB31
+Cada vez que inspira y espira, le\ncaen ascuas ardientes por la boca y\nlos orificios nasales.
+
+### 044ABAB
+la leche que\nproduce es mucho más nutritiva\nde lo normal.
+
+### 044AD15
+Este Pokémon recorre la tierra a toda\nvelocidad. Dicen que, cuando aparece,\nsiempre soplan vientos del norte.
+
+### 044AD7D
+Nace bajo tierra. No puede salir hasta\nque se ha comido toda la tierra que\nlo rodea.
+
+### 044ADDE
+Incluso encerrado en su caparazón, se\nmueve con libertad. Duro y rápido, tiene\nun poder destructivo extraordinario.
+
+### 044AE42
+Ningún ataque puede dañar su cuerpo,\nasí que está deseando desafiar a sus\nenemigos.
+
+### 044AEAB
+Dicen que es el guardián de los mares.\nSe rumorea que lo han visto en noches\nde tormenta.
+
+### 044AF10
+Una leyenda dice que su cuerpo brilla\ncon siete colores. Dicen que, al volar,\ndeja un arcoíris tras de sí.
+
+### 044AF77
+Dicen que, cuando Celebi desaparece en\nlo más profundo del bosque, deja un\nhuevo que trajo del futuro.
+
+### 044AFDF
+Las plantas de sus pies están cubiertas\nde pinchos diminutos que le permiten\nandar por paredes y techos.
+
+### 044B047
+Al acercarse a su presa, salta de rama\nen rama. Tiene una agilidad\nasombrosa.
+
+### 044B0A6
+Las hojas de sus brazos cortan árboles\ngruesos. No tiene rival en los\ncombates en la jungla.
+
+### 044B109
+Tiene en la barriga un saco de llamas\nque arde sin cesar. Si lo abrazas,\nsientes su calor.
+
+### 044B165
+En combate, la llama de su cuerpo\ncrece. Sus patadas tienen un poder\ndestructivo extraordinario.
+
+### 044B1C6
+Le salen llamas de las muñecas que le\nenvuelven los puños. Cuanto más fuerte\nes el rival, más intensas son.
+
+### 044B233
+Su gran aleta caudal lo impulsa por el\nagua con una aceleración potente.\nEs fuerte pese a su tamaño.
+
+### 044B29F
+Vivir en suelos embarrados y poco\nfirmes le ha dado unas patas robustas.\nExcava en el barro para dormir.
+
+### 044B30B
+Sus brazos son duros como la roca. De\nun solo golpe tumban al rival. Anida\nen playas preciosas.
+
+### 044B37A
+Un Pokémon tenaz que persigue a la\npresa que elige hasta que esta acaba\nagotada.
+
+### 044B3DB
+Obedece siempre las órdenes de un\nentrenador hábil. Su conducta viene de\nque en tiempos antiguos vivía en manada.
+
+### 044B452
+Un Pokémon muy curioso. Todo le\ninteresa, así que siempre va en\nzigzag.
+
+### 044B4B6
+Linoone siempre corre a toda velocidad\ny solo en línea recta. Las carreteras\ncon curvas suaves son su reto.
+
+### 044B5A0
+Envuelve las ramas de los árboles con\nseda. Bebe el agua de lluvia de su seda\nmientras espera a evolucionar.
+
+### 044B608
+Pese a su aspecto, es agresivo. Ataca\npinchando con su boca larga y fina.
+
+### 044B66F
+Nunca olvida los ataques que sufrió\ndentro del capullo. Tras evolucionar,\nbusca venganza.
+
+### 044B6CF
+Esparce un polvo muy tóxico si nota\npeligro. Suelen reunirse de noche bajo\nla luz de las farolas.
+
+### 044B7A9
+Vive a la orilla del agua, donde hace\nsol. Se alimenta de los musgos\nacuáticos que crecen en el lecho del río.
+
+### 044B810
+Si oye música festiva, todos sus\nmúsculos se llenan de energía. No puede\nevitar ponerse a bailar.
+
+### 044B877
+Si se queda quieto, es imposible\ndistinguirlo de una nuez de verdad. Le\nencanta sorprender a los Pidgey.
+
+### 044B8ED
+Viven en agujeros de árboles grandes.\nEl sonido de la flauta de hierba de\nNuzleaf llena de pavor a quien la oye.
+
+### 044B956
+Un Pokémon temido como guardián del\nbosque. Lee la mente del rival y se\nadelanta a sus actos.
+
+### 044B9BE
+Aunque es pequeño, tiene un valor que\nle hace enfrentarse a rivales duros.\nVuela en busca de climas cálidos.
+
+### 044BA32
+Si sus dos plumas de la cola están\nerguidas, es señal de buena salud.\nSurca el cielo con elegancia.
+
+### 044BAA2
+Atrapa los vientos marinos con sus largas\nalas y planea como un planeador. Anida\nen los acantilados.
+
+### 044BB0A
+Un transportista volador que lleva a\nPokémon pequeños en el pico. Flota en\nlas olas para descansar las alas.
+
+### 044BB76
+Usa los cuernos de la cabeza para\npercibir las emociones humanas. Dicen\nque aparece ante la gente alegre.
+
+### 044BBE0
+Si su entrenador está feliz, rebosa\nenergía y baila con alegría dando\nvueltas.
+
+### 044BC40
+Libera su energía psicoquinética a plena\npotencia para proteger al entrenador\ncon el que tiene un vínculo.
+
+### 044BCA7
+Suelen vivir en estanques, pero tras un\nchaparrón vespertino, pueden aparecer\nen los charcos de los pueblos.
+
+### 044BD06
+Sus antenas tienen dibujos que parecen\nojos. Cuando llueve, le pesan tanto que\nno puede volar.
+
+### 044BD7D
+Prefiere los sitios húmedos. De día se\nqueda quieto a la sombra del bosque.\nSuelta polvo tóxico por la cabeza.
+
+### 044BDEB
+Las semillas de su cola son esporas\ntóxicas. Derriba a sus rivales con\npuñetazos rápidos casi invisibles.
+
+### 044BE58
+Con comer tres hojas al día, tiene\nsuficiente. Aparte de eso, duerme\n20 horas al día.
+
+### 044BEC0
+Si no puede moverse sin parar, se\nestresa. Demasiado estrés hace que\nse ponga malo.
+
+### 044BF21
+Es el Pokémon más perezoso del mundo.\nPero puede desatar un poder terrible\nliberando de golpe su energía contenida.
+
+### 044BF9B
+Puede vivir bajo tierra más de 10\naños. Absorbe nutrientes de las raíces\nde los árboles.
+
+### 044C1F5
+Se fortalece embistiendo árboles\ngruesos una y otra vez. Así gana un\ncuerpo robusto y un espíritu intrépido.
+
+### 044C25E
+Le encanta medir su fuerza con Pokémon\ncorpulentos. Puede mandar un camión\npor los aires con sus empujones.
+
+### 044C390
+Con cada aleteo, llega una tormenta.\nSu risa pícara se oye como el\nretumbar de los truenos.
+
+### 044C469
+Vive en la oscuridad de las cuevas.\nUsa sus afiladas garras para desenterrar\nlas gemas con las que se alimenta.
+
+### 044C533
+Suele vivir en lo más profundo de las\nmontañas. Pero el hambre puede llevarlo\na comerse vías de tren y coches.
+
+### 044C596
+Le encanta el mineral de hierro. Los\ngrupos luchan por el territorio\nchocando sus cuerpos de acero.
+
+### 044C5FD
+Reclama una montaña entera como suya.\nCuantas más heridas tiene, más ha\nluchado, así que no lo subestimes.
+
+### 044C672
+Medita para aumentar su energía interior\ny flotar en el aire. Solo come una baya\nal día.
+
+### 044C7A6
+Descarga electricidad por la melena.\nCrea nubarrones sobre su cabeza para\nlanzar rayos.
+
+### 044C80C
+Anima a sus amigos con pompones de\nchispas. Hace cortocircuitos en su\ncuerpo para crear chasquidos.
+
+### 044C873
+Le gusta animar a sus amigos. Si van\nperdiendo, su cuerpo suelta cada vez\nmás chispas.
+
+### 044C8D2
+Se comunica con los demás iluminando\nsu trasero por la noche. Le encanta el\ndulce aroma de Illumise.
+
+### 044C99C
+Dicen que los Roselia que beben agua de\nmanantial rica en nutrientes muestran\nun color poco común al florecer.
+
+### 044CAD6
+Atacan en grupo a cualquiera que invada\nsu territorio. Sus afilados colmillos\npueden destrozar cascos de barcos.
+
+### 044CB33
+El gánster cruel y astuto del mar.\nSu piel tiene una textura especial para\nreducir la resistencia en el agua.
+
+### 044CB9D
+Los días de sol, sale a la playa para\nbotar como una pelota y jugar.\nEcha agua por la nariz.
+
+### 044CC5E
+Su joroba guarda magma muy caliente.\nCon la lluvia, el magma se enfría y\nse mueve más despacio.
+
+### 044CD26
+Quema carbón dentro de su caparazón\npara obtener energía. Si está en\npeligro, expulsa hollín negro.
+
+### 044CD8D
+Bota sobre su cola para que su corazón\nsiga latiendo. Lleva en la cabeza una\nperla de Clamperl.
+
+### 044CEC3
+Cava un hoyo cónico del que no se puede\nescapar y espera en el fondo a que\ncaigan sus presas.
+
+### 044CF27
+Las ondas ultrasónicas que genera al\nfrotar sus dos alas provocan fuertes\ndolores de cabeza.
+
+### 044D04D
+Se activa de noche en busca de presas\nagotadas por el calor del desierto\ndurante el día.
+
+### 044D0A5
+Por algún motivo, le gusta posarse\nsuavemente en la cabeza de la gente\ny hacer como si fuera un sombrero.
+
+### 044D0FA
+Vuela con elegancia por el cielo.\nSu melodioso tarareo te hace sentir\ncomo en un sueño.
+
+### 044D1D0
+De tanto pulirlo, el filo de la cuchilla\nde su cola está afiladísimo.\nEs el eterno rival de Zangoose.
+
+### 044D310
+Se cubre todo el cuerpo con un fluido\nviscoso para retorcerse y escurrirse\nsi lo atrapan.
+
+### 044D368
+Reclama un gran pantano para él solo.\nSi un enemigo se acerca, provoca\ntemblores agitándose.
+
+### 044D3CD
+Por muy sucia que esté el agua del río,\nse adapta y prospera. Tiene muchas\nganas de sobrevivir.
+
+### 044D435
+Le encanta luchar. Atrapa con sus\npinzas a todo Pokémon que entra en\nsu territorio y lo echa.
+
+### 044D4A8
+Se mueve girando sobre su único pie.\nAunque hay Baltoy a los que se ha\nvisto girando sobre la cabeza.
+
+### 044D5F4
+Vive en mares cálidos. Su pesado\ncuerpo le hace de lastre para que el\nmal tiempo no lo arrastre.
+
+### 044D658
+Un Pokémon ancestral que vivía en el\nocéano. Con el tiempo, sus ocho patas\nse convirtieron en alas.
+
+### 044D6B9
+Sus enormes garras retráctiles cortan\ncasi cualquier cosa. Todo su cuerpo\nestá cubierto de placas resistentes.
+
+### 044D78E
+Dicen que con solo ver la belleza de\nMilotic se calma cualquier sentimiento\nhostil que tengas.
+
+### 044D92A
+Un muñeco que se volvió Pokémon por el\nrencor de haber sido tirado a la basura.\nBusca al niño que lo abandonó.
+
+### 044D992
+Le encanta oír llorar a los niños.\nAsusta a los niños malos atravesando\nlas paredes y los hace llorar.
+
+### 044DACF
+Sus gritos resuenan en su cuerpo hueco\ny salen como notas preciosas que\nsobresaltan y ahuyentan al rival.
+
+### 044DB9F
+Suelen moverse en grupo. Se aplastan\nunos contra otros para fortalecer\nsu espíritu.
+
+### 044DBFD
+En los países de nieve, el folclore\ndice que una casa prosperará si en\nella vive un Snorunt.
+
+### 044DCC3
+Aún no saben nadar bien y se mueven\nmucho más rápido rodando. Cuando están\ncontentos, aplauden con las aletas.
+
+### 044DD92
+Rompe el hielo con sus grandes\ncolmillos. Su grasa lo protege del\nfrío y también de los ataques.
+
+### 044DDD8
+el\nfrío y también de los ataques.
+
+### 044DDFB
+Crea una sola perla en toda su vida.\nDicen que la perla amplifica los\npoderes psíquicos.
+
+### 044DF35
+Un Pokémon raro descubierto en una\nexploración de las profundidades. No ha\ncambiado en más de 100 millones de años.
+
+### 044E000
+Anhela que le crezcan alas para poder\nvolar. Practica saltando desde los\nacantilados todos los días.
+
+### 044E0DB
+Tras soñar tanto tiempo con volar, su\nestructura celular cambió y le\ncrecieron alas.
+
+### 044E2CC
+Dicen que durmió en un glaciar durante\nmiles de años. Ni siquiera el magma\npuede derretir su cuerpo.
+
+### 044E3A5
+Su cuerpo está cubierto de un plumón\nque refracta la luz de tal manera que\nse vuelve invisible.
+
+### 044E477
+Un Pokémon mítico que, según dicen,\nhizo crecer los mares con lluvia y\nmaremotos. Luchó contra Groudon.
+
+### 044E4DD
+Dormía en el magma subterráneo desde\nque luchó ferozmente contra Kyogre\nhace mucho tiempo.
+
+### 044E535
+Vuela en la capa de ozono, muy alto en\nel cielo. Hasta hace poco, nadie lo\nhabía visto nunca.

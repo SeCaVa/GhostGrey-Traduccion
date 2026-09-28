@@ -1,0 +1,22 @@
+[
+ {
+  "addr": "10591C",
+  "orig": "0006002855d01648",
+  "new": "004908470100ff09"
+ },
+ {
+  "addr": "1FF0000",
+  "orig": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "new": "0006002821d003ad002028700135201c6421174b00f02bf8002800d0a1302870201c0a21134b00f022f80a21124b00f01ef8a1306870b820a870201c0a210f4b00f015f8a130e87009e003ad002028700135ac2028706870b821a970e87000202871e1206871ff20a8710549084718470d461e080d461e0885461e0885461e08ff591008"
+ },
+ {
+  "addr": "105A8A",
+  "orig": "0006002800d198e00f4f",
+  "new": "0149084700bf8500ff09"
+ },
+ {
+  "addr": "1FF0084",
+  "orig": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "new": "000602ae0021f170043600282fd00027201cfa218900204b00f03cf8002801d0a13001273070201c64211c4b00f032f80a211b4b00f02ef8002801d1002f00d0a1307070201c0a21164b00f023f80a21154b00f01ff8a130b070b820f070201c0a21124b00f016f8a130307106e0ac2030707070b070b821f170307100207071df20b071db20f071ff20307245461e3507490847184700bf0d461e080d461e0885461e080d461e0885461e0885461e086d5c1008"
+ }
+]

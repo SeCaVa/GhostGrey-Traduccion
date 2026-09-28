@@ -1,0 +1,404 @@
+#! Lote 10: grupo 12 (base de la Familia Luna / Canela)
+#! Las claves de acceso (“ANY”, “FIX”, “make RooM”, “HIgh and Open”) se dejan tal cual: forman parte del acertijo.
+
+### 0C08D80
+Hombre enmascarado: uf…\puf…
+
+### 0F72449
+¡Es la hora del zumo! ¿Quieres un poco?
+
+### 0F724C0
+¡Iiih! ¡Eres quien se ha colado!\p¡Por favor, no me hagas daño!
+
+### 0F72540
+¡Iiih! ¡Qué miedo das! ¡Padre, ayúdame!
+
+### 0F725C0
+¡Por favor, déjame en paz! ¡Te prometo que no intentaré detenerte!
+
+### 0F726C0
+Esto… ¿colega? ¡Nos han dicho que estemos atentos por si venías!
+
+### 0F72740
+Oh, Padre… ¡Lo siento! ¡De verdad que lo siento!
+
+### 0F727C0
+Colega, ¿por qué no te unes a nosotros y asciendes?\pNo te hemos hecho nada… ¡Tenemos un zumo riquísimo!
+
+### 0F728C0
+¡Por la Luna y sus hijos, te detendré aquí!
+
+### 0F72940
+Oh, luna…
+
+### 0F729C0
+¡No tendrás tanta confianza cuando ascienda y me convierta en mi verdadero yo!\p¡Qué vergüenza!
+
+### 0F72AC0
+Eh, colega, no sé por qué te has enfadado tanto con nosotros, pero ¡espera un minuto, por favor!
+
+### 0F72B40
+¿No podemos arreglarlo como personas civilizadas?
+
+### 0F72BC0
+Das mucho miedo… ¡Pero venimos en son de paz! ¿Por qué estás aquí?
+
+### 0F72E00
+¡Para, por favor! ¡¿Qué te pasa?!
+
+### 0F72E80
+Oh, no… Tienes muchísima fuerza…
+
+### 0F72F00
+¡Rezo a la luna y a las estrellas para que no lo consigas!\p¡Si al menos pudiera ascender, quizá habría podido detenerte!
+
+### 0F73009
+¡Oh! ¿Has venido a ver la peli de Clefairy conmigo?\p¿No? ¡Pues es buenísima!
+
+### 0F74529
+Lylia: ¡Eh, {B01}!\pEsta sala de control es bastante segura. Por mucho que lo intento, la puerta de la oficina principal necesita una contraseña especial para abrirse.\pAhora mismo me pide “ANY”, una clave… ¿Por qué no buscas pistas por ahí? Yo seguiré intentando entrar desde aquí. ¡Cuento contigo, {B01}!
+
+### 0F74653
+Lylia: ¿Alguna novedad, {B01}?
+
+### 0F74669
+Lylia: Vaya… Bueno, sigue buscando por ahí. Seguramente puedas sacarles información a los sectarios si te esfuerzas lo suficiente.\p¡Cuento contigo, {B01}!
+
+### 0F746FC
+Lylia: ¡Buen trabajo! Vamos a probarla.
+
+### 0F74727
+Lylia: Vaya, parece que todavía necesitamos más claves. Echa un vistazo por ahí, {B01}. Yo seguiré trabajando aquí.\p¡Cuento contigo!
+
+### 0F747A7
+Lylia: ¡Y ahora, la última!
+
+### 0F747CD
+Lylia: Vaya, incluso después de todo eso, todavía necesitamos más claves…
+
+### 0F7480F
+Maximus: E-eh, chicos… ¿q-qué tal va el sistema de seg-g-guridad?
+
+### 0F748E3
+Maximus: O-oh… B-bueno, creo q-que e-esto p-p-podría s-ser a-a-algo. Tomad…
+
+### 0F7493B
+Lylia: ¡¡Max!! ¡Es esta! ¡Gracias, gracias, gracias! ¡Lo habéis hecho genial los dos! ¡Ahora mismo os daría un beso!\p{B01}, Max, ¿sabéis? Hacemos un equipo bastante bueno, ¡ji, ji!\p¡Ahora vamos a quitarle esas MO a ese estafador!
+
+### 0F74A18
+Lylia: ¡Muy bien! ¡Venga, vosotros dos! ¡Tenemos que darnos prisa!
+
+### 0F74A62
+Maximus: V-vale, {B01}, ¡v-vamos!\pT-te p-p-prometo que esta v-vez no me perderé. S-somos amigos, y te c-cubro las espaldas. ¡Nos p-prot-tegeré! Como ha dicho L-lylia, ¡s-somos un e-e-equipo!
+
+### 0F7AF40
+Lylia: … va bien, Max. Pero parece que nos falta una clave más.\p¿No habrás encontrado nada útil mientras estabas desaparecido?
+
+### 0FB8789
+Está cerrado con llave.
+
+### 0FC086B
+Marshall: Estoy purificado, santo y puro. ¡Estoy listo!\pMiradme ahora, mientras asciendo para bailar entre las estrellas.
+
+### 0FC0A3A
+Bill: Mira a mi colega Marshall. Le dije que podía convertirse en un puñetero hada y volar a la luna, ¡y se lo tomó al pie de la letra!\pLa verdad es que Marshall me caía bien, pero no pasa nada. Mañana mismo puedo nombrar a un nuevo Padre Luna.\p¡Lylia! ¡Sigues siendo idiota, amiga mía! Sé que dije que estoy atrapado así, pero ser un Clefairy tiene sus ventajas…\pPor ejemplo, puedo saltar por esta ventana de un piso 30 y teletransportarme, ¡y ni tus raros ultraentes mutantes podrán encontrarme!\p¡Chao!
+
+### 0FC0C23
+Lylia: ¡Mierda! Serás hijo de…\p…\pMaldita sea… Lo he vuelto a perder. Después de todo esto…
+
+### 0FC0C6C
+Lylia: {B01}…\pLo siento. No quería mentirte, pero nunca habría podido enfrentarme sola a toda la secta. Cuando vi la fuerza que tenías, me di cuenta de que era mi oportunidad para encontrar a Bill y salvar a mi madre…\pLleva atrapada en otra dimensión más de 30 años, aunque no te lo creas. No lo habría hecho si hubiera pensado que tenía otra opción…\p¿Crees que podrás perdonarme?
+
+### 0FC0DE3
+Lylia: Supongo que puedo empezar con esto.
+
+### 0FC0E0A
+Lylia: Lo siento, {B01}. Si necesitas algo de mí, lo que sea… puedes venir a buscarme, siempre estoy en el mismo sitio…\pUf…\pVoy a ir a buscar a Max. Buena suerte, {B01}.
+
+### 0FC0EBA
+Lylia: Gracias, {B01}. Ya te lo compensaré de alguna forma.
+
+### 0FC0EEE
+Lylia: Lo entiendo… Sé que seguramente ya no confías en mí… pero te lo compensaré de alguna forma.
+
+### 0FD9053
+Marshall: ¿Qué has hecho? ¡Mis hijos y yo somos pacíficos! No hacía falta atacarnos.\pTodos caídos, todos perdidos. Todavía no era su hora…\pAcababan de empezar su ascensión…\p¡Mujer malvada! ¿Qué ha hecho nuestra amorosa familia para que nos odies tanto? Nosotros am…
+
+### 0FD9161
+Lylia: ¡Cállate, Marshall! No he venido a escuchar tus sandeces.\p…\pDeja de esconderte. Sé que estás ahí.
+
+### 0FD91CD
+Padre: ¡Huye! ¡Huye, mi Heraldo! ¡La intrusa, la apóstata!
+
+### 0FD9213
+Clefairy: ¡Cle… clefairy!
+
+### 0FD923E
+Lylia: ¡Mierda! ¡Atrapad a ese Clefairy!\p¡Max, ve! Si se vuelve a escapar…
+
+### 0FD9287
+Maximus: ¿Eh? P-pero y-yo cr-cr-creía que h-habíamos v-v-v-venido a…
+
+### 0FD92CD
+Lylia: ¡YA, MAX!
+
+### 0FD92E0
+Maximus: ¡V-v-vale!
+
+### 0FD930D
+Padre: Crí{o} mí{o}… Veo que dudas. Tómate un momento y ¡reflexiona!\pNo he venido a hacerte daño, crí{o}.\p¿Qué te ha contado esa mujer? ¿Una secta? ¿Crímenes y secretos? Mentiras. No somos ninguna secta.\p¡Luna es una familia, crí{o} mí{o}! ¡Somos un grupo de amor y aceptación para todos, y ofrecemos libremente nuestros dones espirituales a quienes más los necesitan!\pEse Clefairy que intentan atrapar… fracasarán. Es el último de su especie en este mundo. ¡Es el Heraldo, el que Abre el Camino!\pLos Clefairy…\pSon los verdaderos hijos de la luna, ¿sabes?\pSu tiempo con nosotros, intentando enseñarnos el verdadero propósito del universo, nuestro glorioso lugar en él, había terminado.\p¡Pero uno se quedó! Y ese Clefairy ha prometido llevarnos a nosotros, los elegidos, los que incluso en estos tiempos oscuros seguimos escuchando la voz de la esperanza, a nuestro hogar predestinado. ¡Junto a los Clefairy y los Clefable, bailaremos entre las estrellas!\p¡Lo único que tenemos que hacer es evolucionar! Los Pokémon han sido nuestra guía todo este tiempo, y nunca lo supimos.\pLas personas también somos una especie de Pokémon.\p¡Toda vida da forma a su mundo y, a su vez, el mundo le da forma a ella! ¡Y, como los verdaderos hijos de la luna, los humanos podemos usar las Piedras Lunares para evolucionar!\p¡Podemos ascender y convertirnos en nuestro verdadero yo, llegar a las estrellas y bailar para siempre, libres y sin el ropaje de la vergüenza o la miseria!\pOh, es un proceso mágico… ¿Te gustaría ascender, crí{o} mí{o}?
+
+### 0FD9877
+Marshall: Qué equivocación la tuya, con ese pensamiento tridimensional. Tus vibraciones están desincronizadas.\pPor desgracia, no me dejas otra opción.{C0B5601}\pTus amigos te han abandonado y tus pecados pesan mucho. ¡Me toca a mí corregir tu tono!
+
+### 0FD9966
+Marshall: ¡No puede ser que esta sea la voluntad del universo para mí!\pPerdóname, querido Heraldo… Tendré que ascender antes de lo que habíamos planeado.
+
+### 0FD9C0E
+Marshall: ¡Ascenderás! ¡Sí, siento tus vibraciones, tan puras y claras!\p¡Forma parte de nuestra familia, hij{o} mí{o}! Y ahora… ¡baila entre las estrellas!
+
+### 0FD9C9D
+El fragmento de Piedra Lunar reluce como un colmillo al hundirse en tu cráneo.
+
+### 0FD9CE4
+Mientras la luz abandona tus ojos, sientes que tus pies empiezan a moverse…\pEstás bailando, bailando, y todas las glorias de los cielos te esperan…\pen las estrellas…
+
+### 0FD9DC0
+Marshall: ¡Contempla el poder de la gloriosa luna!
+
+### 0FD9E40
+Marshall: Auggh… ¡Empieza! gggh… grggl…
+
+### 0FD9FA2
+Clefairy: ¡¡¡Clef-clefairy!!!
+
+### 0FD9FC8
+Lylia: ¡{B01}! ¡Vigila tu lado! ¡Lo tenemos acorralado!
+
+### 0FDA00F
+Clefairy: ¡Clefaairy!
+
+### 0FDA024
+Lylia: ¡Se acabó la farsa, Bill! ¡Sé que eres tú!\p¡Se acabó! Esta locura ha terminado.
+
+### 0FDA07D
+Bill: …Vaya, mierda. Pobre Marshall… ¡Me caía muy bien ese tío! Bueno…\pAsí que tú eres {B01}, ¿eh? Joder, tienes una pinta mucho más siniestra de lo que decían las noticias. ¡Alegra esa cara!
+
+### 0FDA12B
+Lylia: ¡CÁLLATE! Deja de hacer el tonto, Bill. ¿Dónde está? ¿Dónde está la máquina de Pokétransformación?
+
+### 0FDA191
+Bill: ¿Todavía sigues buscando eso? Tienes que superarlo, Lyl. ¿Cuándo fue, hace qué? ¿30? ¿40 años?
+
+### 0FDA1F7
+Lylia: ¡Confié en ti para que volvieras a convertir a mi madre en humana! ¡Pero la usaste como si fuera un Mew de laboratorio!\pHiciste algo peor que matarla, Bill. Matarla habría sido un acto de compasión comparado con lo que hiciste.\pY ahora, ¿dónde…\pestá…\pla máquina?
+
+### 0FDA2D9
+Bill: Tengo tres sorpresas para vosotros, payasos de mierda. ¡Una para cada uno!\p…bueno, la tercera tendrá que esperar, no sé adónde se ha ido el narizotas ese.\pEn fin…
+
+### 0FDA381
+¡UNA!\p¡{B01}! ¿Qué te contó Lylia que veníamos a hacer aquí, a la base lunar?\p…¿Ah, sí? ¡SORPRESA! ¡Aquí no tenemos ninguna MO! ¿Para qué demonios íbamos a querer una MO de Cascada? Lylia la ha tenido todo este tiempo.\p¡VIVE AL LADO DE UNA CASCADA, ZOQUETE!\pOs mintió y os usó al narizotas y a ti para su pequeño plan de venganza, ¡y te lo creíste todo! ¡HALA! ¡Y yo que pensaba que el cabrón era yo!
+
+### 0FDA50B
+¡DOS! ¡Lylia!\p¡SORPRESA! ¡Estoy atrapado así! ¡Y tu madre también! Sí que destruí la máquina, pero no antes de determinar que el proceso de Pokétransformación es permanente, ¡cabeza de chorlito! Puedo volver a ser humano, pero es inestable. Tengo que seguir siendo un Clefairy o empezaré a envejecer rápidamente mientras mis células mueren. ¡Qué asco!\pTodavía estoy probando el proceso de reversión con algunos sujetos… Los Hijos de la Luna hacen encantados todo lo que les pido, siempre que les diga que forma parte del ritual de ascensión. Unos idiotas felices e ingenuos.\pIgual que tu madre y tú, ¿eh, Lyl? Jejeje…\pTío, las sectas son una pasada. Les puedo decir literalmente cualquier cosa y se lo tragan, aunque ayer dijera lo contrario. ¡O incluso justo después!
+
+### 0FE75B4
+Domino: Murió muchísima gente ahí dentro. No quiero más muertes. Al menos, no por mi mano.\pTe odio muchísimo, {B01}.\pEl jefe era un hombre honesto. Estricto, pero honesto.\pQuería construir un mundo mejor. Piensa en eso la próxima vez que intentes quitar una vida.\pCuando vuelva a verte…\p…
+
+### 1081C4F
+Maximus: ¡E-eh!\p¡H-he llegado un p-poco pronto! Espero q-que no pase nada…\p¿Q-qué tal te va, {B01}? El a-a-agua de ahí fuera está muy f-fría, ¿eh?
+
+### 1081DDC
+Lylia: ¡Oh, has venido!\pGracias, {B01}… ¡No te preocupes, no será nada del otro mundo!\p¡Muy bien! Ahora que estamos todos…
+
+### 1081E56
+Lylia: ¿Cómo me dijiste que te llamabas?
+
+### 1081E7E
+Maximus: ¡M-me llamo Maximus! O-o Max para abreviar…\pE-encantado de c-c-conocerte… ¡otra vez!\p¡He venido a ayudar! ¡{B01} y yo s-somos m-m-muy amigos!
+
+### 1081EFC
+Lylia: ¡Vale, muy bien!\pBueno, {B01}… y Max.\pOs voy a poner a los dos un pequeño sello en la mano. Os dará acceso a la pequeña red de la secta.\pTenemos que ser muy rápidos e ir directos a lo más alto. ¡Guardan las MO en el despacho del “Padre Luna”!\pPuede que necesitemos algunas llaves o algo para llegar hasta allí, así que sed minuciosos. Sencillo, ¿verdad?\p¡Eso es todo! ¡Tened cuidado!\pYo iré directa a la sala de seguridad, ¡nos reunimos allí!\p¡Cuento con vosotros!
+
+### 10820DD
+Maximus: ¡D-déjamelo a mí!\p{B01}, a-avísame si n-necesitas a-a-ayuda.
+
+### 108212B
+Lylia: Gracias por venir, {B01}. ¡De verdad que significa mucho para mí!\p¡Y ahora, manos a la obra!
+
+### 10827BB
+¿Matar a esta persona?
+
+### 10827CD
+{B01} apuntó con la pistola a la cabeza del hombre enmascarado.
+
+### 1084FCE
+¡Eh! ¿Qué haces aquí? ¡Tú no eres una Criatura Lunar!
+
+### 1085005
+¡Oh, no! ¡Esto es horrible!\p¡¿Dónde está el Padre?!
+
+### 1085034
+¡Tengo que contárselo al Padre Luna! ¡Has interrumpido un ritual importantísimo, so zoquete!
+
+### 108532F
+???: Gurhh… Duuueleee…
+
+### 1085351
+???: Por favooor…\pHauhh… Hahh…\pMe obligaron…\pa ascender…\pAahh…\pPor favor… Acaba con mi dolooor…\pDuele… tantísimo…
+
+### 10853CB
+{B01} cerró los ojos y apuntó con la pistola a la cabeza de esa persona…
+
+### 108540A
+Dejó de respirar.
+
+### 1085589
+Aquí no hay nada.
+
+### 1085621
+???: haaughh… snif…\p¿por qué? Dueleee…
+
+### 10856CF
+¿Enviar a esta persona a un lugar seguro?
+
+### 1085706
+{B01} se concentró.\p…\p…\p{B01} ayudó a esta persona a trasladar su alma de este lugar a otro lugar seguro.
+
+### 108599E
+¡Genial! La clave de acceso aparece aquí en la pantalla…\p“FIX”
+
+### 10859D4
+Ya he conseguido la clave de este edificio.
+
+### 1085B9E
+¡Estaba accediendo al sistema de seguridad! La clave de acceso aparece en la pantalla…\p“make RooM”
+
+### 1085BF6
+Ya tengo esta clave de acceso.
+
+### 1085CB6
+¡Oh, no! ¡Eres de esos infiltrados que dan miedo!\pEsto, ¡te detendré aquí mismo! ¡Pero sin ser maleducado!
+
+### 1085D22
+¡Oh, oh! ¡¡¡Esto es un problema gordo!!!
+
+### 1085D40
+¡Tengo que contarle esto al Padre! ¡Persona apestosa, mala y que da miedo!\p…perdona por decir eso, ¡pero es que me has hecho enfadar mucho!
+
+### 1085E0C
+Oh, colega, ¡por favor, no nos mires con tanto enfado! No somos una secta… ¡Somos personas como tú!\pNo te haremos daño…
+
+### 1085E80
+¡Oh, gran luna de lo alto! ¡Qué prisa llevas!\p¡Espera, espera un segundo!
+
+### 1085F00
+¡Clefairy de lo alto! ¡¿Qué mosca te ha picado?!
+
+### 1085F80
+Rezo a la gloriosa luna para que no hayas venido a hacernos daño…
+
+### 1086249
+¡Gran luna, qué intensidad! ¿Te apetece un poco de zumo?
+
+### 1086440
+¡Eh, espera un segundo! Eres una de esas tres personas que el Padre Luna dijo que vendrían…\p¡Pero creo que te he visto en las noticias!
+
+### 10864C0
+¡Eso es! ¡Eres {B01}! ¡Terrorista! ¡Esto es una pesadilla!
+
+### 1086540
+¡No me hagas daño! ¡Tengo familia!
+
+### 1086640
+¡Buen Padre, por favor, dame fuerzas!
+
+### 10866C0
+Oh, luna… ¡Por favor, envía tus rayos sobre esta persona malvada!
+
+### 1086740
+Aunque tus intenciones sean malas, ¡sigo rezando por tu seguridad!\pQuizá algún día puedas unirte a nuestra familia…
+
+### 1086840
+¡Alto ahí! ¡N-no pasarás!
+
+### 10868C0
+¿Qué queréis de nosotros? ¿De verdad sois tan malvados?
+
+### 1086940
+Tengo fe en mi Padre… ¡Tengo fe en mi Heraldo!\p¡Nunca lo conseguirás!
+
+### 1086A40
+Si paras ahora y te unes a nosotros, ¡podrás venir a bailar entre las estrellas!
+
+### 1086AC0
+Es tan triste… ¡Por favor, no hagas esto!
+
+### 1086B40
+Estoy tan confuso… ¿Qué te hemos hecho?
+
+### 1086D40
+¡No, no, no! ¡Por favor! ¡Espera!
+
+### 1086DC0
+Eres una especie de arma de destrucción…
+
+### 1086E40
+¡Eres un peligro, tal y como decían las noticias!
+
+### 1086F40
+¡Qué vergüenza! ¡Somos pacíficos! Lo único que queremos es ayudar a los demás…
+
+### 1086FC0
+¡Deja que te ayudemos! No tienes por qué ser infeliz…
+
+### 1087140
+¡Puedo enseñarte tus errores!
+
+### 10871C0
+¡El camino que sigues solo llevará a la ruina!\p¡Por favor, piénsatelo! Todavía estás a tiempo.
+
+### 1087240
+¡No es demasiado tarde! ¡Mereces que te quieran!
+
+### 1087340
+Aquí hacemos muchos milagros científicos. No es que tú sepas apreciarlos…\p¡Intentaste matar a algunos científicos de BrunoCorp! He oído hablar de ti…\p¿Qué quieres de nuestra familia?
+
+### 1087480
+Antes estaba perdido y lleno de rabia. ¡Desde que me uní a la Familia Luna, mi vida no ha hecho más que mejorar!\p¡Me quieren, me cuidan y he encontrado mi propósito! ¿Puedes decir tú lo mismo?
+
+### 1087580
+Vaya, en este ordenador no hay nada.
+
+### 108779E
+¡Genial! Este ordenador tiene la clave de acceso de seguridad.\p“HIgh and Open”
+
+### 10877E2
+Ya tengo esta clave de acceso.
+
+### 1087889
+¿Quieres ver esta peli conmigo? ¡Va sobre la semana de la Luna!\pOh, ojalá hubiera estado allí… ¡Una semana entera de rayos cósmicos, bendecidos por la luna!
+
+### 1087A89
+La magia de las Piedras Lunares… ¡Nos permiten trascender la tierra!\p¿No quieres eso para ti?
+
+### 1087B09
+Te daría un poco de mi zumo… ¡pero eres de lo peor!\p¡No pienso compartirlo con gente como tú!
+
+### 1087B89
+¡El Heraldo nos guiará desde la tierra hasta nuestro legítimo hogar en la luna!\pEs el curso natural de las cosas.
+
+### 1087C09
+¿Cuál será tu objetivo?\p¡Quizá ni siquiera lo sepas! El mío está claro… ¡algún día ascenderé!
+
+### 1087C89
+¡Niñ{o} malvad{o}! ¿Es que no tienes vergüenza?
+
+### 1087D09
+Mi ascensión está cerca… ¡Tengo unas ganas de estar completo!
+
+### 1087F89
+¡A todos nos avisaron de que vendrías!\p¡Los rayos de la luna nos bendecirán! ¡Y tú te perderás, como se pierden los oscuros deseos de tu corazón!
+
+### 1088080
+Si al menos pudieras presenciar la gloria del heraldo…\pSolo lo he visto una vez, pero esa vez me bastó para dedicar mi vida a la luna y a sus hijos.\p¡Ascenderemos!

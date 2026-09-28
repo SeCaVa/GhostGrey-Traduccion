@@ -1,0 +1,127 @@
+#! Lote 28: textos sueltos de código (ayuda, tabla de tipos con el tipo Hada, nombres de lugares...)
+
+### 0180900
+KABUTO\nUn Pokémon rarísimo regenerado a partir de un fósil.
+
+### 0190FF8
+Puedes usar las MO y las MT todas las veces que quieras, así que dale caña. Creo que hoy en día se venden caras.
+
+### 01A5EC0
+Ya te has despertado.\pHas estado a un paso de la muerte, peque. Tienes que tener más cuidado.\pTienes toda una vida por delante. Descansa aquí todo el tiempo que quieras.
+
+### 01A6046
+Papá: Eh, {B01}.\pEl Prof. Oak me ha contado lo de la gran aventura de Summer y tú.\pTen cuidado, ¿vale? Mira a los dos lados antes de cruzar la calle, átate bien los cordones. Y no te acerques a Fucsia y…\p¿A quién quiero engañar? Ya no eres peque…\pNo te olvides de tu viejo, peque. Te va a ir genial. Te quiero.
+
+### 01A6F71
+¡Jojó! ¡Esta Pokédex empieza a ser de lo más respetable!
+
+### 01AD106
+{C0108}{C0309}¿A qué se dedica esta persona?\p{C0102}{C0303}Laboratorio de Investigación Pokémon de Oak
+
+### 01ADF19
+Surge instaló él mismo las trampas del gimnasio.\pPuso cerraduras dobles por todas partes.
+
+### 01B0DD7
+Ciudad Celidon
+
+### 01B0DE4
+Gimnasio Celidon
+
+### 01B0E14
+Mansión Celidon
+
+### 01B10F8
+Los Túneles
+
+### 01B7A60
+{XF90A} Lanza la Ball especial que solo se\n{sp}{sp}{sp}usa en la Zona Safari.\n¡Cuando aparezcan Pokémon salvajes,\nlánzales muchas Safari Balls!
+
+### 01B7AEE
+{XF90A} Lanza la comida especial que solo\n{sp}{sp}{sp}se usa en la Zona Safari.\nEs comida para Pokémon en bola para\ncomerla fácilmente. ¡Al lanzar el Cebo,\nel Pokémon salvaje puede quedarse\natraído y no huir!
+
+### 01B7BBE
+{XF90A} Lanza una piedra del suelo de la\n{sp}{sp}{sp}Zona Safari.\nSi le lanzas una piedra a un Pokémon,\npuede huir, ¡pero será más fácil de\natrapar!
+
+### 01B92B8
+Puedes elegir entre sonido MONO\ny ESTÉREO.
+
+### 01BA4E6
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Fantasma, Psíquico\p{sp}{sp}{sp}{XF916}: Lucha, Siniestro, Hada
+
+### 01BA595
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Volador, Bicho, Fuego, Hielo\p{sp}{sp}{sp}{XF916}: Lucha, Tierra, Acero
+
+### 01BA5F2
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Lucha, Tierra, Acero,\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Agua, Planta\p{sp}{sp}{sp}{XF916}: Normal, Volador, Veneno, Fuego
+
+### 01BA66F
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Lucha, Veneno\p{sp}{sp}{sp}{XF916}: Acero, Psíquico\p{sp}{sp}{sp}{XF917}: Siniestro
+
+### 01BA7E9
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Tierra, Roca, Agua\p{sp}{sp}{sp}{XF916}: Volador, Veneno, Bicho, Acero,\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Fuego, Planta, Dragón
+
+### 01BA862
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Volador, Veneno, Bicho, Fuego, Hielo\p{sp}{sp}{sp}{XF916}: Tierra, Agua, Planta, Eléctrico
+
+### 01BA8D3
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Fantasma, Psíquico\p{sp}{sp}{sp}{XF916}: Siniestro\p{sp}{sp}{sp}{XF917}: Normal
+
+### 01BA98D
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Volador, Tierra, Planta, Dragón\p{sp}{sp}{sp}{XF916}: Acero, Fuego, Agua, Hielo
+
+### 01BA9F1
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Lucha, Roca, Acero, Fuego\p{sp}{sp}{sp}{XF916}: Hielo
+
+### 01BAA44
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Veneno, Roca, Acero, Fuego,\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Eléctrico\p{sp}{sp}{sp}{XF916}: Bicho, Planta\n{sp}{sp}{sp}{XF917}: Volador
+
+### 01BAB18
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Volador, Agua\p{sp}{sp}{sp}{XF916}: Planta, Eléctrico, Dragón\p{sp}{sp}{sp}{XF917}: Tierra
+
+### 01BAB7A
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Tierra\p{sp}{sp}{sp}{XF916}: Volador, Acero, Eléctrico
+
+### 01BADF7
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Lucha, Tierra, Fuego\n{sp}{sp}{sp}{XF916}: Normal, Volador, Roca, Bicho\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Acero, Planta, Psíquico, Hielo\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Dragón, Hada\n{sp}{sp}{sp}{XF917}: Veneno
+
+### 01BAEA8
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Lucha, Bicho, Planta\p{sp}{sp}{sp}{XF916}: Roca, Acero, Eléctrico
+
+### 01BAF01
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Roca, Eléctrico, Hielo\p{sp}{sp}{sp}{XF916}: Lucha, Bicho, Planta\p{sp}{sp}{sp}{XF917}: Tierra
+
+### 01BAF6B
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Bicho, Acero, Planta, Hielo\p{sp}{sp}{sp}{XF916}: Roca, Fuego, Agua, Dragón
+
+### 01BB02E
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Tierra, Roca, Fuego\p{sp}{sp}{sp}{XF916}: Agua, Planta, Dragón
+
+### 01BB084
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Planta, Eléctrico\p{sp}{sp}{sp}{XF916}: Acero, Fuego, Agua, Hielo
+
+### 01BB156
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Volador, Roca, Fuego\p{sp}{sp}{sp}{XF916}: Lucha, Tierra, Planta
+
+### 01BE469
+Aquí el mar es muy profundo.\n¿Quieres usar Buceo?
+
+### 01BE49B
+{B02} usó Buceo.
+
+### 01C0DB0
+Es una calabaza. Todavía no está madura.
+
+### 01C1A9B
+¿Quieres pelear conmigo? ¿Te crees que impones por venir hasta aquí??
+
+### 01C22CA
+¡Pero si solo eres peque! ¿Qué sabrás tú del mar?
+
+### 0280AC0
+Con el tiempo, ha aceptado su\nnaturaleza de fantasma. Rowlet ulula\nde forma inquietante por la noche.
+
+### 0280B80
+Lleva décadas inmóvil, dejando que las\nsetas que le crecen en el lomo le drenen\ntodo sentido de identidad.
+
+### 0280C40
+Es esencial para la mente colmena de las\nsetas. Mantiene a su huésped apenas vivo\ny suelta 500.000 esporas al día.

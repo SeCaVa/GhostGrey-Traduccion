@@ -1,0 +1,503 @@
+#! Lote 24: mensajes de combate, menús y textos sueltos de código (0x3F0000-0x420000)
+#! El código del hack es el de la versión USA: los prefijos "Wild "/"Foe " se anteponen al nombre,
+#! así que se dejan vacíos. Plantilla de estadísticas: "¡{stat} de {pkmn}", salto de línea y "{subió!}"; build.py
+#! parchea el código para que un cambio de 2 niveles use solo "subió mucho!" o "bajó mucho!".
+
+### 03FB283
+{sp}adicionales
+
+### 03FB451
+Saquearon el cuerpo de {B23} y se llevaron ${B00}…\p… … … …\p{B23} murió{C09}
+
+### 03FB4BE
+{B23} pagó ${B00} como premio…\p… … … …\p{B23} ha muerto.{C09}
+
+### 03FB4F7
+{B23} murió.{C09}
+
+### 03FBAA3
+¡{B0F} está brillando!
+
+### 03FC090
+¡El rival tiene púas\nesparcidas a sus pies!
+
+### 03FCB5F
+¡{B00} de {B0F}\n{B01}
+
+### 03FCB6A
+¡{B00} de {B10}\n{B01}
+
+### 03FCB8F
+¡{B00} de {B0F}\n{B01}
+
+### 03FCB9A
+¡{B00} de {B10}\n{B01}
+
+### 03FCB41
+subió mucho!
+
+### 03FCB4A
+subió!
+
+### 03FCB50
+bajó mucho!
+
+### 03FCB59
+bajó!
+
+### 03FCC33
+Y…\p
+
+### 03FCE38
+¡El movimiento ha fallado!
+
+### 03FD006
+¡Qué suerte, qué suerte! ¡Qué suerte tengo!
+
+### 03FD34D
+¡El fantasma era Marowak!\p\n
+
+### 03FD366
+¡{B1C} {B1D}\nquiere luchar!\p
+
+### 03FD383
+¡{B20}\nquiere luchar!
+
+### 03FD397
+¡{B20} y {B21}\nquieren luchar!
+
+### 03FD3B1
+¡{B1C} {B1D}\nsacó a {B06}!{C083C}
+
+### 03FD3C7
+¡{B1C} {B1D} sacó\na {B06} y a {B08}!{C083C}
+
+### 03FD3E4
+¡{B1C} {B1D}\nsacó a {B00}!
+
+### 03FD3F7
+¡{B20} sacó a\n{B06}!
+
+### 03FD407
+¡{B20} sacó a\n{B06} y a {B08}!
+
+### 03FD41E
+¡{B20} sacó a {B0A}!\n¡{B21} sacó a {B0C}!
+
+### 03FD43E
+¡{B20} sacó a\n{B00}!
+
+### 03FD44E
+¡{B22} sacó a\n{B00}!
+
+### 03FD475
+¡Adelante, {B00}!
+
+### 03FD47D
+¡A por ellos, {B00}!
+
+### 03FD488
+¡Vamos, {B00}!
+
+### 03FD497
+¡El rival está débil!\n¡A por él, {B00}!
+
+### 03FD555
+<vacío>
+
+### 03FD55B
+<vacío>
+
+### 03FD560
+Rival
+
+### 03FD564
+Aliado
+
+### 03FD572
+Rival
+
+### 03FD576
+Aliado
+
+### 03FD590
+PS
+
+### 03FD593
+Ataque
+
+### 03FD59A
+Defensa
+
+### 03FD5A2
+Velocidad
+
+### 03FD5A8
+At. Esp.
+
+### 03FD5B0
+Def. Esp.
+
+### 03FD5B8
+Precisión
+
+### 03FD5C1
+Evasión
+
+### 03FD5FF
+demasiado seca!
+
+### 03FD60C
+demasiado dulce!
+
+### 03FD61B
+demasiado amarga!
+
+### 03FD62B
+demasiado ácida!
+
+### 03FD8AF
+<vacío>
+
+### 03FE714
+{C0810}Esperando conexión…
+
+### 03FE725
+{C0505}{C040D0E0F}Luchar{C1338}Mochila\nPokémon{C1338}Huir
+
+### 0415F98
+ALT.
+
+### 0415F9B
+PESO
+
+### 0415FB3
+{XF800}Siguiente {XF801}Cancelar
+
+### 04160EC
+N.º{sp}
+
+### 04162BD
+<vacío>
+
+### 041633F
+¿Dónde quieres colocar\n{B02}?
+
+### 041638F
+¿Cuántos {B02}\nquieres dejar?
+
+### 04163A7
+Has dejado {B03}\n{B02}.
+
+### 04163DB
+¿Cuántos {B02}\nquieres tirar?
+
+### 04163F4
+Has tirado {B03}\n{B02}.
+
+### 0416409
+¿Tirar {B03}\nde este objeto?
+
+### 041670A
+Funda de Almohada
+
+### 0416959
+Has entregado {B02}\npor ${B04}.
+
+### 04177AC
+¿Cuántos {B02}\nquieres sacar?
+
+### 04177C5
+Has sacado {B03}\n{B02}.
+
+### 041796D
+Aceptar el desafío.
+
+### 0417984
+Agua Fresca{C1357}{C0600}$200
+
+### 041799A
+Refresco{C1357}{C0600}$300
+
+### 04179AD
+Limonada{C1357}{C0600}$350
+
+### 0417A37
+Derecha
+
+### 0417A3D
+Izquierda
+
+### 0417A42
+MT13{C1348}{C0600}4.000 fichas
+
+### 0417A58
+MT23{C1348}{C0600}3.500 fichas
+
+### 0417A6E
+MT24{C1348}{C0600}4.000 fichas
+
+### 0417A84
+MT30{C1348}{C0600}4.500 fichas
+
+### 0417A9A
+MT35{C1348}{C0600}4.000 fichas
+
+### 0417ADC
+Gris
+
+### 0417AE9
+Grisáceo
+
+### 0417B3E
+Med. Volcán
+
+### 0417B4B
+Med. Roca
+
+### 0417B58
+Med. Descarga
+
+### 0417B65
+Med. Plaga
+
+### 0417B72
+Med. Caos
+
+### 0417B87
+Med. Inundación
+
+### 0417B94
+Med. Esperanza
+
+### 0417C6A
+Shuppet{C1355}{C0600} 500 fichas
+
+### 0417C9D
+Kabuto{C134B}{C0600} 6.600 fichas
+
+### 0417CB7
+Porygon{C134B}{C0600} 9.999 fichas
+
+### 0417D56
+Fósil Hélix
+
+### 0417D63
+Fósil Domo
+
+### 0417D6F
+Ámbar Viejo
+
+### 0417DE1
+Funda de Almohada
+
+### 0417E09
+Tesoro
+
+### 0417E16
+ordenador
+
+### 0417E2E
+Abismo
+
+### 0417E94
+Tiempos más sencillos
+
+### 0417EB3
+Pesadillas
+
+### 0417ED9
+Antifantasma{C1350}{C0600}125 fichas
+
+### 0417F11
+Poké Ball{C1350}{C0600}75 fichas
+
+### 0417F4D
+Maíz Dulce{C135A}{C0600}25 fichas
+
+### 0417FBB
+Grandullón
+
+### 0417FC3
+Grandullona
+
+### 0417FD9
+Med. Inundación
+
+### 0417FE6
+Med. Roca
+
+### 0417FF3
+Med. Descarga
+
+### 0418000
+Med. Plaga
+
+### 041802F
+Med. Esperanza
+
+### 04184F9
+Por defecto
+
+### 0418505
+Bosque
+
+### 041850C
+Estática
+
+### 0418531
+Ilusión
+
+### 041853A
+Vagoneta
+
+### 0418544
+Wah
+
+### 041854A
+AYUDA
+
+### 0418555
+Ratas
+
+### 041855B
+¡Guay!
+
+### 04186B0
+No caben más Pokémon.
+
+### 04186D1
+Combina cuatro palabras o frases
+
+### 0418E5C
+: ¿mote?
+
+### 0418E69
+¿Felicidad?
+
+### 0419A6E
+Un Huevo Pokémon de\norigen desconocido.
+
+### 0419CDA
+Nombre:{sp}
+
+### 0419CE1
+N.º ID
+
+### 0419D0A
+: Ficha Entrenador
+
+### 0419D2F
+COMBATES LINK
+
+### 0419D3C
+COMB. CABLE LINK
+
+### 0419E52
+Tipo
+
+### 041A858
+{XF700} fue a la Tienda Pokémon de\n{XF701} y vendió {XF703}\nunidades de {XF702}.
+
+### 041B073
+Y {B01} guardó la partida\nen este lugar: {B02}.
+
+### 041B11F
+Los Túneles
+
+### 041B285
+{sp}se usó en\n
+
+
+
+### 041B295
+{sp}subió al nivel\n
+
+
+
+### 041B2F1
+2 y… … …{sp}
+
+### 041B306
+{XF700} olvidó\n{XF701}.\p
+
+### 041B315
+Y…\p
+
+### 041B31B
+¡Máquina lista!\p
+
+### 041B329
+¿Eh?
+
+### 041B32E
+¡{XF700} aprendió\n{XF701}!
+
+### 041B554
+¿Esto es todo…?{sp}\n{sp}{sp}{sp}{sp}\l…{sp}{sp}
+
+### 041CB5A
+{sp}vez/veces
+
+### 041CBA9
+¡Puntuación genial! Has\nganado {XF701} {XF700}!
+
+### 041CE44
+¿a punto para Machacabayas?\nElige una baya para usar.\p
+
+### 041D034
+{sp}veces
+
+### 041D0A8
+Ranking de pulsaciones
+
+### 041D0D4
+Ranking de precisión
+
+### 041D100
+Ranking de fuerza
+
+### 041D18D
+AZOTEA
+
+### 041D198
+Pokémon Edición GhostGrey\nEquipo
+
+### 041D1D8
+\n\nUn hack de\n\n\n\n
+
+### 041D200
+\nDirección del juego\n\n\n\n\n
+
+### 041D248
+Dirección de arte\n\nDiseños Pokémon\n\n\n\n
+
+### 041D2B4
+Programación\n\n\n\n\n
+
+### 041D314
+¡Música!\n\n\n\n\n\n
+
+### 041D370
+Diseño de personajes\n\n\n\n\n\n
+
+### 041D4A4
+\nGráficos de combate\n\n\n\n\n
+
+### 041D4F0
+\nHistoria\n\n\n\n\n
+
+### 041D524
+\nAsesoría de historia\n\n\n\n\n
+
+### 041D56C
+\nDiseño de mapas\n\n\n\n\n
+
+### 041E07C
+FRASE DE MODA
+
+### 041E4C0
+{B02} olvidó {B04}.\pY…\p¡{B02}\naprendió {B03}!
+
+### 0415F8F
+<vacío>

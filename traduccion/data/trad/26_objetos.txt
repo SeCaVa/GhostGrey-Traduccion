@@ -1,0 +1,439 @@
+#! Lote 26: descripciones de objetos (3 líneas, ancho similar al inglés)
+
+### 03D501A
+Ball especial que solo se usa en la\nZona Safari. Tiene un estampado\nde camuflaje.
+
+### 03D5077
+Una Ball algo distinta que funciona\nmuy bien con Pokémon de tipo\nAgua y Bicho.
+
+### 03D50CC
+Una Ball algo distinta que funciona\nmuy bien con Pokémon que viven\nen las profundidades del mar.
+
+### 03D511D
+Una Ball algo distinta que funciona\nmuy bien con Pokémon débiles.
+
+### 03D5165
+Una Ball algo distinta que funciona\nmuy bien con Pokémon que ya\nhas capturado antes.
+
+### 03D51B4
+Una Ball algo distinta que funciona\nmejor cuantos más turnos dura\nel combate.
+
+### 03D5216
+Una Ball muy cómoda que hace que el\nPokémon salvaje capturado se\nencariñe rápidamente.
+
+### 03D5263
+Una Ball rara fabricada\nespecialmente para conmemorar\nalgún tipo de evento.
+
+### 03D54B5
+Una galleta deliciosa de Nueva\nZelanda. ¡Con trozos de chocolate!\nRestaura 200 PS.
+
+### 03D5550
+¡Un dónut delicioso! Cura cualquier\nproblema de estado de un Pokémon.\n¡Nada supera a un dónut relleno!
+
+### 03D55EC
+Un hojaldre dulce y delicioso\nrelleno de pasta de judía roja.\nReanima del todo a un fantasma.
+
+### 03D567E
+Dos galletas blanditas rellenas de\ndulce de leche. ¡Qué rico!\nRestaura 65 PS.
+
+### 03D5706
+¡Un pastel de sémola empapado en\nalmíbar! ¡A los Pokémon les encanta!\nRestaura 100 PS.
+
+### 03D57E3
+Un licor amargo que cuesta tragar.\nAun así, cura cualquier\nproblema de estado.
+
+### 03D5934
+¡Una rana de chocolate con leche\nrellena de caramelo! Restaura los PP\nde todos los movimientos.
+
+### 03D59BB
+Una flauta de cristal azul que\ndespierta a un Pokémon dormido.
+
+### 03D59EF
+La medalla del Líder de Gimnasio\nde Ciudad Plateada, Aston.
+
+### 03D5A2D
+Lo que antes fue la medalla del\nLíder del Gimnasio de Ciudad Celeste.
+
+### 03D5A6A
+Una flauta de cristal negro.\nAl tocarla, hace que aparezcan\nmenos Pokémon salvajes.
+
+### 03D5AB8
+Una flauta de cristal blanco.\nAl tocarla, hace que aparezcan\nmás Pokémon salvajes.
+
+### 03D5B06
+Un zumo 100 % natural.\nRestaura 20 PS de un Pokémon.
+
+### 03D5B7A
+Sal pura extraída de lo más hondo\nde la Cueva Cardumen.\nEs extremadamente salada.
+
+### 03D5C1A
+Un pequeño fragmento rojo.\nParece ser de alguna herramienta\nfabricada hace mucho tiempo.
+
+### 03D5C66
+Esto es una piedra.\nNo tiene ningún efecto.
+
+### 03D5CB3
+Un pequeño fragmento amarillo.\nParece ser de alguna herramienta\nfabricada hace mucho tiempo.
+
+### 03D5D50
+Una bebida nutritiva para Pokémon.\nAumenta los PS base de\nun Pokémon.
+
+### 03D5D96
+Una bebida nutritiva para Pokémon.\nAumenta el Ataque base de\nun Pokémon.
+
+### 03D5DE5
+Una bebida nutritiva para Pokémon.\nAumenta la Defensa base de\nun Pokémon.
+
+### 03D5E35
+Una bebida nutritiva para Pokémon.\nAumenta la Velocidad base de\nun Pokémon.
+
+### 03D5E83
+Una bebida nutritiva para Pokémon.\nAumenta el At. Esp. base de\nun Pokémon.
+
+### 03D5F20
+Aumenta un poco los PP máximos de\nun movimiento de un Pokémon.
+
+### 03D5FB3
+Inyección de hormonas de Tauros\nque sube al máximo los PP de un\nmovimiento de un Pokémon.
+
+### 03D604D
+Una inyección de hormona del\ncrecimiento que aumenta el índice\nde golpe crítico en combate.
+
+### 03D61A4
+Pastillas de anfetamina que suben\nun nivel la Precisión de un\nPokémon en combate.
+
+### 03D62DF
+Evita que aparezcan Pokémon\nsalvajes débiles durante 200 pasos.
+
+### 03D6318
+Evita que aparezcan Pokémon\nsalvajes débiles durante 250 pasos.
+
+### 03D6351
+Una cuerda larga. Sirve para huir\nde cualquier sitio, pero solo\nse puede usar una vez.
+
+### 03D642D
+Piedra peculiar que hace evolucionar\na ciertas especies de Pokémon.\nLate cuando la sostengo en la mano.
+
+### 03D64E2
+Piedra peculiar que hace evolucionar\na ciertas especies de Pokémon.\nMis sombras se hunden en ella…
+
+### 03D653F
+Piedra peculiar que hace evolucionar\na ciertas especies de Pokémon.\nAl mirarla, siento sus ojos.
+
+### 03D65EE
+Una seta pequeña y rara.\nEs bastante popular entre\ncierta gente.
+
+### 03D6633
+Una seta grande y rara.\nEs muy popular entre\ncierta gente.
+
+### 03D66D0
+El hígado de alguien.\nSe puede vender muy caro.
+
+### 03D672C
+La cartera perdida de alguien.\nSe puede vender muy cara.
+
+### 03D6778
+El diente postizo de alguien.\nSe puede vender muy caro.
+
+### 03D67CE
+El riñón de alguien.\nSe puede vender muy caro.
+
+### 03D6825
+Una escama preciosa con forma de\ncorazón, rarísima. Brilla débilmente\ncon los colores del arcoíris.
+
+### 03D6887
+Una carta con un bonito dibujo\nde Zigzagoon.\nLa puede llevar un Pokémon.
+
+### 03D68D8
+Una carta con un bonito dibujo\nde Wingull.\nLa puede llevar un Pokémon.
+
+### 03D6927
+Una carta con un bonito dibujo\nde Pikachu.\nLa puede llevar un Pokémon.
+
+### 03D6976
+Una carta con un bonito dibujo\nde Magnemite.\nLa puede llevar un Pokémon.
+
+### 03D69C7
+Una carta con un bonito dibujo\nde Slakoth.\nLa puede llevar un Pokémon.
+
+### 03D6A16
+Una carta con un bonito dibujo\nde Wailmer.\nLa puede llevar un Pokémon.
+
+### 03D6A65
+Una carta que puede llevar un\nPokémon. Tendrá el dibujo del\nPokémon que la lleve.
+
+### 03D6AC0
+Una carta con un bonito dibujo\nde Duskull.\nLa puede llevar un Pokémon.
+
+### 03D6B0F
+Una carta con un bonito dibujo\nde Bellossom.\nLa puede llevar un Pokémon.
+
+### 03D6BBB
+Una carta con un dibujo precioso\ny extravagante.\nLa puede llevar un Pokémon.
+
+### 03D6C13
+Una carta con el dibujo de tres\nPokémon muy monos.\nLa puede llevar un Pokémon.
+
+### 03D6C6B
+Un cubito pegajoso de caramelo\nque cura la parálisis en combate.
+
+### 03D6CB0
+Una nube de golosina tan aterradora\nque despierta en combate a un\nPokémon dormido.
+
+### 03D6D30
+¡Blandito y dulce! Cura las\nquemaduras del usuario en combate.
+
+### 03D6DB4
+Un merengue dulce de Kalos. En\ncombate, restaura 10 PP.
+
+### 03D6DF8
+Un caramelo cremoso y rico que\nrestaura 10 PS. ¡Infravalorado!
+
+### 03D6E3C
+No eres tú cuando te confundes.\nCómete un Snickers.
+
+### 03D6E81
+Se derrite en tu boca, no en tu\nmano. Y cura cualquier problema\nde estado.
+
+### 03D6EC8
+Un sombrerito de seta de chocolate\nsobre una galleta. Restaura 30 PS\nen combate.
+
+### 03D700C
+Objeto que restaura PS, pero que\npuede causar confusión al usarse.
+
+### 03D704C
+Se puede moler hasta hacer polvo\ncomo ingrediente para medicinas.
+
+### 03D7562
+¿Cuántos lametazos hacen falta\npara subir la Defensa en un apuro?\nQuién sabe…
+
+### 03D761D
+Una gominola con forma de bebé que\nsube la Def. Esp. en un apuro.
+
+### 03D765C
+Moneda de chocolate envuelta en\npapel. Aumenta el índice de\ngolpe crítico.
+
+### 03D771E
+Objeto para llevar. Un átomo\ninestable tan brillante que baja\nla precisión del rival.
+
+### 03D77DF
+Objeto para llevar. Favorece un\ncrecimiento fuerte, pero baja la\nVelocidad mientras se lleva.
+
+### 03D7900
+Objeto para llevar. Una campana\ncon un tintineo relajante que calma\ny hace más amistoso al portador.
+
+### 03D7969
+Objeto para llevar. Cura el\nenamoramiento del portador.\nSolo se puede usar una vez.
+
+### 03D7A22
+Objeto para llevar. Puede hacer\nque el rival retroceda al\nrecibir daño.
+
+### 03D7A76
+El gran tesoro de las arañas.\nAumenta un 100 % la potencia de\nlos movimientos de tipo Bicho.
+
+### 03D7AD6
+Objeto para llevar. Duplica el\ndinero del combate si el portador\nparticipa en él.
+
+### 03D7B36
+Objeto para llevar. Ahuyenta a los\nPokémon salvajes si el portador va\nprimero en el equipo.
+
+### 03D7B93
+Orbe para Latios o Latias.\nAumenta el At. Esp. y la\nDef. Esp.
+
+### 03D7BE5
+Objeto para llevar. Un colmillo de\nun plateado brillante y afilado.\nAumenta el At. Esp.
+
+### 03D7C45
+Objeto para llevar. Una escama\nde un rosa suave.\nAumenta la Def. Esp.
+
+### 03D7CA4
+Objeto para llevar. El portador\npodrá huir sin falta de cualquier\nPokémon salvaje.
+
+### 03D7D02
+Objeto para llevar. Impide que el\nportador evolucione.
+
+### 03D7D53
+Un pacto firmado con el diablo.\nEl portador puede aguantar un\nataque y quedarse con 1 PS.
+
+### 03D7DB1
+Un huevo de chocolate con sorpresa\ndentro. Y la sorpresa es\nEXP. doble.
+
+### 03D7EDE
+Objeto para llevar. El portador\nrecupera PS poco a poco durante\nel combate.
+
+### 03D7F37
+Una escama gruesa y dura.\nPuede llevarla un Pokémon de\ntipo Dragón.
+
+### 03D7F79
+Orbe para Pikachu que aumenta\nsu At. Esp. Si lo tocas,\npuede darte calambre.
+
+### 03D7FD5
+Objeto para llevar. Arena fina y\nsedosa que potencia los\nmovimientos de tipo Tierra.
+
+### 03D8036
+Objeto para llevar. Una piedra\nirrompible que potencia los\nmovimientos de tipo Roca.
+
+### 03D80FA
+Objeto para llevar. Unas gafas\nSUPERguays que potencian los\nmovimientos de tipo Siniestro.
+
+### 03D8158
+Objeto para llevar. Un cinturón\nque aumenta la determinación y\nlos movimientos de tipo Lucha.
+
+### 03D8214
+Objeto para llevar. Una gema con\nforma de lágrima que potencia los\nmovimientos de tipo Agua.
+
+### 03D833B
+Los restos de alguien que murió\ntemblando, solo y con frío.\nPotencia los movimientos Hielo.
+
+### 03D83EC
+Objeto para llevar. Una cuchara\ntelequinética que potencia los\nmovimientos de tipo Psíquico.
+
+### 03D844E
+Objeto para llevar. Un combustible\nque potencia los movimientos\nde tipo Fuego.
+
+### 03D84AC
+Objeto para llevar. Un colmillo\nduro y afilado que potencia los\nmovimientos de tipo Dragón.
+
+### 03D856E
+Un dispositivo transparente lleno\nde todo tipo de datos.\nLo fabrica Silph S.A.
+
+### 03D8616
+Objeto para llevar. Potencia\nligeramente los movimientos\nde tipo Agua.
+
+### 03D8669
+Objeto para llevar. Su aroma\nengañoso reduce un poco la\nprecisión del rival.
+
+### 03D86C0
+Un guante para Chansey.\nAumenta el índice de golpe\ncrítico de Chansey.
+
+### 03D8709
+Un polvo fino y duro para Ditto.\nAumenta la Defensa de Ditto.
+
+### 03D8754
+Un hueso duro para Cubone o\nMarowak. Aumenta su Ataque.
+
+### 03D87AB
+Un puerro para Farfetch'd.\nAumenta el índice de golpe\ncrítico de Farfetch'd.
+
+### 03D8802
+Una bala de cañón de hierro muy\npesada. Por algún motivo, no pesa\nnada dentro de la mochila.
+
+### 03D885F
+Objeto para llevar. Aumenta la\nBelleza del portador en los\nConcursos.
+
+### 03D88BE
+Objeto para llevar. Aumenta la\nDulzura del portador en los\nConcursos.
+
+### 03D891B
+Objeto para llevar. Aumenta el\nIngenio del portador en los\nConcursos.
+
+### 03D8979
+Objeto para llevar. Aumenta la\nDureza del portador en los\nConcursos.
+
+### 03D89D7
+Una bici plegable que es al menos\nel doble de rápida que andar.
+
+### 03D8A14
+Un estuche para las fichas del\nCasino. Caben hasta\n9.999 fichas.
+
+### 03D8A66
+Dispositivo para buscar objetos.\nSi hay un objeto oculto cerca al\nusarlo, emite una señal.
+
+### 03D8ACC
+Una caña vieja y destartalada.\nÚsala en cualquier masa de agua\npara pescar Pokémon salvajes.
+
+### 03D8B23
+Una caña nueva y de calidad.\nÚsala en cualquier masa de agua\npara pescar Pokémon salvajes.
+
+### 03D8B7B
+Una caña cutre y rudimentaria.\nÚsala en cualquier masa de agua\npara pescar Pokémon salvajes.
+
+### 03D8BD4
+El billete necesario para viajar\nen el ferri S.S. Anne.\nTiene el dibujo de un barco.
+
+### 03D8C2E
+Un arco y una flecha.\nFunciona como te imaginas.\nTiene un triángulo extraño.
+
+### 03D8C8A
+Una regadera muy práctica. Ayuda\nal crecimiento de las bayas\nplantadas en tierra blanda.
+
+### 03D8D37
+Un pincel seco hecho con mechones\nde pelo humano. El mango es\nde hueso astillado.
+
+### 03D8DCB
+Algún tipo de trasto viejo de\nmetal y plástico.
+
+### 03D8EBD
+El billete necesario para ir en ferri\na una isla lejana del sur.\nTiene el dibujo de una isla.
+
+### 03D8F2A
+Una llave frágil de hueso que parece\nun peine. Debería abrir algo en el\nPalacio del Desierto.
+
+### 03D8FD5
+Una pluma blanca impecable, brillante\ncomo el sol. Nada puede\nmancillarla.
+
+### 03D9083
+La medalla que el Prof. Oak quería\nque tuvieras. Brilla con una\nluz tenue.
+
+### 03D9139
+Una tarjeta que da acceso a la\nsala 4 de los Laboratorios\nBrunoCorp.
+
+### 03D919B
+Una tarjeta que da acceso a la\nsala 3 de los Laboratorios\nBrunoCorp.
+
+### 03D91FD
+Una tarjeta llave exclusiva que\nda acceso al quirófano de los\nLaboratorios BrunoCorp.
+
+### 03D925F
+Un trofeo radiante de oro macizo.\nSe lo dieron a alguien que es\nel número 1.
+
+### 03D92BF
+Una medalla robada a una Onibaba\nterrible y asesina que te tendió\nuna emboscada en la Zona Safari.
+
+### 03DA81A
+Un extraño código genético dentro\nde un vial de cristal. Es para el\n“Comprador Misterioso”.
+
+### 03DA8B4
+Un periódico con el titular: “¡Un\nniño de Ciudad Azafrán celebró hoy\nuna preciosa fiesta de cumpleaños!”
+
+### 03DA95A
+La medalla de Erika, veterana Líder\nde Gimnasio de Ciudad Celidon.\nAl sostenerla, me mareo.
+
+### 03DAA0A
+Una llave extraña. Seguro que\nabre algo.
+
+### 03DAA64
+La medalla de Aston, el hedonista\nLíder de Ciudad Plateada.\nComprada en el Casino de Plateada.
+
+### 03DAB59
+¡Es un patinete!\n¡A hacer trucos alucinantes!
+
+### 03DAB9F
+Un mapa muy práctico que se puede\nconsultar en cualquier momento.\nIncluso muestra dónde estás.
+
+### 03DABF7
+Dispositivo que indica qué\nentrenadores quieren luchar. La\nbatería se carga al viajar.
+
+### 03DAC51
+Dispositivo para recordar lo que\nhas oído y visto sobre gente\nfamosa.
+
+### 03DACA5
+Un estuche para guardar MT y MO.\nVa sujeto al bolsillo de objetos\nclave de la mochila.
+
+### 03DAD01
+Un saco para llevar caramelos\nsueltos. Va sujeto al bolsillo de\nobjetos clave de la mochila.
+
+### 03DAD5C
+Un televisor sintonizado con un\nprograma de consejos útiles para\nentrenadores novatos.
+
+### 03DADAE
+Un viejo cartucho de plástico de\nalgún tipo. ¿Para qué demonios\nservirá esto?
+
+### 03DAE08
+Una piedra gris imbuida de las almas\nde miles de personas que te\nprecedieron. Te llama…
+
+### 03DAE68
+Es una cuerda.\nTiene un clip en la punta.
+
+### 03DAF07
+Es un trozo de cuerda.

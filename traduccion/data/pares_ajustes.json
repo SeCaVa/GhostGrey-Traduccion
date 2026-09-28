@@ -1,0 +1,96 @@
+{
+ "nota": "Correcciones manuales a los emparejamientos automáticos de tools/pair_tables.py (pares mal emparejados).",
+ "descartar": [
+  "03FB283",
+  "03FCB41",
+  "03FCB4A",
+  "03FCB50",
+  "03FCB59",
+  "03FD590",
+  "03FD593",
+  "03FD59A",
+  "03FD5A2",
+  "03FD5A8",
+  "03FD5B0",
+  "03FD5B8",
+  "03FD5C1"
+ ],
+ "fijar": {
+  "04573C5": [
+   "2 players\nneeded.",
+   "Faltan 2\njugad."
+  ],
+  "04573F4": [
+   "2-PLAYER\nMODE",
+   "MODO DE 2\nJUGADORES"
+  ],
+  "0457402": [
+   "3-PLAYER\nMODE",
+   "MODO DE 3\nJUGADORES"
+  ],
+  "0457410": [
+   "4-PLAYER\nMODE",
+   "MODO DE 4\nJUGADORES"
+  ],
+  "045741E": [
+   "5-PLAYER\nMODE",
+   "MODO DE 5\nJUGADORES"
+  ],
+  "0458618": [
+   "You used that move?\nThat’s good strategy!\\p",
+   "¡Qué movimiento tan genial!\n¡Qué estrategia tan buena!\\p"
+  ],
+  "0458644": [
+   "Way to go!\nThat was an eye-opener!\\p",
+   "¡Qué pasada!\n¡Alucinante!\\p"
+  ],
+  "0458668": [
+   "Oh! How could you use that\nPOKéMON in that situation?\\p",
+   "¿Pero cómo se puede usar a\nese POKéMON en una situación así?\\p"
+  ],
+  "04586A0": [
+   "That POKéMON…\nIt’s been raised really well!\\p",
+   "Ese POKéMON sí que está bien\nentrenado...\\p"
+  ],
+  "04586D0": [
+   "That’s it!\nThis is the right move now!\\p",
+   "¡Eso es! ¡Ése es el movimiento\nque hay que usar aquí!\\p"
+  ],
+  "04586F8": [
+   "That’s awesome!\nYou can battle that way?\\p",
+   "¡Es impresionante!\n¿Pero cómo se puede luchar así?\\p"
+  ],
+  "0458724": [
+   "You have exquisite timing for\nswitching POKéMON!\\p",
+   "¡No se puede cambiar de POKéMON\nen un momento mejor!\\p"
+  ],
+  "045879C": [
+   "Don’t say anything funny anymore!\nI’m sore from laughing!\\p",
+   "¡Qué movimiento tan genial!\n¡Qué estrategia tan buena!\\p"
+  ],
+  "04587D8": [
+   "Oh?\nSomething like that happened.\\p",
+   "¡Qué pasada!\n¡Alucinante!\\p"
+  ],
+  "04587FC": [
+   "Hmhm… What?\nSo is this what you’re saying?\\p",
+   "¿Pero cómo se puede usar a\nese POKéMON en una situación así?\\p"
+  ],
+  "0458828": [
+   "Is that right?\nI didn’t know that.\\p",
+   "Ese POKéMON sí que está bien\nentrenado...\\p"
+  ],
+  "045884C": [
+   "Ahaha!\nWhat is that about?\\p",
+   "¡Eso es! ¡Ése es el movimiento\nque hay que usar aquí!\\p"
+  ],
+  "0458868": [
+   "Yes, that’s exactly it!\nThat’s what I meant.\\p",
+   "¡Es impresionante!\n¿Pero cómo se puede luchar así?\\p"
+  ],
+  "0458898": [
+   "In other words…\nYes! That’s right!\\p",
+   "¡No se puede cambiar de POKéMON\nen un momento mejor!\\p"
+  ]
+ }
+}

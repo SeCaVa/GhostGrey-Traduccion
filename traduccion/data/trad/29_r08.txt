@@ -1,0 +1,800 @@
+#! Lote 29: textos de código del hack (movimientos nuevos, habilidades, objetos, lugares)
+#! Movimientos de campo del hack: Soul Shift = Cambio Alma, OOF Flame = Llama OOF, Shatterpoint = Pto. Quiebre
+
+### 075F340
+Aston tenía que pagarme $500 por unos Polvos Energía, pero vuelve a llegar tarde, puf…\pEn fin.
+
+### 0761300
+Ruta 26
+
+### 0761380
+Empresas Bruno
+
+### 0761480
+Prado del Bosque
+
+### 0761500
+Corazón de Tinieblas
+
+### 0778D9B
+Ata {B02}
+
+### 0778DA2
+Def {B02}
+
+### 0778DA9
+Vel {B02}
+
+### 0778DB0
+AtE {B02}
+
+### 0778DB7
+DfE {B02}
+
+### 0778DBE
+¡Captúralo para\nmás información!
+
+### 07AB380
+Summer: ¡Profesor!
+
+### 07DAC00
+{C0600} 100 fichas{C1345}$500
+
+### 07DAF00
+Med. Roca{C1350}{C0600}150 fichas
+
+### 07F50C0
+Pueblo Jaspar
+
+### 07F5140
+Huerto de Calabazas
+
+### 080FD40
+Callejón de Azafrán
+
+### 0811300
+Antiguo Ardiente
+
+### 0812FC0
+Pueblo Ópalo
+
+### 082A300
+El Cofre de Davy Jones
+
+### 0847398
+Entonces…
+
+### 08AF880
+Un par de tuercas de metal que da\nbuena suerte y aumenta el índice\nde golpe crítico del portador.
+
+### 08D19C0
+¡Un chocolate de Galar relleno de\ncaramelo y turrón! Restaura 40 PS\na un Pokémon.
+
+### 08D2000
+Una chocolatina dulce y rica hecha\ncon Leche Mu-mu de Johto.\nRestaura 20 PS.
+
+### 08D20C0
+Una herramienta rara de uso\ndesconocido. Es tan larga que hace\nvomitar a un Pokémon envenenado.
+
+### 08D2740
+Un helado con la forma de una\nmascota muy comercial. Frío,\ndulce y cura las quemaduras.
+
+### 08D28C0
+¡Una taza de chocolate caliente!\nDescongela cualquier cosa.
+
+### 08D32C0
+Paseo Amatista
+
+### 08DA540
+Una llave que abre la puerta de\nlos peligrosos túneles de la\nHermandad de los Bichos.
+
+### 08DA7C0
+La medalla del neurótico Líder\nde Ciudad Carmín y amigo tuyo,\nMaximus Voltage.
+
+### 08DA880
+Un tesoro hundido que te dio el\ntemible pirata Cap'n Steve, de\nlos Piratas de Celeste.
+
+### 08DA940
+Un tesoro saqueado del gran\npalacio de arena del Emperador,\nen Pueblo Jaspar.
+
+### 08DAA00
+Esta medalla te demuestra que lo\nque viste en las Islas Espuma\nocurrió de verdad.
+
+### 08DB280
+Un caramelo que obliga al Pokémon\na subir 1 nivel. Con cada nivel,\nse le arranca un trozo del alma.
+
+### 08DE840
+Bosque Perdido
+
+### 08DEAC0
+Repelente que ahuyenta a los\nfantasmas débiles durante 250 pasos.
+
+### 08E1EC0
+Llamas preciosas\nbrillan sobre el\nrival. Su luz puede\nser lo último que vea.
+
+### 08E1F80
+La sombra del rival\nqueda atada a la\ntierra. La muerte es\nsu única salida.
+
+### 08E2040
+Los horrores de\nmorir en el mar…\n¿Se hundirá o\nsaldrá a flote?
+
+### 08E2C00
+Una Ball de gran calidad\nespecializada en atrapar fantasmas.\nMás eficaz que la Super Ball.
+
+### 08EB040
+¡¡Encontré un cartucho de GBA encantado\nen un mercadillo malvado y Exeggcute\nsalió de la pantalla y me sangró!!1!
+
+### 08EB100
+¡Exeggutor se acercó a la pantalla y le salía\nsangre de los ojos! ¡Luego me dijo que\nmatara a mi familia y lo hice!1!! SOY HUEVO.
+
+### 08EC180
+Viaja a una ciudad conocida.
+
+### 08EC800
+Miedo y Penurias
+
+### 09018C3
+Corte
+
+### 09018F7
+Cambio Alma
+
+### 0901AE5
+Surf
+
+### 0901B8E
+Fuerza
+
+### 0901C9F
+Excavar
+
+### 0901D14
+Teletransporte
+
+### 0901E73
+Cascada
+
+### 0901EDB
+Amortiguador
+
+### 0902290
+Batido
+
+### 09023AE
+Llama OOF
+
+### 09024A5
+Pto. Quiebre
+
+### 0905A50
+¡El rival adquirió\nInsomnio!
+
+### 0905E73
+¡{B0F} está absorbiendo energía!
+
+### 0906470
+¡El Deseo Cura se cumplió\npara {B13}!
+
+### 0909311
+¡{B1B} de {B13}\nsubió su Velocidad!
+
+### 0909351
+¡{B1B} de {B13}\nsubió su Def. Esp.!
+
+### 09093D9
+¡{B1B} de {B13}\nbajó su Defensa!
+
+### 090945B
+¡{B1B} de {B13}\nbajó su Precisión!
+
+### 0909AF0
+¡{B1A} de {B13}\nhizo que granizara!
+
+### 091BF40
+Una cadena de metal muy rara.\nPesa muchísimo. No parece que la\nhayan fabricado en Kanto.
+
+### 091E140
+Un pase de la Policía de Azafrán\nque te permite entrar y salir\nlibremente de Ciudad Azafrán.
+
+### 0920000
+El usuario libera\nsu poder. Puede\nbajar la Def. Esp.\ndel rival.
+
+### 0920045
+Ataca con un\ncoletazo tan feroz\ncomo una ola en\nplena tormenta.
+
+### 0920090
+Libera una onda\nde aura contra el\nrival. Nunca falla.
+
+### 09200D3
+Pliega las alas\ny embiste. El\nusuario también\nse hace algo de daño.
+
+### 092011E
+Crea una onda\nsonora dañina que\npuede bajar la\nDef. Esp. del rival.
+
+### 0920168
+Un puñetazo duro\nque siempre golpea\nprimero.
+
+### 09201AE
+Dispara una carga\neléctrica que\npuede subir el\nAt. Esp. del usuario.
+
+### 09201F9
+Lucha cuerpo a\ncuerpo. También baja\nla Defensa y la\nDef. Esp. propias.
+
+### 092023F
+El usuario libera\nun aura horrible\nque daña al rival.
+
+### 0920285
+Corta al rival con\nuna cuchilla de\naire. Puede hacerlo\nretroceder.
+
+### 09202CC
+Descarga eléctrica\nque golpea a todos\nlos Pokémon. Puede\nparalizar.
+
+### 0920320
+Ataca con una onda\nde choque que sale\nde la boca abierta\ndel usuario.
+
+### 092036D
+Un puñetazo que\nabsorbe la mitad\ndel daño causado\npara recuperar PS.
+
+### 09203B5
+El suelo bajo el\nrival estalla. Puede\nbajar su\nDef. Esp.
+
+### 0920407
+Lanza energía de\nla naturaleza. Puede\nbajar la Def. Esp.\ndel rival.
+
+### 0920455
+Ataca con una onda\nde choque que\npuede paralizar\nal rival.
+
+### 092049E
+La hierba enreda\ny derriba al rival.\nHace más daño\ncuanto más pese.
+
+### 09204E4
+Dispara basura\nmugrienta al rival.\nPuede envenenarlo.
+
+### 0920527
+Golpea con su\npesado puño.\nTambién baja la\nVelocidad propia.
+
+### 0920569
+Una placaje\ntemerario que\ntambién daña mucho\nal usuario.
+
+### 09205AE
+Lanza trozos de\nhielo que siempre\ngolpean primero.
+
+### 09205EE
+Golpea con su dura\ncabeza. Puede hacer\nretroceder al\nrival.
+
+### 0920637
+Llamas escarlata\nbañan a todos los\nPokémon. Puede\ncausar quemaduras.
+
+### 0920683
+Pega una bomba de\nacero al rival.\nNunca falla.
+
+### 09206B9
+Lanza una bola de\nbarro que puede\nbajar la Precisión\ndel rival.
+
+### 09206FF
+El usuario piensa\ncosas malas. Sube\nmucho su At. Esp.
+
+### 0920742
+Corta al rival en\ncuanto puede. Suele\ndar golpes\ncríticos.
+
+### 092078B
+Ataca con un viento\nrepulsivo. Puede\nsubir todas las\ncaracterísticas.
+
+### 09207D6
+Ataca con un rayo\nde luz que brilla\ncomo las piedras\npreciosas.
+
+### 092081A
+Agita con violencia\nsus lianas o\ntentáculos para\nazotar al rival.
+
+### 092085D
+Desgarra al rival\ncon cuchillas\npsíquicas. Suele\ndar golpes críticos.
+
+### 09208FA
+Pule su cuerpo\npara subir mucho\nsu Velocidad.
+
+### 0920932
+Golpea con una roca\nenorme. El usuario\nno podrá moverse\nel siguiente turno.
+
+### 092097D
+Dispara una ráfaga\nde semillas duras\ncontra el rival.
+
+### 09209B2
+Unas garras de\nsombra arañan al\nrival. Suele dar\ngolpes críticos.
+
+### 09209F9
+Estira su sombra\npara atacar.\nSiempre golpea\nprimero.
+
+### 0920A8C
+Corta al rival con\nlas garras cruzadas\ncomo si fueran\ntijeras.
+
+### 0920AD3
+Se concentra y\nembiste. Puede\nhacer retroceder\nal rival.
+
+### 0920B18
+Intercambia objetos\ncon el rival más\nrápido de lo que\nel ojo puede ver.
+
+### 0920B61
+Gira su cuerpo como\nun taladro. Suele\ndar golpes\ncríticos.
+
+### 0920BAC
+Da pisotones que\ndañan a todos los\nPokémon y bajan su\nVelocidad.
+
+### 0920BFD
+Un pequeño destello\nde llama espectral\nque apenas hace\ndaño.
+
+### 0920C49
+Se envuelve en\nllamas y ataca.\nTambién sube su\nVelocidad.
+
+### 0920C99
+Sopla aire helado\nal rival. Siempre\nda un golpe\ncrítico.
+
+### 0920CE3
+Golpea tras hacer\nalgo mono. Puede\nhacer retroceder\nal rival.
+
+### 0920D26
+Afila sus garras\npara subir su\nAtaque y su\nPrecisión.
+
+### 0920D65
+Se enrosca para\nsubir su Ataque,\nDefensa y\nPrecisión.
+
+### 0920DA2
+Atrapa al rival en\nun viento feroz.\nPuede confundirlo.
+
+### 0920DE4
+Deja caer carámbanos\nsobre el rival.\nPuede hacerlo\nretroceder.
+
+### 0920E26
+Ataca al rival con\nuna llamarada\nexplosiva.
+
+### 0920E5F
+Baila para subir\nsu At. Esp.,\nDef. Esp. y\nVelocidad.
+
+### 0920E9F
+Hojas afiladas\nrodean al rival.\nPuede bajar su\nPrecisión.
+
+### 0920EE3
+Se estimula para\nsubir su Ataque\ny su At. Esp.
+
+### 0920F22
+Ataca las piernas\ndel rival y baja\nsu Velocidad.
+
+### 0920F5D
+Ladra de forma\namenazante. Baja\nel At. Esp. del\nrival.
+
+### 0920F9B
+Ataca mientras\nresiste y baja el\nAt. Esp. del\nrival.
+
+### 0920FE3
+Aplasta al rival\ncon su cuerpo.\nPuede hacerlo\nretroceder.
+
+### 092102D
+Golpea al rival con\nferocidad. Siempre\nda un golpe\ncrítico.
+
+### 0921076
+Empapa al rival con\nun ácido especial.\nDobla su potencia\nsi está envenenado.
+
+### 09210C6
+Apuñala con un\nbrazo empapado en\nveneno. Puede\nenvenenar al rival.
+
+### 0921113
+Escupe un fluido\nque derrite al\nrival. Baja mucho\nsu Def. Esp.
+
+### 0921162
+Baila envuelto en\nllamas. Puede subir\nel At. Esp. del\nusuario.
+
+### 09211AD
+Apuñala al rival\ncon piedras\nafiladas. Suele dar\ngolpes críticos.
+
+### 09211F8
+Muerde al rival.\nPuede hacerlo\nretroceder o\nquemarlo.
+
+### 0921246
+Muerde al rival.\nPuede hacerlo\nretroceder o\ncongelarlo.
+
+### 0921294
+Muerde al rival.\nPuede hacerlo\nretroceder o\nparalizarlo.
+
+### 09212E5
+Un placaje ígneo\nque puede quemar.\nEl usuario también\nse hace algo de daño.
+
+### 0921335
+Envuelve al rival\nen un fuego intenso\nque siempre causa\nquemaduras.
+
+### 092137B
+Hace el doble de\ndaño si el objetivo\ntiene un problema\nde estado.
+
+### 09213C5
+Golpea al rival\ncon dos golpes\nbrutales en un\nsolo turno.
+
+### 0921401
+Golpea al rival con\nun par de alas\npotentes dos veces\nen un turno.
+
+### 0921445
+Se protege con\nalgodón suave.\nSube mucho su\nDefensa.
+
+### 092148E
+Un ataque ágil\nque hace el doble\nde daño si no lleva\nningún objeto.
+
+### 09214D5
+Tras atacar, el\nusuario se cambia\npor otro Pokémon\ndel equipo.
+
+### 0921516
+Libera un destello\nde energía que daña\ny baja la\nPrecisión.
+
+### 0921557
+Golpea al rival\ncon su duro cuerpo.\nTambién se hace\nalgo de daño.
+
+### 09215A1
+Ataca de dos a\ncinco veces\nseguidas.
+
+### 09215EC
+Dispara energía\nluminosa. Puede\nbajar la Def. Esp.\ndel rival.
+
+### 0921633
+Sube las caracte-\nrísticas ofensivas,\na costa de las\ndefensivas.
+
+### 092167B
+Acosa al rival con\nuna llama maligna\nde una antorcha\nespectral.
+
+### 09216C3
+Obliga a su cuerpo\na crecer y sube\nsu Ataque y su\nAt. Esp.
+
+### 092170C
+Hace el doble de\ndaño a un rival\ndormido, aunque\nlo despierta.
+
+### 0921756
+Corta al rival con\nconchas afiladas.\nPuede bajar su\nDefensa.
+
+### 092179C
+Muerde al rival y\nse come su baya\nsi lleva una.
+
+### 092181E
+Permite golpear\nprimero si el rival\nse prepara para\natacar.
+
+### 092186C
+Dispara agua\nhirviendo al rival.\nPuede causar\nquemaduras.
+
+### 09218A9
+Si al rival le\nqueda la mitad de\nPS o menos, hace\nel doble de daño.
+
+### 09218EB
+Levanta un viento\nfeérico y golpea\ncon él al rival.
+
+### 0921928
+Una mirada mona\nque baja el Ataque\ndel rival. Siempre\nva primero.
+
+### 0921971
+Zarandea al rival.\nPuede bajar su\nAtaque.
+
+### 09219B6
+Ataca con el poder\nde la luna. Puede\nbajar el At. Esp.\ndel rival.
+
+### 0921A03
+Un beso dulce que\nabsorbe la mitad\ndel daño causado\npara recuperar PS.
+
+### 0921A4A
+Daña a los rivales\nemitiendo un\ndestello potente.
+
+### 0921A8B
+Suelta un grito\nencantador que no\nse puede esquivar.
+
+### 0921AC4
+Deja piedras\nflotando alrededor\ndel equipo rival\nque dañan al entrar.
+
+### 0921B11
+El usuario se\ndebilita, pero cura\ndel todo al Pokémon\nque lo sustituye.
+
+### 0921B55
+Levanta un viento\nque sube la\nVelocidad del equipo\ndurante 4 turnos.
+
+### 0921BA2
+Emite una onda\nsonora terrible\nque golpea a todo\nlo que le rodea.
+
+### 0921BE7
+Quema al rival por\ncompleto e inutiliza\nla baya que lleve.
+
+### 0921C2B
+Planta en el rival\nuna semilla de\npreocupación que le\nda Insomnio.
+
+### 0921C70
+Lanza ácido\ngástrico al rival\ny anula su\nhabilidad.
+
+### 0921CF1
+Un poder extraño\nsube la Defensa de\ntodos los Pokémon\nde tipo Planta.
+
+### 0921D3B
+Su At. Esp., Def.\nEsp. y Velocidad\nsuben en el 2.º\nturno.
+
+### 0921D7E
+Gira sus engranajes\ny sube su Ataque\ny su Velocidad.
+
+### 0921DC0
+Deja púas venenosas\nalrededor del\nequipo rival que\ndañan al entrar.
+
+### 0921E0C
+Teje una red\npegajosa alrededor\ndel equipo rival que\nfrena al entrar.
+
+### 0921E55
+Ataca con un poder\nacumulado que crece\ncon cada mejora de\ncaracterísticas.
+
+### 0921E9D
+Presiona sus puntos\nde tensión y sube\nmucho una de sus\ncaracterísticas.
+
+### 0921EE6
+Hace el doble de\ndaño si el rival ya\nha recibido daño\neste turno.
+
+### 0921F29
+Cuanto más haya\nsubido el rival sus\ncaracterísticas, más\npotencia tiene.
+
+### 0942E00
+Templo del Bosque
+
+### 0944F00 r
+Ojalá hubiera más huevos en la región, pero los pájaros nunca han vuelto. Muy de vez en cuando, se puede interceptar un envío de Sinnoh o Johto.
+
+### 0945400
+También negro
+
+### 094B040
+Un trozo caliente de tarta de\ncalabaza. ¡Con nata montada!\nCura cualquier problema de estado.
+
+### 094FD40
+Un orbe que no brilla. No sé\ncómo, pero ya lo había tenido antes.
+
+### 0950A80
+Convierte electricidad en Velocidad.
+
+### 0950AA0
+Reduce el daño con los PS al máximo.
+
+### 0950AC0
+Potencia movimientos débiles.
+
+### 0950AE0
+Golpea a los tipo Fantasma.
+
+### 0950B00
+Da más golpes críticos.
+
+### 0950B20
+Potencia los golpes críticos.
+
+### 0950B40
+Mov. de estado van primero.
+
+### 0950B60
+Potencia ataques del mismo tipo.
+
+### 0950B80
+Evita que baje la Defensa.
+
+### 0950BA0
+Refleja movimientos de estado.
+
+### 0950BC0
+Potencia movimientos con retroceso.
+
+### 0950BE0
+Cambia efectos por potencia.
+
+### 0950C00
+Potencia los puñetazos.
+
+### 0950C20
+Potencia ataques contra rivales.
+
+### 0950C40
+Potencia ataques en tormenta arena.
+
+### 0950C60
+Con sol, cambia PS por potencia.
+
+### 0950C81
+Protege del calor.
+
+### 0950C9A
+Prefiere la lluvia al calor.
+
+### 0950CB7
+Potencia mov. “poco eficaces”.
+
+### 0950CDA
+Reduce mov. “súper eficaces”.
+
+### 0950D00
+Ignora las habilidades del rival.
+
+### 0950D20
+Ajusta potencia según el rival.
+
+### 0950D40
+Recupera PS si está envenenado.
+
+### 0950D60
+Recupera algunos PS con granizo.
+
+### 0950D7C
+Sube una característica y baja otra.
+
+### 0950DA0
+Cura problemas de estado con lluvia.
+
+### 0950DBF
+Puede curar el estado de aliados.
+
+### 0950DE0
+Sube la evasión con granizo.
+
+### 0950E00
+Sube la evasión si está confuso.
+
+### 0950E20
+Provoca granizo en combate.
+
+### 0950E40
+Sube la Velocidad si sufre.
+
+### 0950E60
+Sube el Ataque si le da Planta.
+
+### 0950E80
+Inmune al clima y a los polvos.
+
+### 0950EA0
+Solo le dañan los ataques.
+
+### 0950EC0
+Evita balas y bombas.
+
+### 0950EE0
+Mov. Volador van primero.
+
+### 0950F00
+Atraviesa barreras.
+
+### 0950F20
+Objeto para llevar. Estas gafas\nsuben el At. Esp., pero solo\npermiten usar un movimiento.
+
+### 0950F90
+Objeto para llevar. Este pañuelo\nsube la Velocidad, pero solo\npermite usar un movimiento.
+
+### 0951050
+Objeto para llevar. Potencia los\nmovimientos a costa de perder\nalgunos PS con cada golpe.
+
+### 09510C0
+Sube el Ataque al derrotar rivales.
+
+### 09510E0
+Al debilitarse, daña al rival.
+
+### 0951100
+Puede anular un mov. del rival.
+
+### 0951120
+Baja la Velocidad del atacante.
+
+### 0951140
+Se contagia por contacto.
+
+### 0951160
+Una máscara que se clava en la cara\nde quien la lleva. Si un rival le\nda un golpe directo, también sufre.
+
+### 09511D0
+Objeto para llevar. Los Pokémon de\ntipo Veneno recuperan PS; los demás\nreciben daño.
+
+### 0951230
+Sube la Velocidad en tormenta arena.
+
+### 0951250
+Más potencia si mueve el último.
+
+### 0951270
+Todos los movimientos aciertan.
+
+### 0951290
+Objeto para llevar. Este chaleco\nsube la Def. Esp., pero impide\nusar movimientos de estado.
+
+### 09512F0
+Potencia mov. de aura y pulso.
+
+### 0951310
+Potencia mov. de contacto.
+
+### 0951330
+Potencia los mordiscos.
+
+### 0951345
+Un pedrusco evolutivo misterioso.\nSube la Defensa y la Def. Esp.\nde un Pokémon que aún evoluciona.
+
+### 09513B0
+Atrae los mov. de tipo Agua.
+
+### 09513D0
+Potencia los mov. Siniestro.
+
+### 0954390
+Potencia los mov. Hada.
+
+### 09543B0
+Invierte las habilidades “Aura”.
+
+### 09543D0
+Mov. Normal pasan a ser Hielo.
+
+### 09543F3
+Mov. Normal pasan a ser Hada.
+
+### 0954418
+Mov. Normal pasan a ser Volador.
+
+### 0954440
+Todos los mov. pasan a ser Normal.
+
+### 0961B50
+Normal
+
+### 0964160
+Tipo de mov. propio: Hada
+
+### 0964180
+Tipo de Pokémon propio: Hada
+
+### 09641A0
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Lucha, Bicho, Hada\p{sp}{sp}{sp}{XF916}: Fantasma, Siniestro\p{sp}{sp}{sp}{XF917}: Psíquico
+
+### 0964210
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Normal, Roca, Acero, Hielo, Siniestro\p{sp}{sp}{sp}{XF916}: Volador, Veneno, Bicho, Psíquico,\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Hada\p{sp}{sp}{sp}{XF917}: Fantasma
+
+### 09642A0
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Volador, Psíquico, Hada\p{sp}{sp}{sp}{XF916}: Roca, Bicho, Siniestro
+
+### 0964300
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Planta, Hada\p{sp}{sp}{sp}{XF916}: Veneno, Tierra, Roca, Fantasma\p{sp}{sp}{sp}{XF917}: Acero
+
+### 0964370
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Tierra, Psíquico\p{sp}{sp}{sp}{XF916}: Lucha, Veneno, Bicho, Planta,\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Hada
+
+### 09643E0
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Planta, Psíquico, Siniestro\p{sp}{sp}{sp}{XF916}: Lucha, Volador, Veneno, Fantasma,\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Acero, Fuego, Hada
+
+### 0964460
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Roca, Hielo, Hada\p{sp}{sp}{sp}{XF916}: Acero, Fuego, Agua, Eléctrico
+
+### 09644C0
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Tierra, Roca, Agua\p{sp}{sp}{sp}{XF916}: Bicho, Acero, Fuego, Planta,\n{sp}{sp}{sp}{sp}{sp}{sp}{sp}Hielo, Hada
+
+### 0964540
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Dragón\p{sp}{sp}{sp}{XF916}: Acero\p{sp}{sp}{sp}{XF917}: Hada
+
+### 0964590
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Hielo, Dragón, Hada\p{sp}{sp}{sp}{XF916}: Fuego, Agua, Planta, Eléctrico
+
+### 0964600
+Efecto en el Pokémon rival:\p{sp}{sp}{sp}{XF915}: Lucha, Dragón, Siniestro\p{sp}{sp}{sp}{XF916}: Veneno, Acero, Fuego
+
+### 0964660
+Efecto del mov. rival en mis Pokémon:\p{sp}{sp}{sp}{XF915}: Veneno, Acero\p{sp}{sp}{sp}{XF916}: Lucha, Bicho, Siniestro\p{sp}{sp}{sp}{XF917}: Dragón
+
+### 09CF240
+Una cuchara de acero enorme, casi\nridícula, robada de la cocina de la\ncárcel. Theodora quería esto.
+
+### 09CF440
+Un electrodoméstico para mezclar\ntodo tipo de masas y bazofia.\nQuizá le sirva a Theodora.
+
+### 09D3380
+Una bolsa de caramelos ácidos.\nÁcidos, dulces y desaparecidos.\nTe despiertan si tienes sueño.
+
+### 09D3540
+Una chocolatina con barquillo\ndentro. Dame un trocito.\nCura la parálisis.
+
+### 09D3740
+Un pastel dulce relleno de crema y\nfresa, cubierto de chocolate.\nCura todos los PS y el estado.
+
+### 09D3800
+Un chupito del whisky más asqueroso\nque te puedas imaginar. Eso sí,\nreanima a un Pokémon debilitado.
+
+### 09D38C0
+Una lata de Pewter Black Ribbon.\nRestaura 50 PS, pero también\nbaja la amistad.
+
+### 09E4B40
+Ruta 8

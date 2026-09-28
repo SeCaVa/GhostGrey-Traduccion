@@ -1,0 +1,335 @@
+#! Lote 02: Ciudad Verde (3.1, 5.x), Ruta 2 (3.20), Ruta 22 (3.41), Bosque Verde (1.0), casetas Ruta 2 (15.x)
+#! Marca 'r' tras el ID = efecto de la secta de los bichos (espacio antes de cada r)
+
+### 0172255 r
+¿Eres uno con la mente colmena?\p…\pNo lo eres.
+
+### 01722C7 r
+¡Mis bichos tienen hambre!
+
+### 0172315 r
+Ghhghh… Siempre duele, por muchas veces que pase.
+
+### 017237D r
+¡Hermanos! ¡Socorro!
+
+### 01723D4 r
+Dicen que no eres uno de los nuestros.
+
+### 017241F r
+Dentro de ti, incluso ahora.\n¿Lo sabías?
+
+### 0172482 r
+Los bichos me hablan. Y solo a mí.
+
+### 01724DC r
+Háblame…\nPor favor…
+
+### 0172527 r
+Crece a cada momento.
+
+### 017271D r
+PROHIBIDO EL PASO\pSOLO MIEMBROS
+
+### 017DBE4
+¡Caterpie tiene veneno, pero Caterpie sí.\ppicotazo dekémon no picotazo de Weedle’ picotazo.
+
+### 0188B08
+Así que esto es todo…
+
+### 018F43F
+Ja, ja, ja…\p¡{B01}, nunca tuve ninguna duda! ¡La nueva era empieza contigo!
+
+### 018F4A2
+Nos vemos en Pueblo Jaspar, {B01}. Le diré a Summer que haga lo mismo cuando aparezca. Eso sí… asegúrate de pasar antes a ver a tu padre, ¿vale?\p¡Nos olemos luego, peque!
+
+### 018FBC1
+Gimnasio Pokémon de Ciudad Verde\nLíder: Blue
+
+### 01A2B88
+Bienvenid{o}, hij{o}.
+
+### 01A2C63
+¿Por qué no te sientas a meditar un rato y recuerdas?
+
+### 01A2CFC
+Parece que ahora mismo no tiene nada que recordar…
+
+### 01A2D43
+¿Y tú? ¿Qué vas a recordar?\pSiéntate y piensa un rato.
+
+### 01A2D85
+{B01} cerró los ojos y recordó…
+
+### 01A2DE0
+Este lugar siempre estará abierto para ti.
+
+### 01A2E20
+Esto es un Huevo. ¿Qué pasa? Lo digo en serio, hij{o}.
+
+### 01BC943
+¡Espero volver a verte!
+
+### 01BDB85
+¡Hola, {B01}!\p¡Soy yo, TEALA, la encargada de la 2.ª planta del Centro Pokémon!\p¿Querías preguntarme algo sobre las conexiones?
+
+### 07410C9 r
+ÚNETE A LA HERMANDAD DE LOS BICHOS\pABRAZA EL NUEVO ORDEN MUNDIAL Y NO VUELVAS A PASAR HAMBRE
+
+### 07868C0 r
+¿Has oído hablar de la benévola mente colmena?
+
+### 07A9CC0
+Yo tengo lo que tú quieres. ¿Tú tienes lo que yo necesito?
+
+### 07A9D40
+Tómatelo con calma, peque.
+
+### 07A9E40
+¡Hola! ¡Bienvenid{o} a la Estantería Inteligente de Autoservicio de Snack Sneasel! ¿En qué puedo ayudarte?
+
+### 07A9EC0
+¡Gracias, vuelva pronto!
+
+### 07AD040
+…\p{B01}…\pTe quiero.\p…\pPero espero no volver a verte nunca.\pVoy a la Liga Añil a convertirme en Campeona y a pasar a la historia como la mejor entrenadora del mundo.\pNo te interpongas en mi camino.\p…\pAdiós, {B01}.
+
+### 07AD200
+Summer: {B01}…\p…\pNo me lo puedo creer. Después de todo lo que ha pasado, ¿quieres darle la espalda a la gente que nos ha ayudado a llegar hasta aquí?\pPerdona que levante la voz, pero no voy a dejar que destruyas aquello que he deseado toda mi vida justo cuando estoy a punto de conseguirlo.\pEsta es la última vez que voy a luchar contra ti.
+
+### 07ADF09
+Es la camioneta de aspecto sospechoso de este tío. Parece sacada de los 90.
+
+### 07AE180
+Summer: ¡Que me aspen como a un Mankey! ¡Saluditos, {B01}!\p¡Ciudad Plateada sigue igual que cuando vinimos el año pasado!\p¡Pero mira esto!\p¡Tachááán! ¡Mira! ¡Es la Medalla Roca!\p¡Eso significa que estamos un paso más cerca de ser el mejor equipo de entrenadores del mundo!\p¿Luchamos? ¡Seguro que ahora eres muchíííísimo más fuerte que la última vez!
+
+### 07AE3C0
+Summer: ¡Creo que lo único en lo que te gano es en rapidez! Si freno un momento, me adelantarás tan rápido que parecerá que soy un Ninjask de naturaleza Miedosa con Impulso y un Pañuelo Elección.\p¡Así que tengo que seguir! El Líder de Gimnasio de aquí es un poco… ¿raro?\p¡Ya verás a qué me refiero! ¡Una menos, quedan seis!\p¡Chao, pescao, {B01}! ¡No te pongas demasiado fuerte, que me dejas atrás!
+
+### 07EA8E6
+Texto del cartel
+
+### 08BE75D
+¡Bienvenid{o} a Pistas de Entrenador Premium!\pSoy Tipper, tu asistente de conocimiento con IA.\p¡Por solo 50 $ obtendrás un consejo valiosísimo para sacar lo mejor de ti como Entrenador{a}!\p¿Quieres saber más?
+
+### 08BE825
+¡Consejos supervaliosos y reveladores pueden ser tuyos por solo 50 $! ¡Visita nuestra web para ver los testimonios de famosos como Bruno, Aston e incluso Mary, del DJ MaryCast!\l¡Eso y mucho más!
+
+### 08BE8DE
+Pista de Entrenador 001:\p¡Pulsa START para abrir el menú! ¡Pulsa SELECT para cerrarlo!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 08CAE40
+¡Qué día más animado! Me encanta ver a la gente ir y venir, ¡y qué ropa tan colorida lleva la juventud de hoy!
+
+### 08CBB00
+Hay una revista antiquísima tirada en el suelo.\pDiario Pokémon\pReportaje especial: ¡el Prof. Oak, investigador Pokémon!\pAl parecer, el Prof. Oak vive con sus nietos, Daisy y Blue.
+
+### 08CC889
+¡Ah, eres {B01}!\p¡Qué niñ{o} más buen{o} eres…! Otro recado para tu padre, ¿eh?\pYo aquí, viendo mis culebrones. Siempre es un gusto verte la cara.
+
+### 08CCA89
+En la tele echan una comedia antiquísima. Hacen chistes que seguramente tenían mucha gracia hace un siglo.
+
+### 08CCB00
+¿Cómo está el bueno del Profesor? Luché contra él una vez, cuando los dos éramos jóvenes entrenadores.\pAhora parece que haya pasado una eternidad…
+
+### 08CCCC9
+Una foto antigua de un chiquillo y un Spearow. Me pregunto cómo serían esos bichos.
+
+### 08CCD49
+En la tele solo hay interferencias.
+
+### 08CCED8
+Pista de Entrenador 073:\pEs mucho más fácil capturar a los Pokémon salvajes si les lanzas una Poké Ball cuando tienen toda la salud. Los Pokémon envenenados, quemados, paralizados o dormidos están más irritables y cuesta más atraparlos.\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 08CD634
+Panda de descerebrados con bichos en la cabeza, ¡no aprendéis NUNCA!\p¡Os voy a sacar esos bichos de la cabeza a golpes!
+
+### 08CD696
+Perdiste el conocimiento.
+
+### 08CD780 r
+¡No eres miembro de la Hermandad de los Bichos! ¡Esta es nuestra tierra!
+
+### 08CD840 r
+Puede que haya perdido, pero no tengo hambre. No me queda nada más que perder.
+
+### 08CD980 r
+Mis bichos tendrán que conformarse con mi carne…
+
+### 08CDA00 r
+¿Cuál es la mayor hambre que has pasado?
+
+### 08CDA80 r
+Cuando ellos hablan, me siento mejor…
+
+### 08CDB00 r
+Mi mente está despejada. Mi objetivo ya no me pertenece.
+
+### 08CDB80
+¡El bosque está lleno de hombres seta! ¡Un montón!\pPero no debo hablar con ninguno de ellos.
+
+### 08CDD49
+No… no aguanto esta hambre… Llevo días sin comer…\pPor fin voy a hacerlo. Voy a ir a verlos…
+
+### 08CDED8
+Pista de Entrenador 153:\p¡Los Pokémon de tipo Bicho son débiles contra el fuego! También son débiles contra el hierro, la piedra, los pájaros y diversos lagartos.\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 08CDFC0 r
+NO HAY ANTÍDOTO PARA TI. TU DESTINO YA NO TE PERTENECE. HAZ LAS PACES CON FORMAR PARTE DE ALGO MÁS GRANDE QUE TÚ.
+
+### 08EC880
+¿Qué Pokémon meditará para recordar lo que ha perdido?
+
+### 08EC900
+¿Qué movimiento recordará?
+
+### 0907A7C
+¿Eh? Me está sonando el teléfono.
+
+### 0907A96
+Oak: ¡{B01}! Espera… ¿{B01}? … ¡¡¡{B01}!!! ¿Me oyes?\p¿Hola? ¿Summer? Espera, ¿hola?\p… ¡Sí, vale! ¿Qué? ¡{B01}, soy yo, el Prof. Oak! ¡Solo quería ver qué tal estabas y asegurarme de que tenía tu número antes de que salieras a vivir tu gran aventura!\p¡Ja, ja! El primer Gimnasio debería estar en Ciudad Plateada, al norte de Ciudad Verde. No te preocupes por el Gimnasio de Ciudad Verde, lleva cerrado desde antes de que nacieras. Todo ese sitio es un pueblo fantasma, ¡no hay nada que ver!\pEn fin, {B01}, siempre has tenido mucho aguante, así que no me preocupas demasiado.\p¡Summer igual intenta montar en bici bajo techo si no la llamo! ¡Ja, ja, ja! Bueno, {B01}, ¡sal ahí y a por todas! ¡Te quiero, peque! ¡Adiós!\p…\p¿Cómo se apaga este trasto? ¡APAGAR! ¡TELÉFONO, APÁGATE! ¡GIRA! ¿HOLA? ¡TELÉFONO! ¿HOLA, TELÉF…
+
+### 095B26C r
+¿Eres…?\pNo, ¡tú no puedes entrar en este edificio! ¡Vete a reptar a otra parte!
+
+### 095B2BF r
+¿Eres…?\pAh, llevas una espora de vigilancia. Puedes pasar.
+
+### 095B36C r
+¿Eres…?\pAh, llevas una espora de vigilancia. Tienes permiso para pasar.
+
+### 0A58140
+¡A luchar!
+
+### 0A581C0
+¡Has ganado!
+
+### 0A58240
+¡Charla tras el combate!
+
+### 0AA1ED3
+Dependiente: …¿Qué pasa?\p…\p¿Te cuesta pillar las cosas?\p¿Hola? ¿Es que no sabes hablar? Tierra llamando a bicho raro, ¿por qué demonios me estás molestando?\pNo te voy a vender nada. ¿Eres un fósil o qué? Todas las estanterías son de autoservicio.\pYa sabes, que te lo haces tú. O sea, ¿que me dejes en paz? O sea, ¿compra algo y lárgate de aquí?\pPara dar tanto miedo, tienes muy pocas luces.
+
+### 0AC9C49
+Han saqueado y destrozado las estanterías. No queda nada.
+
+### 0ACDC10
+¡Recórcholis, Weezing! ¡Eres lo más, {B01}!
+
+### 0ACDC37
+¡Ji, ji! ¡He ganado! ¡Qué difícil es ganarte, {B01}!
+
+### 0BC49C0
+¡Grrr!
+
+### 0BC4A95
+¡El {B02} desapareció!
+
+### 0BD1ACF
+¡SNACK SNEASEL!\n“¡Un golpe crítico para tus papilas gustativas! ¡Para todas tus necesidades de picoteo y nutrición!”\p(Una filial de BrunoCorp)
+
+### 0C59900
+Oak: ¡{B01}! ¡Lo has conseguido!\p¡Siete medallas enteras! ¿Eh? ¡Sabía que podías hacerlo! ¡Estoy muy orgulloso de Summer y de ti!\pOjalá las cosas no se te hubieran complicado tanto… Si hubiera sabido todo lo que estaba pasando en Azafrán, habría…\pBueno… Ya no importa. ¡Incluso con el mundo en tu contra, has conseguido todas las medallas!\pHas… pasado por tanto… ¡No me puedo creer que seas {el} mism{o} crí{o} que se hurgaba la nariz e intentaba limpiársela en Summer! ¡Ja, ja, ja, ja!\p…Cuesta pensar que vosotros dos… ya no sois unos críos.\psnif…\pEn fin…\pSeguramente ya te lo imaginabas, pero ¡te queda UNA medalla más por ganar! Y da la casualidad de que…\p¡Sigo siendo el Líder del Gimnasio de Ciudad Verde! ¡El Profesor Blue Oak, excampeón de la Liga!\p¡{B01}! ¡Necesito saber si tienes la fuerza suficiente para enfrentarte a esos monstruos de la Meseta Añil!\p¡Ha llegado la hora, peque! ¡Enséñame todo lo que has aprendido!
+
+### 0C5A140
+{B01} recibió la MT26 y un fragmento del Espejo de las Almas de manos del Profesor Oak.
+
+### 0C720C9
+Lleva un tiempo muerto, pero aún sangra.
+
+### 0C72249
+La han apaleado y la han dado por muerta.
+
+### 0C72940
+¡¡¡URGGHHH!!!
+
+### 0C729C0
+Gurhghh…
+
+### 0C72A40
+Hurh… Guh.
+
+### 0C72B49
+uff…\puff…\p(resuello)…\pYa no me queda mucho. Odio este mundo. Odio la vida que me ha tocado vivir. Pronto seré comida para ese animal que rebusca el polvo de las estanterías. Al menos así habré servido para algo.
+
+### 0C8F61B
+???: Mmm… Qué triste.
+
+### 0CA9149
+Vete a otra parte.
+
+### 0CA92C9
+Un montón de escombros y baratijas sucias.
+
+### 0CAABC0
+Oak: {B01}, ha sido magnífico.\p…\pPero no tengo la Medalla Esperanza. Verás… antes de que nacieras, la Liga Pokémon empezó a volverse mucho más controladora. Cuando empezó la decadencia y las cosas empezaron a morir, quisieron asegurarse de controlar el reparto de todas las medallas.\pComo sabes, aquello no salió muy bien, porque perdieron por completo algunas de ellas, pero se esforzaron en que las medallas fueran lo más difíciles de conseguir posible. No querían que nadie los desafiara, y yo no podía apoyar eso.\pAsí que escondí la Medalla Esperanza. ¡La escondí en un lugar al que nadie de la Liga podría llegar mientras siguiera con vida!\pEstá bajo tierra. Enterrada en Pueblo Lavanda. Se la dejé a alguien para que la guardara.\p{B01}, necesito que te adelantes. Nos vemos en Jaspar. Hay una cabaña justo a las afueras de Pueblo Lavanda. Cuando llegue Summer, quiero que vengáis los dos a verme allí. Después os lo explicaré todo.\pTambién le daré a Summer un trozo de esto. ¡Guárdalo MUY bien! Es un fragmento del Espejo de las Almas.\pVenga, ve… ¡Ah, y llévate esto también!
+
+### 0F26409
+En cuanto nací, me pusieron esta máscara. La tormenta de arena es demasiado intensa y estoy obligado a vivir aquí.\pNunca me la podré quitar, porque tengo los pulmones poco desarrollados. Así es la vida de un carroñero.\pNo me puedo quejar, solo tengo que seguir adelante.\pY ahora déjame en paz.
+
+### 0F26709
+¿Cómo te atreves a venir a un sitio como este?\pDebería matarte, pero no tengo energía…\pDa igual.
+
+### 0F26789
+Te odio.
+
+### 0F26A09
+¡Soy un PNJ!
+
+### 0F26B29
+Vorelli: Los enemigos de Bruno III serán silenciados. Esto ya lo sabías.\pEra cercano a ti, ¿no? ¿Le Profesor? Y ahora está muy lejos, por estas mis manos y la palabra de Bruno III.\pPero fuiste tú quien lo pidió. Debo pensar que lo deseabas mucho. Es muy triste.\pTu padre vive en Pueblo Paleta. Creo que deberías sentar la cabeza. Necesitará cuidados en su vejez. Te quiere. ¿Acaso tú no lo quieres también?\pMmm… Qué triste.
+
+### 0F26CE4
+Summer: ¿Pro… fesor…?
+
+### 0F26D00
+Summer: …\p…\p…\p…\p…\p…\p…
+
+### 0F26D40
+La MT26 contiene Terremoto.\p¡Es uno de los movimientos más fuertes que puedes aprender! Te va a hacer falta si quieres enfrentarte a la Liga.\pNos vemos en Jaspar, peque. Oye, asegúrate de pasar a ver a tu padre antes de irte, ¿vale?
+
+### 0F34649
+¡Pero qué narices! ¡Solo soy una araña! ¡No me aplastes!
+
+### 101BC49
+En la pared cuelga una foto antigua. Una chica con birrete y toga graduándose en la Universidad de Artes y Ciencias de Plateada.
+
+### 101BDC9
+Un marco lleno de polvo con la foto de un tipo trajeado con entradas en forma de pico.
+
+### 101BEC9
+La tele está apagada.
+
+### 12D3909
+FUERA DE SERVICIO
+
+### 12F9989
+Escuela de Entrenadores de Ciudad Verde\n¡Felices vacaciones de Halloween!
+
+### 159CC40
+Pista de Entrenador 017:\p¡Mantén pulsado el botón B para correr! ¡Suelta el botón B para dejar de correr!\p¡Gracias por usar Pistas de Entrenador Premium!
+
+### 15A4EC9
+Vaya, alguien se ha dejado su cuaderno del colegio.\p“Los Pokémon tenían antes unas cosas llamadas EV e IV, que determinaban sus características de combate.\pEsos EV e IV ya no existen, ya que los Pokémon fantasma no aportan mucha sustancia al luchar entre sí.”
+
+### 15A5027
+Alguien se ha dejado su cuaderno del colegio.\pSon apuntes sobre las naturalezas de los Pokémon. ¿Quieres leerlos?
+
+### 15A507C
+“La naturaleza de un Pokémon no se puede cambiar, aunque cada naturaleza le da ciertas ventajas en combate.\pFirme: sube Ataque, baja At. Esp.\lTímida: neutra\lOsada: sube Defensa, baja Ataque\lAudaz: sube Ataque, baja Velocidad\lSerena: sube Def. Esp., baja Ataque\lCauta: sube Def. Esp., baja At. Esp.\lDócil: neutra\lAmable: sube Def. Esp., baja Defensa\lFuerte: neutra\lActiva: sube Velocidad, baja Defensa\lAgitada: sube Defensa, baja At. Esp.\lAlegre: sube Velocidad, baja At. Esp.\lFloja: sube Defensa, baja Def. Esp.\lHuraña: sube Ataque, baja Defensa\lAfable: sube At. Esp., baja Defensa\lModesta: sube At. Esp., baja Ataque\lIngenua: sube Velocidad, baja Def. Esp.\lPícara: sube Ataque, baja Def. Esp.\lMansa: sube At. Esp., baja Velocidad\lRara: neutra\lAlocada: sube At. Esp., baja Def. Esp.\lPlácida: sube Defensa, baja Velocidad\lGrosera: sube Def. Esp., baja Velocidad\lSeria: neutra\lMiedosa: sube Velocidad, baja Ataque
+
+### 15A53E8
+Paso.
+
+### 15A5449
+En la pared cuelga un póster educativo.\p“¡Capturar Pokémon es tan fácil como contar hasta 3!\p1. Primero, debilita al Pokémon salvaje. ¡Cuantos menos PS tenga, más fácil será capturarlo!\pUsa Pokémon de un nivel parecido al del Pokémon salvaje, ¡o usa con él el movimiento Clemencia! ¡Clemencia lo debilitará, pero nunca lo dejará K.O.!\p2. ¡Provócale un problema de estado!\nUn Pokémon salvaje con un problema de estado es más fácil de capturar.\p¡Quema, envenena, duerme, congela o paraliza al rival y capturarlo estará chupado!\p3. ¡Usa mejores Balls!\nUna Poké Ball está bien, ¡pero una Super Ball es súper!\lLas Ghost Balls tienen el mayor índice de captura, salvo las Balls especiales, que tienen ciertas condiciones.\p¡Una Master Ball nunca falla!”
+
+### 15A5709
+Hay un cuaderno tirado en el suelo.\p“¡No te olvides de guardar en tu PC los objetos que te sobren si se te llena la mochila!\p¡También puedes vender objetos valiosos en cualquier tienda para ganar más dinero!”
+
+### 0AC9640
+…
+
+### 0F26D18
+Summer: …

@@ -201,5 +201,15 @@
   "file": "data/gfx/carta_halloween_tm.bin",
   "orig": "B19AC0",
   "nota": "mapa de la carta de Halloween"
+ },
+ {
+  "file": "data/gfx/logo_gfx.bin",
+  "orig": "EAB8C4",
+  "nota": "logo del t\u00edtulo: \"Versi\u00f3n Ghost Grey\" (tools/edit_logo.py)"
+ },
+ {
+  "file": "data/gfx/logo_tm.bin",
+  "orig": "EAD390",
+  "nota": "mapa del logo del t\u00edtulo"
  }
 ]

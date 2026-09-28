@@ -15,7 +15,7 @@ tipo Fantasma y cada entrenador sobrevive como puede.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](GhostGrey_ES.bps) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `5C275DD3`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `0996EB37`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
@@ -142,7 +142,7 @@ Este comando:
    del hack. Los volcados que genera (`data/inventory.json`, `data/vanilla_pairs*.json`) no se suben al
    repositorio porque contienen el texto de los juegos; se regeneran solos. Usa `--rehacer` para forzarlo.
 3. Escribe la traducción (`tools/build.py`) y genera `traduccion/build/GhostGrey_ES.bps`.
-4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `5C275DD3`).
+4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `0996EB37`).
 
 ### Estructura
 ```
@@ -165,6 +165,7 @@ traduccion/
     inventory.py, pair_*.py inventario de textos del hack y emparejado con los textos oficiales
     lote.py                 exporta lotes de textos pendientes para traducir
     check.py                comprueba el ancho de una línea con la fuente del hack
+    revisar.py              signos ¡! ¿? sin pareja, espacios de más y nombres oficiales (PokeAPI en ../pokeapi)
     edit_*.py, gotica.py    generan los gráficos traducidos (data/gfx)
     intro_traduccion.py     extrae y compila las pantallas de la traducción (intro/ -> data/intro.bin)
     mapinfo.py, ver_*.py    utilidades para inspeccionar mapas y gráficos

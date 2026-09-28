@@ -31,7 +31,7 @@ Maximus: E-eh, ¿puedo ir con v-vosotros? ¡P-puedo ayudar!\p…y esa señora es
 Maximus: Vaya…\p…\p¡Y-yo también nos vemos allí, {B01}!
 
 ### 0F25EC3
-Lylia: ¡Pero bueno, hola, CAMPE{ON} {B01}!\p¿Estás bien?\p…\pTienes muchas cosas en la cabeza, ¿eh? Bueno, ya que ahora tienes el título de Campe{on}, ¿qué tal un combate?\p¡Yo también fui Campeona, ¿sabes? ¡Y tu forma de luchar…!\pMe recuerda muchísimo a mi hermano, allá en casa. Lo echo mucho de menos. Tú y él tenéis la misma cara de dar miedo, ¡jajaja!\pMe encantaría echar un combate amistoso, para variar.\p¿Qué me dices, {B01}? ¿De Campe{on} a Campeona?
+Lylia: ¡Pero bueno, hola, CAMPE{ON} {B01}!\p¿Estás bien?\p…\pTienes muchas cosas en la cabeza, ¿eh? Bueno, ya que ahora tienes el título de Campe{on}, ¿qué tal un combate?\pYo también fui Campeona, ¿sabes? ¡Y tu forma de luchar…!\pMe recuerda muchísimo a mi hermano, allá en casa. Lo echo mucho de menos. Tú y él tenéis la misma cara de dar miedo, ¡jajaja!\pMe encantaría echar un combate amistoso, para variar.\p¿Qué me dices, {B01}? ¿De Campe{on} a Campeona?
 
 ### 0F26073
 Lylia: ¡{B01}! ¡Qué alegría verte!\pOye… de verdad que siento cómo acabó todo en la base lunar…\pPero siempre lo dije en serio. ¡Max, tú y yo hacíamos un gran equipo!

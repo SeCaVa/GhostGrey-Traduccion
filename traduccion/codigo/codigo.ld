@@ -1,4 +1,4 @@
-/* Bloque de las pantallas de la traducción: dirección fija 0x1F00000 de la ROM (tools/intro_traduccion.py). */
+/* Código C de la traducción: dirección fija 0x1F00000 de la ROM (tools/codigo_c.py). */
 /* Funciones y variables de Pokémon FireRed USA 1.0 (pokefirered / CFRU bpre.ld). */
 SetIntroCB = 0x080ECAA8 | 1;
 IntroCB_Scene1 = 0x080ECEA4 | 1;
@@ -16,6 +16,8 @@ m4aSoundMode = 0x081DD63C | 1;
 gMPlayInfo_BGM = 0x03007300;
 gPaletteFade = 0x02037AB8;
 gMain_newKeys = 0x030030F0 + 0x2E;
+gTrainers = 0x0823EAC8;
+gTrainerClassNames = 0x0823E558;
 
 SECTIONS
 {

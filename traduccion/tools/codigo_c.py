@@ -1,13 +1,15 @@
-"""Pantallas de crédito de la traducción ('SeCaVa' y 'Traducido por SeCaVa') con su jingle de campanas, las mismas
-que las de la traducción de Emerald Rogue. Salen al acabar la escena del logo del creador del hack (la del logo de
-GAME FREAK en FireRed), antes de la escena del combate. B se las salta; A/START/SELECT se saltan toda la intro, como
-en el juego original.
+"""Código C de la traducción (carpeta codigo/), compilado a un bloque en una dirección fija de la ROM:
+  intro.c    pantallas de crédito de la traducción ('SeCaVa' y 'Traducido por SeCaVa') con el jingle de campanas,
+             las mismas que en la traducción de Emerald Rogue. Salen al acabar la escena del logo del creador del
+             hack (la del logo de GAME FREAK en FireRed), antes de la escena del combate. B se las salta;
+             A/START/SELECT se saltan toda la intro, como en el juego original.
+  clases.c   clase de entrenador en femenino según el sprite ("Jardinera"), tabla en data/tablas/clases_femeninas.tsv.
 
-  python tools/intro_traduccion.py extraer    copia gráficos y jingle del proyecto de Emerald Rogue a intro/
-  python tools/intro_traduccion.py            compila intro/intro.c (arm-none-eabi-gcc de WSL) -> data/intro.bin
+  python tools/codigo_c.py extraer    copia gráficos y jingle del proyecto de Emerald Rogue a codigo/
+  python tools/codigo_c.py            compila codigo/ (arm-none-eabi-gcc de WSL) -> data/codigo.bin y data/codigo.json
 
-build.py mete data/intro.bin en su dirección fija y cambia el puntero de la escena siguiente (data/intro.json), así
-que para compilar la traducción no hace falta nada de esto: solo para cambiar las pantallas o el código.
+build.py mete data/codigo.bin en su dirección fija y aplica los ganchos de data/codigo.json, así que para compilar la
+traducción no hace falta nada de esto: solo para cambiar el código.
 
 extraer necesita, junto a la carpeta ghostgrey, el proyecto emeraldrogue con:
   src/graphics/intro/traduccion{,2}.png/.bin   pantallas de 240x160 a 16 colores (tools/gfx_traduccion.py de allí)
@@ -18,12 +20,20 @@ from PIL import Image
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(HERE, '..'))
-INTRO = os.path.join(ROOT, 'intro')
+INTRO = os.path.join(ROOT, 'codigo')
 ROGUE = os.path.normpath(os.path.join(ROOT, '..', '..', 'emeraldrogue'))
 
 DIR = 0x1F00000                  # dirección fija del bloque en la ROM (build.py deja libre desde aquí)
-GANCHO = 0x0ECEA0                # literal de IntroCB_GF_RevealLogo: SetIntroCB(this, IntroCB_Scene1)
-ESCENA1 = 0x080ECEA5             # IntroCB_Scene1
+TAM_MAX = 0x20000                # desde DIR + TAM_MAX, datos que escribe build.py (clases femeninas)
+FUENTES = 'intro.c clases.c graficos.s cancion.s'
+# punteros de la ROM que pasan a apuntar a funciones del bloque: (dirección, valor original, función)
+GANCHOS = [(0x0ECEA0, 0x080ECEA5, 'IntroCB_Traduccion'),      # IntroCB_GF_RevealLogo -> IntroCB_Scene1
+           (0x0D809C, 0x0823EAC8, 'NombreClaseEntrenador')]   # literal de gTrainers en B_TXT_TRAINER1_CLASS
+# código de la ROM que se cambia: BufferStringBattle, B_TXT_TRAINER1_CLASS (0x080D8084), en vez de
+# gTrainerClassNames[gTrainers[id].trainerClass] llama a NombreClaseEntrenador(id):
+#   ldrh r0,[r3] / ldr r1,=NombreClaseEntrenador (literal 0x0D809C) / bl _call_via_r1 / adds r4,r0,#0 / b 0x080D8382
+PARCHES = [(0x0D8084, '054a198888004018c0008018', '188805490bf190fd041c78e1',
+            'B_TXT_TRAINER1_CLASS: nombre de clase por NombreClaseEntrenador')]
 
 # jingle en la ROM de Emerald Rogue (pokeemerald.map: mus_traduccion y su .rodata)
 ROGUE_ROM = 'emeraldrogue_ex_es.gba'
@@ -74,7 +84,7 @@ def extraer_jingle():
     pistas = [u32(rom, CANCION + 8 + 4 * i) - 0x8000000 for i in range(ntr)]
     lim = pistas[1:] + [CANCION]
     os.makedirs(os.path.join(INTRO, 'muestras'), exist_ok=True)
-    s = ['@ Generado por tools/intro_traduccion.py extraer: jingle de la traducción (mus_traduccion de Emerald Rogue,',
+    s = ['@ Generado por tools/codigo_c.py extraer: jingle de la traducción (mus_traduccion de Emerald Rogue,',
          '@ voicegroup191 de DPPt). Las pistas solo usan FINE, TEMPO, KEYSH, VOICE, VOL, EOT, notas y esperas.',
          '\t.section .rodata', '\t.align 2', '\t.global mus_traduccion', 'mus_traduccion:',
          '\t.byte %d, %d, %d, %d' % tuple(rom[CANCION:CANCION + 4]), '\t.word voces']
@@ -133,21 +143,28 @@ def wsl(ruta):
 
 def compilar():
     cmd = ('cd "%s" && arm-none-eabi-gcc -mthumb -mcpu=arm7tdmi -Os -mlong-calls -ffreestanding -fno-builtin '
-           '-nostartfiles -Wall -Wextra -T intro.ld -Wl,--no-warn-rwx-segments -o intro.elf intro.c graficos.s cancion.s -lgcc '
-           '&& arm-none-eabi-objcopy -O binary intro.elf intro.bin && arm-none-eabi-nm intro.elf' % wsl(INTRO))
+           '-nostartfiles -Wall -Wextra -T codigo.ld -Wl,--no-warn-rwx-segments -o codigo.elf %s -lgcc '
+           '&& arm-none-eabi-objcopy -O binary codigo.elf codigo.bin && arm-none-eabi-nm codigo.elf'
+           % (wsl(INTRO), FUENTES))
     r = subprocess.run(['wsl', '-e', 'bash', '-lc', cmd], capture_output=True, text=True)
     if r.returncode:
         sys.exit(r.stdout + r.stderr)
     simbolos = {l.split()[2]: int(l.split()[0], 16) for l in r.stdout.splitlines() if len(l.split()) == 3}
-    blob = open(os.path.join(INTRO, 'intro.bin'), 'rb').read()
-    func = simbolos['IntroCB_Traduccion']
-    assert func & 1 == 0 and 0x8000000 + DIR <= func < 0x8000000 + DIR + len(blob)
-    shutil.move(os.path.join(INTRO, 'intro.bin'), os.path.join(ROOT, 'data', 'intro.bin'))
-    os.remove(os.path.join(INTRO, 'intro.elf'))
-    info = {'dir': '%07X' % DIR, 'gancho': '%07X' % GANCHO, 'orig': '%08X' % ESCENA1, 'func': '%08X' % (func | 1),
-            'nota': 'IntroCB_GF_RevealLogo pasa a las pantallas de la traducción en vez de a IntroCB_Scene1'}
-    json.dump(info, open(os.path.join(ROOT, 'data', 'intro.json'), 'w'), indent=1)
-    print('data/intro.bin: %d bytes en %07X, función %08X' % (len(blob), DIR, func | 1))
+    blob = open(os.path.join(INTRO, 'codigo.bin'), 'rb').read()
+    assert len(blob) <= TAM_MAX, 'el bloque no cabe antes de la tabla de clases femeninas'
+    ganchos = []
+    for a, orig, f in GANCHOS:
+        v = simbolos[f]
+        assert v & 1 == 0 and 0x8000000 + DIR <= v < 0x8000000 + DIR + len(blob), f
+        ganchos.append({'addr': '%07X' % a, 'orig': '%08X' % orig, 'new': '%08X' % (v | 1), 'nota': f})
+    shutil.move(os.path.join(INTRO, 'codigo.bin'), os.path.join(ROOT, 'data', 'codigo.bin'))
+    os.remove(os.path.join(INTRO, 'codigo.elf'))
+    info = {'dir': '%07X' % DIR, 'clases_femeninas': '%07X' % (DIR + TAM_MAX), 'ganchos': ganchos,
+            'parches': [{'addr': '%07X' % a, 'orig': o, 'new': n, 'nota': t} for a, o, n, t in PARCHES]}
+    json.dump(info, open(os.path.join(ROOT, 'data', 'codigo.json'), 'w'), indent=1)
+    print('data/codigo.bin: %d bytes en %07X' % (len(blob), DIR))
+    for g in ganchos:
+        print('  %s -> %s (%s)' % (g['addr'], g['new'], g['nota']))
 
 
 if __name__ == '__main__':

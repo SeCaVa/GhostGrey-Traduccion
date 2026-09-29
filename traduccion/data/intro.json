@@ -1,7 +1,0 @@
-{
- "dir": "1F00000",
- "gancho": "00ECEA0",
- "orig": "080ECEA5",
- "func": "09F00001",
- "nota": "IntroCB_GF_RevealLogo pasa a las pantallas de la traducci\u00f3n en vez de a IntroCB_Scene1"
-}

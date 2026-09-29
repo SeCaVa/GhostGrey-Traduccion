@@ -1,0 +1,25 @@
+#! Clases de entrenador en femenino (máx. 12 caracteres). Clase<TAB>sprite<TAB>nombre.
+#! El juego usa una sola clase para chicos y chicas; el nombre se elige por el sprite del entrenador (el bit de
+#! chica de los entrenadores del hack no es fiable). Lo usa codigo/clases.c en los mensajes de combate.
+#! Sprites revisados a mano (2026-09-29).
+76	141	Jardinera
+76	138	Jardinera
+82	70	Científica
+42	70	Científica
+86	111	Sectaria
+58	66	Sectaria
+33	44	Carroñera
+41	130	Marinera
+60	130	Marinera
+37	11	Excampeona
+37	49	Excampeona
+13	128	Trascendida
+13	28	Trascendida
+98	134	Jugadora
+98	136	Jugadora
+12	77	Tipa Rara
+100	140	Jefa Caverna
+27	10	Bruja
+27	59	Bruja
+48	64	Chamana
+99	139	Sacerdotisa

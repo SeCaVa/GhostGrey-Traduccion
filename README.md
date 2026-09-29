@@ -15,7 +15,7 @@ tipo Fantasma y cada entrenador sobrevive como puede.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](GhostGrey_ES.bps) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `0996EB37`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `5FE69E64`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
@@ -34,6 +34,8 @@ lo incluye.
 - Los personajes propios del hack **conservan su nombre**: Summer, Theodora, Voltage, Cap'n Steve…
 - **Protagonista chico o chica**: el motor se ha modificado para que los diálogos concuerden en género con el
   personaje elegido ("cansado/cansada", "el Campeón/la Campeona"…).
+- **Clases de entrenador en femenino**: el hack usa la misma clase para chicos y chicas, así que en combate el
+  nombre se elige por el sprite del entrenador ("Jardinera Jaida", "Científica Takako", "Bruja Katja"…).
 - Pokédex con **altura en metros y peso en kilos**: el hack mostraba pies y libras y se ha cambiado el código.
 - Mensajes de subida y bajada de estadísticas como en el juego español ("¡El Ataque de X subió mucho!").
 
@@ -122,7 +124,7 @@ usa solo copias de juegos que poseas legalmente.
 ### Requisitos
 - Python 3.11 con `numpy` y `Pillow` (`pip install -r requirements.txt`).
 - `keystone-engine`, solo si quieres regenerar los parches de código (`tools/parches_asm.py`).
-- `arm-none-eabi-gcc` en WSL, solo si quieres recompilar las pantallas de la traducción (`tools/intro_traduccion.py`).
+- `arm-none-eabi-gcc` en WSL, solo si quieres recompilar el código C de la traducción (`tools/codigo_c.py`).
 - En la **carpeta raíz del repositorio**, las ROMs y el parche original (no se incluyen):
 
 | Archivo | CRC32 | Para qué |
@@ -142,7 +144,7 @@ Este comando:
    del hack. Los volcados que genera (`data/inventory.json`, `data/vanilla_pairs*.json`) no se suben al
    repositorio porque contienen el texto de los juegos; se regeneran solos. Usa `--rehacer` para forzarlo.
 3. Escribe la traducción (`tools/build.py`) y genera `traduccion/build/GhostGrey_ES.bps`.
-4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `0996EB37`).
+4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `5FE69E64`).
 
 ### Estructura
 ```
@@ -157,8 +159,9 @@ traduccion/
     parches_datos.json      cambios de datos (orden de carteles, letras del suelo…), de tools/edit_carteles.py
     pares_ajustes.json      correcciones a los emparejamientos automáticos USA/ES
     extra_inv.json          textos que el inventario automático no detecta
-    intro.bin, intro.json   pantallas de la traducción ya compiladas, y dónde se enganchan
-  intro/                    código C, gráficos y jingle de las pantallas de la traducción
+    codigo.bin, codigo.json código C de la traducción ya compilado, y dónde se engancha
+    tablas/clases_femeninas.tsv  clases de entrenador en femenino según el sprite
+  codigo/                   código C: pantallas de la traducción (con gráficos y jingle) y clases en femenino
   tools/
     compilar.py             todo el proceso en un paso
     build.py                escribe textos, nombres, gráficos y parches, y genera el .bps
@@ -167,7 +170,7 @@ traduccion/
     check.py                comprueba el ancho de una línea con la fuente del hack
     revisar.py              signos ¡! ¿? sin pareja, espacios de más y nombres oficiales (PokeAPI en ../pokeapi)
     edit_*.py, gotica.py    generan los gráficos traducidos (data/gfx)
-    intro_traduccion.py     extrae y compila las pantallas de la traducción (intro/ -> data/intro.bin)
+    codigo_c.py             extrae los recursos de las pantallas y compila codigo/ -> data/codigo.bin
     mapinfo.py, ver_*.py    utilidades para inspeccionar mapas y gráficos
 ```
 

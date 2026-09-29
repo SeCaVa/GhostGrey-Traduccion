@@ -1,0 +1,26 @@
+{
+ "dir": "1F00000",
+ "clases_femeninas": "1F20000",
+ "ganchos": [
+  {
+   "addr": "00ECEA0",
+   "orig": "080ECEA5",
+   "new": "09F00001",
+   "nota": "IntroCB_Traduccion"
+  },
+  {
+   "addr": "00D809C",
+   "orig": "0823EAC8",
+   "new": "09F002B1",
+   "nota": "NombreClaseEntrenador"
+  }
+ ],
+ "parches": [
+  {
+   "addr": "00D8084",
+   "orig": "054a198888004018c0008018",
+   "new": "188805490bf190fd041c78e1",
+   "nota": "B_TXT_TRAINER1_CLASS: nombre de clase por NombreClaseEntrenador"
+  }
+ ]
+}

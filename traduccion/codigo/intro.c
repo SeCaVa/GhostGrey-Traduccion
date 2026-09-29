@@ -1,7 +1,7 @@
 // Pantallas de crédito de la traducción, entre la escena del logo del creador del hack (IntroCB_GF_RevealLogo) y la
 // del combate (IntroCB_Scene1). Como en la traducción de Emerald Rogue: 5 golpes del jingle con el logo de SeCaVa y
 // otros 5 con 'Traducido por SeCaVa'. B se las salta; A/START/SELECT las gestiona el juego (salta toda la intro).
-// Compilar: python tools/intro_traduccion.py (direcciones de FireRed USA 1.0 en intro.ld).
+// Compilar: python tools/codigo_c.py (direcciones de FireRed USA 1.0 en codigo.ld).
 
 typedef unsigned char u8;
 typedef unsigned short u16;

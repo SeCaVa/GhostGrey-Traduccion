@@ -13,7 +13,7 @@ from bps import make_bps
 HERE = os.path.dirname(__file__)
 ROOT = os.path.join(HERE, '..')
 FREE_START = 0x1700000
-FREE_END = 0x1F00000   # desde aquí, las pantallas de la traducción (data/intro.bin)
+FREE_END = 0x1F00000   # desde aquí, el código C de la traducción (data/codigo.bin)
 
 
 def parse_txt(path):
@@ -281,16 +281,35 @@ def main(make_patch=True, only_official=False):
         a, o, n = int(pch['addr'], 16), bytes.fromhex(pch['orig']), bytes.fromhex(pch['new'])
         assert rom[a:a + len(o)] == o, 'parche de código: bytes distintos en %X' % a
         rom[a:a + len(n)] = n
-    # pantallas de crédito de la traducción tras el logo del creador del hack (tools/intro_traduccion.py)
-    ij = os.path.join(ROOT, 'data/intro.json')
-    if os.path.exists(ij):
-        info = json.load(open(ij))
-        blob = open(os.path.join(ROOT, 'data/intro.bin'), 'rb').read()
-        a, g = int(info['dir'], 16), int(info['gancho'], 16)
-        assert FREE_END <= a and rom[a:a + len(blob)] == bytes([0xFF]) * len(blob), 'intro: la zona no está libre'
-        assert rom[g:g + 4] == struct.pack('<I', int(info['orig'], 16)), 'intro: gancho distinto'
+    # código C de la traducción (tools/codigo_c.py): pantallas de crédito tras el logo del creador del hack y
+    # clases de entrenador en femenino según el sprite (data/tablas/clases_femeninas.tsv)
+    cj = os.path.join(ROOT, 'data/codigo.json')
+    if os.path.exists(cj):
+        info = json.load(open(cj))
+        blob = open(os.path.join(ROOT, 'data/codigo.bin'), 'rb').read()
+        a = int(info['dir'], 16)
+        assert FREE_END <= a and rom[a:a + len(blob)] == bytes([0xFF]) * len(blob), 'código C: la zona no está libre'
         rom[a:a + len(blob)] = blob
-        rom[g:g + 4] = struct.pack('<I', int(info['func'], 16))
+        cambios = [(p['addr'], struct.pack('<I', int(p['orig'], 16)), struct.pack('<I', int(p['new'], 16)))
+                   for p in info['ganchos']]  # punteros a funciones del bloque
+        cambios += [(p['addr'], bytes.fromhex(p['orig']), bytes.fromhex(p['new'])) for p in info['parches']]
+        for g, o, n in cambios:
+            g = int(g, 16)
+            assert rom[g:g + len(o)] == o, 'código C: bytes distintos en %X' % g
+            rom[g:g + len(n)] = n
+        tf = int(info['clases_femeninas'], 16)
+        tabla = bytearray()
+        for l in open(os.path.join(ROOT, 'data/tablas/clases_femeninas.tsv'), encoding='utf8'):
+            if l.startswith('#') or not l.strip():
+                continue
+            c, spr, nombre = l.rstrip('\n').split('\t')
+            texto = encode(nombre)
+            if len(texto) > 13:
+                raise ValueError('clase femenina demasiado larga: ' + nombre)
+            tabla += bytes([int(c), int(spr)]) + texto + bytes([0xFF]) * (14 - len(texto))
+        tabla += bytes([0xFF]) * 16
+        assert rom[tf:tf + len(tabla)] == bytes([0xFF]) * len(tabla), 'clases femeninas: la zona no está libre'
+        rom[tf:tf + len(tabla)] = tabla
 
     # tablas de nombres de longitud fija (data/tablas)
     for tname, ((ha, st, nl, _), names) in tablas.items():

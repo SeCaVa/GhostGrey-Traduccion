@@ -1,4 +1,4 @@
-@ Pantallas de la traducción (tools/intro_traduccion.py extraer): teselas 4bpp, paleta y mapa 32x32 sin comprimir.
+@ Pantallas de la traducción (tools/codigo_c.py extraer): teselas 4bpp, paleta y mapa 32x32 sin comprimir.
 	.section .rodata
 	.global sPantalla1_Gfx, sPantalla1_Gfx_End, sPantalla1_Pal, sPantalla1_Map
 	.global sPantalla2_Gfx, sPantalla2_Gfx_End, sPantalla2_Pal, sPantalla2_Map

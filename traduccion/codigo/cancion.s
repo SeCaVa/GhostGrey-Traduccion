@@ -1,4 +1,4 @@
-@ Generado por tools/intro_traduccion.py extraer: jingle de la traducción (mus_traduccion de Emerald Rogue,
+@ Generado por tools/codigo_c.py extraer: jingle de la traducciÃ³n (mus_traduccion de Emerald Rogue,
 @ voicegroup191 de DPPt). Las pistas solo usan FINE, TEMPO, KEYSH, VOICE, VOL, EOT, notas y esperas.
 	.section .rodata
 	.align 2

@@ -9,6 +9,9 @@ tipo Fantasma y cada entrenador sobrevive como puede.
 > Este repositorio solo contiene el parche de la traducción y las herramientas y textos con los que se genera.
 > **No incluye ninguna ROM.** Necesitas tu propia copia de Pokémon FireRed (USA).
 
+Hilo del proyecto en Whack a Hack!: **[Pokémon Ghost Grey — Traducción al castellano](https://whackahack.com/foro/threads/pokemon-ghost-grey-traduccion-al-castellano.69363/)**.
+Ahí puedes comentar, dar sugerencias o avisar de errores.
+
 ---
 
 ## Cómo jugar
@@ -203,6 +206,9 @@ Trainer survives however they can.
 
 > This repository only contains the translation patch and the tools and texts used to build it.
 > **It does not include any ROM.** You need your own copy of Pokémon FireRed (USA).
+
+Project thread on Whack a Hack! (in Spanish): **[Pokémon Ghost Grey — Traducción al castellano](https://whackahack.com/foro/threads/pokemon-ghost-grey-traduccion-al-castellano.69363/)**.
+Feel free to leave comments, suggestions or bug reports there.
 
 ### How to play
 

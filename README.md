@@ -1,5 +1,7 @@
 # Pokémon Ghost Grey — Traducción al castellano
 
+**English speakers:** [read this README in English](#english).
+
 Traducción no oficial al castellano (España) de **Pokémon Ghost Grey**, el hack de terror de Pokémon Rojo Fuego
 creado por **Joey Zeed**. Kanto, año 2049: una catástrofe ha arrasado la región, todos los Pokémon salvajes son de
 tipo Fantasma y cada entrenador sobrevive como puede.
@@ -186,3 +188,135 @@ Cada texto empieza con `### ID`, que es la dirección del texto en la ROM del ha
   `<vacío>` deja el texto vacío.
 
 Los textos originales de FireRed que el hack no cambia toman automáticamente la traducción oficial española.
+
+---
+
+## English
+
+Unofficial **Spanish (Spain) translation** of **Pokémon Ghost Grey**, the horror hack of Pokémon FireRed made by
+**Joey Zeed**. Kanto, year 2049: a catastrophe has devastated the region, every wild Pokémon is Ghost-type and every
+Trainer survives however they can.
+
+> This repository only contains the translation patch and the tools and texts used to build it.
+> **It does not include any ROM.** You need your own copy of Pokémon FireRed (USA).
+
+### How to play
+
+1. Get a ROM of **Pokémon - FireRed Version (USA)**, revision 1.0.
+   - CRC32: `DD88761C`
+2. Apply the patch [`GhostGrey_ES.bps`](GhostGrey_ES.bps) with
+   [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
+3. The result is a 32 MB ROM with **CRC32 `F15777F7`**. Play it on any GBA emulator (mGBA recommended).
+
+The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
+
+### What is translated
+
+**Text**
+- **All the dialogue**: main story, secrets, postgame, credits and epilogue.
+- **Menus and battles**: battle messages, menus, PC, Pokédex, Trainer Card, shop, Game Corner…
+- **Names**: moves, abilities, items, types, Trainer classes and names, natures and places.
+- Official names are used wherever they exist: those of **the Spanish FireRed** (TM/HM, Elite Four, Indigo League,
+  Gym Leader, Saffron, Cerulean…) and the current official Spanish names for everything the hack adds.
+- The hack's own characters **keep their names**: Summer, Theodora, Voltage, Cap'n Steve…
+- **Boy or girl protagonist**: Spanish is gendered, so the engine was modified to make the dialogue agree with the
+  chosen character ("cansado/cansada", "el Campeón/la Campeona"…).
+- **Female Trainer classes**: the hack uses one class for both men and women, so in battle the class name is chosen
+  from the Trainer's sprite ("Jardinera Jaida", "Científica Takako", "Bruja Katja"…).
+- Pokédex with **height in metres and weight in kilograms** instead of feet and pounds (the code was changed).
+- Stat change messages worded like in the Spanish games ("¡El Ataque de X subió mucho!").
+
+**Graphics with text**
+
+The ~1,500 graphics the hack adds or modifies were reviewed. The criteria:
+
+- **What the hack copies from the Game Boy Red version** is left as in the **Spanish Game Boy Red** ("POKé",
+  "SHOP", "GIM" signs).
+- **The hack's own graphics** are translated, imitating their lettering.
+- **Brands** are not translated: BrunoCorp ("BC"), SNACK SNEASEL, LEVEL+ and the candy and can logos.
+
+Among others: the title screen ("Versión Ghost Grey", "PULSA START SI TE ATREVES"), the Pokémon summary, type
+(including FAIRY) and status icons, Trainer Card, PC, the slot machines, the Pewter City billboards, the Saffron City
+signs and police poster, the Diglett's Cave entrance screen, the painted cave signs, the letters on the control room
+floor, the "memes" and photos the characters send you, the letters (mail paper) and the battle backgrounds with text.
+
+**Bug reports**
+
+If you find something still in English, text overflowing its box or a typo, please open an *issue* with a screenshot
+and where it happens in the game.
+
+### Credits
+
+**Pokémon Ghost Grey** (original hack) is the work of **Joey Zeed**.
+[Official thread on PokéCommunity](https://www.pokecommunity.com/threads/pok%C3%A9mon-ghost-grey-version.543491/).
+All the credit for the game goes to him and the people who helped him; this translation only changes the language.
+
+Credits shown in the game itself:
+
+| Role | People |
+|---|---|
+| Hack author: direction, game design, art direction, Pokémon designs, programming, story, maps, sprites | **Joey Zeed** |
+| Original music (composition and sequencing) | **Whale (Amn)** |
+| Sequencing | Magma |
+| Music arrangement and insertion | Joey Zeed |
+| Story consultant | Nathaniel Lee |
+| Character design and battle graphics | Joey Zeed, Game Freak |
+| Overworld sprites, character voices, portraits, promotional art, dialogue writing, back sprites | Joey Zeed, BunnyVA, Whale (Amn), Nathaniel Lee, Ghosty, Nate |
+| Pokédex entries | Joey Zeed, Ghosty, Nathaniel Lee |
+| Pokémon cries | Game Freak, Joey Zeed |
+| Wario ambassador | Nate |
+| Scripting help | DontJoelMe, Invis, YeahPotato, BroTacos, Adriccustoms |
+| Bug testers | Whale (Amn), Ghosty, Rhyuuhime, Storm, Adriccustoms, Jeff, Yanchop, Nigel (Arachnocturne), vilevermin, Magma, Jake from Real Life |
+| Tools | HexManiacAdvance, Microsoft Paint, AnvilStudio, CryEditor, BeepBox |
+| Dedicated to | Eugenie |
+
+Joey Zeed also thanks "the Nate group" (Whale, Magma, Ghosty, Nate, Ryuuhime, Seiko, Sunny, 5th Nate, Servbot,
+Bret and Teddy) and the people of reddit, YouTube, Discord and PokéCommunity for their support. The credits song is
+*"Oh Sheila"* by Ready for the World.
+
+The hack uses **Complete FireRed Upgrade (CFRU)** and **Dynamic Pokémon Expansion (DPE)**, by Skeli789 and
+contributors.
+
+**Spanish translation**
+- Translation, graphics adaptation and tools: **SeCaVa**.
+- Official names and texts from the Spanish Pokémon FireRed and Pokémon Red: © Nintendo / Creatures Inc. /
+  GAME FREAK inc.
+
+**Disclaimer**
+
+Non-profit fan project, not affiliated with Nintendo, The Pokémon Company, Creatures or GAME FREAK. Pokémon is a
+registered trademark of Nintendo, Creatures Inc. and GAME FREAK inc. No ROM is distributed: only use copies of games
+you legally own.
+
+### For developers: how the patch is built
+
+**Requirements**
+- Python 3.11 with `numpy` and `Pillow` (`pip install -r requirements.txt`).
+- `keystone-engine`, only to regenerate the code patches (`tools/parches_asm.py`).
+- `arm-none-eabi-gcc` in WSL, only to recompile the translation's C code (`tools/codigo_c.py`).
+- In the **repository root**, the ROMs and the original patch (not included):
+
+| File | CRC32 | Used for |
+|---|---|---|
+| `Pokemon - FireRed Version (USA).gba` | `DD88761C` | patch base |
+| `Pokemon - Edicion Rojo Fuego (Spain).gba` | `9F08064E` | official Spanish texts and graphics |
+| `GhostGrey.bps` | target `DCAC3F32` | the hack's original (English) patch |
+| `Pokemon - Edicion Roja (Spain) (SGB Enhanced).gb` | `D8507D8A` | only to rebuild the Game Boy collage |
+
+**Build**
+```
+python traduccion/tools/compilar.py
+```
+This command:
+1. Applies `GhostGrey.bps` to FireRed USA, producing `traduccion/build/ghostgrey_en.gba` (the English hack).
+2. Pairs the FireRed USA texts with the Spanish FireRed ones and builds the inventory of all the hack's texts. The
+   dumps it creates (`data/inventory.json`, `data/vanilla_pairs*.json`) aren't committed because they contain the
+   games' text; they are regenerated automatically. Use `--rehacer` to force it.
+3. Writes the translation (`tools/build.py`) and creates `traduccion/build/GhostGrey_ES.bps`.
+4. Copies the patch to the root and applies it, producing `GhostGrey_ES.gba` (CRC32 `F15777F7`).
+
+The folder and file layout is described in the Spanish section above ("Estructura"). Translations live in
+`traduccion/data/trad/*.txt`: each text starts with `### ID` (its address in the English hack ROM); `\p` starts a new
+box, `\n` forces a line break, `{B01}` is the player's name and `{o}`, `{a}`, `{el}`… are replaced depending on the
+protagonist's gender (see `data/glosario.md`). Original FireRed texts that the hack doesn't change automatically get
+the official Spanish translation.

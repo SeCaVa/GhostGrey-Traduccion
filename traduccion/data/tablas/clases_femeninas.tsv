@@ -1,7 +1,12 @@
 #! Clases de entrenador en femenino (máx. 12 caracteres). Clase<TAB>sprite<TAB>nombre.
 #! El juego usa una sola clase para chicos y chicas; el nombre se elige por el sprite del entrenador (el bit de
 #! chica de los entrenadores del hack no es fiable). Lo usa codigo/clases.c en los mensajes de combate.
+#! Sprite "#N": solo el entrenador número N (cuando chicos y chicas comparten sprite, como los náufragos).
 #! Sprites revisados a mano (2026-09-29).
+25	#244	Náufraga
+25	#473	Náufraga
+25	#490	Náufraga
+17	24	Vasalla Col.
 76	141	Jardinera
 76	138	Jardinera
 82	70	Científica

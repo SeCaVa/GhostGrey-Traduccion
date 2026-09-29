@@ -306,8 +306,10 @@ def main(make_patch=True, only_official=False):
             texto = encode(nombre)
             if len(texto) > 13:
                 raise ValueError('clase femenina demasiado larga: ' + nombre)
-            tabla += bytes([int(c), int(spr)]) + texto + bytes([0xFF]) * (14 - len(texto))
-        tabla += bytes([0xFF]) * 16
+            # sprite "#N": solo el entrenador N (cuando chicos y chicas comparten sprite)
+            ent, spr = (int(spr[1:]), 0) if spr.startswith('#') else (0xFFFF, int(spr))
+            tabla += struct.pack('<HBB', ent, int(c), spr) + texto + bytes([0xFF]) * (16 - len(texto))
+        tabla += bytes([0xFF]) * 20
         assert rom[tf:tf + len(tabla)] == bytes([0xFF]) * len(tabla), 'clases femeninas: la zona no está libre'
         rom[tf:tf + len(tabla)] = tabla
 

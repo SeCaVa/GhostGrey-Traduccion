@@ -1,7 +1,8 @@
 // Clase de entrenador en femenino. El juego tiene una sola clase para chicos y chicas ("Jardinero"), así que en los
 // mensajes de combate el nombre se elige por el sprite del entrenador: si la pareja (clase, sprite) está en la tabla
-// de clases femeninas, se usa su nombre ("Jardinera"). build.py escribe esa tabla en CLASES_FEM a partir de
-// data/tablas/clases_femeninas.tsv. Se llama desde BufferStringBattle (B_TXT_TRAINER1_CLASS, 0x080D8084).
+// de clases femeninas, se usa su nombre ("Jardinera"). Cuando chicos y chicas comparten sprite, la fila indica el
+// número del entrenador. build.py escribe la tabla en CLASES_FEM a partir de data/tablas/clases_femeninas.tsv.
+// Se llama desde BufferStringBattle (B_TXT_TRAINER1_CLASS, 0x080D8084).
 
 typedef unsigned char u8;
 typedef unsigned short u16;
@@ -21,11 +22,12 @@ struct Trainer                 // 40 bytes, como en FireRed
     const void *party;
 };
 
-struct ClaseFemenina           // 16 bytes
+struct ClaseFemenina           // 20 bytes
 {
+    u16 entrenador;            // 0xFFFF: cualquiera con esa clase y sprite
     u8 clase;                  // 0xFF: fin de la tabla
     u8 sprite;
-    u8 nombre[14];             // texto del juego, acabado en 0xFF
+    u8 nombre[16];             // texto del juego acabado en 0xFF (máx. 12 letras)
 };
 
 extern const struct Trainer gTrainers[];
@@ -39,7 +41,11 @@ const u8 *NombreClaseEntrenador(u16 trainerId)
     const struct ClaseFemenina *c;
 
     for (c = CLASES_FEM; c->clase != 0xFF; c++)
-        if (c->clase == t->trainerClass && c->sprite == t->trainerPic)
-            return c->nombre;
+    {
+        if (c->entrenador != 0xFFFF ? c->entrenador != trainerId
+                                    : c->clase != t->trainerClass || c->sprite != t->trainerPic)
+            continue;
+        return c->nombre;
+    }
     return gTrainerClassNames[t->trainerClass];
 }

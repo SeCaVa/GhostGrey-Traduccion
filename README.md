@@ -114,6 +114,10 @@ colaboradores.
 - Nombres y textos oficiales de Pokémon Rojo Fuego y Pokémon Edición Roja en español: © Nintendo / Creatures
   Inc. / GAME FREAK inc.
 
+☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava) o
+[GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo
+gratis. Y si te gusta el juego, apoya también a Joey Zeed, su autor.
+
 ### Aviso
 Proyecto de fans sin ánimo de lucro, no afiliado a Nintendo, The Pokémon Company, Creatures ni GAME FREAK.
 Pokémon es una marca registrada de Nintendo, Creatures Inc. y GAME FREAK inc. No se distribuye ninguna ROM:
@@ -281,6 +285,10 @@ contributors.
 - Translation, graphics adaptation and tools: **SeCaVa**.
 - Official names and texts from the Spanish Pokémon FireRed and Pokémon Red: © Nintendo / Creatures Inc. /
   GAME FREAK inc.
+
+☕ If you'd like to support my work as a translator, you can do so on [Ko-fi](https://ko-fi.com/secava) or
+[GitHub Sponsors](https://github.com/sponsors/SeCaVa). It's completely optional: the translation is and will always
+be free. And if you enjoy the game, please support Joey Zeed, its author, too.
 
 **Disclaimer**
 

@@ -45,6 +45,10 @@ def decap(s):
     """Convierte palabras en MAYÚSCULAS del texto oficial al estilo del hack (Ciudad Celeste, Pokémon)."""
     plain = re.sub(r'\{[^}]*\}', '', s)
     words = plain.split()
+    # lista de opciones de una palabra por línea (SÍ\nNO): cada una con mayúscula inicial
+    lines = s.split('\n')
+    if len(lines) > 1 and all(len(re.sub(r'\{[^}]*\}', '', x).split()) == 1 for x in lines):
+        return '\n'.join(decap(x) for x in lines)
     # frase entera en mayúsculas que no es un nombre propio: tipo oración (¿Cómo te llamas?)
     if words and not any(c.islower() for c in plain.replace('é', '')) and len(words) > 1             and words[0].lstrip('¿¡') not in TITLE_START:
         out = sentence_case(s)

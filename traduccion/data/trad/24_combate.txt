@@ -144,6 +144,9 @@ Precisión
 ### 03FD5C1
 Evasión
 
+### 03FD5F0
+demasiado picante!
+
 ### 03FD5FF
 demasiado seca!
 
@@ -155,6 +158,9 @@ demasiado amarga!
 
 ### 03FD62B
 demasiado ácida!
+
+### 03FD650
+¡{B23} usó\n{B16}!
 
 ### 03FD8AF
 <vacío>

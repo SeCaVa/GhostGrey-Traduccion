@@ -95,6 +95,50 @@ def parche_estadisticas(rom):
         rom[a:a + len(n)] = n
 
 
+# teclado de la pantalla de nombres: letras de cada tecla (3 páginas x 4 filas x 8 columnas), número de
+# columnas y posición x de cada columna por página, y punteros a los 12 textos que dibujan las filas
+TECLAS, COLUMNAS, POS_X, TEXTOS_TECLADO = 0x3E22D0, 0x3E2330, 0x3E2333, 0x3E264C
+# página de símbolos con tildes y ñ, igual que en la traducción de Emerald Rogue: 8 columnas y cada tecla
+# dibujada en una x fija (CLEAR_TO); las páginas de letras no cambian
+SIMBOLOS = ['01234áéí', '56789óúñ', '!?♂♀/-ÁÉ', '…“”’ÍÓÚÑ']
+SIMBOLOS_X = [[11, 28, 45, 62, 79, 96, 113, 131], [11, 28, 45, 62, 79, 96, 113, 130],
+              [12, 28, 45, 62, 79, 96, 113, 130], [11, 28, 45, 63, 80, 96, 113, 130]]
+LETRAS_X = [11, 23, 35, 67, 79, 91, 103, 133]
+ESTRECHAS = encode('ilI')[:-1]
+
+
+def teclado_nombres(rom, free):
+    orig = ['01234   ', '56789   ', '!?♂♀/-  ', '…“”‘’   ']
+    assert rom[TECLAS + 64:TECLAS + 96] == b''.join(encode(f)[:-1] for f in orig), 'teclado de nombres distinto'
+    assert rom[COLUMNAS:COLUMNAS + 3] == bytes([8, 8, 6])
+    rom[COLUMNAS + 2] = 8
+    rom[POS_X + 16:POS_X + 24] = bytes([0, 17, 34, 51, 68, 85, 102, 119])
+    for f, (fila, xs) in enumerate(zip(SIMBOLOS, SIMBOLOS_X)):
+        cod = encode(fila)[:-1]
+        rom[TECLAS + 64 + 8 * f:TECLAS + 72 + 8 * f] = cod
+        txt = bytearray()
+        for c, x in zip(cod, xs):
+            txt += bytes([0xFC, 0x13, x, c])  # CLEAR_TO x
+        txt.append(0xFF)
+        rom[free:free + len(txt)] = txt
+        k = 8 + f
+        rom[TEXTOS_TECLADO + 4 * k:TEXTOS_TECLADO + 4 * k + 4] = struct.pack('<I', free + ROM_BASE)
+        free += len(txt)
+    # páginas de letras: el original deja "j k l ," / "J K L ," 2 px a la izquierda de "d e f ." y descuadra
+    # alguna fila más; se redibujan con cada letra en la x fija de su columna (las estrechas, 1 px a la derecha)
+    for k in range(8):
+        cod = rom[TECLAS + 8 * k:TECLAS + 8 * k + 8]
+        txt = bytearray()
+        for c, x in zip(cod, LETRAS_X):
+            if c != 0x00:  # espacio: tecla vacía
+                txt += bytes([0xFC, 0x13, x + (c in ESTRECHAS), c])
+        txt.append(0xFF)
+        rom[free:free + len(txt)] = txt
+        rom[TEXTOS_TECLADO + 4 * k:TEXTOS_TECLADO + 4 * k + 4] = struct.pack('<I', free + ROM_BASE)
+        free += len(txt)
+    return (free + 3) & ~3
+
+
 WIDTHS = {}  # ancho máximo por id fijado con '#! ancho N' en el archivo de traducción
 
 
@@ -203,6 +247,21 @@ def main(make_patch=True, only_official=False):
         t = u32(src, f) - ROM_BASE
         if f % 4 and t + ROM_BASE in targets:
             aligned.setdefault(t, []).append(f)
+    # textos de trainerbattle (5C tipo entrenador id textos…): la revancha (tipo 5/7) suele reutilizar los
+    # textos del combate normal y el inventario solo apunta uno de los dos scripts
+    NTEXTOS = {0: 2, 1: 2, 2: 2, 3: 1, 4: 3, 5: 2, 6: 3, 7: 3, 8: 3, 9: 2}
+    for a in np.nonzero(np.frombuffer(src, dtype=np.uint8) == 0x5C)[0]:
+        a = int(a)
+        n = NTEXTOS.get(src[a + 1])
+        if n is None or a + 6 + 4 * n > len(src) or not 0 < struct.unpack_from('<H', src, a + 2)[0] < 0x400:
+            continue
+        if not all(0x08000000 <= u32(src, a + 6 + 4 * k) < 0x0A000000 for k in range(n)):
+            continue
+        for k in range(n):
+            f = a + 6 + 4 * k
+            t = u32(src, f) - ROM_BASE
+            if f % 4 and t + ROM_BASE in targets and f not in aligned.get(t, []):
+                aligned.setdefault(t, []).append(f)
 
     tablas = load_tablas()
     en_tabla = set()
@@ -271,6 +330,7 @@ def main(make_patch=True, only_official=False):
             stats['reubicada'] += 1
 
     free = parche_genero(rom, (free + 3) & ~3)
+    free = teclado_nombres(rom, free)
     parche_estadisticas(rom)
     # parches de código ensamblados con tools/parches_asm.py (Pokédex en metros y kilos)
     # parches de código (tools/parches_asm.py) y de datos, como el orden de los carteles de un mapa
@@ -333,6 +393,12 @@ def main(make_patch=True, only_official=False):
         ngfx = 0
         for r in json.load(open(gp)):
             ua, ea = int(r['us'], 16), int(r['es'], 16)
+            if r.get('crudo'):  # sin comprimir y del mismo tamaño: se sobrescribe en su sitio
+                n = int(r['crudo'], 16)
+                assert rom[ua:ua + n] == usa_rom[ua:ua + n], 'gráfico %s modificado por el hack' % r['us']
+                rom[ua:ua + n] = es_rom[ea:ea + n]
+                ngfx += 1
+                continue
             blob = es_rom[ea:lz77_end(es_rom, ea)]
             free = (free + 3) & ~3
             if free + len(blob) > FREE_END:

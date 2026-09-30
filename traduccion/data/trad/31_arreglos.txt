@@ -360,3 +360,25 @@ Siguiente
 
 ### 12EEC07
 Ya no queda nada en este cofre.
+
+#! Textos llamados desde código que el inventario no detectaba (antes del texto hay un puntero, no FF)
+
+### 01BE42B
+El mar es muy profundo en esta\nzona.\lUn Pokémon podría bucear aquí.
+
+### 01C137C
+La batería no está cargada\ndel todo.\pLos pasos que te faltan para\ncargarla son: {B02}.{C09}
+
+### 01B2DF8
+¿Qué debo hacer ahora?
+
+### 03FE9D4
+{C101100}¡{B1C} {B1D} ha huido!
+
+### 0950A60
+Ataques múltiples golpean 5 veces.
+
+#! Frase partida en dos líneas: la segunda sigue en minúscula
+
+### 04178A7
+Sacar\nobjeto

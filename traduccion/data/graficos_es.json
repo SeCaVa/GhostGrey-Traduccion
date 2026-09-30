@@ -106,5 +106,35 @@
  {
   "us": "03CC984",
   "es": "0EAF95C"
+ },
+ {
+  "us": "0E98858",
+  "es": "0E9878C",
+  "crudo": "1E0",
+  "nota": "teclado de nombres: BACK"
+ },
+ {
+  "us": "0E98A38",
+  "es": "0E9896C",
+  "crudo": "1E0",
+  "nota": "teclado de nombres: OK"
+ },
+ {
+  "us": "0E98C18",
+  "es": "0E98B4C",
+  "crudo": "60",
+  "nota": "teclado de nombres: UPPER"
+ },
+ {
+  "us": "0E98CB8",
+  "es": "0E98BEC",
+  "crudo": "60",
+  "nota": "teclado de nombres: lower"
+ },
+ {
+  "us": "0E98D58",
+  "es": "0E98C8C",
+  "crudo": "60",
+  "nota": "teclado de nombres: OTHERS"
  }
 ]

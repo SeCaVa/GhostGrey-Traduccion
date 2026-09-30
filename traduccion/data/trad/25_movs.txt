@@ -1,5 +1,8 @@
 #! Lote 25: descripciones de movimientos modificadas por el hack (máx. ~18 caracteres por línea)
 
+### 0482834
+Golpea con las\npatas o la cola.
+
 ### 0482946
 Con toda mi rabia\ny mi pena, este\ngolpe siempre\nsube el Ataque.
 

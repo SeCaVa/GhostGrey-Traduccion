@@ -41,7 +41,7 @@ Así que esto es todo…
 Ja, ja, ja…\p¡{B01}, nunca tuve ninguna duda! ¡La nueva era empieza contigo!
 
 ### 018F4A2
-Nos vemos en Pueblo Jaspar, {B01}. Le diré a Summer que haga lo mismo cuando aparezca. Eso sí… asegúrate de pasar antes a ver a tu padre, ¿vale?\p¡Nos olemos luego, peque!
+Nos vemos en Pueblo Jaspar, {B01}. Le diré a Summer que haga lo mismo cuando aparezca. Eso sí… asegúrate de pasar antes a ver a tu padre, ¿vale?\p¡Me piro, vampiro, peque!
 
 ### 018FBC1
 Gimnasio Pokémon de Ciudad Verde\nLíder: Blue
@@ -188,7 +188,7 @@ NO HAY ANTÍDOTO PARA TI. TU DESTINO YA NO TE PERTENECE. HAZ LAS PACES CON FORMA
 ¿Eh? Me está sonando el teléfono.
 
 ### 0907A96
-Oak: ¡{B01}! Espera… ¿{B01}? … ¡¡¡{B01}!!! ¿Me oyes?\p¿Hola? ¿Summer? Espera, ¿hola?\p… ¡Sí, vale! ¿Qué? ¡{B01}, soy yo, el Prof. Oak! ¡Solo quería ver qué tal estabas y asegurarme de que tenía tu número antes de que salieras a vivir tu gran aventura!\p¡Ja, ja! El primer Gimnasio debería estar en Ciudad Plateada, al norte de Ciudad Verde. No te preocupes por el Gimnasio de Ciudad Verde, lleva cerrado desde antes de que nacieras. Todo ese sitio es un pueblo fantasma, ¡no hay nada que ver!\pEn fin, {B01}, siempre has tenido mucho aguante, así que no me preocupas demasiado.\p¡Summer igual intenta montar en bici bajo techo si no la llamo! ¡Ja, ja, ja! Bueno, {B01}, ¡sal ahí y a por todas! ¡Te quiero, peque! ¡Adiós!\p…\p¿Cómo se apaga este trasto? ¡APAGAR! ¡TELÉFONO, APÁGATE! ¡GIRA! ¿HOLA? ¡TELÉFONO! ¿HOLA, TELÉF…
+Oak: ¡{B01}! Espera… ¿{B01}? … ¡¡¡{B01}!!! ¿Me oyes?\p¿Hola? ¿Summer? Espera, ¿hola?\p… ¡Sí, vale! ¿Qué? ¡{B01}, soy yo, el Prof. Oak! ¡Solo quería ver qué tal estabas y asegurarme de que tenía tu número antes de que salieras a vivir tu gran aventura!\p¡Ja, ja! El primer Gimnasio debería estar en Ciudad Plateada, al norte de Ciudad Verde. No te preocupes por el Gimnasio de Ciudad Verde, lleva cerrado desde antes de que nacieras. Todo ese sitio es un pueblo fantasma, ¡no hay nada que ver!\pEn fin, {B01}, siempre has tenido mucho aguante, así que no me preocupas demasiado.\p¡Summer igual intenta montar en bici bajo techo si no la llamo! ¡Ja, ja, ja! Bueno, {B01}, ¡sal ahí y a por todas! ¡Te quiero, peque! ¡Adiós!\p…\p¿Cómo se apaga este trasto? ¡APAGAR! ¡TELÉFONO, APÁGATE! ¡APAGA! ¿HOLA? ¡TELÉFONO! ¿HOLA, TELÉF…
 
 ### 095B26C r
 ¿Eres…?\pNo, ¡tú no puedes entrar en este edificio! ¡Vete a reptar a otra parte!

@@ -15,7 +15,7 @@
 ## Términos
 | Inglés | Castellano |
 |---|---|
-| Smell ya later! (Oak/Blue) | ¡Nos olemos luego! |
+| Smell ya later! (Oak/Blue) | ¡Me piro, vampiro! |
 | Knock 'em dead! | ¡A por todas! |
 | kiddo / kid (Oak al jugador) | peque |
 | Dad | Papá |

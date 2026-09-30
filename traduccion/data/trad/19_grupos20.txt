@@ -224,7 +224,7 @@ En el suelo pegajoso de la mazmorra hay un trozo de metal desconchado.\p…\pA p
 El Profesor Oak me está llamando…
 
 ### 0F5F216
-Oak: ¡¡{B01}!!\pÉl…\pa…\pasí que ven…\pSu…\p¿{B01}?\p¿¿¿Hola???\pAh, ¿ahora me oyes? ¿Dónde demonios estás, peque?\pBueno, vuelve a casa, ¿vale? ¡Tengo algo que enseñarte!\p¡Es una sorpresa enorme, ENORME, para Summer y para ti! Estoy muy orgulloso de los dos, y sé que no debería llamarte porque el Estado te busca, pero…\p¡Tengo que verte y darte esto antes de que te vayas! No estoy en mi laboratorio, así que ven al viejo Gimnasio de Ciudad Verde. ¡Te estaré esperando!\pJaja, bueno, ¡nos olemos luego, {B01}! Ten cuidado, ¿vale?\p¡Te quiero muchísimo!
+Oak: ¡¡{B01}!!\pÉl…\pa…\pasí que ven…\pSu…\p¿{B01}?\p¿¿¿Hola???\pAh, ¿ahora me oyes? ¿Dónde demonios estás, peque?\pBueno, vuelve a casa, ¿vale? ¡Tengo algo que enseñarte!\p¡Es una sorpresa enorme, ENORME, para Summer y para ti! Estoy muy orgulloso de los dos, y sé que no debería llamarte porque el Estado te busca, pero…\p¡Tengo que verte y darte esto antes de que te vayas! No estoy en mi laboratorio, así que ven al viejo Gimnasio de Ciudad Verde. ¡Te estaré esperando!\pJaja, bueno, ¡me piro, vampiro, {B01}! Ten cuidado, ¿vale?\p¡Te quiero muchísimo!
 
 ### 0F68BC6
 Kareena: hoolaa…\p¿seraás tuú quieen vieene a reeparaar, eel quee mandoó llamaar eel maeestro marcel?\pah…\pbueeno, coomo puedes veer… estoy suuspendida.\peel maeestro see enfadaraá muuchísimo coonmigo si la manseeón no estaá ordeenada cuaando lleegue.\p¿noo poodrías sooltarme?\psi noo es moolestia, claaro.

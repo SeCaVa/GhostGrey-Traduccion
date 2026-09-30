@@ -20,7 +20,7 @@ No todos los que entran pueden salir.
 El Profesor Oak me está llamando.
 
 ### 0FDFF5C
-Prof. Oak: ¿{B01}?\p¿Hola?\pOrdenador, llama a {B01}. ¡ORDENADOR! ¡Haz una llamada! ¿Eh?\p¡Oh, {B01}! ¡Summer me ha dicho que ya tienes dos medallas enteritas!\p¡Mírate, peque! ¡Qué orgullo, es fantástico! Y bien, ¿adónde vas ahora?\pMmm… buena idea. Creo que hay una medalla por algún sitio al norte. ¡Y también hay una en el extremo este del Túnel Roca! Al menos eso dicen.\pYo, desde luego, echaría un vistazo por el bosque del norte. ¡Avísame si encuentras algo interesante!\p¡Bueno, te dejo con lo tuyo! ¡Nos olemos luego, peque! ¡Sigue así de bien!
+Prof. Oak: ¿{B01}?\p¿Hola?\pOrdenador, llama a {B01}. ¡ORDENADOR! ¡Haz una llamada! ¿Eh?\p¡Oh, {B01}! ¡Summer me ha dicho que ya tienes dos medallas enteritas!\p¡Mírate, peque! ¡Qué orgullo, es fantástico! Y bien, ¿adónde vas ahora?\pMmm… buena idea. Creo que hay una medalla por algún sitio al norte. ¡Y también hay una en el extremo este del Túnel Roca! Al menos eso dicen.\pYo, desde luego, echaría un vistazo por el bosque del norte. ¡Avísame si encuentras algo interesante!\p¡Bueno, te dejo con lo tuyo! ¡Me piro, vampiro, peque! ¡Sigue así de bien!
 
 ### 0FEA5A5
 Hay una nota en la puerta. “¡Si tienes algún tesoro que dar, mételo en el buzón de debajo de la puerta!”

@@ -20,7 +20,7 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](GhostGrey_ES.bps) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `F15777F7`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `D9103DD7`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
@@ -153,7 +153,7 @@ Este comando:
    del hack. Los volcados que genera (`data/inventory.json`, `data/vanilla_pairs*.json`) no se suben al
    repositorio porque contienen el texto de los juegos; se regeneran solos. Usa `--rehacer` para forzarlo.
 3. Escribe la traducción (`tools/build.py`) y genera `traduccion/build/GhostGrey_ES.bps`.
-4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `F15777F7`).
+4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `D9103DD7`).
 
 ### Estructura
 ```
@@ -216,7 +216,7 @@ Feel free to leave comments, suggestions or bug reports there.
    - CRC32: `DD88761C`
 2. Apply the patch [`GhostGrey_ES.bps`](GhostGrey_ES.bps) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `F15777F7`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `D9103DD7`**. Play it on any GBA emulator (mGBA recommended).
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
@@ -327,7 +327,7 @@ This command:
    dumps it creates (`data/inventory.json`, `data/vanilla_pairs*.json`) aren't committed because they contain the
    games' text; they are regenerated automatically. Use `--rehacer` to force it.
 3. Writes the translation (`tools/build.py`) and creates `traduccion/build/GhostGrey_ES.bps`.
-4. Copies the patch to the root and applies it, producing `GhostGrey_ES.gba` (CRC32 `F15777F7`).
+4. Copies the patch to the root and applies it, producing `GhostGrey_ES.gba` (CRC32 `D9103DD7`).
 
 The folder and file layout is described in the Spanish section above ("Estructura"). Translations live in
 `traduccion/data/trad/*.txt`: each text starts with `### ID` (its address in the English hack ROM); `\p` starts a new

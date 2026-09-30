@@ -2,6 +2,7 @@
 *.gba
 *.gb
 *.sav
+*.bak
 *.ss[0-9]
 GhostGrey.bps
 

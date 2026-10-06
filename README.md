@@ -18,7 +18,7 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
 
 1. Consigue una ROM de **Pokémon - FireRed Version (USA)**, revisión 1.0.
    - CRC32: `DD88761C`
-2. Aplica el parche [`GhostGrey_ES.bps`](GhostGrey_ES.bps) con
+2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
 3. El resultado es una ROM de 32 MB con **CRC32 `71EA3CDC`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
@@ -145,7 +145,7 @@ Feel free to leave comments, suggestions or bug reports there.
 
 1. Get a ROM of **Pokémon - FireRed Version (USA)**, revision 1.0.
    - CRC32: `DD88761C`
-2. Apply the patch [`GhostGrey_ES.bps`](GhostGrey_ES.bps) with
+2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
 3. The result is a 32 MB ROM with **CRC32 `71EA3CDC`**. Play it on any GBA emulator (mGBA recommended).
 

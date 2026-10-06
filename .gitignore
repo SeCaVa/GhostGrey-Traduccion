@@ -11,13 +11,8 @@ GhostGrey.bps
 mgba/
 pokeapi/
 
-# Salida de la compilación
-traduccion/build/
+# Herramientas y textos de trabajo (no se publican)
+traduccion/
+requirements.txt
 __pycache__/
 *.pyc
-
-# Volcados con texto de los juegos (se regeneran con tools/compilar.py)
-traduccion/data/inventory*.json
-traduccion/data/vanilla_pairs*.json
-traduccion/data/lotes/
-*.bak.json

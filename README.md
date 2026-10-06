@@ -6,7 +6,7 @@ Traducción no oficial al castellano (España) de **Pokémon Ghost Grey**, el ha
 creado por **Joey Zeed**. Kanto, año 2049: una catástrofe ha arrasado la región, todos los Pokémon salvajes son de
 tipo Fantasma y cada entrenador sobrevive como puede.
 
-> Este repositorio solo contiene el parche de la traducción y las herramientas y textos con los que se genera.
+> Este repositorio solo contiene el parche de la traducción.
 > **No incluye ninguna ROM.** Necesitas tu propia copia de Pokémon FireRed (USA).
 
 Hilo del proyecto en Whack a Hack!: **[Pokémon Ghost Grey — Traducción al castellano](https://whackahack.com/foro/threads/pokemon-ghost-grey-traduccion-al-castellano.69363/)**.
@@ -129,83 +129,13 @@ usa solo copias de juegos que poseas legalmente.
 
 ---
 
-## Para desarrolladores: cómo se genera el parche
-
-### Requisitos
-- Python 3.11 con `numpy` y `Pillow` (`pip install -r requirements.txt`).
-- `keystone-engine`, solo si quieres regenerar los parches de código (`tools/parches_asm.py`).
-- `arm-none-eabi-gcc` en WSL, solo si quieres recompilar el código C de la traducción (`tools/codigo_c.py`).
-- En la **carpeta raíz del repositorio**, las ROMs y el parche original (no se incluyen):
-
-| Archivo | CRC32 | Para qué |
-|---|---|---|
-| `Pokemon - FireRed Version (USA).gba` | `DD88761C` | base del parche |
-| `Pokemon - Edicion Rojo Fuego (Spain).gba` | `9F08064E` | textos y gráficos oficiales en español |
-| `GhostGrey.bps` | destino `DCAC3F32` | parche original del hack (en inglés) |
-| `Pokemon - Edicion Roja (Spain) (SGB Enhanced).gb` | `D8507D8A` | solo para regenerar el collage de Game Boy |
-
-### Compilar
-```
-python traduccion/tools/compilar.py
-```
-Este comando:
-1. Aplica `GhostGrey.bps` a FireRed USA y deja `traduccion/build/ghostgrey_en.gba`, el hack en inglés.
-2. Empareja los textos de FireRed USA con los del Rojo Fuego español y hace el inventario de todos los textos
-   del hack. Los volcados que genera (`data/inventory.json`, `data/vanilla_pairs*.json`) no se suben al
-   repositorio porque contienen el texto de los juegos; se regeneran solos. Usa `--rehacer` para forzarlo.
-3. Escribe la traducción (`tools/build.py`) y genera `traduccion/build/GhostGrey_ES.bps`.
-4. Copia el parche a la raíz y lo aplica: queda `GhostGrey_ES.gba` (CRC32 `71EA3CDC`).
-
-### Estructura
-```
-GhostGrey_ES.bps            parche final (FireRed USA -> Ghost Grey en castellano)
-traduccion/
-  data/
-    trad/*.txt, *.json      traducciones de los diálogos y textos, por lotes
-    tablas/*.tsv            nombres de longitud fija: movimientos, objetos, habilidades, entrenadores…
-    glosario.md             criterios y términos de la traducción
-    gfx/*.bin + gfx_bin.json    gráficos editados y dónde van
-    parches_codigo.json     cambios de código (Pokédex en m/kg…), generados por tools/parches_asm.py
-    parches_datos.json      cambios de datos (orden de carteles, letras del suelo…), de tools/edit_carteles.py
-    pares_ajustes.json      correcciones a los emparejamientos automáticos USA/ES
-    extra_inv.json          textos que el inventario automático no detecta
-    codigo.bin, codigo.json código C de la traducción ya compilado, y dónde se engancha
-    tablas/clases_femeninas.tsv  clases de entrenador en femenino según el sprite
-  codigo/                   código C: pantallas de la traducción (con gráficos y jingle) y clases en femenino
-  tools/
-    compilar.py             todo el proceso en un paso
-    build.py                escribe textos, nombres, gráficos y parches, y genera el .bps
-    inventory.py, pair_*.py inventario de textos del hack y emparejado con los textos oficiales
-    lote.py                 exporta lotes de textos pendientes para traducir
-    check.py                comprueba el ancho de una línea con la fuente del hack
-    revisar.py              signos ¡! ¿? sin pareja, espacios de más y nombres oficiales (PokeAPI en ../pokeapi)
-    edit_*.py, gotica.py    generan los gráficos traducidos (data/gfx)
-    codigo_c.py             extrae los recursos de las pantallas y compila codigo/ -> data/codigo.bin
-    mapinfo.py, ver_*.py    utilidades para inspeccionar mapas y gráficos
-```
-
-### Formato de las traducciones (`data/trad/*.txt`)
-Cada texto empieza con `### ID`, que es la dirección del texto en la ROM del hack en inglés.
-
-- **Saltos de línea**: se ajustan solos al ancho del cuadro. `\p` empieza un cuadro nuevo y `\n` fuerza un
-  salto de línea.
-- **Códigos del juego**: `{B01}` es el nombre del jugador. Otros van en crudo (`{C…}`, `{X…}`).
-- **Género del protagonista**: `{o}`, `{a}`, `{el}`, `{on}`, `{ON}`, `{e}`, `{él}` se sustituyen según sea
-  chico o chica. Por ejemplo, `cansad{o}` sale "cansado" o "cansada". Se explica en `data/glosario.md`.
-- **Anchos y huecos**: `#! ancho N` fija el ancho de las líneas del archivo, `{sp}` es un espacio explícito y
-  `<vacío>` deja el texto vacío.
-
-Los textos originales de FireRed que el hack no cambia toman automáticamente la traducción oficial española.
-
----
-
 ## English
 
 Unofficial **Spanish (Spain) translation** of **Pokémon Ghost Grey**, the horror hack of Pokémon FireRed made by
 **Joey Zeed**. Kanto, year 2049: a catastrophe has devastated the region, every wild Pokémon is Ghost-type and every
 Trainer survives however they can.
 
-> This repository only contains the translation patch and the tools and texts used to build it.
+> This repository only contains the translation patch.
 > **It does not include any ROM.** You need your own copy of Pokémon FireRed (USA).
 
 Project thread on Whack a Hack! (in Spanish): **[Pokémon Ghost Grey — Traducción al castellano](https://whackahack.com/foro/threads/pokemon-ghost-grey-traduccion-al-castellano.69363/)**.
@@ -303,36 +233,3 @@ be free. And if you enjoy the game, please support Joey Zeed, its author, too.
 Non-profit fan project, not affiliated with Nintendo, The Pokémon Company, Creatures or GAME FREAK. Pokémon is a
 registered trademark of Nintendo, Creatures Inc. and GAME FREAK inc. No ROM is distributed: only use copies of games
 you legally own.
-
-### For developers: how the patch is built
-
-**Requirements**
-- Python 3.11 with `numpy` and `Pillow` (`pip install -r requirements.txt`).
-- `keystone-engine`, only to regenerate the code patches (`tools/parches_asm.py`).
-- `arm-none-eabi-gcc` in WSL, only to recompile the translation's C code (`tools/codigo_c.py`).
-- In the **repository root**, the ROMs and the original patch (not included):
-
-| File | CRC32 | Used for |
-|---|---|---|
-| `Pokemon - FireRed Version (USA).gba` | `DD88761C` | patch base |
-| `Pokemon - Edicion Rojo Fuego (Spain).gba` | `9F08064E` | official Spanish texts and graphics |
-| `GhostGrey.bps` | target `DCAC3F32` | the hack's original (English) patch |
-| `Pokemon - Edicion Roja (Spain) (SGB Enhanced).gb` | `D8507D8A` | only to rebuild the Game Boy collage |
-
-**Build**
-```
-python traduccion/tools/compilar.py
-```
-This command:
-1. Applies `GhostGrey.bps` to FireRed USA, producing `traduccion/build/ghostgrey_en.gba` (the English hack).
-2. Pairs the FireRed USA texts with the Spanish FireRed ones and builds the inventory of all the hack's texts. The
-   dumps it creates (`data/inventory.json`, `data/vanilla_pairs*.json`) aren't committed because they contain the
-   games' text; they are regenerated automatically. Use `--rehacer` to force it.
-3. Writes the translation (`tools/build.py`) and creates `traduccion/build/GhostGrey_ES.bps`.
-4. Copies the patch to the root and applies it, producing `GhostGrey_ES.gba` (CRC32 `71EA3CDC`).
-
-The folder and file layout is described in the Spanish section above ("Estructura"). Translations live in
-`traduccion/data/trad/*.txt`: each text starts with `### ID` (its address in the English hack ROM); `\p` starts a new
-box, `\n` forces a line break, `{B01}` is the player's name and `{o}`, `{a}`, `{el}`… are replaced depending on the
-protagonist's gender (see `data/glosario.md`). Original FireRed texts that the hack doesn't change automatically get
-the official Spanish translation.

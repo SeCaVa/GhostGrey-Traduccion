@@ -6,6 +6,8 @@ Traducción no oficial al castellano (España) de **Pokémon Ghost Grey**, el ha
 creado por **Joey Zeed**. Kanto, año 2049: una catástrofe ha arrasado la región, todos los Pokémon salvajes son de
 tipo Fantasma y cada entrenador sobrevive como puede.
 
+La traducción está hecha sobre la **versión 04** del hack (la última publicada por su autor).
+
 > Este repositorio solo contiene el parche de la traducción.
 > **No incluye ninguna ROM.** Necesitas tu propia copia de Pokémon FireRed (USA).
 
@@ -20,7 +22,7 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `71EA3CDC`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `FF705098`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
@@ -40,7 +42,7 @@ lo incluye.
 - **Protagonista chico o chica**: el motor se ha modificado para que los diálogos concuerden en género con el
   personaje elegido ("cansado/cansada", "el Campeón/la Campeona"…).
 - **Clases de entrenador en femenino**: el hack usa la misma clase para chicos y chicas, así que en combate el
-  nombre se elige por el sprite del entrenador ("Jardinera Jaida", "Científica Takako", "Bruja Katja"…).
+  nombre se elige por el sprite del entrenador ("Jardinera Jaida", "Científica Takako", "Bruja Micah"…).
 - Pokédex con **altura en metros y peso en kilos**: el hack mostraba pies y libras y se ha cambiado el código.
 - **Teclado de nombres con tildes y ñ** en la página de símbolos (á é í ó ú ñ y sus mayúsculas), que ni el Rojo Fuego español tenía.
 - Mensajes de subida y bajada de estadísticas como en el juego español ("¡El Ataque de X subió mucho!").
@@ -135,6 +137,8 @@ Unofficial **Spanish (Spain) translation** of **Pokémon Ghost Grey**, the horro
 **Joey Zeed**. Kanto, year 2049: a catastrophe has devastated the region, every wild Pokémon is Ghost-type and every
 Trainer survives however they can.
 
+The translation is based on **version 04** of the hack (the latest one released by its author).
+
 > This repository only contains the translation patch.
 > **It does not include any ROM.** You need your own copy of Pokémon FireRed (USA).
 
@@ -147,7 +151,7 @@ Feel free to leave comments, suggestions or bug reports there.
    - CRC32: `DD88761C`
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `71EA3CDC`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `FF705098`**. Play it on any GBA emulator (mGBA recommended).
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
@@ -163,7 +167,7 @@ The patch applies **directly to FireRed USA**: you don't need to patch the Engli
 - **Boy or girl protagonist**: Spanish is gendered, so the engine was modified to make the dialogue agree with the
   chosen character ("cansado/cansada", "el Campeón/la Campeona"…).
 - **Female Trainer classes**: the hack uses one class for both men and women, so in battle the class name is chosen
-  from the Trainer's sprite ("Jardinera Jaida", "Científica Takako", "Bruja Katja"…).
+  from the Trainer's sprite ("Jardinera Jaida", "Científica Takako", "Bruja Micah"…).
 - Pokédex with **height in metres and weight in kilograms** instead of feet and pounds (the code was changed).
 - **Naming keyboard with Spanish letters** on the symbols page (á é í ó ú ñ and their capitals), which not even the Spanish FireRed had.
 - Stat change messages worded like in the Spanish games ("¡El Ataque de X subió mucho!").

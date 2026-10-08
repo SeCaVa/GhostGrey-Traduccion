@@ -22,7 +22,7 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `FF705098`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `D9679998`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
@@ -151,7 +151,7 @@ Feel free to leave comments, suggestions or bug reports there.
    - CRC32: `DD88761C`
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `FF705098`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `D9679998`**. Play it on any GBA emulator (mGBA recommended).
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

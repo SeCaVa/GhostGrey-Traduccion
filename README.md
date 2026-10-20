@@ -22,7 +22,7 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `4486BCE4`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `3B30647A`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
@@ -120,8 +120,8 @@ colaboradores.
 - Nombres y textos oficiales de Pokémon Rojo Fuego y Pokémon Edición Roja en español: © Nintendo / Creatures
   Inc. / GAME FREAK inc.
 
-☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava) o
-[GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo
+☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava),
+[Patreon](https://www.patreon.com/secava) o [GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo
 gratis. Y si te gusta el juego, apoya también a Joey Zeed, su autor.
 
 ### Aviso
@@ -151,7 +151,7 @@ Feel free to leave comments, suggestions or bug reports there.
    - CRC32: `DD88761C`
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `4486BCE4`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `3B30647A`**. Play it on any GBA emulator (mGBA recommended).
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
@@ -228,8 +228,8 @@ contributors.
 - Official names and texts from the Spanish Pokémon FireRed and Pokémon Red: © Nintendo / Creatures Inc. /
   GAME FREAK inc.
 
-☕ If you'd like to support my work as a translator, you can do so on [Ko-fi](https://ko-fi.com/secava) or
-[GitHub Sponsors](https://github.com/sponsors/SeCaVa). It's completely optional: the translation is and will always
+☕ If you'd like to support my work as a translator, you can do so on [Ko-fi](https://ko-fi.com/secava),
+[Patreon](https://www.patreon.com/secava) or [GitHub Sponsors](https://github.com/sponsors/SeCaVa). It's completely optional: the translation is and will always
 be free. And if you enjoy the game, please support Joey Zeed, its author, too.
 
 **Disclaimer**

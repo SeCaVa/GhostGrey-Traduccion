@@ -25,8 +25,19 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
 3. El resultado es una ROM de 32 MB con **CRC32 `794BE3ED`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
+Versión actual: **v0.6**. SHA-256 del parche: `e4059fa3981976528e5a4ee0b5c1ab42fdf53727b242f699d4ae8deae30eba9f`.
+
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.6
+
+- Nombres de entrenador oficiales del Rojo Fuego español donde coinciden, y clase «Entrenadora» para las chicas.
+- Plurales correctos de las bayas («Bayas Aranja») y descripciones de objeto oficiales.
+- Unos 100 textos que seguían en inglés, ya traducidos.
+- Orden natural en castellano: «¿Mote de X?», «Ficha de Entrenador de X» y «Pokémon Semilla» en la Pokédex.
+- «Nv» y «PS» como en el Rojo Fuego español, y Pokédex revisada (marco de la entrada e índice).
+- La Condesa de «Fauce Roja», menos palabras sueltas al final de los cuadros y siglas bien escritas.
 
 ---
 
@@ -152,6 +163,8 @@ Feel free to leave comments, suggestions or bug reports there.
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
 3. The result is a 32 MB ROM with **CRC32 `794BE3ED`**. Play it on any GBA emulator (mGBA recommended).
+
+Current version: **v0.6**. Patch SHA-256: `e4059fa3981976528e5a4ee0b5c1ab42fdf53727b242f699d4ae8deae30eba9f`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

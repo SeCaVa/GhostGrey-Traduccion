@@ -98,8 +98,8 @@ Entre otros, se han traducido:
   - Fondos de combate con texto (MUERE en BATALLA, Hay cosas peores…).
 
 ### Errores
-Si encuentras algo en inglés, un texto que se sale del cuadro o una errata, abre una *issue* con una captura y
-el lugar del juego.
+Si encuentras algo en inglés, un texto que se sale del cuadro o una errata, rellena el [formulario de fallos](https://github.com/SeCaVa/GhostGrey-Traduccion/issues/new?template=fallo.yml).
+Pide versión, emulador, zona y captura, y así puedo arreglarlo sin preguntarte nada más.
 
 ---
 
@@ -211,8 +211,8 @@ floor, the "memes" and photos the characters send you, the letters (mail paper) 
 
 **Bug reports**
 
-If you find something still in English, text overflowing its box or a typo, please open an *issue* with a screenshot
-and where it happens in the game.
+If you find something still in English, text overflowing its box or a typo, please fill in the [bug report form](https://github.com/SeCaVa/GhostGrey-Traduccion/issues/new?template=fallo.yml).
+It asks for the version, emulator, location and a screenshot.
 
 ### Credits
 

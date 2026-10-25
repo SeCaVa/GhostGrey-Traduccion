@@ -22,13 +22,17 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
    - CRC32: `DD88761C`
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `A7B575D8`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `9EB56DEA`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.8**. SHA-256 del parche: `af0c6c0586e89ef35695f5385ad5e46c101f588cdaad1d40ac1ee947f66c02ae`.
+Versión actual: **v0.9**. SHA-256 del parche: `109a6052063235edbfda3406a4580d06d081a23f206807478c488916219daa51`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.9
+
+- El cavernícola de la cueva dice «primer hijo» o «primera hija» según el protagonista que elijas.
 
 ### Novedades de la v0.8
 
@@ -180,9 +184,9 @@ Feel free to leave comments, suggestions or bug reports there.
    - CRC32: `DD88761C`
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `A7B575D8`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `9EB56DEA`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.8**. Patch SHA-256: `af0c6c0586e89ef35695f5385ad5e46c101f588cdaad1d40ac1ee947f66c02ae`.
+Current version: **v0.9**. Patch SHA-256: `109a6052063235edbfda3406a4580d06d081a23f206807478c488916219daa51`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

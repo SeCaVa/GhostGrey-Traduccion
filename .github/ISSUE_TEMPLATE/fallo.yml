@@ -44,6 +44,12 @@ body:
     validations:
       required: true
   - type: input
+    id: crc_base
+    attributes:
+      label: CRC32 de tu ROM antes de parchear (si lo sabes)
+      description: "Debe ser DD88761C: FireRed USA 1.0. Si al encender sale «Presents» bajo el logo de GAME FREAK, tienes la 1.1 y el parche no funciona bien. El parcheador web y Rom Patcher JS lo enseñan al cargar la ROM."
+      placeholder: "DD88761C"
+  - type: input
     id: crc
     attributes:
       label: CRC32 de tu ROM parcheada (si lo sabes)

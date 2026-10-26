@@ -24,13 +24,23 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `D9B7A63B`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `1475A9A7`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.91**. SHA-256 del parche: `e8ce89cabc4d3b4147258bc50ae12168a66c404eef66c14ee4c6df6cf61437bd`.
+Versión actual: **v0.92**. SHA-256 del parche: `ff234711ac8b8323e0691ca35240aa45d65ef30c7609e4a6419eae7665a79dd4`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.92
+
+- Tres diálogos que salían con basura (un entrenador y el cartel «Chof, chof… ¡Túnel Sureste!») vuelven a verse bien.
+- Devueltos a su sitio unos pocos bytes de código de combate, gráficos y sonido que la traducción había pisado sin querer.
+- Unos 50 textos que seguían en inglés, traducidos: mensajes de la Sala Unión con su versión oficial del Rojo Fuego,
+  la descripción de la Master Ball, el pirata de la cerveza, la hija de Koga, Tina y textos de revancha.
+- Cuatro nombres de lugar más cortos para que quepan en el cartel: Corazón Oscuro, Base Lunar Edén, Casa de Títeres
+  y Cabaña Costera.
+- El parche ocupa menos (11,5 MB).
 
 ### Novedades de la v0.91
 
@@ -192,9 +202,9 @@ Feel free to leave comments, suggestions or bug reports there.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `D9B7A63B`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `1475A9A7`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.91**. Patch SHA-256: `e8ce89cabc4d3b4147258bc50ae12168a66c404eef66c14ee4c6df6cf61437bd`.
+Current version: **v0.92**. Patch SHA-256: `ff234711ac8b8323e0691ca35240aa45d65ef30c7609e4a6419eae7665a79dd4`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

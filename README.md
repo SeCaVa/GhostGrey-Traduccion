@@ -24,13 +24,20 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `C8920ADE`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `9902D3AD`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.98**. SHA-256 del parche: `63854a71e7e8f95fa4bd8d5749869beb3e5da459c374bc340392da31799ffe1d`.
+Versión actual: **v0.99**. SHA-256 del parche: `bdd2083ed0a0bc3f093625dfadc9c86d05ba654e851b6b82003627f00ae8a4e8`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.99
+
+- Revisados 80 textos para usar tratamientos naturales según la escena y el género del protagonista: chaval/chavala, crío/cría e hijo/hija.
+- Ajustados los saltos de línea y el mensaje de las medallas de la puerta de la Liga para que los nombres largos se vean completos.
+- Revisada la descripción de Drifloon en la Pokédex.
+- Se conservan la música y los gráficos de objetos del autor, así como los créditos del juego y de la traducción.
 
 ### Novedades de la v0.98
 - Casino de Brock: «Caram. Furia» coincide con el nombre del objeto; conserva el precio de 75 fichas.
@@ -238,9 +245,9 @@ Feel free to leave comments, suggestions or bug reports there.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `C8920ADE`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `9902D3AD`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.98**. Patch SHA-256: `63854a71e7e8f95fa4bd8d5749869beb3e5da459c374bc340392da31799ffe1d`.
+Current version: **v0.99**. Patch SHA-256: `bdd2083ed0a0bc3f093625dfadc9c86d05ba654e851b6b82003627f00ae8a4e8`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

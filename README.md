@@ -24,13 +24,17 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `9902D3AD`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `E859B6CC`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.99**. SHA-256 del parche: `bdd2083ed0a0bc3f093625dfadc9c86d05ba654e851b6b82003627f00ae8a4e8`.
+Versión actual: **v0.991**. SHA-256 del parche: `c3b082c91708ff0eb8cb48b7b71c2c8777cc86b9b7f51163c1749952534bc044`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.991
+
+- Traducido el texto del viejo cañón («Un cañón viejo y robusto…»), que seguía en inglés.
 
 ### Novedades de la v0.99
 
@@ -245,9 +249,9 @@ Feel free to leave comments, suggestions or bug reports there.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `9902D3AD`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `E859B6CC`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.99**. Patch SHA-256: `bdd2083ed0a0bc3f093625dfadc9c86d05ba654e851b6b82003627f00ae8a4e8`.
+Current version: **v0.991**. Patch SHA-256: `c3b082c91708ff0eb8cb48b7b71c2c8777cc86b9b7f51163c1749952534bc044`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

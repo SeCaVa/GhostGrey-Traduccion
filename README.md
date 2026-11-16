@@ -6,7 +6,7 @@ Traducción no oficial al castellano (España) de **Pokémon Ghost Grey**, el ha
 creado por **Joey Zeed**. Kanto, año 2049: una catástrofe ha arrasado la región, todos los Pokémon salvajes son de
 tipo Fantasma y cada entrenador sobrevive como puede.
 
-La traducción está hecha sobre la **versión 04** del hack (la última publicada por su autor).
+La traducción está hecha sobre la **versión 1.05** del hack (la última publicada por su autor).
 
 > Este repositorio solo contiene el parche de la traducción.
 > **No incluye ninguna ROM.** Necesitas tu propia copia de Pokémon FireRed (USA).
@@ -24,13 +24,19 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `618C0D63`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `3C1D2C72`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.998**. SHA-256 del parche: `bfbfde4d53daa6fb24b440f6a5e064b805019fc562f22d944332c362d9e02f67`.
+Versión actual: **v0.999**. SHA-256 del parche: `648e0f53633cc389fdf31c4f50e1076de6c5226e428348717beca6608f796cc9`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.999
+
+- Actualizada al **parche v1.05 del autor**: incluye todo el contenido nuevo y las correcciones de esa versión del hack.
+- Traducidos los textos nuevos de la v1.05: cuadros, muñecas, llamadas, Sayfona, Alyce, Kris, Daisy, la sala de los bugtesters de los créditos y muchos más.
+- Actualizados los textos que el autor ha cambiado en la v1.05 (diploma de la Pokédex, clave del sistema, Maleficios…).
 
 ### Novedades de la v0.998
 
@@ -272,7 +278,7 @@ Unofficial **Spanish (Spain) translation** of **Pokémon Ghost Grey**, the horro
 **Joey Zeed**. Kanto, year 2049: a catastrophe has devastated the region, every wild Pokémon is Ghost-type and every
 Trainer survives however they can.
 
-The translation is based on **version 04** of the hack (the latest one released by its author).
+The translation is based on **version 1.05** of the hack (the latest one released by its author).
 
 > This repository only contains the translation patch.
 > **It does not include any ROM.** You need your own copy of Pokémon FireRed (USA).
@@ -288,9 +294,9 @@ Feel free to leave comments, suggestions or bug reports there.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `618C0D63`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `3C1D2C72`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.998**. Patch SHA-256: `bfbfde4d53daa6fb24b440f6a5e064b805019fc562f22d944332c362d9e02f67`.
+Current version: **v0.999**. Patch SHA-256: `648e0f53633cc389fdf31c4f50e1076de6c5226e428348717beca6608f796cc9`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

@@ -24,13 +24,18 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `F26E0128`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `C0FD1048`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v1.02**. SHA-256 del parche: `612b5d4581db304bd8fa9924c9c02db6b40ae807baef6f0ce3f646bfd3634596`.
+Versión actual: **v1.03**. SHA-256 del parche: `dd756523fb5d512f1fbe7acf4863883998d0321dbc965d3e88637add4a2b1400`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v1.03
+
+- Placas de Campeón con el ordinal bien escrito: «13.er Campeón» y «23.er Campeón» (antes «13.º» y «23.º»).
+- Corregido un dato interno del juego que la traducción había cambiado por error; vuelve a ser el original.
 
 ### Novedades de la v1.02
 
@@ -307,9 +312,9 @@ Feel free to leave comments, suggestions or bug reports there.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `F26E0128`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `C0FD1048`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v1.02**. Patch SHA-256: `612b5d4581db304bd8fa9924c9c02db6b40ae807baef6f0ce3f646bfd3634596`.
+Current version: **v1.03**. Patch SHA-256: `dd756523fb5d512f1fbe7acf4863883998d0321dbc965d3e88637add4a2b1400`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

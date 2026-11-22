@@ -24,13 +24,21 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `C0FD1048`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `29F1C39F`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v1.03**. SHA-256 del parche: `dd756523fb5d512f1fbe7acf4863883998d0321dbc965d3e88637add4a2b1400`.
+Versión actual: **v1.04**. SHA-256 del parche: `6e19e7081a1e68fd87d98da793373bfcf7af455893a8eeb825a65f294d22d1a3`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v1.04
+
+- Revisión de calidad de todo el guion: 79 frases mejoradas (sentido, naturalidad, chistes y erratas).
+- Más textos que cambian según juegues con chico o con chica, entre ellos los vocativos («majo/maja», «chaval/chavala»).
+- Corregido el nombre del Capitán Steve, que salía cortado («apitán Steve»).
+- «Base Lunar Edén» unificado en todo el juego.
+- Saltos de línea repartidos de nuevo en los textos revisados, sin cortes feos.
 
 ### Novedades de la v1.03
 
@@ -312,9 +320,9 @@ Feel free to leave comments, suggestions or bug reports there.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `C0FD1048`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `29F1C39F`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v1.03**. Patch SHA-256: `dd756523fb5d512f1fbe7acf4863883998d0321dbc965d3e88637add4a2b1400`.
+Current version: **v1.03**. Patch SHA-256: `6e19e7081a1e68fd87d98da793373bfcf7af455893a8eeb825a65f294d22d1a3`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 

@@ -24,13 +24,18 @@ Ahí puedes comentar, dar sugerencias o avisar de errores.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Aplica el parche [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `29F1C39F`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `80D11B32`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v1.04**. SHA-256 del parche: `6e19e7081a1e68fd87d98da793373bfcf7af455893a8eeb825a65f294d22d1a3`.
+Versión actual: **v1.05**. SHA-256 del parche: `1eeb557c9c46e0bfe9a9939875df9a305eec9d12e012c6d5f72d35a93b2a299e`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v1.05
+
+- Coherencia en todo el guion: «Entrenador», «Entrenadora» y «Gimnasio» siempre con mayúscula, como en los juegos oficiales en castellano (73 textos).
+- Saltos de línea repartidos de nuevo en esos textos, sin cortes feos; algunas frases retocadas para que encajen mejor, también en la Pokédex.
 
 ### Novedades de la v1.04
 
@@ -320,9 +325,9 @@ Feel free to leave comments, suggestions or bug reports there.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Apply the patch [`GhostGrey_ES.bps`](https://github.com/SeCaVa/GhostGrey-Traduccion/releases/latest) with
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `29F1C39F`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `80D11B32`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v1.03**. Patch SHA-256: `6e19e7081a1e68fd87d98da793373bfcf7af455893a8eeb825a65f294d22d1a3`.
+Current version: **v1.05**. Patch SHA-256: `1eeb557c9c46e0bfe9a9939875df9a305eec9d12e012c6d5f72d35a93b2a299e`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
